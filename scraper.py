@@ -1,390 +1,362 @@
-import os
+import asyncio
+import json
 import re
-import requests
-import pandas as pd
-
 from urllib.parse import urljoin, urlparse
-from playwright.sync_api import sync_playwright
+
+from bs4 import BeautifulSoup
+from playwright.async_api import async_playwright
 
 
-# ============================================================
-# CONFIGURATION
-# ============================================================
+BASE_URL = "https://college360.co.in"
 
-URL = "https://college360.co.in/university/Indian-Institute-of-Science-IISc-Bangalore-3680"
+# Start with the IISc page for testing.
+# Later, this can contain all university URLs.
+UNIVERSITY_URLS = [
+    "https://college360.co.in/university/Indian-Institute-of-Science-IISc-Bangalore-3680/gallery"
+]
 
-DATA_FOLDER = "data"
-IMAGE_FOLDER = os.path.join(DATA_FOLDER, "gallery")
-
-CSV_FILE = os.path.join(DATA_FOLDER, "gallery_data.csv")
-
-
-# ============================================================
-# CREATE FOLDERS
-# ============================================================
-
-os.makedirs(DATA_FOLDER, exist_ok=True)
-os.makedirs(IMAGE_FOLDER, exist_ok=True)
+OUTPUT_FILE = "gallery_data.json"
 
 
-# ============================================================
-# CLEAN FILE NAME
-# ============================================================
+# --------------------------------------------------
+# IMAGE EXTENSIONS
+# --------------------------------------------------
 
-def clean_filename(name):
+IMAGE_EXTENSIONS = (
+    ".jpg",
+    ".jpeg",
+    ".png",
+    ".webp",
+    ".gif",
+    ".avif"
+)
 
-    name = re.sub(r'[<>:"/\\|?*]', '_', name)
 
-    name = re.sub(r'\s+', '_', name)
+# --------------------------------------------------
+# CHECK IMAGE URL
+# --------------------------------------------------
 
-    return name.strip("_")
+def is_image_url(url):
+    if not url:
+        return False
+
+    url = url.lower().split("?")[0]
+
+    return url.endswith(IMAGE_EXTENSIONS)
 
 
-# ============================================================
-# DOWNLOAD IMAGE
-# ============================================================
+# --------------------------------------------------
+# CLEAN URL
+# --------------------------------------------------
 
-def download_image(image_url, folder, number):
+def clean_url(url, base_url):
+    if not url:
+        return None
+
+    url = url.strip()
+
+    if url.startswith("//"):
+        url = "https:" + url
+
+    elif url.startswith("/"):
+        url = urljoin(base_url, url)
+
+    elif not url.startswith("http"):
+        url = urljoin(base_url, url)
+
+    return url
+
+
+# --------------------------------------------------
+# EXTRACT UNIVERSITY NAME
+# --------------------------------------------------
+
+def extract_university_name(soup):
+
+    # Try H1 first
+    h1 = soup.find("h1")
+
+    if h1:
+        name = h1.get_text(" ", strip=True)
+
+        if name:
+            return name
+
+    # Try page title
+    if soup.title:
+        title = soup.title.get_text(" ", strip=True)
+
+        # Remove common suffix
+        title = re.sub(
+            r"\s*[-|]\s*(Info|Admission|Courses|Fees).*",
+            "",
+            title,
+            flags=re.IGNORECASE
+        )
+
+        return title.strip()
+
+    return "Unknown University"
+
+
+# --------------------------------------------------
+# EXTRACT IMAGES
+# --------------------------------------------------
+
+def extract_images(html, page_url):
+
+    soup = BeautifulSoup(html, "html.parser")
+
+    images = []
+
+    # ----------------------------------------------
+    # 1. Normal <img src="">
+    # ----------------------------------------------
+
+    for img in soup.find_all("img"):
+
+        attributes = [
+            img.get("src"),
+            img.get("data-src"),
+            img.get("data-lazy-src"),
+            img.get("data-original"),
+        ]
+
+        # srcset can contain multiple images
+        srcset = img.get("srcset")
+
+        if srcset:
+            for item in srcset.split(","):
+
+                item = item.strip()
+
+                if item:
+                    attributes.append(
+                        item.split(" ")[0]
+                    )
+
+        for image_url in attributes:
+
+            image_url = clean_url(
+                image_url,
+                page_url
+            )
+
+            if image_url and is_image_url(image_url):
+
+                images.append({
+                    "image_url": image_url,
+                    "alt": img.get("alt", "").strip()
+                })
+
+    # ----------------------------------------------
+    # 2. Background images
+    # ----------------------------------------------
+
+    for element in soup.find_all(
+        style=True
+    ):
+
+        style = element.get("style")
+
+        matches = re.findall(
+            r'url\(["\']?(.*?)["\']?\)',
+            style
+        )
+
+        for image_url in matches:
+
+            image_url = clean_url(
+                image_url,
+                page_url
+            )
+
+            if image_url and is_image_url(image_url):
+
+                images.append({
+                    "image_url": image_url,
+                    "alt": ""
+                })
+
+    # ----------------------------------------------
+    # Remove duplicate images
+    # ----------------------------------------------
+
+    unique_images = []
+
+    seen = set()
+
+    for image in images:
+
+        image_url = image["image_url"]
+
+        if image_url not in seen:
+
+            seen.add(image_url)
+
+            unique_images.append(image)
+
+    return unique_images
+
+
+# --------------------------------------------------
+# SCRAPE ONE UNIVERSITY
+# --------------------------------------------------
+
+async def scrape_university(page, url):
+
+    print("\n" + "=" * 60)
+    print("Scraping:")
+    print(url)
+    print("=" * 60)
 
     try:
 
-        headers = {
-            "User-Agent": (
-                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                "AppleWebKit/537.36 "
-                "(KHTML, like Gecko) "
-                "Chrome/150.0.0.0 Safari/537.36"
+        await page.goto(
+            url,
+            wait_until="domcontentloaded",
+            timeout=60000
+        )
+
+        # Wait for JavaScript content
+        await page.wait_for_timeout(5000)
+
+        # Scroll to trigger lazy-loaded images
+        for _ in range(5):
+
+            await page.mouse.wheel(
+                0,
+                1500
             )
+
+            await page.wait_for_timeout(
+                1000
+            )
+
+        # Get fully rendered HTML
+        html = await page.content()
+
+        soup = BeautifulSoup(
+            html,
+            "html.parser"
+        )
+
+        university_name = extract_university_name(
+            soup
+        )
+
+        images = extract_images(
+            html,
+            url
+        )
+
+        result = {
+            "university_name": university_name,
+            "university_url": url,
+            "gallery_count": len(images),
+            "gallery": images
         }
 
-        response = requests.get(
-            image_url,
-            headers=headers,
-            timeout=30
+        print(
+            f"University: {university_name}"
         )
 
-        if response.status_code != 200:
-
-            print(
-                f"❌ Image failed: "
-                f"{response.status_code}"
-            )
-
-            return ""
-
-        # ----------------------------------------------------
-        # Get extension
-        # ----------------------------------------------------
-
-        path = urlparse(image_url).path
-
-        extension = os.path.splitext(path)[1].lower()
-
-        if extension not in [
-            ".jpg",
-            ".jpeg",
-            ".png",
-            ".webp",
-            ".gif"
-        ]:
-
-            extension = ".jpg"
-
-        filename = (
-            f"image_{number:03d}"
-            f"{extension}"
+        print(
+            f"Images found: {len(images)}"
         )
 
-        filepath = os.path.join(
-            folder,
-            filename
-        )
-
-        with open(filepath, "wb") as file:
-
-            file.write(response.content)
-
-        print(f"✅ Downloaded: {filename}")
-
-        return filepath
+        return result
 
     except Exception as error:
 
         print(
-            f"❌ Download error: {error}"
+            f"ERROR: {error}"
         )
 
-        return ""
+        return {
+            "university_name": "Unknown",
+            "university_url": url,
+            "gallery_count": 0,
+            "gallery": [],
+            "error": str(error)
+        }
 
 
-# ============================================================
-# SCRAPE GALLERY
-# ============================================================
+# --------------------------------------------------
+# SAVE JSON
+# --------------------------------------------------
 
-def scrape_gallery():
+def save_json(data):
 
-    print("\n" + "=" * 60)
+    with open(
+        OUTPUT_FILE,
+        "w",
+        encoding="utf-8"
+    ) as file:
 
-    print("College360 Gallery Scraper")
+        json.dump(
+            data,
+            file,
+            indent=4,
+            ensure_ascii=False
+        )
 
+    print(
+        f"\nJSON saved successfully:"
+        f" {OUTPUT_FILE}"
+    )
+
+
+# --------------------------------------------------
+# MAIN
+# --------------------------------------------------
+
+async def main():
+
+    print("\n")
     print("=" * 60)
-
-    print("\nOpening website...")
+    print("       COLLEGE360 UNIVERSITY GALLERY SCRAPER")
+    print("=" * 60)
 
     results = []
 
-    with sync_playwright() as playwright:
+    async with async_playwright() as playwright:
 
-        browser = playwright.chromium.launch(
+        browser = await playwright.chromium.launch(
             headless=True
         )
 
-        page = browser.new_page(
+        page = await browser.new_page(
             viewport={
                 "width": 1920,
                 "height": 1080
             }
         )
 
-        try:
+        for url in UNIVERSITY_URLS:
 
-            page.goto(
-                URL,
-                wait_until="domcontentloaded",
-                timeout=60000
+            result = await scrape_university(
+                page,
+                url
             )
 
-            print("✅ Page loaded")
+            results.append(result)
 
-        except Exception as error:
+        await browser.close()
 
-            print(
-                f"⚠️ Page loading warning: {error}"
-            )
+    # Save everything
+    save_json(results)
 
-        # Give JavaScript time to load
-        page.wait_for_timeout(7000)
+    print("\nScraping completed!")
+    print(
+        f"Universities scraped: {len(results)}"
+    )
 
-        # ----------------------------------------------------
-        # University name
-        # ----------------------------------------------------
 
-        university_name = "Unknown University"
-
-        try:
-
-            university_name = page.locator(
-                "h1"
-            ).first.inner_text(
-                timeout=10000
-            ).strip()
-
-        except Exception:
-
-            print(
-                "⚠️ University name not found"
-            )
-
-        print(
-            f"\nUniversity: {university_name}"
-        )
-
-        # ----------------------------------------------------
-        # Find Gallery section
-        # ----------------------------------------------------
-
-        print("\nSearching for Gallery section...")
-
-        gallery_images = []
-
-        # Look for text containing Gallery
-        gallery_text = page.get_by_text(
-            re.compile(
-                r"gallery",
-                re.IGNORECASE
-            )
-        )
-
-        gallery_count = gallery_text.count()
-
-        print(
-            f"Gallery elements found: "
-            f"{gallery_count}"
-        )
-
-        # ----------------------------------------------------
-        # Method 1:
-        # Find images near Gallery section
-        # ----------------------------------------------------
-
-        if gallery_count > 0:
-
-            for i in range(gallery_count):
-
-                try:
-
-                    gallery_element = (
-                        gallery_text.nth(i)
-                    )
-
-                    # Find nearest parent containers
-                    parent = gallery_element.locator(
-                        "xpath=.."
-                    )
-
-                    # Search images inside parent
-                    images = parent.locator("img")
-
-                    count = images.count()
-
-                    for j in range(count):
-
-                        img = images.nth(j)
-
-                        src = (
-                            img.get_attribute("src")
-                        )
-
-                        if not src:
-
-                            src = (
-                                img.get_attribute(
-                                    "data-src"
-                                )
-                            )
-
-                        if not src:
-
-                            src = (
-                                img.get_attribute(
-                                    "data-lazy-src"
-                                )
-                            )
-
-                        if src:
-
-                            image_url = urljoin(
-                                URL,
-                                src
-                            )
-
-                            gallery_images.append(
-                                image_url
-                            )
-
-                except Exception:
-
-                    continue
-
-        # ----------------------------------------------------
-        # Remove duplicates
-        # ----------------------------------------------------
-
-        gallery_images = list(
-            dict.fromkeys(
-                gallery_images
-            )
-        )
-
-        print(
-            f"\nGallery images found: "
-            f"{len(gallery_images)}"
-        )
-
-        # ----------------------------------------------------
-        # Create university folder
-        # ----------------------------------------------------
-
-        folder_name = clean_filename(
-            university_name
-        )
-
-        university_folder = os.path.join(
-            IMAGE_FOLDER,
-            folder_name
-        )
-
-        os.makedirs(
-            university_folder,
-            exist_ok=True
-        )
-
-        # ----------------------------------------------------
-        # Download images
-        # ----------------------------------------------------
-
-        for index, image_url in enumerate(
-            gallery_images,
-            start=1
-        ):
-
-            local_file = download_image(
-                image_url,
-                university_folder,
-                index
-            )
-
-            results.append({
-
-                "university_name":
-                    university_name,
-
-                "university_url":
-                    URL,
-
-                "image_url":
-                    image_url,
-
-                "local_file":
-                    local_file
-
-            })
-
-        browser.close()
-
-    # ========================================================
-    # SAVE CSV
-    # ========================================================
-
-    if results:
-
-        df = pd.DataFrame(
-            results
-        )
-
-        df.to_csv(
-            CSV_FILE,
-            index=False,
-            encoding="utf-8-sig"
-        )
-
-        print("\n" + "=" * 60)
-
-        print("✅ SCRAPING COMPLETED")
-
-        print("=" * 60)
-
-        print(
-            f"Images: {len(results)}"
-        )
-
-        print(
-            f"CSV: {CSV_FILE}"
-        )
-
-        print(
-            f"Images: {IMAGE_FOLDER}"
-        )
-
-    else:
-
-        print("\n❌ No gallery images found.")
-
-
-# ============================================================
+# --------------------------------------------------
 # RUN
-# ============================================================
+# --------------------------------------------------
 
 if __name__ == "__main__":
 
-    scrape_gallery()
+    asyncio.run(main())
