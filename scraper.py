@@ -1,6 +1,7 @@
 import asyncio
+import base64
 import json
-import re
+import mimetypes
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
 
@@ -13,31 +14,11 @@ from playwright.async_api import async_playwright
 # CONFIGURATION
 # ============================================================
 
-BASE_DIR = Path("data")
+OUTPUT_DIR = Path("data")
 
-COLLEGES = [
-    {
-        "name": "IIITB_Bangalore",
-        "url": "https://college360.co.in/college/IIITB-Bangalore-International-Institute-of-Information-Technology-3993/gallery"
-    },
-    {
-        "name": "BMSCE_Bangalore",
-        "url": "https://college360.co.in/college/BMS-College-of-Engineering-BMSCE-Bangalore-3692/gallery"
-    },
-    {
-        "name": "AIT_Bangalore",
-        "url": "https://college360.co.in/college/Dr.-Ambedkar-Institute-of-Technology-AIT-Bangalore-3685/gallery"
-    },
-    {
-        "name": "Jain_University_Bangalore",
-        "url": "https://college360.co.in/college/Jain-University-JU-Bangalore-3691/gallery"
-    },
-    {
-        "name": "NHCE_Bangalore",
-        "url": "https://college360.co.in/college/New-Horizon-College-of-Engineering-%28NHCE%29-Bangalore-3690/gallery"
-    }
-]
+COMBINED_JSON_FILE = OUTPUT_DIR / "all_gallery_data.json"
 
+REQUEST_TIMEOUT = 30
 
 HEADERS = {
     "User-Agent": (
@@ -50,87 +31,167 @@ HEADERS = {
 
 
 # ============================================================
-# CREATE FOLDER
+# COLLEGE / UNIVERSITY URLS
 # ============================================================
 
-def create_college_folders(college_name):
+SOURCES = [
 
-    college_dir = BASE_DIR / college_name
-    images_dir = college_dir / "images"
+    {
+        "name": "IIITB_Bangalore",
+        "url": "https://college360.co.in/college/IIITB-Bangalore-International-Institute-of-Information-Technology-3993/gallery"
+    },
 
-    college_dir.mkdir(
-        parents=True,
-        exist_ok=True
-    )
+    {
+        "name": "BMSCE_Bangalore",
+        "url": "https://college360.co.in/college/BMS-College-of-Engineering-BMSCE-Bangalore-3692/gallery"
+    },
 
-    images_dir.mkdir(
-        parents=True,
-        exist_ok=True
-    )
+    {
+        "name": "AIT_Bangalore",
+        "url": "https://college360.co.in/college/Dr.-Ambedkar-Institute-of-Technology-AIT-Bangalore-3685/gallery"
+    },
 
-    return college_dir, images_dir
+    {
+        "name": "Jain_University_Bangalore",
+        "url": "https://college360.co.in/college/Jain-University-JU-Bangalore-3691/gallery"
+    },
+
+    {
+        "name": "NHCE_Bangalore",
+        "url": "https://college360.co.in/college/New-Horizon-College-of-Engineering-(NHCE)-Bangalore-3690/gallery"
+    },
+
+    {
+        "name": "MSRIT_Bangalore",
+        "url": "https://college360.co.in/college/MS-Ramaiah-Institute-of-Technology-RIT-Bangalore-3693/gallery"
+    },
+
+    {
+        "name": "PESU_Bangalore",
+        "url": "https://college360.co.in/college/PES-University-(PESU)-Bangalore-3686/gallery"
+    },
+
+    {
+        "name": "NMIT_Bangalore",
+        "url": "https://college360.co.in/college/Nitte-Meenakshi-Institute-of-Technology-NMIT-Bangalore-3687/gallery"
+    },
+
+    {
+        "name": "CMRIT_Bangalore",
+        "url": "https://college360.co.in/college/CMR-Institute-of-Technology-CMRIT-Bangalore-3684/gallery"
+    },
+
+    {
+        "name": "Alliance_University_Bangalore",
+        "url": "https://college360.co.in/university/Alliance-University-Bangalore-3678/gallery"
+    },
+
+    # --------------------------------------------------------
+    # You can add more URLs here.
+    #
+    # If the same URL is added twice, the program will
+    # automatically remove the duplicate.
+    # --------------------------------------------------------
+
+]
 
 
 # ============================================================
-# CLEAN IMAGE URL
+# REMOVE DUPLICATE COLLEGE URLS
 # ============================================================
 
-def clean_image_url(image_url, page_url):
+def remove_duplicate_urls(sources):
 
-    if not image_url:
+    unique_sources = []
+
+    seen_urls = set()
+
+    for source in sources:
+
+        url = source["url"].strip()
+
+        # Normalize URL
+        url = url.rstrip("/")
+
+        if url in seen_urls:
+
+            print(
+                f"Duplicate URL removed: "
+                f"{source['name']}"
+            )
+
+            continue
+
+        seen_urls.add(url)
+
+        unique_sources.append(
+            {
+                "name": source["name"],
+                "url": url
+            }
+        )
+
+    return unique_sources
+
+
+# ============================================================
+# CLEAN URL
+# ============================================================
+
+def clean_url(url, base_url):
+
+    if not url:
         return None
 
-    image_url = image_url.strip()
+    url = url.strip()
 
-    if image_url.startswith("//"):
-        image_url = "https:" + image_url
+    if url.startswith("//"):
+        return "https:" + url
 
-    elif image_url.startswith("/"):
-        image_url = urljoin(
-            page_url,
-            image_url
-        )
-
-    elif not image_url.startswith("http"):
-        image_url = urljoin(
-            page_url,
-            image_url
-        )
-
-    return image_url
+    return urljoin(
+        base_url,
+        url
+    )
 
 
 # ============================================================
 # CHECK IMAGE URL
 # ============================================================
 
-def is_valid_image_url(url):
+def is_image_url(url):
 
     if not url:
         return False
 
-    url_lower = url.lower()
+    url_without_query = (
+        url.lower()
+        .split("?")[0]
+    )
 
-    # Remove query parameters
-    url_lower = url_lower.split("?")[0]
-
-    extensions = (
+    image_extensions = (
         ".jpg",
         ".jpeg",
         ".png",
         ".webp",
         ".gif",
-        ".avif"
+        ".avif",
+        ".bmp",
+        ".svg"
     )
 
-    return url_lower.endswith(extensions)
+    return url_without_query.endswith(
+        image_extensions
+    )
 
 
 # ============================================================
 # EXTRACT IMAGE URLS
 # ============================================================
 
-def extract_image_urls(html, page_url):
+def extract_image_urls(
+    html,
+    page_url
+):
 
     soup = BeautifulSoup(
         html,
@@ -140,17 +201,26 @@ def extract_image_urls(html, page_url):
     image_urls = []
 
     # --------------------------------------------------------
-    # IMG TAGS
+    # <img> TAGS
     # --------------------------------------------------------
 
     for img in soup.find_all("img"):
 
         possible_urls = [
+
             img.get("src"),
+
             img.get("data-src"),
+
             img.get("data-lazy-src"),
+
             img.get("data-original"),
+
             img.get("data-image"),
+
+            img.get("data-url"),
+
+            img.get("data-fsrc")
         ]
 
         # ----------------------------------------------------
@@ -172,38 +242,47 @@ def extract_image_urls(html, page_url):
                     )
 
         # ----------------------------------------------------
-        # PROCESS URLs
+        # PROCESS IMAGE URLS
         # ----------------------------------------------------
 
         for image_url in possible_urls:
 
-            image_url = clean_image_url(
+            image_url = clean_url(
                 image_url,
                 page_url
             )
 
-            if image_url:
+            if not image_url:
+                continue
 
-                image_urls.append(
-                    image_url
-                )
+            if not is_image_url(image_url):
+                continue
+
+            image_urls.append(
+                image_url
+            )
 
     # --------------------------------------------------------
-    # LINK TAGS
+    # <a href=""> IMAGE LINKS
     # --------------------------------------------------------
 
     for link in soup.find_all("a"):
 
         href = link.get("href")
 
-        href = clean_image_url(
+        href = clean_url(
             href,
             page_url
         )
 
-        if href and is_valid_image_url(href):
+        if not href:
+            continue
 
-            image_urls.append(href)
+        if is_image_url(href):
+
+            image_urls.append(
+                href
+            )
 
     # --------------------------------------------------------
     # BACKGROUND IMAGES
@@ -215,6 +294,11 @@ def extract_image_urls(html, page_url):
 
         style = element.get("style")
 
+        if not style:
+            continue
+
+        import re
+
         matches = re.findall(
             r'url\(["\']?(.*?)["\']?\)',
             style
@@ -222,34 +306,45 @@ def extract_image_urls(html, page_url):
 
         for image_url in matches:
 
-            image_url = clean_image_url(
+            image_url = clean_url(
                 image_url,
                 page_url
             )
 
-            if image_url:
+            if not image_url:
+                continue
+
+            if is_image_url(image_url):
 
                 image_urls.append(
                     image_url
                 )
 
     # --------------------------------------------------------
-    # REMOVE DUPLICATES
+    # REMOVE DUPLICATE IMAGE URLS
     # --------------------------------------------------------
 
-    unique_urls = []
+    unique_image_urls = []
 
-    seen = set()
+    seen_images = set()
 
-    for url in image_urls:
+    for image_url in image_urls:
 
-        if url not in seen:
+        # Remove URL fragment
+        image_url = image_url.split("#")[0]
 
-            seen.add(url)
+        if image_url in seen_images:
+            continue
 
-            unique_urls.append(url)
+        seen_images.add(
+            image_url
+        )
 
-    return unique_urls
+        unique_image_urls.append(
+            image_url
+        )
+
+    return unique_image_urls
 
 
 # ============================================================
@@ -257,8 +352,7 @@ def extract_image_urls(html, page_url):
 # ============================================================
 
 def download_image(
-    image_url,
-    image_path
+    image_url
 ):
 
     try:
@@ -266,11 +360,15 @@ def download_image(
         response = requests.get(
             image_url,
             headers=HEADERS,
-            timeout=30,
-            stream=True
+            timeout=REQUEST_TIMEOUT
         )
 
         response.raise_for_status()
+
+        content = response.content
+
+        if not content:
+            return None
 
         content_type = response.headers.get(
             "Content-Type",
@@ -278,67 +376,107 @@ def download_image(
         ).lower()
 
         # ----------------------------------------------------
-        # Check whether response is actually an image
+        # Detect MIME type
         # ----------------------------------------------------
 
-        if "image" not in content_type:
+        if "image/" in content_type:
 
-            print(
-                f"    ⚠ Not an image: {image_url}"
+            mime_type = content_type.split(
+                ";"
+            )[0].strip()
+
+        else:
+
+            mime_type = (
+                mimetypes.guess_type(
+                    urlparse(
+                        image_url
+                    ).path
+                )[0]
+                or "image/jpeg"
             )
 
-            return False
+        # ----------------------------------------------------
+        # Convert image bytes to Base64
+        # ----------------------------------------------------
 
-        with open(
-            image_path,
-            "wb"
-        ) as file:
+        base64_data = base64.b64encode(
+            content
+        ).decode(
+            "utf-8"
+        )
 
-            for chunk in response.iter_content(
-                chunk_size=8192
-            ):
-
-                if chunk:
-
-                    file.write(chunk)
-
-        return True
+        return {
+            "mime_type": mime_type,
+            "base64_data": base64_data,
+            "size_bytes": len(content)
+        }
 
     except Exception as error:
 
         print(
-            f"    ✗ Download failed: {error}"
+            f"    Download failed: "
+            f"{error}"
         )
 
-        return False
+        return None
 
 
 # ============================================================
-# GET IMAGE EXTENSION
+# GET PAGE TITLE
 # ============================================================
 
-def get_image_extension(url):
+def get_page_title(soup):
 
-    parsed_url = urlparse(url)
+    if soup.title:
 
-    path = parsed_url.path.lower()
+        return soup.title.get_text(
+            " ",
+            strip=True
+        )
 
-    if path.endswith(".jpeg"):
-        return ".jpeg"
+    return ""
 
-    if path.endswith(".png"):
-        return ".png"
 
-    if path.endswith(".webp"):
-        return ".webp"
+# ============================================================
+# GET COLLEGE NAME
+# ============================================================
 
-    if path.endswith(".gif"):
-        return ".gif"
+def get_college_name(
+    soup,
+    default_name
+):
 
-    if path.endswith(".avif"):
-        return ".avif"
+    # --------------------------------------------------------
+    # Try H1
+    # --------------------------------------------------------
 
-    return ".jpg"
+    h1 = soup.find("h1")
+
+    if h1:
+
+        name = h1.get_text(
+            " ",
+            strip=True
+        )
+
+        if name:
+
+            return name
+
+    # --------------------------------------------------------
+    # Try page title
+    # --------------------------------------------------------
+
+    title = get_page_title(
+        soup
+    )
+
+    if title:
+
+        return title
+
+    return default_name
 
 
 # ============================================================
@@ -347,20 +485,19 @@ def get_image_extension(url):
 
 async def scrape_college(
     page,
-    college
+    source
 ):
 
-    college_name = college["name"]
-    college_url = college["url"]
+    college_name = source["name"]
+
+    college_url = source["url"]
 
     print("\n")
-    print("=" * 70)
-    print(f"SCRAPING: {college_name}")
-    print("=" * 70)
-
-    college_dir, images_dir = create_college_folders(
-        college_name
+    print("=" * 75)
+    print(
+        f"SCRAPING: {college_name}"
     )
+    print("=" * 75)
 
     try:
 
@@ -374,7 +511,9 @@ async def scrape_college(
             timeout=60000
         )
 
-        print("✓ Page loaded")
+        print(
+            "✓ Page loaded"
+        )
 
         # ----------------------------------------------------
         # Wait for JavaScript
@@ -386,7 +525,6 @@ async def scrape_college(
 
         # ----------------------------------------------------
         # Scroll page
-        # This helps lazy-loaded gallery images
         # ----------------------------------------------------
 
         for _ in range(10):
@@ -406,8 +544,22 @@ async def scrape_college(
 
         html = await page.content()
 
+        soup = BeautifulSoup(
+            html,
+            "html.parser"
+        )
+
         # ----------------------------------------------------
-        # Extract images
+        # College name
+        # ----------------------------------------------------
+
+        actual_name = get_college_name(
+            soup,
+            college_name
+        )
+
+        # ----------------------------------------------------
+        # Extract image URLs
         # ----------------------------------------------------
 
         image_urls = extract_image_urls(
@@ -416,72 +568,101 @@ async def scrape_college(
         )
 
         print(
-            f"✓ Found {len(image_urls)} image URLs"
+            f"✓ Unique images found: "
+            f"{len(image_urls)}"
         )
 
         # ----------------------------------------------------
-        # Download images
+        # Download images and convert Base64
         # ----------------------------------------------------
 
-        gallery_data = []
+        gallery = []
 
         for index, image_url in enumerate(
             image_urls,
             start=1
         ):
 
-            extension = get_image_extension(
+            print(
+                f"  Downloading image "
+                f"{index}/{len(image_urls)}"
+            )
+
+            image_data = download_image(
                 image_url
             )
 
-            filename = (
-                f"image_{index:03d}"
-                f"{extension}"
-            )
+            if image_data is None:
 
-            image_path = (
-                images_dir /
-                filename
+                print(
+                    "    ✗ Skipped"
+                )
+
+                continue
+
+            gallery.append(
+                {
+                    "image_number": index,
+
+                    "image_url": image_url,
+
+                    "mime_type": image_data[
+                        "mime_type"
+                    ],
+
+                    "size_bytes": image_data[
+                        "size_bytes"
+                    ],
+
+                    "image_base64": image_data[
+                        "base64_data"
+                    ]
+                }
             )
 
             print(
-                f"  [{index}/{len(image_urls)}] "
-                f"Downloading {filename}"
+                "    ✓ Saved in JSON"
             )
 
-            success = download_image(
-                image_url,
-                image_path
-            )
-
-            if success:
-
-                gallery_data.append(
-                    {
-                        "image_number": index,
-                        "image_url": image_url,
-                        "local_file": str(
-                            Path("images") /
-                            filename
-                        )
-                    }
-                )
-
         # ----------------------------------------------------
-        # JSON DATA
+        # Final JSON object
         # ----------------------------------------------------
 
-        json_data = {
-            "college_name": college_name,
+        result = {
+
+            "college_name": actual_name,
+
+            "source_name": college_name,
+
             "college_url": college_url,
-            "total_images": len(
-                gallery_data
+
+            "total_images_found": len(
+                image_urls
             ),
-            "gallery": gallery_data
+
+            "total_images_saved": len(
+                gallery
+            ),
+
+            "gallery": gallery
         }
 
         # ----------------------------------------------------
-        # SAVE JSON
+        # Create college directory
+        # ----------------------------------------------------
+
+        college_dir = (
+            OUTPUT_DIR /
+            college_name
+        )
+
+        college_dir.mkdir(
+            parents=True,
+            exist_ok=True
+        )
+
+        # ----------------------------------------------------
+        # Save individual JSON
         # ----------------------------------------------------
 
         json_file = (
@@ -496,7 +677,7 @@ async def scrape_college(
         ) as file:
 
             json.dump(
-                json_data,
+                result,
                 file,
                 indent=4,
                 ensure_ascii=False
@@ -507,27 +688,101 @@ async def scrape_college(
             f" {json_file}"
         )
 
-        print(
-            f"✓ Images saved:"
-            f" {images_dir}"
-        )
-
-        return json_data
+        return result
 
     except Exception as error:
 
         print(
-            f"\n✗ Error scraping "
-            f"{college_name}: {error}"
+            f"\n✗ Error:"
+            f" {error}"
         )
 
-        return {
+        # ----------------------------------------------------
+        # Save error JSON
+        # ----------------------------------------------------
+
+        error_result = {
+
             "college_name": college_name,
+
+            "source_name": college_name,
+
             "college_url": college_url,
-            "total_images": 0,
+
+            "total_images_found": 0,
+
+            "total_images_saved": 0,
+
             "gallery": [],
+
             "error": str(error)
         }
+
+        college_dir = (
+            OUTPUT_DIR /
+            college_name
+        )
+
+        college_dir.mkdir(
+            parents=True,
+            exist_ok=True
+        )
+
+        json_file = (
+            college_dir /
+            "gallery.json"
+        )
+
+        with open(
+            json_file,
+            "w",
+            encoding="utf-8"
+        ) as file:
+
+            json.dump(
+                error_result,
+                file,
+                indent=4,
+                ensure_ascii=False
+            )
+
+        return error_result
+
+
+# ============================================================
+# SAVE COMBINED JSON
+# ============================================================
+
+def save_combined_json(
+    results
+):
+
+    combined_data = {
+
+        "total_unique_colleges": len(
+            results
+        ),
+
+        "colleges": results
+    }
+
+    with open(
+        COMBINED_JSON_FILE,
+        "w",
+        encoding="utf-8"
+    ) as file:
+
+        json.dump(
+            combined_data,
+            file,
+            indent=4,
+            ensure_ascii=False
+        )
+
+    print(
+        f"\n✓ Combined JSON saved:"
+        f" {COMBINED_JSON_FILE}"
+    )
 
 
 # ============================================================
@@ -537,15 +792,45 @@ async def scrape_college(
 async def main():
 
     print("\n")
-    print("=" * 70)
-    print("       COLLEGE360 GALLERY SCRAPER")
-    print("=" * 70)
 
-    BASE_DIR.mkdir(
+    print("=" * 75)
+    print(
+        "       COLLEGE360 GALLERY SCRAPER"
+    )
+    print("=" * 75)
+
+    # --------------------------------------------------------
+    # Remove duplicate college URLs
+    # --------------------------------------------------------
+
+    unique_sources = remove_duplicate_urls(
+        SOURCES
+    )
+
+    print(
+        f"\nTotal URLs provided: "
+        f"{len(SOURCES)}"
+    )
+
+    print(
+        f"Unique URLs to scrape: "
+        f"{len(unique_sources)}"
+    )
+
+    # --------------------------------------------------------
+    # Create output directory
+    # --------------------------------------------------------
+
+    OUTPUT_DIR.mkdir(
+        parents=True,
         exist_ok=True
     )
 
     results = []
+
+    # --------------------------------------------------------
+    # Start Playwright
+    # --------------------------------------------------------
 
     async with async_playwright() as playwright:
 
@@ -558,18 +843,21 @@ async def main():
                 "width": 1920,
                 "height": 1080
             },
-            user_agent=HEADERS["User-Agent"]
+
+            user_agent=HEADERS[
+                "User-Agent"
+            ]
         )
 
         # ----------------------------------------------------
-        # SCRAPE EACH COLLEGE
+        # Scrape unique colleges
         # ----------------------------------------------------
 
-        for college in COLLEGES:
+        for source in unique_sources:
 
             result = await scrape_college(
                 page,
-                college
+                source
             )
 
             results.append(
@@ -578,21 +866,39 @@ async def main():
 
         await browser.close()
 
-    print("\n")
-    print("=" * 70)
-    print("SCRAPING COMPLETED")
-    print("=" * 70)
+    # --------------------------------------------------------
+    # Save combined JSON
+    # --------------------------------------------------------
 
-    print(
-        f"Total colleges: {len(results)}"
+    save_combined_json(
+        results
     )
+
+    # --------------------------------------------------------
+    # Summary
+    # --------------------------------------------------------
+
+    print("\n")
+
+    print("=" * 75)
+    print(
+        "SCRAPING COMPLETED"
+    )
+    print("=" * 75)
 
     for result in results:
 
         print(
-            f"{result['college_name']}: "
-            f"{result['total_images']} images"
+            f"{result['source_name']}: "
+            f"{result['total_images_saved']} "
+            f"images saved"
         )
+
+    print("\n")
+    print(
+        "✓ All image data is stored "
+        "inside JSON as Base64."
+    )
 
 
 # ============================================================
@@ -601,4 +907,6 @@ async def main():
 
 if __name__ == "__main__":
 
-    asyncio.run(main())
+    asyncio.run(
+        main()
+    )
