@@ -1,912 +1,1027 @@
-import asyncio
-import base64
 import json
-import mimetypes
+import re
+import time
 from pathlib import Path
-from urllib.parse import urljoin, urlparse
 
 import requests
-from bs4 import BeautifulSoup
-from playwright.async_api import async_playwright
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 
 # ============================================================
 # CONFIGURATION
 # ============================================================
 
-OUTPUT_DIR = Path("data")
+BASE_URL = "https://kys.udiseplus.gov.in/web-app/api"
 
-COMBINED_JSON_FILE = OUTPUT_DIR / "all_gallery_data.json"
+STATE_NAME = "Chandigarh"
 
-REQUEST_TIMEOUT = 30
+ACADEMIC_YEAR = "2025-26"
 
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 "
-        "(KHTML, like Gecko) "
-        "Chrome/151.0.0.0 Safari/537.36"
-    )
-}
+# Confirmed from UDISE+:
+# 12 = 2025-26
+YEAR_ID = 12
 
+SCHOOL_LIST_FILE = Path("data") / "chandigarh_school_list.json"
 
-# ============================================================
-# COLLEGE / UNIVERSITY URLS
-# ============================================================
+OUTPUT_DIR = (
+    Path("data")
+    / STATE_NAME
+    / ACADEMIC_YEAR
+)
 
-SOURCES = [
+ERROR_DIR = OUTPUT_DIR / "_errors"
 
-    {
-        "name": "IIITB_Bangalore",
-        "url": "https://college360.co.in/college/IIITB-Bangalore-International-Institute-of-Information-Technology-3993/gallery"
-    },
-
-    {
-        "name": "BMSCE_Bangalore",
-        "url": "https://college360.co.in/college/BMS-College-of-Engineering-BMSCE-Bangalore-3692/gallery"
-    },
-
-    {
-        "name": "AIT_Bangalore",
-        "url": "https://college360.co.in/college/Dr.-Ambedkar-Institute-of-Technology-AIT-Bangalore-3685/gallery"
-    },
-
-    {
-        "name": "Jain_University_Bangalore",
-        "url": "https://college360.co.in/college/Jain-University-JU-Bangalore-3691/gallery"
-    },
-
-    {
-        "name": "NHCE_Bangalore",
-        "url": "https://college360.co.in/college/New-Horizon-College-of-Engineering-(NHCE)-Bangalore-3690/gallery"
-    },
-
-    {
-        "name": "MSRIT_Bangalore",
-        "url": "https://college360.co.in/college/MS-Ramaiah-Institute-of-Technology-RIT-Bangalore-3693/gallery"
-    },
-
-    {
-        "name": "PESU_Bangalore",
-        "url": "https://college360.co.in/college/PES-University-(PESU)-Bangalore-3686/gallery"
-    },
-
-    {
-        "name": "NMIT_Bangalore",
-        "url": "https://college360.co.in/college/Nitte-Meenakshi-Institute-of-Technology-NMIT-Bangalore-3687/gallery"
-    },
-
-    {
-        "name": "CMRIT_Bangalore",
-        "url": "https://college360.co.in/college/CMR-Institute-of-Technology-CMRIT-Bangalore-3684/gallery"
-    },
-
-    {
-        "name": "Alliance_University_Bangalore",
-        "url": "https://college360.co.in/university/Alliance-University-Bangalore-3678/gallery"
-    },
-
-    # --------------------------------------------------------
-    # You can add more URLs here.
-    #
-    # If the same URL is added twice, the program will
-    # automatically remove the duplicate.
-    # --------------------------------------------------------
-
-]
+REQUEST_DELAY = 1.0
+TIMEOUT = 60
 
 
 # ============================================================
-# REMOVE DUPLICATE COLLEGE URLS
+# SESSION
 # ============================================================
 
-def remove_duplicate_urls(sources):
+def create_session():
 
-    unique_sources = []
+    session = requests.Session()
 
-    seen_urls = set()
-
-    for source in sources:
-
-        url = source["url"].strip()
-
-        # Normalize URL
-        url = url.rstrip("/")
-
-        if url in seen_urls:
-
-            print(
-                f"Duplicate URL removed: "
-                f"{source['name']}"
-            )
-
-            continue
-
-        seen_urls.add(url)
-
-        unique_sources.append(
-            {
-                "name": source["name"],
-                "url": url
-            }
-        )
-
-    return unique_sources
-
-
-# ============================================================
-# CLEAN URL
-# ============================================================
-
-def clean_url(url, base_url):
-
-    if not url:
-        return None
-
-    url = url.strip()
-
-    if url.startswith("//"):
-        return "https:" + url
-
-    return urljoin(
-        base_url,
-        url
+    retry = Retry(
+        total=5,
+        connect=5,
+        read=5,
+        backoff_factor=1.5,
+        status_forcelist=[
+            429,
+            500,
+            502,
+            503,
+            504
+        ],
+        allowed_methods=["GET"]
     )
 
-
-# ============================================================
-# CHECK IMAGE URL
-# ============================================================
-
-def is_image_url(url):
-
-    if not url:
-        return False
-
-    url_without_query = (
-        url.lower()
-        .split("?")[0]
+    adapter = HTTPAdapter(
+        max_retries=retry
     )
 
-    image_extensions = (
-        ".jpg",
-        ".jpeg",
-        ".png",
-        ".webp",
-        ".gif",
-        ".avif",
-        ".bmp",
-        ".svg"
+    session.mount(
+        "https://",
+        adapter
     )
 
-    return url_without_query.endswith(
-        image_extensions
+    session.mount(
+        "http://",
+        adapter
     )
 
-
-# ============================================================
-# EXTRACT IMAGE URLS
-# ============================================================
-
-def extract_image_urls(
-    html,
-    page_url
-):
-
-    soup = BeautifulSoup(
-        html,
-        "html.parser"
-    )
-
-    image_urls = []
-
-    # --------------------------------------------------------
-    # <img> TAGS
-    # --------------------------------------------------------
-
-    for img in soup.find_all("img"):
-
-        possible_urls = [
-
-            img.get("src"),
-
-            img.get("data-src"),
-
-            img.get("data-lazy-src"),
-
-            img.get("data-original"),
-
-            img.get("data-image"),
-
-            img.get("data-url"),
-
-            img.get("data-fsrc")
-        ]
-
-        # ----------------------------------------------------
-        # SRCSET
-        # ----------------------------------------------------
-
-        srcset = img.get("srcset")
-
-        if srcset:
-
-            for item in srcset.split(","):
-
-                item = item.strip()
-
-                if item:
-
-                    possible_urls.append(
-                        item.split()[0]
-                    )
-
-        # ----------------------------------------------------
-        # PROCESS IMAGE URLS
-        # ----------------------------------------------------
-
-        for image_url in possible_urls:
-
-            image_url = clean_url(
-                image_url,
-                page_url
-            )
-
-            if not image_url:
-                continue
-
-            if not is_image_url(image_url):
-                continue
-
-            image_urls.append(
-                image_url
-            )
-
-    # --------------------------------------------------------
-    # <a href=""> IMAGE LINKS
-    # --------------------------------------------------------
-
-    for link in soup.find_all("a"):
-
-        href = link.get("href")
-
-        href = clean_url(
-            href,
-            page_url
-        )
-
-        if not href:
-            continue
-
-        if is_image_url(href):
-
-            image_urls.append(
-                href
-            )
-
-    # --------------------------------------------------------
-    # BACKGROUND IMAGES
-    # --------------------------------------------------------
-
-    for element in soup.find_all(
-        style=True
-    ):
-
-        style = element.get("style")
-
-        if not style:
-            continue
-
-        import re
-
-        matches = re.findall(
-            r'url\(["\']?(.*?)["\']?\)',
-            style
-        )
-
-        for image_url in matches:
-
-            image_url = clean_url(
-                image_url,
-                page_url
-            )
-
-            if not image_url:
-                continue
-
-            if is_image_url(image_url):
-
-                image_urls.append(
-                    image_url
-                )
-
-    # --------------------------------------------------------
-    # REMOVE DUPLICATE IMAGE URLS
-    # --------------------------------------------------------
-
-    unique_image_urls = []
-
-    seen_images = set()
-
-    for image_url in image_urls:
-
-        # Remove URL fragment
-        image_url = image_url.split("#")[0]
-
-        if image_url in seen_images:
-            continue
-
-        seen_images.add(
-            image_url
-        )
-
-        unique_image_urls.append(
-            image_url
-        )
-
-    return unique_image_urls
-
-
-# ============================================================
-# DOWNLOAD IMAGE
-# ============================================================
-
-def download_image(
-    image_url
-):
-
-    try:
-
-        response = requests.get(
-            image_url,
-            headers=HEADERS,
-            timeout=REQUEST_TIMEOUT
-        )
-
-        response.raise_for_status()
-
-        content = response.content
-
-        if not content:
-            return None
-
-        content_type = response.headers.get(
-            "Content-Type",
-            ""
-        ).lower()
-
-        # ----------------------------------------------------
-        # Detect MIME type
-        # ----------------------------------------------------
-
-        if "image/" in content_type:
-
-            mime_type = content_type.split(
-                ";"
-            )[0].strip()
-
-        else:
-
-            mime_type = (
-                mimetypes.guess_type(
-                    urlparse(
-                        image_url
-                    ).path
-                )[0]
-                or "image/jpeg"
-            )
-
-        # ----------------------------------------------------
-        # Convert image bytes to Base64
-        # ----------------------------------------------------
-
-        base64_data = base64.b64encode(
-            content
-        ).decode(
-            "utf-8"
-        )
-
-        return {
-            "mime_type": mime_type,
-            "base64_data": base64_data,
-            "size_bytes": len(content)
-        }
-
-    except Exception as error:
-
-        print(
-            f"    Download failed: "
-            f"{error}"
-        )
-
-        return None
-
-
-# ============================================================
-# GET PAGE TITLE
-# ============================================================
-
-def get_page_title(soup):
-
-    if soup.title:
-
-        return soup.title.get_text(
-            " ",
-            strip=True
-        )
-
-    return ""
-
-
-# ============================================================
-# GET COLLEGE NAME
-# ============================================================
-
-def get_college_name(
-    soup,
-    default_name
-):
-
-    # --------------------------------------------------------
-    # Try H1
-    # --------------------------------------------------------
-
-    h1 = soup.find("h1")
-
-    if h1:
-
-        name = h1.get_text(
-            " ",
-            strip=True
-        )
-
-        if name:
-
-            return name
-
-    # --------------------------------------------------------
-    # Try page title
-    # --------------------------------------------------------
-
-    title = get_page_title(
-        soup
-    )
-
-    if title:
-
-        return title
-
-    return default_name
-
-
-# ============================================================
-# SCRAPE ONE COLLEGE
-# ============================================================
-
-async def scrape_college(
-    page,
-    source
-):
-
-    college_name = source["name"]
-
-    college_url = source["url"]
-
-    print("\n")
-    print("=" * 75)
-    print(
-        f"SCRAPING: {college_name}"
-    )
-    print("=" * 75)
-
-    try:
-
-        # ----------------------------------------------------
-        # OPEN PAGE
-        # ----------------------------------------------------
-
-        await page.goto(
-            college_url,
-            wait_until="domcontentloaded",
-            timeout=60000
-        )
-
-        print(
-            "✓ Page loaded"
-        )
-
-        # ----------------------------------------------------
-        # Wait for JavaScript
-        # ----------------------------------------------------
-
-        await page.wait_for_timeout(
-            5000
-        )
-
-        # ----------------------------------------------------
-        # Scroll page
-        # ----------------------------------------------------
-
-        for _ in range(10):
-
-            await page.mouse.wheel(
-                0,
-                1500
-            )
-
-            await page.wait_for_timeout(
-                1000
-            )
-
-        # ----------------------------------------------------
-        # Get rendered HTML
-        # ----------------------------------------------------
-
-        html = await page.content()
-
-        soup = BeautifulSoup(
-            html,
-            "html.parser"
-        )
-
-        # ----------------------------------------------------
-        # College name
-        # ----------------------------------------------------
-
-        actual_name = get_college_name(
-            soup,
-            college_name
-        )
-
-        # ----------------------------------------------------
-        # Extract image URLs
-        # ----------------------------------------------------
-
-        image_urls = extract_image_urls(
-            html,
-            college_url
-        )
-
-        print(
-            f"✓ Unique images found: "
-            f"{len(image_urls)}"
-        )
-
-        # ----------------------------------------------------
-        # Download images and convert Base64
-        # ----------------------------------------------------
-
-        gallery = []
-
-        for index, image_url in enumerate(
-            image_urls,
-            start=1
-        ):
-
-            print(
-                f"  Downloading image "
-                f"{index}/{len(image_urls)}"
-            )
-
-            image_data = download_image(
-                image_url
-            )
-
-            if image_data is None:
-
-                print(
-                    "    ✗ Skipped"
-                )
-
-                continue
-
-            gallery.append(
-                {
-                    "image_number": index,
-
-                    "image_url": image_url,
-
-                    "mime_type": image_data[
-                        "mime_type"
-                    ],
-
-                    "size_bytes": image_data[
-                        "size_bytes"
-                    ],
-
-                    "image_base64": image_data[
-                        "base64_data"
-                    ]
-                }
-            )
-
-            print(
-                "    ✓ Saved in JSON"
-            )
-
-        # ----------------------------------------------------
-        # Final JSON object
-        # ----------------------------------------------------
-
-        result = {
-
-            "college_name": actual_name,
-
-            "source_name": college_name,
-
-            "college_url": college_url,
-
-            "total_images_found": len(
-                image_urls
-            ),
-
-            "total_images_saved": len(
-                gallery
-            ),
-
-            "gallery": gallery
-        }
-
-        # ----------------------------------------------------
-        # Create college directory
-        # ----------------------------------------------------
-
-        college_dir = (
-            OUTPUT_DIR /
-            college_name
-        )
-
-        college_dir.mkdir(
-            parents=True,
-            exist_ok=True
-        )
-
-        # ----------------------------------------------------
-        # Save individual JSON
-        # ----------------------------------------------------
-
-        json_file = (
-            college_dir /
-            "gallery.json"
-        )
-
-        with open(
-            json_file,
-            "w",
-            encoding="utf-8"
-        ) as file:
-
-            json.dump(
-                result,
-                file,
-                indent=4,
-                ensure_ascii=False
-            )
-
-        print(
-            f"\n✓ JSON saved:"
-            f" {json_file}"
-        )
-
-        return result
-
-    except Exception as error:
-
-        print(
-            f"\n✗ Error:"
-            f" {error}"
-        )
-
-        # ----------------------------------------------------
-        # Save error JSON
-        # ----------------------------------------------------
-
-        error_result = {
-
-            "college_name": college_name,
-
-            "source_name": college_name,
-
-            "college_url": college_url,
-
-            "total_images_found": 0,
-
-            "total_images_saved": 0,
-
-            "gallery": [],
-
-            "error": str(error)
-        }
-
-        college_dir = (
-            OUTPUT_DIR /
-            college_name
-        )
-
-        college_dir.mkdir(
-            parents=True,
-            exist_ok=True
-        )
-
-        json_file = (
-            college_dir /
-            "gallery.json"
-        )
-
-        with open(
-            json_file,
-            "w",
-            encoding="utf-8"
-        ) as file:
-
-            json.dump(
-                error_result,
-                file,
-                indent=4,
-                ensure_ascii=False
-            )
-
-        return error_result
-
-
-# ============================================================
-# SAVE COMBINED JSON
-# ============================================================
-
-def save_combined_json(
-    results
-):
-
-    combined_data = {
-
-        "total_unique_colleges": len(
-            results
+    session.headers.update({
+
+        "User-Agent": (
+            "Mozilla/5.0 "
+            "(Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 "
+            "(KHTML, like Gecko) "
+            "Chrome/151.0.0.0 "
+            "Safari/537.36"
         ),
 
-        "colleges": results
-    }
+        "Accept":
+            "application/json, text/plain, */*",
+
+        "Referer":
+            "https://kys.udiseplus.gov.in/",
+
+        "Origin":
+            "https://kys.udiseplus.gov.in",
+
+        "X-APP-SIGNATURE":
+            "9f2c7a4b8e1d6c3f5a9b0e2d4f6a7c8b"
+    })
+
+    return session
+
+
+session = create_session()
+
+
+# ============================================================
+# HELPERS
+# ============================================================
+
+def safe_filename(name):
+
+    name = str(name).strip()
+
+    name = re.sub(
+        r'[<>:"/\\|?*]',
+        "",
+        name
+    )
+
+    name = re.sub(
+        r"\s+",
+        "_",
+        name
+    )
+
+    name = re.sub(
+        r"_+",
+        "_",
+        name
+    )
+
+    return name[:160]
+
+
+def save_json(path, data):
+
+    path.parent.mkdir(
+        parents=True,
+        exist_ok=True
+    )
 
     with open(
-        COMBINED_JSON_FILE,
+        path,
         "w",
         encoding="utf-8"
     ) as file:
 
         json.dump(
-            combined_data,
+            data,
             file,
             indent=4,
             ensure_ascii=False
         )
 
-    print(
-        f"\n✓ Combined JSON saved:"
-        f" {COMBINED_JSON_FILE}"
+
+# ============================================================
+# API REQUEST
+# ============================================================
+
+def get_json(endpoint, params=None):
+
+    url = f"{BASE_URL}/{endpoint}"
+
+    try:
+
+        response = session.get(
+            url,
+            params=params,
+            timeout=TIMEOUT
+        )
+
+        response.raise_for_status()
+
+        data = response.json()
+
+        return {
+            "success": True,
+            "url": response.url,
+            "response": data
+        }
+
+    except requests.exceptions.Timeout:
+
+        return {
+            "success": False,
+            "url": url,
+            "error": "Request timed out"
+        }
+
+    except requests.RequestException as error:
+
+        return {
+            "success": False,
+            "url": url,
+            "error": str(error)
+        }
+
+    except ValueError:
+
+        return {
+            "success": False,
+            "url": url,
+            "error": "Invalid JSON response"
+        }
+
+
+# ============================================================
+# EXTRACT API DATA
+# ============================================================
+
+def extract_api_data(result):
+
+    if not result:
+
+        return None
+
+    if not result.get("success"):
+
+        return None
+
+    response = result.get(
+        "response"
     )
+
+    if not isinstance(
+        response,
+        dict
+    ):
+
+        return response
+
+    if response.get("status") is True:
+
+        return response.get(
+            "data"
+        )
+
+    return None
+
+
+# ============================================================
+# FIND SCHOOL LIST RECURSIVELY
+# ============================================================
+
+def find_school_list(obj):
+
+    if isinstance(obj, list):
+
+        if len(obj) == 0:
+
+            return []
+
+        # Check if this looks like school records
+        first = obj[0]
+
+        if isinstance(first, dict):
+
+            keys = set(first.keys())
+
+            school_keys = {
+                "udiseschCode",
+                "udiseSchCode",
+                "udiseCode",
+                "schoolName",
+                "schoolId"
+            }
+
+            if keys.intersection(
+                school_keys
+            ):
+
+                return obj
+
+        for item in obj:
+
+            result = find_school_list(
+                item
+            )
+
+            if result:
+
+                return result
+
+    elif isinstance(obj, dict):
+
+        # Most likely keys first
+        for key in [
+            "content",
+            "schools",
+            "schoolList",
+            "results",
+            "data"
+        ]:
+
+            if key in obj:
+
+                result = find_school_list(
+                    obj[key]
+                )
+
+                if result:
+
+                    return result
+
+        # Search remaining values
+        for value in obj.values():
+
+            result = find_school_list(
+                value
+            )
+
+            if result:
+
+                return result
+
+    return []
+
+
+# ============================================================
+# LOAD SCHOOL LIST FROM BROWSER RESPONSE
+# ============================================================
+
+def load_school_list():
+
+    print()
+    print("=" * 65)
+    print("LOADING CHANDIGARH SCHOOL LIST")
+    print("=" * 65)
+
+    if not SCHOOL_LIST_FILE.exists():
+
+        print()
+        print(
+            "❌ School list file not found:"
+        )
+
+        print(
+            SCHOOL_LIST_FILE
+        )
+
+        print()
+        print(
+            "Save the UDISE+ by-region "
+            "Response as:"
+        )
+
+        print(
+            "data/chandigarh_school_list.json"
+        )
+
+        return []
+
+    try:
+
+        with open(
+            SCHOOL_LIST_FILE,
+            "r",
+            encoding="utf-8"
+        ) as file:
+
+            raw_data = json.load(
+                file
+            )
+
+    except json.JSONDecodeError as error:
+
+        print()
+        print(
+            "❌ chandigarh_school_list.json "
+            "is not valid JSON."
+        )
+
+        print(
+            error
+        )
+
+        return []
+
+    schools = find_school_list(
+        raw_data
+    )
+
+    print()
+    print(
+        f"Schools found: {len(schools)}"
+    )
+
+    if schools:
+
+        save_json(
+            OUTPUT_DIR /
+            "_all_schools.json",
+            schools
+        )
+
+    return schools
+
+
+# ============================================================
+# GET FIELD
+# ============================================================
+
+def get_value(data, *keys):
+
+    if not isinstance(
+        data,
+        dict
+    ):
+
+        return None
+
+    for key in keys:
+
+        value = data.get(
+            key
+        )
+
+        if value not in [
+            None,
+            ""
+        ]:
+
+            return value
+
+    return None
+
+
+# ============================================================
+# SCHOOL PROFILE
+# ============================================================
+
+def fetch_profile(udise_code):
+
+    return get_json(
+
+        "school/profile",
+
+        {
+            "udiseSchCode":
+                udise_code,
+
+            "yearId":
+                YEAR_ID
+        }
+    )
+
+
+# ============================================================
+# FACILITIES / INFRASTRUCTURE
+# ============================================================
+
+def fetch_facilities(udise_code):
+
+    return get_json(
+
+        "school/facility",
+
+        {
+            "udiseSchCode":
+                udise_code,
+
+            "yearId":
+                YEAR_ID
+        }
+    )
+
+
+# ============================================================
+# REPORT CARD
+# ============================================================
+
+def fetch_report_card(udise_code):
+
+    return get_json(
+
+        "school/report-card",
+
+        {
+            "udiseSchCode":
+                udise_code,
+
+            "yearId":
+                YEAR_ID
+        }
+    )
+
+
+# ============================================================
+# STUDENT + TEACHER
+# ============================================================
+
+def fetch_student_teacher(
+    udise_code
+):
+
+    return get_json(
+
+        "school-statistics/enrolment-teacher",
+
+        {
+            "udiseSchCode":
+                udise_code,
+
+            "yearId":
+                YEAR_ID
+        }
+    )
+
+
+# ============================================================
+# SCHOOL HISTORY
+# ============================================================
+
+def fetch_history(school_id):
+
+    if not school_id:
+
+        return None
+
+    return get_json(
+
+        "school/track",
+
+        {
+            "schoolId":
+                school_id
+        }
+    )
+
+
+# ============================================================
+# SCRAPE ONE SCHOOL
+# ============================================================
+
+def scrape_school(
+    school,
+    index,
+    total
+):
+
+    udise_code = get_value(
+
+        school,
+
+        "udiseschCode",
+        "udiseSchCode",
+        "udiseCode"
+
+    )
+
+    school_name = get_value(
+
+        school,
+
+        "schoolName",
+        "schName",
+        "name"
+
+    )
+
+    school_id = get_value(
+
+        school,
+
+        "schoolId",
+        "schoolid"
+
+    )
+
+
+    if not udise_code:
+
+        print(
+            f"[{index}/{total}] "
+            "UDISE code missing - skipped."
+        )
+
+        return False
+
+
+    if not school_name:
+
+        school_name = (
+            f"SCHOOL_{udise_code}"
+        )
+
+
+    print()
+    print("-" * 65)
+
+    print(
+        f"[{index}/{total}] "
+        f"{school_name}"
+    )
+
+    print(
+        f"UDISE: {udise_code}"
+    )
+
+
+    # ========================================================
+    # PROFILE
+    # ========================================================
+
+    print(
+        "   → Profile"
+    )
+
+    profile_result = fetch_profile(
+        udise_code
+    )
+
+    profile = extract_api_data(
+        profile_result
+    )
+
+    time.sleep(
+        REQUEST_DELAY
+    )
+
+
+    # ========================================================
+    # STUDENTS + TEACHERS
+    # ========================================================
+
+    print(
+        "   → Students / Teachers"
+    )
+
+    student_teacher_result = (
+        fetch_student_teacher(
+            udise_code
+        )
+    )
+
+    student_teacher = (
+        extract_api_data(
+            student_teacher_result
+        )
+    )
+
+    time.sleep(
+        REQUEST_DELAY
+    )
+
+
+    # ========================================================
+    # FACILITIES
+    # ========================================================
+
+    print(
+        "   → Infrastructure / Facilities"
+    )
+
+    facilities_result = (
+        fetch_facilities(
+            udise_code
+        )
+    )
+
+    facilities = (
+        extract_api_data(
+            facilities_result
+        )
+    )
+
+    time.sleep(
+        REQUEST_DELAY
+    )
+
+
+    # ========================================================
+    # REPORT CARD
+    # ========================================================
+
+    print(
+        "   → Report Card"
+    )
+
+    report_result = (
+        fetch_report_card(
+            udise_code
+        )
+    )
+
+    report_card = (
+        extract_api_data(
+            report_result
+        )
+    )
+
+    time.sleep(
+        REQUEST_DELAY
+    )
+
+
+    # ========================================================
+    # HISTORY
+    # ========================================================
+
+    history = None
+
+    if school_id:
+
+        print(
+            "   → School History"
+        )
+
+        history_result = (
+            fetch_history(
+                school_id
+            )
+        )
+
+        history = (
+            extract_api_data(
+                history_result
+            )
+        )
+
+        time.sleep(
+            REQUEST_DELAY
+        )
+
+
+    # ========================================================
+    # FINAL JSON
+    # ========================================================
+
+    final_data = {
+
+        "metadata": {
+
+            "source":
+                "UDISE+ Know Your School",
+
+            "academic_year":
+                ACADEMIC_YEAR,
+
+            "year_id":
+                YEAR_ID,
+
+            "state":
+                STATE_NAME,
+
+            "school_name":
+                school_name,
+
+            "udise_code":
+                str(udise_code),
+
+            "school_id":
+                school_id
+        },
+
+
+        "school_summary":
+            school,
+
+
+        "school_profile":
+            profile,
+
+
+        "student_teacher_statistics":
+            student_teacher,
+
+
+        "infrastructure_facilities":
+            facilities,
+
+
+        "report_card":
+            report_card,
+
+
+        "school_history":
+            history
+    }
+
+
+    filename = (
+
+        f"{safe_filename(school_name)}"
+        f"_{udise_code}.json"
+
+    )
+
+
+    save_json(
+
+        OUTPUT_DIR /
+        filename,
+
+        final_data
+
+    )
+
+
+    print(
+        f"   ✓ Saved: {filename}"
+    )
+
+
+    return True
 
 
 # ============================================================
 # MAIN
 # ============================================================
 
-async def main():
-
-    print("\n")
-
-    print("=" * 75)
-    print(
-        "       COLLEGE360 GALLERY SCRAPER"
-    )
-    print("=" * 75)
-
-    # --------------------------------------------------------
-    # Remove duplicate college URLs
-    # --------------------------------------------------------
-
-    unique_sources = remove_duplicate_urls(
-        SOURCES
-    )
-
-    print(
-        f"\nTotal URLs provided: "
-        f"{len(SOURCES)}"
-    )
-
-    print(
-        f"Unique URLs to scrape: "
-        f"{len(unique_sources)}"
-    )
-
-    # --------------------------------------------------------
-    # Create output directory
-    # --------------------------------------------------------
+def main():
 
     OUTPUT_DIR.mkdir(
         parents=True,
         exist_ok=True
     )
 
-    results = []
-
-    # --------------------------------------------------------
-    # Start Playwright
-    # --------------------------------------------------------
-
-    async with async_playwright() as playwright:
-
-        browser = await playwright.chromium.launch(
-            headless=True
-        )
-
-        page = await browser.new_page(
-            viewport={
-                "width": 1920,
-                "height": 1080
-            },
-
-            user_agent=HEADERS[
-                "User-Agent"
-            ]
-        )
-
-        # ----------------------------------------------------
-        # Scrape unique colleges
-        # ----------------------------------------------------
-
-        for source in unique_sources:
-
-            result = await scrape_college(
-                page,
-                source
-            )
-
-            results.append(
-                result
-            )
-
-        await browser.close()
-
-    # --------------------------------------------------------
-    # Save combined JSON
-    # --------------------------------------------------------
-
-    save_combined_json(
-        results
+    ERROR_DIR.mkdir(
+        parents=True,
+        exist_ok=True
     )
 
-    # --------------------------------------------------------
-    # Summary
-    # --------------------------------------------------------
 
-    print("\n")
+    print()
+    print("=" * 65)
 
-    print("=" * 75)
+    print(
+        "UDISE+ CHANDIGARH SCHOOL SCRAPER"
+    )
+
+    print(
+        f"Academic Year : {ACADEMIC_YEAR}"
+    )
+
+    print(
+        f"YEAR_ID       : {YEAR_ID}"
+    )
+
+    print("=" * 65)
+
+
+    schools = load_school_list()
+
+
+    if not schools:
+
+        print()
+        print(
+            "❌ No schools loaded."
+        )
+
+        print(
+            "Check data/chandigarh_school_list.json"
+        )
+
+        return
+
+
+    total = len(
+        schools
+    )
+
+    successful = 0
+
+    failed = []
+
+
+    print()
+    print("=" * 65)
+
+    print(
+        f"STARTING {total} SCHOOLS"
+    )
+
+    print("=" * 65)
+
+
+    for index, school in enumerate(
+        schools,
+        start=1
+    ):
+
+        try:
+
+            success = scrape_school(
+
+                school,
+                index,
+                total
+
+            )
+
+            if success:
+
+                successful += 1
+
+
+        except KeyboardInterrupt:
+
+            print()
+            print(
+                "Stopped manually."
+            )
+
+            break
+
+
+        except Exception as error:
+
+            school_name = get_value(
+                school,
+                "schoolName",
+                "schName"
+            )
+
+            udise_code = get_value(
+                school,
+                "udiseschCode",
+                "udiseSchCode",
+                "udiseCode"
+            )
+
+
+            print()
+            print(
+                f"❌ ERROR: "
+                f"{school_name}"
+            )
+
+            print(
+                error
+            )
+
+
+            failed.append({
+
+                "school_name":
+                    school_name,
+
+                "udise_code":
+                    udise_code,
+
+                "error":
+                    str(error)
+
+            })
+
+
+    # ========================================================
+    # SUMMARY
+    # ========================================================
+
+    summary = {
+
+        "state":
+            STATE_NAME,
+
+        "academic_year":
+            ACADEMIC_YEAR,
+
+        "year_id":
+            YEAR_ID,
+
+        "total_schools":
+            total,
+
+        "successful":
+            successful,
+
+        "failed":
+            len(failed)
+    }
+
+
+    save_json(
+
+        OUTPUT_DIR /
+        "_summary.json",
+
+        summary
+
+    )
+
+
+    if failed:
+
+        save_json(
+
+            ERROR_DIR /
+            "failed_schools.json",
+
+            failed
+
+        )
+
+
+    print()
+    print("=" * 65)
+
     print(
         "SCRAPING COMPLETED"
     )
-    print("=" * 75)
 
-    for result in results:
+    print("=" * 65)
 
-        print(
-            f"{result['source_name']}: "
-            f"{result['total_images_saved']} "
-            f"images saved"
-        )
-
-    print("\n")
     print(
-        "✓ All image data is stored "
-        "inside JSON as Base64."
+        f"Total Schools : {total}"
     )
 
+    print(
+        f"Successful    : {successful}"
+    )
 
-# ============================================================
-# RUN
-# ============================================================
+    print(
+        f"Failed        : {len(failed)}"
+    )
+
+    print(
+        f"Output Folder : {OUTPUT_DIR}"
+    )
+
+    print("=" * 65)
+
 
 if __name__ == "__main__":
-
-    asyncio.run(
-        main()
-    )
+    main()
