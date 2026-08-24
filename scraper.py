@@ -14,30 +14,41 @@ from urllib3.util.retry import Retry
 
 BASE_URL = "https://kys.udiseplus.gov.in/web-app/api"
 
-STATE_NAME = "Chandigarh"
-
 ACADEMIC_YEAR = "2025-26"
-
-# Confirmed from UDISE+:
-# 12 = 2025-26
 YEAR_ID = 12
 
-SCHOOL_LIST_FILE = Path("data") / "chandigarh_school_list.json"
+# Only 25 schools from each location
+MAX_SCHOOLS = 25
 
-OUTPUT_DIR = (
-    Path("data")
-    / STATE_NAME
-    / ACADEMIC_YEAR
-)
-
-ERROR_DIR = OUTPUT_DIR / "_errors"
-
-REQUEST_DELAY = 1.0
+# Faster than previous scraper, but still avoids hammering server
+REQUEST_DELAY = 0.4
 TIMEOUT = 60
 
 
 # ============================================================
-# SESSION
+# LOCATIONS
+#
+# IMPORTANT:
+# These school-list JSON files must be copied manually from
+# the browser Network -> by-region -> Response.
+#
+# Chandigarh is intentionally NOT included.
+# ============================================================
+
+LOCATIONS = [
+    {
+        "name": "Delhi",
+        "school_list_file": Path("data") / "delhi_school_list.json",
+    },
+    {
+        "name": "Mumbai",
+        "school_list_file": Path("data") / "mumbai_school_list.json",
+    },
+]
+
+
+# ============================================================
+# CREATE SESSION
 # ============================================================
 
 def create_session():
@@ -45,10 +56,10 @@ def create_session():
     session = requests.Session()
 
     retry = Retry(
-        total=5,
-        connect=5,
-        read=5,
-        backoff_factor=1.5,
+        total=4,
+        connect=4,
+        read=4,
+        backoff_factor=1.0,
         status_forcelist=[
             429,
             500,
@@ -104,7 +115,7 @@ session = create_session()
 
 
 # ============================================================
-# HELPERS
+# SAFE FILE NAME
 # ============================================================
 
 def safe_filename(name):
@@ -131,6 +142,10 @@ def safe_filename(name):
 
     return name[:160]
 
+
+# ============================================================
+# SAVE JSON
+# ============================================================
 
 def save_json(path, data):
 
@@ -173,6 +188,24 @@ def get_json(endpoint, params=None):
 
         data = response.json()
 
+        # HTTP 200 does not always mean UDISE returned data.
+        if isinstance(data, dict):
+
+            if data.get("status") is False:
+
+                error_message = (
+                    data.get("error", {})
+                    .get("errorDetails", {})
+                    .get("details")
+                )
+
+                return {
+                    "success": False,
+                    "url": response.url,
+                    "error": error_message or "UDISE API returned status=false",
+                    "response": data
+                }
+
         return {
             "success": True,
             "url": response.url,
@@ -205,7 +238,7 @@ def get_json(endpoint, params=None):
 
 
 # ============================================================
-# EXTRACT API DATA
+# EXTRACT DATA
 # ============================================================
 
 def extract_api_data(result):
@@ -239,164 +272,6 @@ def extract_api_data(result):
 
 
 # ============================================================
-# FIND SCHOOL LIST RECURSIVELY
-# ============================================================
-
-def find_school_list(obj):
-
-    if isinstance(obj, list):
-
-        if len(obj) == 0:
-
-            return []
-
-        # Check if this looks like school records
-        first = obj[0]
-
-        if isinstance(first, dict):
-
-            keys = set(first.keys())
-
-            school_keys = {
-                "udiseschCode",
-                "udiseSchCode",
-                "udiseCode",
-                "schoolName",
-                "schoolId"
-            }
-
-            if keys.intersection(
-                school_keys
-            ):
-
-                return obj
-
-        for item in obj:
-
-            result = find_school_list(
-                item
-            )
-
-            if result:
-
-                return result
-
-    elif isinstance(obj, dict):
-
-        # Most likely keys first
-        for key in [
-            "content",
-            "schools",
-            "schoolList",
-            "results",
-            "data"
-        ]:
-
-            if key in obj:
-
-                result = find_school_list(
-                    obj[key]
-                )
-
-                if result:
-
-                    return result
-
-        # Search remaining values
-        for value in obj.values():
-
-            result = find_school_list(
-                value
-            )
-
-            if result:
-
-                return result
-
-    return []
-
-
-# ============================================================
-# LOAD SCHOOL LIST FROM BROWSER RESPONSE
-# ============================================================
-
-def load_school_list():
-
-    print()
-    print("=" * 65)
-    print("LOADING CHANDIGARH SCHOOL LIST")
-    print("=" * 65)
-
-    if not SCHOOL_LIST_FILE.exists():
-
-        print()
-        print(
-            "❌ School list file not found:"
-        )
-
-        print(
-            SCHOOL_LIST_FILE
-        )
-
-        print()
-        print(
-            "Save the UDISE+ by-region "
-            "Response as:"
-        )
-
-        print(
-            "data/chandigarh_school_list.json"
-        )
-
-        return []
-
-    try:
-
-        with open(
-            SCHOOL_LIST_FILE,
-            "r",
-            encoding="utf-8"
-        ) as file:
-
-            raw_data = json.load(
-                file
-            )
-
-    except json.JSONDecodeError as error:
-
-        print()
-        print(
-            "❌ chandigarh_school_list.json "
-            "is not valid JSON."
-        )
-
-        print(
-            error
-        )
-
-        return []
-
-    schools = find_school_list(
-        raw_data
-    )
-
-    print()
-    print(
-        f"Schools found: {len(schools)}"
-    )
-
-    if schools:
-
-        save_json(
-            OUTPUT_DIR /
-            "_all_schools.json",
-            schools
-        )
-
-    return schools
-
-
-# ============================================================
 # GET FIELD
 # ============================================================
 
@@ -426,6 +301,180 @@ def get_value(data, *keys):
 
 
 # ============================================================
+# FIND SCHOOL LIST INSIDE SAVED RESPONSE
+# ============================================================
+
+def find_school_list(obj):
+
+    if isinstance(obj, list):
+
+        if not obj:
+
+            return []
+
+        first = obj[0]
+
+        if isinstance(first, dict):
+
+            keys = set(
+                first.keys()
+            )
+
+            school_keys = {
+                "udiseschCode",
+                "udiseSchCode",
+                "udiseCode",
+                "schoolName",
+                "schName",
+                "schoolId"
+            }
+
+            if keys.intersection(
+                school_keys
+            ):
+
+                return obj
+
+        for item in obj:
+
+            result = find_school_list(
+                item
+            )
+
+            if result:
+
+                return result
+
+
+    elif isinstance(obj, dict):
+
+        # Search likely locations first
+        for key in [
+            "content",
+            "schools",
+            "schoolList",
+            "results",
+            "data"
+        ]:
+
+            if key in obj:
+
+                result = find_school_list(
+                    obj[key]
+                )
+
+                if result:
+
+                    return result
+
+        # Recursive fallback
+        for value in obj.values():
+
+            result = find_school_list(
+                value
+            )
+
+            if result:
+
+                return result
+
+
+    return []
+
+
+# ============================================================
+# LOAD SCHOOL LIST
+# ============================================================
+
+def load_school_list(location):
+
+    list_file = location[
+        "school_list_file"
+    ]
+
+    location_name = location[
+        "name"
+    ]
+
+    print()
+    print("=" * 70)
+
+    print(
+        f"LOADING {location_name.upper()} SCHOOL LIST"
+    )
+
+    print("=" * 70)
+
+
+    if not list_file.exists():
+
+        print()
+        print(
+            f"❌ File not found: {list_file}"
+        )
+
+        print(
+            "Copy the UDISE+ by-region browser response "
+            "and save it at this location."
+        )
+
+        return []
+
+
+    try:
+
+        with open(
+            list_file,
+            "r",
+            encoding="utf-8"
+        ) as file:
+
+            raw_data = json.load(
+                file
+            )
+
+    except json.JSONDecodeError as error:
+
+        print()
+        print(
+            f"❌ Invalid JSON in {list_file}"
+        )
+
+        print(
+            error
+        )
+
+        return []
+
+
+    schools = find_school_list(
+        raw_data
+    )
+
+
+    print(
+        f"Total schools available: {len(schools)}"
+    )
+
+
+    # ========================================================
+    # ONLY FIRST 25
+    # ========================================================
+
+    schools = schools[
+        :MAX_SCHOOLS
+    ]
+
+
+    print(
+        f"Schools selected for scraping: {len(schools)}"
+    )
+
+
+    return schools
+
+
+# ============================================================
 # SCHOOL PROFILE
 # ============================================================
 
@@ -434,46 +483,6 @@ def fetch_profile(udise_code):
     return get_json(
 
         "school/profile",
-
-        {
-            "udiseSchCode":
-                udise_code,
-
-            "yearId":
-                YEAR_ID
-        }
-    )
-
-
-# ============================================================
-# FACILITIES / INFRASTRUCTURE
-# ============================================================
-
-def fetch_facilities(udise_code):
-
-    return get_json(
-
-        "school/facility",
-
-        {
-            "udiseSchCode":
-                udise_code,
-
-            "yearId":
-                YEAR_ID
-        }
-    )
-
-
-# ============================================================
-# REPORT CARD
-# ============================================================
-
-def fetch_report_card(udise_code):
-
-    return get_json(
-
-        "school/report-card",
 
         {
             "udiseSchCode":
@@ -508,10 +517,56 @@ def fetch_student_teacher(
 
 
 # ============================================================
+# INFRASTRUCTURE / FACILITIES
+# ============================================================
+
+def fetch_facilities(
+    udise_code
+):
+
+    return get_json(
+
+        "school/facility",
+
+        {
+            "udiseSchCode":
+                udise_code,
+
+            "yearId":
+                YEAR_ID
+        }
+    )
+
+
+# ============================================================
+# REPORT CARD
+# ============================================================
+
+def fetch_report_card(
+    udise_code
+):
+
+    return get_json(
+
+        "school/report-card",
+
+        {
+            "udiseSchCode":
+                udise_code,
+
+            "yearId":
+                YEAR_ID
+        }
+    )
+
+
+# ============================================================
 # SCHOOL HISTORY
 # ============================================================
 
-def fetch_history(school_id):
+def fetch_history(
+    school_id
+):
 
     if not school_id:
 
@@ -529,13 +584,47 @@ def fetch_history(school_id):
 
 
 # ============================================================
+# CHECK API STATUS
+# ============================================================
+
+def print_api_status(
+    label,
+    result
+):
+
+    if result is None:
+
+        print(
+            f"      ⚠ {label}: Not available"
+        )
+
+        return
+
+
+    if result.get("success"):
+
+        print(
+            f"      ✓ {label}"
+        )
+
+    else:
+
+        print(
+            f"      ⚠ {label}: "
+            f"{result.get('error')}"
+        )
+
+
+# ============================================================
 # SCRAPE ONE SCHOOL
 # ============================================================
 
 def scrape_school(
     school,
     index,
-    total
+    total,
+    location_name,
+    output_dir
 ):
 
     udise_code = get_value(
@@ -548,6 +637,7 @@ def scrape_school(
 
     )
 
+
     school_name = get_value(
 
         school,
@@ -557,6 +647,7 @@ def scrape_school(
         "name"
 
     )
+
 
     school_id = get_value(
 
@@ -572,10 +663,10 @@ def scrape_school(
 
         print(
             f"[{index}/{total}] "
-            "UDISE code missing - skipped."
+            "⚠ UDISE code missing - skipped."
         )
 
-        return False
+        return "failed"
 
 
     if not school_name:
@@ -585,8 +676,49 @@ def scrape_school(
         )
 
 
+    # ========================================================
+    # FILE NAME
+    # ========================================================
+
+    filename = (
+
+        f"{safe_filename(school_name)}"
+        f"_{udise_code}.json"
+
+    )
+
+
+    output_file = (
+
+        output_dir /
+        filename
+
+    )
+
+
+    # ========================================================
+    # RESUME SUPPORT
+    #
+    # If this school already exists, don't scrape it again.
+    # ========================================================
+
+    if output_file.exists():
+
+        print()
+        print(
+            f"[{index}/{total}] "
+            f"{school_name}"
+        )
+
+        print(
+            f"   ✓ Already exists - SKIPPED"
+        )
+
+        return "existing"
+
+
     print()
-    print("-" * 65)
+    print("-" * 70)
 
     print(
         f"[{index}/{total}] "
@@ -594,7 +726,7 @@ def scrape_school(
     )
 
     print(
-        f"UDISE: {udise_code}"
+        f"UDISE Code: {udise_code}"
     )
 
 
@@ -603,7 +735,7 @@ def scrape_school(
     # ========================================================
 
     print(
-        "   → Profile"
+        "   → Fetching profile..."
     )
 
     profile_result = fetch_profile(
@@ -614,17 +746,22 @@ def scrape_school(
         profile_result
     )
 
+    print_api_status(
+        "Profile",
+        profile_result
+    )
+
     time.sleep(
         REQUEST_DELAY
     )
 
 
     # ========================================================
-    # STUDENTS + TEACHERS
+    # STUDENT / TEACHER
     # ========================================================
 
     print(
-        "   → Students / Teachers"
+        "   → Fetching student / teacher data..."
     )
 
     student_teacher_result = (
@@ -639,6 +776,11 @@ def scrape_school(
         )
     )
 
+    print_api_status(
+        "Student/Teacher",
+        student_teacher_result
+    )
+
     time.sleep(
         REQUEST_DELAY
     )
@@ -649,7 +791,7 @@ def scrape_school(
     # ========================================================
 
     print(
-        "   → Infrastructure / Facilities"
+        "   → Fetching facilities..."
     )
 
     facilities_result = (
@@ -664,6 +806,11 @@ def scrape_school(
         )
     )
 
+    print_api_status(
+        "Facilities",
+        facilities_result
+    )
+
     time.sleep(
         REQUEST_DELAY
     )
@@ -674,7 +821,7 @@ def scrape_school(
     # ========================================================
 
     print(
-        "   → Report Card"
+        "   → Fetching report card..."
     )
 
     report_result = (
@@ -689,21 +836,28 @@ def scrape_school(
         )
     )
 
+    print_api_status(
+        "Report Card",
+        report_result
+    )
+
     time.sleep(
         REQUEST_DELAY
     )
 
 
     # ========================================================
-    # HISTORY
+    # SCHOOL HISTORY
     # ========================================================
 
     history = None
+    history_result = None
+
 
     if school_id:
 
         print(
-            "   → School History"
+            "   → Fetching school history..."
         )
 
         history_result = (
@@ -716,6 +870,11 @@ def scrape_school(
             extract_api_data(
                 history_result
             )
+        )
+
+        print_api_status(
+            "School History",
+            history_result
         )
 
         time.sleep(
@@ -734,14 +893,14 @@ def scrape_school(
             "source":
                 "UDISE+ Know Your School",
 
+            "location":
+                location_name,
+
             "academic_year":
                 ACADEMIC_YEAR,
 
             "year_id":
                 YEAR_ID,
-
-            "state":
-                STATE_NAME,
 
             "school_name":
                 school_name,
@@ -754,79 +913,167 @@ def scrape_school(
         },
 
 
+        # Basic information from school-list response
+
         "school_summary":
             school,
 
+
+        # School profile information
 
         "school_profile":
             profile,
 
 
+        # Student / teacher statistics
+
         "student_teacher_statistics":
             student_teacher,
 
+
+        # Infrastructure
 
         "infrastructure_facilities":
             facilities,
 
 
+        # School report card
+
         "report_card":
             report_card,
 
 
+        # School tracking / historical information
+
         "school_history":
-            history
+            history,
+
+
+        # Useful when an endpoint returned no data
+
+        "_api_status": {
+
+            "profile":
+                profile_result,
+
+            "student_teacher":
+                student_teacher_result,
+
+            "facilities":
+                facilities_result,
+
+            "report_card":
+                report_result,
+
+            "history":
+                history_result
+        }
     }
 
 
-    filename = (
-
-        f"{safe_filename(school_name)}"
-        f"_{udise_code}.json"
-
-    )
-
-
     save_json(
-
-        OUTPUT_DIR /
-        filename,
-
+        output_file,
         final_data
-
     )
 
 
     print(
-        f"   ✓ Saved: {filename}"
+        f"   ✓ SAVED: {filename}"
     )
 
 
-    return True
+    return "success"
 
 
 # ============================================================
-# MAIN
+# PROCESS ONE LOCATION
 # ============================================================
 
-def main():
+def process_location(
+    location
+):
 
-    OUTPUT_DIR.mkdir(
+    location_name = location[
+        "name"
+    ]
+
+
+    # ========================================================
+    # OUTPUT FOLDER
+    # ========================================================
+
+    output_dir = (
+
+        Path("data")
+        / location_name
+        / ACADEMIC_YEAR
+
+    )
+
+
+    error_dir = (
+
+        output_dir /
+        "_errors"
+
+    )
+
+
+    output_dir.mkdir(
         parents=True,
         exist_ok=True
     )
 
-    ERROR_DIR.mkdir(
+
+    error_dir.mkdir(
         parents=True,
         exist_ok=True
+    )
+
+
+    # ========================================================
+    # LOAD SCHOOLS
+    # ========================================================
+
+    schools = load_school_list(
+        location
+    )
+
+
+    if not schools:
+
+        print()
+        print(
+            f"❌ No schools loaded for {location_name}."
+        )
+
+        return
+
+
+    # ========================================================
+    # SAVE SELECTED 25 SCHOOLS
+    # ========================================================
+
+    save_json(
+
+        output_dir /
+        "_all_schools.json",
+
+        schools
+
+    )
+
+
+    total = len(
+        schools
     )
 
 
     print()
-    print("=" * 65)
+    print("=" * 70)
 
     print(
-        "UDISE+ CHANDIGARH SCHOOL SCRAPER"
+        f"STARTING {location_name.upper()}"
     )
 
     print(
@@ -834,47 +1081,20 @@ def main():
     )
 
     print(
-        f"YEAR_ID       : {YEAR_ID}"
+        f"Schools       : {total}"
     )
 
-    print("=" * 65)
+    print("=" * 70)
 
-
-    schools = load_school_list()
-
-
-    if not schools:
-
-        print()
-        print(
-            "❌ No schools loaded."
-        )
-
-        print(
-            "Check data/chandigarh_school_list.json"
-        )
-
-        return
-
-
-    total = len(
-        schools
-    )
 
     successful = 0
-
+    existing = 0
     failed = []
 
 
-    print()
-    print("=" * 65)
-
-    print(
-        f"STARTING {total} SCHOOLS"
-    )
-
-    print("=" * 65)
-
+    # ========================================================
+    # SCRAPE EACH SCHOOL
+    # ========================================================
 
     for index, school in enumerate(
         schools,
@@ -883,27 +1103,58 @@ def main():
 
         try:
 
-            success = scrape_school(
+            result = scrape_school(
 
                 school,
                 index,
-                total
+                total,
+                location_name,
+                output_dir
 
             )
 
-            if success:
+
+            if result == "success":
 
                 successful += 1
+
+
+            elif result == "existing":
+
+                existing += 1
+
+
+            else:
+
+                failed.append(
+                    {
+                        "school":
+                            school,
+
+                        "error":
+                            "School could not be processed"
+                    }
+                )
 
 
         except KeyboardInterrupt:
 
             print()
+            print()
             print(
-                "Stopped manually."
+                "⚠ SCRAPING STOPPED MANUALLY"
             )
 
-            break
+            print(
+                "Existing JSON files are safe."
+            )
+
+            print(
+                "Run 'python scraper.py' later "
+                "to resume."
+            )
+
+            raise
 
 
         except Exception as error:
@@ -911,8 +1162,10 @@ def main():
             school_name = get_value(
                 school,
                 "schoolName",
-                "schName"
+                "schName",
+                "name"
             )
+
 
             udise_code = get_value(
                 school,
@@ -924,8 +1177,7 @@ def main():
 
             print()
             print(
-                f"❌ ERROR: "
-                f"{school_name}"
+                f"❌ ERROR: {school_name}"
             )
 
             print(
@@ -948,46 +1200,14 @@ def main():
 
 
     # ========================================================
-    # SUMMARY
+    # SAVE FAILED SCHOOLS
     # ========================================================
-
-    summary = {
-
-        "state":
-            STATE_NAME,
-
-        "academic_year":
-            ACADEMIC_YEAR,
-
-        "year_id":
-            YEAR_ID,
-
-        "total_schools":
-            total,
-
-        "successful":
-            successful,
-
-        "failed":
-            len(failed)
-    }
-
-
-    save_json(
-
-        OUTPUT_DIR /
-        "_summary.json",
-
-        summary
-
-    )
-
 
     if failed:
 
         save_json(
 
-            ERROR_DIR /
+            error_dir /
             "failed_schools.json",
 
             failed
@@ -995,32 +1215,187 @@ def main():
         )
 
 
+    # ========================================================
+    # SUMMARY
+    # ========================================================
+
+    summary = {
+
+        "location":
+            location_name,
+
+        "academic_year":
+            ACADEMIC_YEAR,
+
+        "year_id":
+            YEAR_ID,
+
+        "maximum_requested":
+            MAX_SCHOOLS,
+
+        "schools_selected":
+            total,
+
+        "newly_scraped":
+            successful,
+
+        "already_existing":
+            existing,
+
+        "failed":
+            len(failed),
+
+        "completed_total":
+            successful + existing
+
+    }
+
+
+    save_json(
+
+        output_dir /
+        "_summary.json",
+
+        summary
+
+    )
+
+
     print()
-    print("=" * 65)
+    print("=" * 70)
 
     print(
-        "SCRAPING COMPLETED"
+        f"{location_name.upper()} COMPLETED"
     )
 
-    print("=" * 65)
+    print("=" * 70)
 
     print(
-        f"Total Schools : {total}"
-    )
-
-    print(
-        f"Successful    : {successful}"
+        f"Schools Selected : {total}"
     )
 
     print(
-        f"Failed        : {len(failed)}"
+        f"Newly Scraped    : {successful}"
     )
 
     print(
-        f"Output Folder : {OUTPUT_DIR}"
+        f"Already Existing : {existing}"
     )
 
-    print("=" * 65)
+    print(
+        f"Failed           : {len(failed)}"
+    )
+
+    print(
+        f"Output           : {output_dir}"
+    )
+
+    print("=" * 70)
+
+
+# ============================================================
+# MAIN
+# ============================================================
+
+def main():
+
+    print()
+    print("=" * 70)
+
+    print(
+        "UDISE+ MULTI-LOCATION SCHOOL SCRAPER"
+    )
+
+    print("=" * 70)
+
+    print(
+        f"Academic Year : {ACADEMIC_YEAR}"
+    )
+
+    print(
+        f"YEAR_ID       : {YEAR_ID}"
+    )
+
+    print(
+        f"Maximum       : {MAX_SCHOOLS} schools per location"
+    )
+
+    print()
+
+    print(
+        "Locations:"
+    )
+
+    print(
+        "   1. Delhi"
+    )
+
+    print(
+        "   2. Mumbai"
+    )
+
+    print()
+
+    print(
+        "Chandigarh: NOT INCLUDED / WILL NOT BE SCRAPED"
+    )
+
+    print("=" * 70)
+
+
+    try:
+
+        for location in LOCATIONS:
+
+            process_location(
+                location
+            )
+
+
+    except KeyboardInterrupt:
+
+        print()
+        print("=" * 70)
+
+        print(
+            "PROGRAM STOPPED"
+        )
+
+        print(
+            "Your completed JSON files have been preserved."
+        )
+
+        print(
+            "Run python scraper.py again to resume."
+        )
+
+        print("=" * 70)
+
+        return
+
+
+    print()
+    print("=" * 70)
+
+    print(
+        "ALL REQUESTED LOCATIONS COMPLETED"
+    )
+
+    print("=" * 70)
+
+    print(
+        "Delhi  : Maximum 25 schools"
+    )
+
+    print(
+        "Mumbai : Maximum 25 schools"
+    )
+
+    print(
+        "Chandigarh : Skipped"
+    )
+
+    print("=" * 70)
 
 
 if __name__ == "__main__":
