@@ -2,10 +2,10 @@
     "location": "Delhi",
     "academic_year": "2025-26",
     "year_id": 12,
-    "maximum_requested": 25,
-    "schools_selected": 25,
-    "newly_scraped": 25,
-    "already_existing": 0,
+    "school_limit": "ALL",
+    "total_schools": 237,
+    "newly_scraped": 212,
+    "already_existing": 25,
     "failed": 0,
-    "completed_total": 25
+    "completed_total": 237
 }
