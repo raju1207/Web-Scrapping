@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "CHANDIGARH",
+        "district": "CHANDIGARH",
+        "affiliation_number": "2600003",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2600003"
+    },
+    "listing_data": {
+        "affiliation_number": "2600003",
+        "listing_raw_columns": [
+            "3",
+            "Aff. No. : 2600003 Sch. Code: 24702",
+            "State : CHANDIGARH District : CHANDIGARH",
+            "Senior Secondary Level",
+            "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: GURPREET SINGH",
+            "Address : AIR FORCE STATION HIGH GROUND CHANDIGARH Website : https://afshighgrounds.kvs.ac.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2600003",
+        "serial_number": "3",
+        "affiliation_and_school_code": "Aff. No. : 2600003 Sch. Code: 24702",
+        "state_and_district": "State : CHANDIGARH District : CHANDIGARH",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: GURPREET SINGH",
+        "address_and_website": "Address : AIR FORCE STATION HIGH GROUND CHANDIGARH Website : https://afshighgrounds.kvs.ac.in/"
+    },
+    "school_details": {
+        "Name of Institution": "PM SHRI KENDRIYA VIDYALAYA",
+        "Affiliation Number": "2600003",
+        "State": "CHANDIGARH",
+        "District": "CHANDIGARH",
+        "Postal Address": "AIR FORCE STATION HIGH GROUND CHANDIGARH",
+        "Pin Code": "160003",
+        "Website": "https://afshighgrounds.kvs.ac.in/",
+        "Year of Foundation": "1984",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "GURPREET SINGH",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.SC., B.ED., PGDCA",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "11",
+        "Teaching:": "21",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "KV",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "KENDRIYA VIDYALAYA SANGATHAN",
+        "Remarks, if any": null
+    },
+    "links": []
+}

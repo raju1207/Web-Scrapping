@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "CHANDIGARH",
+        "district": "CHANDIGARH",
+        "affiliation_number": "2620046",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2620046"
+    },
+    "listing_data": {
+        "affiliation_number": "2620046",
+        "listing_raw_columns": [
+            "50",
+            "Aff. No. : 2620046 Sch. Code: 24213",
+            "State : CHANDIGARH District : CHANDIGARH",
+            "Secondary Level",
+            "Name : GOVT HIGH SCHOOL Head/Principal Name: Manjula Khanna",
+            "Address : SARANGPUR CHANDIGARH Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2620046",
+        "serial_number": "50",
+        "affiliation_and_school_code": "Aff. No. : 2620046 Sch. Code: 24213",
+        "state_and_district": "State : CHANDIGARH District : CHANDIGARH",
+        "status": "Secondary Level",
+        "school_and_head": "Name : GOVT HIGH SCHOOL Head/Principal Name: Manjula Khanna",
+        "address_and_website": "Address : SARANGPUR CHANDIGARH Website :"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT HIGH SCHOOL",
+        "Affiliation Number": "2620046",
+        "State": "CHANDIGARH",
+        "District": "CHANDIGARH",
+        "Postal Address": "SARANGPUR CHANDIGARH",
+        "Pin Code": "160",
+        "Website": null,
+        "Year of Foundation": "1955",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "Manjula Khanna",
+        "Gender": "Unknown",
+        "Principal's Educational/Professional Qualifications:": "MA, B.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "30",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "chandigarh administration",
+        "Remarks, if any": null
+    },
+    "links": []
+}
