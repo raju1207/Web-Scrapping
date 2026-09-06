@@ -1,0 +1,8 @@
+{
+    "source": "CBSE SARAS",
+    "location": "Chandigarh",
+    "total_schools_found": 175,
+    "successfully_scraped": 175,
+    "failed": 0,
+    "output_folder": "data\\CBSE_SARAS\\Chandigarh\\schools"
+}
