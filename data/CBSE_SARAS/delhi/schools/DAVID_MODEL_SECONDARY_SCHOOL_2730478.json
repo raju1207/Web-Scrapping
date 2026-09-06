@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730478",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730478"
+    },
+    "listing_data": {
+        "affiliation_number": "2730478",
+        "listing_raw_columns": [
+            "551",
+            "Aff. No. : 2730478 Sch. Code: 85137",
+            "State : DELHI District : NORTH EAST DELHI",
+            "Senior Secondary Level",
+            "Name : DAVID MODEL SECONDARY SCHOOL Head/Principal Name: VINAY CHAUDHARY",
+            "Address : MAIN ROAD TUKHMIRPUR, DISTT NORTH EAST DELHI, DELHI Website : www.davidschool.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730478",
+        "serial_number": "551",
+        "affiliation_and_school_code": "Aff. No. : 2730478 Sch. Code: 85137",
+        "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : DAVID MODEL SECONDARY SCHOOL Head/Principal Name: VINAY CHAUDHARY",
+        "address_and_website": "Address : MAIN ROAD TUKHMIRPUR, DISTT NORTH EAST DELHI, DELHI Website : www.davidschool.in"
+    },
+    "school_details": {
+        "Name of Institution": "DAVID MODEL SECONDARY SCHOOL",
+        "Affiliation Number": "2730478",
+        "State": "DELHI",
+        "District": "NORTH EAST DELHI",
+        "Postal Address": "MAIN ROAD TUKHMIRPUR, DISTT NORTH EAST DELHI, DELHI",
+        "Pin Code": "110094",
+        "Website": "www.davidschool.in",
+        "Year of Foundation": "1992",
+        "Date of First Opening of School": "09 Jul 2003",
+        "Name of Principal/ Head of Institution": "VINAY CHAUDHARY",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M Phil",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "11",
+        "Teaching:": "11",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "CHAUDHRY KRISHLAL MEM EDU & CHARI SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

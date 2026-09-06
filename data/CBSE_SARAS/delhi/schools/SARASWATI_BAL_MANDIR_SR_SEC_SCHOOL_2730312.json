@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730312",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730312"
+    },
+    "listing_data": {
+        "affiliation_number": "2730312",
+        "listing_raw_columns": [
+            "395",
+            "Aff. No. : 2730312 Sch. Code: 25166",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : SARASWATI BAL MANDIR SR SEC SCHOOL Head/Principal Name: NAGENDRA KUMAR PANDEY",
+            "Address : WARD NO 6 MEHRAULI NEW DELHI Website : www.sbmmehrauli.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730312",
+        "serial_number": "395",
+        "affiliation_and_school_code": "Aff. No. : 2730312 Sch. Code: 25166",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SARASWATI BAL MANDIR SR SEC SCHOOL Head/Principal Name: NAGENDRA KUMAR PANDEY",
+        "address_and_website": "Address : WARD NO 6 MEHRAULI NEW DELHI Website : www.sbmmehrauli.com"
+    },
+    "school_details": {
+        "Name of Institution": "SARASWATI BAL MANDIR SR SEC SCHOOL",
+        "Affiliation Number": "2730312",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "WARD NO 6 MEHRAULI NEW DELHI",
+        "Pin Code": "110030",
+        "Website": "www.sbmmehrauli.com",
+        "Year of Foundation": "1989",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "NAGENDRA KUMAR PANDEY",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.Sc.B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "10",
+        "Teaching:": "28",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "THE SAMARTH SHIKSHA SAMITI",
+        "Remarks, if any": null
+    },
+    "links": []
+}

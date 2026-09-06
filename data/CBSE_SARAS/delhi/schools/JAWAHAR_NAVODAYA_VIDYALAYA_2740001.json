@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2740001",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2740001"
+    },
+    "listing_data": {
+        "affiliation_number": "2740001",
+        "listing_raw_columns": [
+            "959",
+            "Aff. No. : 2740001 Sch. Code: 89007",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : JAWAHAR NAVODAYA VIDYALAYA Head/Principal Name: Surjeet Singh",
+            "Address : MUNGESHPUR P.O. BAWANA, DELHI Website : https://www.navodaya.gov.in/nvs/nvs-school/NORTH-W",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2740001",
+        "serial_number": "959",
+        "affiliation_and_school_code": "Aff. No. : 2740001 Sch. Code: 89007",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : JAWAHAR NAVODAYA VIDYALAYA Head/Principal Name: Surjeet Singh",
+        "address_and_website": "Address : MUNGESHPUR P.O. BAWANA, DELHI Website : https://www.navodaya.gov.in/nvs/nvs-school/NORTH-W"
+    },
+    "school_details": {
+        "Name of Institution": "JAWAHAR NAVODAYA VIDYALAYA",
+        "Affiliation Number": "2740001",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "MUNGESHPUR P.O. BAWANA, DELHI",
+        "Pin Code": "110039",
+        "Website": "https://www.navodaya.gov.in/nvs/nvs-school/NORTH-W",
+        "Year of Foundation": "1988",
+        "Date of First Opening of School": "31 Mar 2011",
+        "Name of Principal/ Head of Institution": "Surjeet Singh",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.Sc. M.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "8",
+        "Teaching:": "16",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "JNV",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "NAVODAYA VIDYALAYA SAMITI",
+        "Remarks, if any": null
+    },
+    "links": []
+}

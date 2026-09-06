@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2762005",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762005"
+    },
+    "listing_data": {
+        "affiliation_number": "2762005",
+        "listing_raw_columns": [
+            "1727",
+            "Aff. No. : 2762005 Sch. Code: 27263",
+            "State : DELHI District : SHAHDARA",
+            "Senior Secondary Level",
+            "Name : BIPIN CHANDRA PAL GOVT.SARVODAYA Head/Principal Name: ANIL KUMAR MALIK",
+            "Address : KANYA VIDYALAYA BABAR PUR SHAHDARA DELHI Website : https://www.edudel.nic.in/DirectorateOfEducation.htm",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762005",
+        "serial_number": "1727",
+        "affiliation_and_school_code": "Aff. No. : 2762005 Sch. Code: 27263",
+        "state_and_district": "State : DELHI District : SHAHDARA",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : BIPIN CHANDRA PAL GOVT.SARVODAYA Head/Principal Name: ANIL KUMAR MALIK",
+        "address_and_website": "Address : KANYA VIDYALAYA BABAR PUR SHAHDARA DELHI Website : https://www.edudel.nic.in/DirectorateOfEducation.htm"
+    },
+    "school_details": {
+        "Name of Institution": "BIPIN CHANDRA PAL GOVT.SARVODAYA",
+        "Affiliation Number": "2762005",
+        "State": "DELHI",
+        "District": "SHAHDARA",
+        "Postal Address": "KANYA VIDYALAYA BABAR PUR SHAHDARA DELHI",
+        "Pin Code": "110032",
+        "Website": "https://www.edudel.nic.in/DirectorateOfEducation.htm",
+        "Year of Foundation": "1973",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "ANIL KUMAR MALIK",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MA,MATH",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "7",
+        "Teaching:": "20",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "DIRECTORATE OF EDU DELHI ADMN",
+        "Remarks, if any": null
+    },
+    "links": []
+}

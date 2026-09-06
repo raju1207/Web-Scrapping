@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730511",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730511"
+    },
+    "listing_data": {
+        "affiliation_number": "2730511",
+        "listing_raw_columns": [
+            "583",
+            "Aff. No. : 2730511 Sch. Code: 25256",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : SHANTI IDEAL CONVENT PUBLIC SCHOOL Head/Principal Name: SHALU GAUR",
+            "Address : JAL VIHAR PHASE II NEW DELHI Website : www.shantiidealpublicschool.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730511",
+        "serial_number": "583",
+        "affiliation_and_school_code": "Aff. No. : 2730511 Sch. Code: 25256",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SHANTI IDEAL CONVENT PUBLIC SCHOOL Head/Principal Name: SHALU GAUR",
+        "address_and_website": "Address : JAL VIHAR PHASE II NEW DELHI Website : www.shantiidealpublicschool.com"
+    },
+    "school_details": {
+        "Name of Institution": "SHANTI IDEAL CONVENT PUBLIC SCHOOL",
+        "Affiliation Number": "2730511",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "JAL VIHAR PHASE II NEW DELHI",
+        "Pin Code": "110059",
+        "Website": "www.shantiidealpublicschool.com",
+        "Year of Foundation": "1998",
+        "Date of First Opening of School": "25 Nov 1974",
+        "Name of Principal/ Head of Institution": "SHALU GAUR",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A. MATHS M.ED, Ph D",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "7",
+        "Teaching:": "15",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "SMT SHANTI DEVI EDU SCOEITY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

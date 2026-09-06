@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2754099",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754099"
+    },
+    "listing_data": {
+        "affiliation_number": "2754099",
+        "listing_raw_columns": [
+            "1349",
+            "Aff. No. : 2754099 Sch. Code: 27309",
+            "State : DELHI District : SOUTH DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR. SEC. SCHOOL NO 3 Head/Principal Name: SAHAV SINGH",
+            "Address : IIND SHIFT SECT -5 DR. AMBEDKAR NAGAR NEW DELHI Website : www.govbssno.co.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754099",
+        "serial_number": "1349",
+        "affiliation_and_school_code": "Aff. No. : 2754099 Sch. Code: 27309",
+        "state_and_district": "State : DELHI District : SOUTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR. SEC. SCHOOL NO 3 Head/Principal Name: SAHAV SINGH",
+        "address_and_website": "Address : IIND SHIFT SECT -5 DR. AMBEDKAR NAGAR NEW DELHI Website : www.govbssno.co.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR. SEC. SCHOOL NO 3",
+        "Affiliation Number": "2754099",
+        "State": "DELHI",
+        "District": "SOUTH DELHI",
+        "Postal Address": "IIND SHIFT SECT -5 DR. AMBEDKAR NAGAR NEW DELHI",
+        "Pin Code": "110062",
+        "Website": "www.govbssno.co.in",
+        "Year of Foundation": "1998",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "SAHAV SINGH",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MA",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "8",
+        "Teaching:": "18",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2020 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "dir. of edu.",
+        "Remarks, if any": null
+    },
+    "links": []
+}

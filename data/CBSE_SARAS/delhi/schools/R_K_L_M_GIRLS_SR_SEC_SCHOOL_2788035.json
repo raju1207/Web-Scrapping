@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2788035",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2788035"
+    },
+    "listing_data": {
+        "affiliation_number": "2788035",
+        "listing_raw_columns": [
+            "2242",
+            "Aff. No. : 2788035 Sch. Code: 87062",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : R K L M GIRLS SR SEC SCHOOL Head/Principal Name: MEENAKSHI AGGARWAL SCHOOL INCHARGE",
+            "Address : KAROL BAGH NEW DELHI Website : www.rklmgirls.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2788035",
+        "serial_number": "2242",
+        "affiliation_and_school_code": "Aff. No. : 2788035 Sch. Code: 87062",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : R K L M GIRLS SR SEC SCHOOL Head/Principal Name: MEENAKSHI AGGARWAL SCHOOL INCHARGE",
+        "address_and_website": "Address : KAROL BAGH NEW DELHI Website : www.rklmgirls.com"
+    },
+    "school_details": {
+        "Name of Institution": "R K L M GIRLS SR SEC SCHOOL",
+        "Affiliation Number": "2788035",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "KAROL BAGH NEW DELHI",
+        "Pin Code": "110005",
+        "Website": "www.rklmgirls.com",
+        "Year of Foundation": "1949",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "MEENAKSHI AGGARWAL SCHOOL INCHARGE",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A ./B.ED MATHS",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "0",
+        "Teaching:": "30",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "navshakti educational society",
+        "Remarks, if any": null
+    },
+    "links": []
+}

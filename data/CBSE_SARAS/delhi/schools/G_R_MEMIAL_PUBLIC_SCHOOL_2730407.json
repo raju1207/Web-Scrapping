@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730407",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730407"
+    },
+    "listing_data": {
+        "affiliation_number": "2730407",
+        "listing_raw_columns": [
+            "482",
+            "Aff. No. : 2730407 Sch. Code: 85371",
+            "State : DELHI District : WEST DELHI",
+            "Senior Secondary Level",
+            "Name : G R MEMIAL PUBLIC SCHOOL Head/Principal Name: RENU SHOKEEN",
+            "Address : SHIV RAM PARK NILOTHI MORE, DISTT WEST DELHI, DELHI Website : www.grmeducarion.ztc.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730407",
+        "serial_number": "482",
+        "affiliation_and_school_code": "Aff. No. : 2730407 Sch. Code: 85371",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : G R MEMIAL PUBLIC SCHOOL Head/Principal Name: RENU SHOKEEN",
+        "address_and_website": "Address : SHIV RAM PARK NILOTHI MORE, DISTT WEST DELHI, DELHI Website : www.grmeducarion.ztc.in"
+    },
+    "school_details": {
+        "Name of Institution": "G R MEMIAL PUBLIC SCHOOL",
+        "Affiliation Number": "2730407",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "SHIV RAM PARK NILOTHI MORE, DISTT WEST DELHI, DELHI",
+        "Pin Code": "110041",
+        "Website": "www.grmeducarion.ztc.in",
+        "Year of Foundation": "1991",
+        "Date of First Opening of School": "01 Apr 2008",
+        "Name of Principal/ Head of Institution": "RENU SHOKEEN",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "10",
+        "Teaching:": "25",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "tara devi educational & wel soc",
+        "Remarks, if any": null
+    },
+    "links": []
+}

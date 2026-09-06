@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2760042",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2760042"
+    },
+    "listing_data": {
+        "affiliation_number": "2760042",
+        "listing_raw_columns": [
+            "1662",
+            "Aff. No. : 2760042 Sch. Code:",
+            "State : DELHI District : NORTH DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT GIRLS SR SEC SCHOOL NO-2 Head/Principal Name: MR. C. KUMAR",
+            "Address : ROOP NAGAR DELHI Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2760042",
+        "serial_number": "1662",
+        "affiliation_and_school_code": "Aff. No. : 2760042 Sch. Code:",
+        "state_and_district": "State : DELHI District : NORTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT GIRLS SR SEC SCHOOL NO-2 Head/Principal Name: MR. C. KUMAR",
+        "address_and_website": "Address : ROOP NAGAR DELHI Website :"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT GIRLS SR SEC SCHOOL NO-2",
+        "Affiliation Number": "2760042",
+        "State": "DELHI",
+        "District": "NORTH DELHI",
+        "Postal Address": "ROOP NAGAR DELHI",
+        "Pin Code": "110007",
+        "Website": null,
+        "Year of Foundation": null,
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "MR. C. KUMAR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": null,
+        "No of Experience ( in Years ):": null,
+        "Administrative:": null,
+        "Teaching:": null,
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2002 To : 31/03/2006",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

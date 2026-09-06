@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2778018",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778018"
+    },
+    "listing_data": {
+        "affiliation_number": "2778018",
+        "listing_raw_columns": [
+            "2135",
+            "Aff. No. : 2778018 Sch. Code: 87152",
+            "State : DELHI District : NORTH DELHI",
+            "Senior Secondary Level",
+            "Name : SHRI PHOOL CHAND VAISH SR SEC SCHOOL Head/Principal Name: MANISHA",
+            "Address : PAHARI DHIRAJ DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778018",
+        "serial_number": "2135",
+        "affiliation_and_school_code": "Aff. No. : 2778018 Sch. Code: 87152",
+        "state_and_district": "State : DELHI District : NORTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SHRI PHOOL CHAND VAISH SR SEC SCHOOL Head/Principal Name: MANISHA",
+        "address_and_website": "Address : PAHARI DHIRAJ DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "SHRI PHOOL CHAND VAISH SR SEC SCHOOL",
+        "Affiliation Number": "2778018",
+        "State": "DELHI",
+        "District": "NORTH DELHI",
+        "Postal Address": "PAHARI DHIRAJ DELHI",
+        "Pin Code": "110006",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1942",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "MANISHA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A. M.PHIL",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "5",
+        "Teaching:": "33",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2013 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": null,
+        "Remarks, if any": null
+    },
+    "links": []
+}

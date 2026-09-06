@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2772010",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2772010"
+    },
+    "listing_data": {
+        "affiliation_number": "2772010",
+        "listing_raw_columns": [
+            "2060",
+            "Aff. No. : 2772010 Sch. Code: 27105",
+            "State : DELHI District : EAST DELHI",
+            "Secondary Level",
+            "Name : ALOK BHARTI SEC SCHOOL Head/Principal Name: SUDHIR KUMAR",
+            "Address : KHUREJI KHAS DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2772010",
+        "serial_number": "2060",
+        "affiliation_and_school_code": "Aff. No. : 2772010 Sch. Code: 27105",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : ALOK BHARTI SEC SCHOOL Head/Principal Name: SUDHIR KUMAR",
+        "address_and_website": "Address : KHUREJI KHAS DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "ALOK BHARTI SEC SCHOOL",
+        "Affiliation Number": "2772010",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "KHUREJI KHAS DELHI",
+        "Pin Code": "110051",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1971",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "SUDHIR KUMAR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A, B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "12",
+        "Teaching:": "17",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "alok shiksha prasar sansthan delhi",
+        "Remarks, if any": null
+    },
+    "links": []
+}

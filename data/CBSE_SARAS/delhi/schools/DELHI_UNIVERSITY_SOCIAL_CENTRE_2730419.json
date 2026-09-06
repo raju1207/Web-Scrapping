@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730419",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730419"
+    },
+    "listing_data": {
+        "affiliation_number": "2730419",
+        "listing_raw_columns": [
+            "494",
+            "Aff. No. : 2730419 Sch. Code: 87177",
+            "State : DELHI District : NORTH DELHI",
+            "Senior Secondary Level",
+            "Name : DELHI UNIVERSITY SOCIAL CENTRE Head/Principal Name: GARIMA BHARTI",
+            "Address : COEDU SECONDARY SCHOOL BLOCK C MAURICE NAGAR DELHI Website : www.duscss.du.ac.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730419",
+        "serial_number": "494",
+        "affiliation_and_school_code": "Aff. No. : 2730419 Sch. Code: 87177",
+        "state_and_district": "State : DELHI District : NORTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : DELHI UNIVERSITY SOCIAL CENTRE Head/Principal Name: GARIMA BHARTI",
+        "address_and_website": "Address : COEDU SECONDARY SCHOOL BLOCK C MAURICE NAGAR DELHI Website : www.duscss.du.ac.in"
+    },
+    "school_details": {
+        "Name of Institution": "DELHI UNIVERSITY SOCIAL CENTRE",
+        "Affiliation Number": "2730419",
+        "State": "DELHI",
+        "District": "NORTH DELHI",
+        "Postal Address": "COEDU SECONDARY SCHOOL BLOCK C MAURICE NAGAR DELHI",
+        "Pin Code": "110007",
+        "Website": "www.duscss.du.ac.in",
+        "Year of Foundation": "1947",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "GARIMA BHARTI",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "B.Sc, B.Ed, M.A. , Ph.d",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "20",
+        "Teaching:": "32",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "DELHI UNIVERSITY SOC CEN SCH SOC",
+        "Remarks, if any": null
+    },
+    "links": []
+}

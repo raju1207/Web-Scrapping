@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2770005",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2770005"
+    },
+    "listing_data": {
+        "affiliation_number": "2770005",
+        "listing_raw_columns": [
+            "2045",
+            "Aff. No. : 2770005 Sch. Code: 87169",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Secondary Level",
+            "Name : SHAHEED UDHAM SINGH SAMARAK (CO-EDN) Head/Principal Name: ATIT SAINI",
+            "Address : SEC SCHOOL SHASTRI NAGAR DELHI Website : www.abc.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2770005",
+        "serial_number": "2045",
+        "affiliation_and_school_code": "Aff. No. : 2770005 Sch. Code: 87169",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : SHAHEED UDHAM SINGH SAMARAK (CO-EDN) Head/Principal Name: ATIT SAINI",
+        "address_and_website": "Address : SEC SCHOOL SHASTRI NAGAR DELHI Website : www.abc.com"
+    },
+    "school_details": {
+        "Name of Institution": "SHAHEED UDHAM SINGH SAMARAK (CO-EDN)",
+        "Affiliation Number": "2770005",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "SEC SCHOOL SHASTRI NAGAR DELHI",
+        "Pin Code": "110052",
+        "Website": "www.abc.com",
+        "Year of Foundation": "1978",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "ATIT SAINI",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "Post Graduate",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "2",
+        "Teaching:": "17",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "school managing committee",
+        "Remarks, if any": null
+    },
+    "links": []
+}

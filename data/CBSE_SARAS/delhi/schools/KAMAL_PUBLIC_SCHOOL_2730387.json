@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730387",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730387"
+    },
+    "listing_data": {
+        "affiliation_number": "2730387",
+        "listing_raw_columns": [
+            "464",
+            "Aff. No. : 2730387 Sch. Code: 85434",
+            "State : DELHI District : WEST DELHI",
+            "Senior Secondary Level",
+            "Name : KAMAL PUBLIC SCHOOL Head/Principal Name: REEMA TANDON",
+            "Address : D BLOCK VIKAS PURI NEW DELHI Website : www.kamalpublicschool.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730387",
+        "serial_number": "464",
+        "affiliation_and_school_code": "Aff. No. : 2730387 Sch. Code: 85434",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : KAMAL PUBLIC SCHOOL Head/Principal Name: REEMA TANDON",
+        "address_and_website": "Address : D BLOCK VIKAS PURI NEW DELHI Website : www.kamalpublicschool.com"
+    },
+    "school_details": {
+        "Name of Institution": "KAMAL PUBLIC SCHOOL",
+        "Affiliation Number": "2730387",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "D BLOCK VIKAS PURI NEW DELHI",
+        "Pin Code": null,
+        "Website": "www.kamalpublicschool.com",
+        "Year of Foundation": "1986",
+        "Date of First Opening of School": "02 Apr 2012",
+        "Name of Principal/ Head of Institution": "REEMA TANDON",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MSC., B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "15",
+        "Teaching:": "14",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "KAMAL EDUCATIONAL AND WELFARE SOC",
+        "Remarks, if any": null
+    },
+    "links": []
+}

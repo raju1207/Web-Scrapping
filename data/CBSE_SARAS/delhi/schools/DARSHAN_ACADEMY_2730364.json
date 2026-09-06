@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730364",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730364"
+    },
+    "listing_data": {
+        "affiliation_number": "2730364",
+        "listing_raw_columns": [
+            "444",
+            "Aff. No. : 2730364 Sch. Code: 85065",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : DARSHAN ACADEMY Head/Principal Name: Mamta Sabharwal HOS",
+            "Address : KIRPAL BAGH SANT KIRPAL SINGH MARG, DISTT NORTH WEST DELHI, DELHI Website : www.delhi.darshanacademy.org",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730364",
+        "serial_number": "444",
+        "affiliation_and_school_code": "Aff. No. : 2730364 Sch. Code: 85065",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : DARSHAN ACADEMY Head/Principal Name: Mamta Sabharwal HOS",
+        "address_and_website": "Address : KIRPAL BAGH SANT KIRPAL SINGH MARG, DISTT NORTH WEST DELHI, DELHI Website : www.delhi.darshanacademy.org"
+    },
+    "school_details": {
+        "Name of Institution": "DARSHAN ACADEMY",
+        "Affiliation Number": "2730364",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "KIRPAL BAGH SANT KIRPAL SINGH MARG, DISTT NORTH WEST DELHI, DELHI",
+        "Pin Code": "110009",
+        "Website": "www.delhi.darshanacademy.org",
+        "Year of Foundation": "1997",
+        "Date of First Opening of School": "09 Jul 2003",
+        "Name of Principal/ Head of Institution": "Mamta Sabharwal HOS",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.Com M.A Eco B.Ed PGDSLM",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "14",
+        "Teaching:": "29",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "DARSHAL EDU FOUNDATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

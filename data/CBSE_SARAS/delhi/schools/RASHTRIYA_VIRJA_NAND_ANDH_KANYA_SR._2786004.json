@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2786004",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2786004"
+    },
+    "listing_data": {
+        "affiliation_number": "2786004",
+        "listing_raw_columns": [
+            "2210",
+            "Aff. No. : 2786004 Sch. Code: 87663",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : RASHTRIYA VIRJA NAND ANDH KANYA SR. Head/Principal Name: PRATIBHA SRIVASTAVA",
+            "Address : SEC.SCHOOL J-BLOCK VIKAS PURI NEW DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2786004",
+        "serial_number": "2210",
+        "affiliation_and_school_code": "Aff. No. : 2786004 Sch. Code: 87663",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : RASHTRIYA VIRJA NAND ANDH KANYA SR. Head/Principal Name: PRATIBHA SRIVASTAVA",
+        "address_and_website": "Address : SEC.SCHOOL J-BLOCK VIKAS PURI NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "RASHTRIYA VIRJA NAND ANDH KANYA SR.",
+        "Affiliation Number": "2786004",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "SEC.SCHOOL J-BLOCK VIKAS PURI NEW DELHI",
+        "Pin Code": "110018",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1966",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "PRATIBHA SRIVASTAVA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA B Ed Special training for Visually Impaired",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "0",
+        "Teaching:": "30",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "AIRFORCE PALAM",
+        "Remarks, if any": null
+    },
+    "links": []
+}

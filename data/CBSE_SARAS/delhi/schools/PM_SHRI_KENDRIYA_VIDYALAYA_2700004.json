@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2700004",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700004"
+    },
+    "listing_data": {
+        "affiliation_number": "2700004",
+        "listing_raw_columns": [
+            "4",
+            "Aff. No. : 2700004 Sch. Code: 29012",
+            "State : DELHI District : SOUTH DELHI",
+            "Senior Secondary Level",
+            "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: RENU GUPTA",
+            "Address : SECTOR IV R K PURAM NEW DELHI Website : http://rkpuramsec4.kvs.ac.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700004",
+        "serial_number": "4",
+        "affiliation_and_school_code": "Aff. No. : 2700004 Sch. Code: 29012",
+        "state_and_district": "State : DELHI District : SOUTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: RENU GUPTA",
+        "address_and_website": "Address : SECTOR IV R K PURAM NEW DELHI Website : http://rkpuramsec4.kvs.ac.in/"
+    },
+    "school_details": {
+        "Name of Institution": "PM SHRI KENDRIYA VIDYALAYA",
+        "Affiliation Number": "2700004",
+        "State": "DELHI",
+        "District": "SOUTH DELHI",
+        "Postal Address": "SECTOR IV R K PURAM NEW DELHI",
+        "Pin Code": "110022",
+        "Website": "http://rkpuramsec4.kvs.ac.in/",
+        "Year of Foundation": "1970",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "RENU GUPTA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA BEd",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "1",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "KV",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "KENDRIYA VIDYALAYA SANGATHAN N.D.",
+        "Remarks, if any": null
+    },
+    "links": []
+}

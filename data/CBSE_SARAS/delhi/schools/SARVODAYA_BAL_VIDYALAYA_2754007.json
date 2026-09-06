@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2754007",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754007"
+    },
+    "listing_data": {
+        "affiliation_number": "2754007",
+        "listing_raw_columns": [
+            "1278",
+            "Aff. No. : 2754007 Sch. Code: 27433",
+            "State : DELHI District : SOUTH DELHI",
+            "Senior Secondary Level",
+            "Name : SARVODAYA BAL VIDYALAYA Head/Principal Name: MUKESH KUMAR",
+            "Address : MOLARBAND P.O. BADARPUR NEW DELHI Website : https://www.edudel.nic.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754007",
+        "serial_number": "1278",
+        "affiliation_and_school_code": "Aff. No. : 2754007 Sch. Code: 27433",
+        "state_and_district": "State : DELHI District : SOUTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SARVODAYA BAL VIDYALAYA Head/Principal Name: MUKESH KUMAR",
+        "address_and_website": "Address : MOLARBAND P.O. BADARPUR NEW DELHI Website : https://www.edudel.nic.in/"
+    },
+    "school_details": {
+        "Name of Institution": "SARVODAYA BAL VIDYALAYA",
+        "Affiliation Number": "2754007",
+        "State": "DELHI",
+        "District": "SOUTH DELHI",
+        "Postal Address": "MOLARBAND P.O. BADARPUR NEW DELHI",
+        "Pin Code": "110044",
+        "Website": "https://www.edudel.nic.in/",
+        "Year of Foundation": "1960",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "MUKESH KUMAR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A,b.ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "5",
+        "Teaching:": "17",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "delhi administration",
+        "Remarks, if any": null
+    },
+    "links": []
+}

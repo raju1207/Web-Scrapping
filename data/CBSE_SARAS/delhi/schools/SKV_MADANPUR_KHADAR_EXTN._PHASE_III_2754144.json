@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2754144",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754144"
+    },
+    "listing_data": {
+        "affiliation_number": "2754144",
+        "listing_raw_columns": [
+            "1393",
+            "Aff. No. : 2754144 Sch. Code: 27376",
+            "State : DELHI District : SOUTH DELHI",
+            "Senior Secondary Level",
+            "Name : SKV MADANPUR KHADAR EXTN. PHASE III Head/Principal Name: Shabnam Naz",
+            "Address : PH-III MADANPUR KHADAR, NEW DELHI- Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754144",
+        "serial_number": "1393",
+        "affiliation_and_school_code": "Aff. No. : 2754144 Sch. Code: 27376",
+        "state_and_district": "State : DELHI District : SOUTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SKV MADANPUR KHADAR EXTN. PHASE III Head/Principal Name: Shabnam Naz",
+        "address_and_website": "Address : PH-III MADANPUR KHADAR, NEW DELHI- Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "SKV MADANPUR KHADAR EXTN. PHASE III",
+        "Affiliation Number": "2754144",
+        "State": "DELHI",
+        "District": "SOUTH DELHI",
+        "Postal Address": "PH-III MADANPUR KHADAR, NEW DELHI-",
+        "Pin Code": null,
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "2018",
+        "Date of First Opening of School": "18 Oct 2018",
+        "Name of Principal/ Head of Institution": "Shabnam Naz",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A , B.ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "8",
+        "Teaching:": "18",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "kendriya vidyalaya sangathan",
+        "Remarks, if any": null
+    },
+    "links": []
+}

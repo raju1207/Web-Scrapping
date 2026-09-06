@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730013",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730013"
+    },
+    "listing_data": {
+        "affiliation_number": "2730013",
+        "listing_raw_columns": [
+            "103",
+            "Aff. No. : 2730013 Sch. Code: 25044",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : SOMERVILLE SCHOOL Head/Principal Name: ESTHER MANI",
+            "Address : VASUNDHARA ENCLAVE DELHI Website : https://somervillevasundhara.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730013",
+        "serial_number": "103",
+        "affiliation_and_school_code": "Aff. No. : 2730013 Sch. Code: 25044",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SOMERVILLE SCHOOL Head/Principal Name: ESTHER MANI",
+        "address_and_website": "Address : VASUNDHARA ENCLAVE DELHI Website : https://somervillevasundhara.in/"
+    },
+    "school_details": {
+        "Name of Institution": "SOMERVILLE SCHOOL",
+        "Affiliation Number": "2730013",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "VASUNDHARA ENCLAVE DELHI",
+        "Pin Code": "110096",
+        "Website": "https://somervillevasundhara.in/",
+        "Year of Foundation": "1974",
+        "Date of First Opening of School": "04 Apr 2006",
+        "Name of Principal/ Head of Institution": "ESTHER MANI",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A., M.ED.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "14",
+        "Teaching:": "26",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "LOTT CAREY BAPTIST MISSION IN INDIA",
+        "Remarks, if any": null
+    },
+    "links": []
+}

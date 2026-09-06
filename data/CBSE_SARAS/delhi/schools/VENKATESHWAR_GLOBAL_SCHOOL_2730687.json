@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730687",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730687"
+    },
+    "listing_data": {
+        "affiliation_number": "2730687",
+        "listing_raw_columns": [
+            "755",
+            "Aff. No. : 2730687 Sch. Code: 85277",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : VENKATESHWAR GLOBAL SCHOOL Head/Principal Name: NAMITA SINGHAL",
+            "Address : SECT-13, ROHINI Website : www.vgs.co.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730687",
+        "serial_number": "755",
+        "affiliation_and_school_code": "Aff. No. : 2730687 Sch. Code: 85277",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : VENKATESHWAR GLOBAL SCHOOL Head/Principal Name: NAMITA SINGHAL",
+        "address_and_website": "Address : SECT-13, ROHINI Website : www.vgs.co.in"
+    },
+    "school_details": {
+        "Name of Institution": "VENKATESHWAR GLOBAL SCHOOL",
+        "Affiliation Number": "2730687",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "SECT-13, ROHINI",
+        "Pin Code": "110089",
+        "Website": "www.vgs.co.in",
+        "Year of Foundation": "2008",
+        "Date of First Opening of School": "01 Apr 2008",
+        "Name of Principal/ Head of Institution": "NAMITA SINGHAL",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "PHD MED BED MA ENG",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "18",
+        "Teaching:": "27",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "ashoka education & welfare society",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2768016",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2768016"
+    },
+    "listing_data": {
+        "affiliation_number": "2768016",
+        "listing_raw_columns": [
+            "2002",
+            "Aff. No. : 2768016 Sch. Code: 87133",
+            "State : DELHI District : NORTH DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT SARVODAYA GIRLS SR SEC SCHOOL Head/Principal Name: TARA RANI",
+            "Address : (AHATA KEDARA) IDGAH ROAD DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2768016",
+        "serial_number": "2002",
+        "affiliation_and_school_code": "Aff. No. : 2768016 Sch. Code: 87133",
+        "state_and_district": "State : DELHI District : NORTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT SARVODAYA GIRLS SR SEC SCHOOL Head/Principal Name: TARA RANI",
+        "address_and_website": "Address : (AHATA KEDARA) IDGAH ROAD DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT SARVODAYA GIRLS SR SEC SCHOOL",
+        "Affiliation Number": "2768016",
+        "State": "DELHI",
+        "District": "NORTH DELHI",
+        "Postal Address": "(AHATA KEDARA) IDGAH ROAD DELHI",
+        "Pin Code": "110006",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1970",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "TARA RANI",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "4",
+        "Teaching:": "21",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "delhi admn",
+        "Remarks, if any": null
+    },
+    "links": []
+}

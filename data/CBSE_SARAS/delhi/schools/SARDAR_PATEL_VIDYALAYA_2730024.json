@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730024",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730024"
+    },
+    "listing_data": {
+        "affiliation_number": "2730024",
+        "listing_raw_columns": [
+            "114",
+            "Aff. No. : 2730024 Sch. Code: 25096",
+            "State : DELHI District : CENTRAL DELHI",
+            "Senior Secondary Level",
+            "Name : SARDAR PATEL VIDYALAYA Head/Principal Name: Anuradha Joshi",
+            "Address : ROAD NO 3 LODI ESTATE NEW DELHI Website : www.spvdelhi.org",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730024",
+        "serial_number": "114",
+        "affiliation_and_school_code": "Aff. No. : 2730024 Sch. Code: 25096",
+        "state_and_district": "State : DELHI District : CENTRAL DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SARDAR PATEL VIDYALAYA Head/Principal Name: Anuradha Joshi",
+        "address_and_website": "Address : ROAD NO 3 LODI ESTATE NEW DELHI Website : www.spvdelhi.org"
+    },
+    "school_details": {
+        "Name of Institution": "SARDAR PATEL VIDYALAYA",
+        "Affiliation Number": "2730024",
+        "State": "DELHI",
+        "District": "CENTRAL DELHI",
+        "Postal Address": "ROAD NO 3 LODI ESTATE NEW DELHI",
+        "Pin Code": "110003",
+        "Website": "www.spvdelhi.org",
+        "Year of Foundation": "1958",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "Anuradha Joshi",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.Sc, B.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "27",
+        "Teaching:": "16",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": "Permanant",
+        "Affiliation Period": "Permanent (Subject to final outcome of WPC-6115/19 pending before Honourable High court of Delhi)",
+        "Name of Trust/ Society/ Managing Committee": "GUJARAT EDUCATION SOCIETY REGI",
+        "Remarks, if any": "Permanent (Subject to final outcome of WPC-6115/19 pending before Honourable High court of Delhi)"
+    },
+    "links": []
+}

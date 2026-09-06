@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730230",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730230"
+    },
+    "listing_data": {
+        "affiliation_number": "2730230",
+        "listing_raw_columns": [
+            "316",
+            "Aff. No. : 2730230 Sch. Code: 25398",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : RASHTRA SHAKTI VIDYALAYA Head/Principal Name: MEENAKSHI BHAT HOS",
+            "Address : HASTSAL (GANDHI NIDHI) NEAR UTTAM NAGAR NEW DELHI Website : https://rashtrashaktividyalaya.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730230",
+        "serial_number": "316",
+        "affiliation_and_school_code": "Aff. No. : 2730230 Sch. Code: 25398",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : RASHTRA SHAKTI VIDYALAYA Head/Principal Name: MEENAKSHI BHAT HOS",
+        "address_and_website": "Address : HASTSAL (GANDHI NIDHI) NEAR UTTAM NAGAR NEW DELHI Website : https://rashtrashaktividyalaya.com"
+    },
+    "school_details": {
+        "Name of Institution": "RASHTRA SHAKTI VIDYALAYA",
+        "Affiliation Number": "2730230",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "HASTSAL (GANDHI NIDHI) NEAR UTTAM NAGAR NEW DELHI",
+        "Pin Code": "110059",
+        "Website": "https://rashtrashaktividyalaya.com",
+        "Year of Foundation": "1962",
+        "Date of First Opening of School": "16 Jul 2019",
+        "Name of Principal/ Head of Institution": "MEENAKSHI BHAT HOS",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MSC, BEd.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "05",
+        "Teaching:": "09",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "GANDHI SMARAK SRAM SEVA KENDRA",
+        "Remarks, if any": null
+    },
+    "links": []
+}

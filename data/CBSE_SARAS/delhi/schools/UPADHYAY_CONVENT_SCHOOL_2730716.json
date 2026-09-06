@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730716",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730716"
+    },
+    "listing_data": {
+        "affiliation_number": "2730716",
+        "listing_raw_columns": [
+            "782",
+            "Aff. No. : 2730716 Sch. Code: 85044",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : UPADHYAY CONVENT SCHOOL Head/Principal Name: NIDHI SHARMA",
+            "Address : D BLOCK MAIN ROAD KADI VIHAR , NEAR NATHUPURA , BURARI , DELHI Website : www.upadhyayshool.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730716",
+        "serial_number": "782",
+        "affiliation_and_school_code": "Aff. No. : 2730716 Sch. Code: 85044",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : UPADHYAY CONVENT SCHOOL Head/Principal Name: NIDHI SHARMA",
+        "address_and_website": "Address : D BLOCK MAIN ROAD KADI VIHAR , NEAR NATHUPURA , BURARI , DELHI Website : www.upadhyayshool.in"
+    },
+    "school_details": {
+        "Name of Institution": "UPADHYAY CONVENT SCHOOL",
+        "Affiliation Number": "2730716",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "D BLOCK MAIN ROAD KADI VIHAR , NEAR NATHUPURA , BURARI , DELHI",
+        "Pin Code": "110036",
+        "Website": "www.upadhyayshool.in",
+        "Year of Foundation": "2005",
+        "Date of First Opening of School": "01 Apr 2005",
+        "Name of Principal/ Head of Institution": "NIDHI SHARMA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.SC B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "4",
+        "Teaching:": "8",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "chiranjeev eduaction society",
+        "Remarks, if any": null
+    },
+    "links": []
+}

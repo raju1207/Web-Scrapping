@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730188",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730188"
+    },
+    "listing_data": {
+        "affiliation_number": "2730188",
+        "listing_raw_columns": [
+            "275",
+            "Aff. No. : 2730188 Sch. Code: 85442",
+            "State : DELHI District : WEST DELHI",
+            "Senior Secondary Level",
+            "Name : ST. MARKS'S SR SEC PUBLIC SCHOOL Head/Principal Name: RITIKA ANAND",
+            "Address : MAIN ROAD, MEERA BAGH, DISTT WEST DELHI, NEW DELHI Website : www.saintmarksschool.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730188",
+        "serial_number": "275",
+        "affiliation_and_school_code": "Aff. No. : 2730188 Sch. Code: 85442",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : ST. MARKS'S SR SEC PUBLIC SCHOOL Head/Principal Name: RITIKA ANAND",
+        "address_and_website": "Address : MAIN ROAD, MEERA BAGH, DISTT WEST DELHI, NEW DELHI Website : www.saintmarksschool.com"
+    },
+    "school_details": {
+        "Name of Institution": "ST. MARKS'S SR SEC PUBLIC SCHOOL",
+        "Affiliation Number": "2730188",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "MAIN ROAD, MEERA BAGH, DISTT WEST DELHI, NEW DELHI",
+        "Pin Code": "110087",
+        "Website": "www.saintmarksschool.com",
+        "Year of Foundation": "1990",
+        "Date of First Opening of School": "01 Jul 2003",
+        "Name of Principal/ Head of Institution": "RITIKA ANAND",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "B.Sc. Physics, M.Sc. Maths, M.A. English, B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "8",
+        "Teaching:": "24",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "ST MARKS CHRISTIAN EDN. SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

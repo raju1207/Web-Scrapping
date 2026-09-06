@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730192",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730192"
+    },
+    "listing_data": {
+        "affiliation_number": "2730192",
+        "listing_raw_columns": [
+            "279",
+            "Aff. No. : 2730192 Sch. Code: 85405",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : LT. COL. MEHAR LITTLE ANGELS SR SEC SCHOOL Head/Principal Name: MD IMRAN ZAFEER HOS VICE PRINCIPAL INTERIM",
+            "Address : B5-BLOCK PASCHIM VIHAR NEW DELHI Website : www.laps.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730192",
+        "serial_number": "279",
+        "affiliation_and_school_code": "Aff. No. : 2730192 Sch. Code: 85405",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : LT. COL. MEHAR LITTLE ANGELS SR SEC SCHOOL Head/Principal Name: MD IMRAN ZAFEER HOS VICE PRINCIPAL INTERIM",
+        "address_and_website": "Address : B5-BLOCK PASCHIM VIHAR NEW DELHI Website : www.laps.in"
+    },
+    "school_details": {
+        "Name of Institution": "LT. COL. MEHAR LITTLE ANGELS SR SEC SCHOOL",
+        "Affiliation Number": "2730192",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "B5-BLOCK PASCHIM VIHAR NEW DELHI",
+        "Pin Code": "110063",
+        "Website": "www.laps.in",
+        "Year of Foundation": "1988",
+        "Date of First Opening of School": "01 Apr 2005",
+        "Name of Principal/ Head of Institution": "MD IMRAN ZAFEER HOS VICE PRINCIPAL INTERIM",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.SC chemistry, B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "5",
+        "Teaching:": "7",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "LITTLE ANGELS PUB SCH SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

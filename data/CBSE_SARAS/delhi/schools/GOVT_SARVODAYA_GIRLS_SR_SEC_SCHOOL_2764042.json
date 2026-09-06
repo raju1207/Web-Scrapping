@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2764042",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764042"
+    },
+    "listing_data": {
+        "affiliation_number": "2764042",
+        "listing_raw_columns": [
+            "1847",
+            "Aff. No. : 2764042 Sch. Code: 27150",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT SARVODAYA GIRLS SR SEC SCHOOL Head/Principal Name: DAYAVATI MEENA",
+            "Address : MOTI BAGH-I NEW DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764042",
+        "serial_number": "1847",
+        "affiliation_and_school_code": "Aff. No. : 2764042 Sch. Code: 27150",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT SARVODAYA GIRLS SR SEC SCHOOL Head/Principal Name: DAYAVATI MEENA",
+        "address_and_website": "Address : MOTI BAGH-I NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT SARVODAYA GIRLS SR SEC SCHOOL",
+        "Affiliation Number": "2764042",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "MOTI BAGH-I NEW DELHI",
+        "Pin Code": "110021",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1968",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "DAYAVATI MEENA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "9",
+        "Teaching:": "7",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "delhi administration",
+        "Remarks, if any": null
+    },
+    "links": []
+}

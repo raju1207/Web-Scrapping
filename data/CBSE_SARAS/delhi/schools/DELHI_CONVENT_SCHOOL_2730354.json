@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730354",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730354"
+    },
+    "listing_data": {
+        "affiliation_number": "2730354",
+        "listing_raw_columns": [
+            "435",
+            "Aff. No. : 2730354 Sch. Code: 25014",
+            "State : DELHI District : EAST DELHI",
+            "Secondary Level",
+            "Name : DELHI CONVENT SCHOOL Head/Principal Name: Saroj Bala",
+            "Address : GANESH NAGAR PANDAV NAGAR COMPLEX DELHI Website : https://delhiconventschoolganeshngr.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730354",
+        "serial_number": "435",
+        "affiliation_and_school_code": "Aff. No. : 2730354 Sch. Code: 25014",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : DELHI CONVENT SCHOOL Head/Principal Name: Saroj Bala",
+        "address_and_website": "Address : GANESH NAGAR PANDAV NAGAR COMPLEX DELHI Website : https://delhiconventschoolganeshngr.in/"
+    },
+    "school_details": {
+        "Name of Institution": "DELHI CONVENT SCHOOL",
+        "Affiliation Number": "2730354",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "GANESH NAGAR PANDAV NAGAR COMPLEX DELHI",
+        "Pin Code": "110092",
+        "Website": "https://delhiconventschoolganeshngr.in/",
+        "Year of Foundation": "1980",
+        "Date of First Opening of School": "01 Apr 2006",
+        "Name of Principal/ Head of Institution": "Saroj Bala",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "B.ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "01",
+        "Teaching:": "30",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "sir chottu ram educational society",
+        "Remarks, if any": null
+    },
+    "links": []
+}

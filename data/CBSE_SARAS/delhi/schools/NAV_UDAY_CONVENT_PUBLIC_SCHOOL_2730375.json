@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730375",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730375"
+    },
+    "listing_data": {
+        "affiliation_number": "2730375",
+        "listing_raw_columns": [
+            "454",
+            "Aff. No. : 2730375 Sch. Code: 25339",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : NAV UDAY CONVENT PUBLIC SCHOOL Head/Principal Name: NIMMI",
+            "Address : D BLOCK PREM NAGAR NAJAFGARH, DISTT SOUTH WEST DELHI, NEW DELHI Website : www.navudayschool.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730375",
+        "serial_number": "454",
+        "affiliation_and_school_code": "Aff. No. : 2730375 Sch. Code: 25339",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : NAV UDAY CONVENT PUBLIC SCHOOL Head/Principal Name: NIMMI",
+        "address_and_website": "Address : D BLOCK PREM NAGAR NAJAFGARH, DISTT SOUTH WEST DELHI, NEW DELHI Website : www.navudayschool.in"
+    },
+    "school_details": {
+        "Name of Institution": "NAV UDAY CONVENT PUBLIC SCHOOL",
+        "Affiliation Number": "2730375",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "D BLOCK PREM NAGAR NAJAFGARH, DISTT SOUTH WEST DELHI, NEW DELHI",
+        "Pin Code": "110043",
+        "Website": "www.navudayschool.in",
+        "Year of Foundation": "2000",
+        "Date of First Opening of School": "02 Apr 2001",
+        "Name of Principal/ Head of Institution": "NIMMI",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MA, B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "7",
+        "Teaching:": "11",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "LAXMI DEVI EDN SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

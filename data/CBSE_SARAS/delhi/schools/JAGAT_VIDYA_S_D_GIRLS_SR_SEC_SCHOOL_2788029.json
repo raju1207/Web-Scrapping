@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2788029",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2788029"
+    },
+    "listing_data": {
+        "affiliation_number": "2788029",
+        "listing_raw_columns": [
+            "2237",
+            "Aff. No. : 2788029 Sch. Code: 87065",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : JAGAT VIDYA S D GIRLS SR SEC SCHOOL Head/Principal Name: ANITA",
+            "Address : D-2 LINK ROAD JHANDEWALAN EXTN. KAROL BAGH NEW DELHI Website : www.jvsd.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2788029",
+        "serial_number": "2237",
+        "affiliation_and_school_code": "Aff. No. : 2788029 Sch. Code: 87065",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : JAGAT VIDYA S D GIRLS SR SEC SCHOOL Head/Principal Name: ANITA",
+        "address_and_website": "Address : D-2 LINK ROAD JHANDEWALAN EXTN. KAROL BAGH NEW DELHI Website : www.jvsd.in"
+    },
+    "school_details": {
+        "Name of Institution": "JAGAT VIDYA S D GIRLS SR SEC SCHOOL",
+        "Affiliation Number": "2788029",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "D-2 LINK ROAD JHANDEWALAN EXTN. KAROL BAGH NEW DELHI",
+        "Pin Code": "110005",
+        "Website": "www.jvsd.in",
+        "Year of Foundation": "1968",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "ANITA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA GEOGRAPHY, BEd, M Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "0",
+        "Teaching:": "27",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "S D EDUCATION SOCIETY REGD.",
+        "Remarks, if any": null
+    },
+    "links": []
+}

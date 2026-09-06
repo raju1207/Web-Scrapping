@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730097",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730097"
+    },
+    "listing_data": {
+        "affiliation_number": "2730097",
+        "listing_raw_columns": [
+            "185",
+            "Aff. No. : 2730097 Sch. Code:",
+            "State : DELHI District : NEW DELHI",
+            "Secondary Level",
+            "Name : SHARMA MONTESSORI SEC SCHOOL Head/Principal Name: VINOD SHARMA",
+            "Address : MATA SUNDRI ROAD NEW DELHI Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730097",
+        "serial_number": "185",
+        "affiliation_and_school_code": "Aff. No. : 2730097 Sch. Code:",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : SHARMA MONTESSORI SEC SCHOOL Head/Principal Name: VINOD SHARMA",
+        "address_and_website": "Address : MATA SUNDRI ROAD NEW DELHI Website :"
+    },
+    "school_details": {
+        "Name of Institution": "SHARMA MONTESSORI SEC SCHOOL",
+        "Affiliation Number": "2730097",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "MATA SUNDRI ROAD NEW DELHI",
+        "Pin Code": "110002",
+        "Website": null,
+        "Year of Foundation": null,
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "VINOD SHARMA",
+        "Gender": "Unknown",
+        "Principal's Educational/Professional Qualifications:": null,
+        "No of Experience ( in Years ):": null,
+        "Administrative:": null,
+        "Teaching:": null,
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/05/1983 To : 30/04/1994",
+        "Name of Trust/ Society/ Managing Committee": "SHARMA MONTESSORI SCH&ORIENTAL CLGE",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2700038",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700038"
+    },
+    "listing_data": {
+        "affiliation_number": "2700038",
+        "listing_raw_columns": [
+            "37",
+            "Aff. No. : 2700038 Sch. Code: 89010",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : KENDRIYA VIDYALAYA Head/Principal Name: Akhileswar Jha",
+            "Address : SECTOR 22 ROHINI RUNNING AT POCKET D 16 SECTOR 3 ROHINI DELHI Website : https://rohinisec22.kvs.ac.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700038",
+        "serial_number": "37",
+        "affiliation_and_school_code": "Aff. No. : 2700038 Sch. Code: 89010",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : KENDRIYA VIDYALAYA Head/Principal Name: Akhileswar Jha",
+        "address_and_website": "Address : SECTOR 22 ROHINI RUNNING AT POCKET D 16 SECTOR 3 ROHINI DELHI Website : https://rohinisec22.kvs.ac.in/"
+    },
+    "school_details": {
+        "Name of Institution": "KENDRIYA VIDYALAYA",
+        "Affiliation Number": "2700038",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "SECTOR 22 ROHINI RUNNING AT POCKET D 16 SECTOR 3 ROHINI DELHI",
+        "Pin Code": "110085",
+        "Website": "https://rohinisec22.kvs.ac.in/",
+        "Year of Foundation": "2003",
+        "Date of First Opening of School": "27 Jul 2006",
+        "Name of Principal/ Head of Institution": "Akhileswar Jha",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.Sc , B.Ed, D. Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "10",
+        "Teaching:": "15",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "KV",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "Kendriya Vidyalaya Sangathan",
+        "Remarks, if any": null
+    },
+    "links": []
+}

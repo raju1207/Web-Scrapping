@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730604",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730604"
+    },
+    "listing_data": {
+        "affiliation_number": "2730604",
+        "listing_raw_columns": [
+            "674",
+            "Aff. No. : 2730604 Sch. Code: 25353",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : THE DEV PUBLIC SCHOOL Head/Principal Name: Rajesh Kumari",
+            "Address : 58/2, SURYA KUNJ, JHARODHA ROAD, NEW DELHI-110072 Website : www.thedevpublicschool.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730604",
+        "serial_number": "674",
+        "affiliation_and_school_code": "Aff. No. : 2730604 Sch. Code: 25353",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : THE DEV PUBLIC SCHOOL Head/Principal Name: Rajesh Kumari",
+        "address_and_website": "Address : 58/2, SURYA KUNJ, JHARODHA ROAD, NEW DELHI-110072 Website : www.thedevpublicschool.com"
+    },
+    "school_details": {
+        "Name of Institution": "THE DEV PUBLIC SCHOOL",
+        "Affiliation Number": "2730604",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "58/2, SURYA KUNJ, JHARODHA ROAD, NEW DELHI-110072",
+        "Pin Code": "110072",
+        "Website": "www.thedevpublicschool.com",
+        "Year of Foundation": "2009",
+        "Date of First Opening of School": "01 Apr 2005",
+        "Name of Principal/ Head of Institution": "Rajesh Kumari",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "B.ed and M.A.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "17",
+        "Teaching:": "7",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "Shri Shyam Educational Society , Najafgarh",
+        "Remarks, if any": null
+    },
+    "links": []
+}

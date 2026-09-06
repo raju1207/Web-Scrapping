@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2766001",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2766001"
+    },
+    "listing_data": {
+        "affiliation_number": "2766001",
+        "listing_raw_columns": [
+            "1900",
+            "Aff. No. : 2766001 Sch. Code: 27120",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT SARVODAYA GIRLS SR SEC SCHOOL Head/Principal Name: SIMA MALLICK",
+            "Address : DELHI CANTT NEW DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2766001",
+        "serial_number": "1900",
+        "affiliation_and_school_code": "Aff. No. : 2766001 Sch. Code: 27120",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT SARVODAYA GIRLS SR SEC SCHOOL Head/Principal Name: SIMA MALLICK",
+        "address_and_website": "Address : DELHI CANTT NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT SARVODAYA GIRLS SR SEC SCHOOL",
+        "Affiliation Number": "2766001",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "DELHI CANTT NEW DELHI",
+        "Pin Code": "110010",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1958",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "SIMA MALLICK",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "PH.D, B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "04",
+        "Teaching:": "16",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

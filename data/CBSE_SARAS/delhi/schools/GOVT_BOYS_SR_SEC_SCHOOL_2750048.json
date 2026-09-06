@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2750048",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750048"
+    },
+    "listing_data": {
+        "affiliation_number": "2750048",
+        "listing_raw_columns": [
+            "1005",
+            "Aff. No. : 2750048 Sch. Code: 87304",
+            "State : DELHI District : NORTH DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: LAL SAB",
+            "Address : RANA PRATAP BAGH DELHI Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750048",
+        "serial_number": "1005",
+        "affiliation_and_school_code": "Aff. No. : 2750048 Sch. Code: 87304",
+        "state_and_district": "State : DELHI District : NORTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: LAL SAB",
+        "address_and_website": "Address : RANA PRATAP BAGH DELHI Website :"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR SEC SCHOOL",
+        "Affiliation Number": "2750048",
+        "State": "DELHI",
+        "District": "NORTH DELHI",
+        "Postal Address": "RANA PRATAP BAGH DELHI",
+        "Pin Code": "110007",
+        "Website": null,
+        "Year of Foundation": "1963",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "LAL SAB",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "10",
+        "Teaching:": "12",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

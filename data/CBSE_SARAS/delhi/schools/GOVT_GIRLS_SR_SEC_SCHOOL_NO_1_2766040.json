@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2766040",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2766040"
+    },
+    "listing_data": {
+        "affiliation_number": "2766040",
+        "listing_raw_columns": [
+            "1939",
+            "Aff. No. : 2766040 Sch. Code: 87561",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT GIRLS SR SEC SCHOOL NO 1 Head/Principal Name: GEETA CHOUDHARY",
+            "Address : MADIPUR NEW DELHI Website : z151515028@GMAIL.COM",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2766040",
+        "serial_number": "1939",
+        "affiliation_and_school_code": "Aff. No. : 2766040 Sch. Code: 87561",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT GIRLS SR SEC SCHOOL NO 1 Head/Principal Name: GEETA CHOUDHARY",
+        "address_and_website": "Address : MADIPUR NEW DELHI Website : z151515028@GMAIL.COM"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT GIRLS SR SEC SCHOOL NO 1",
+        "Affiliation Number": "2766040",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "MADIPUR NEW DELHI",
+        "Pin Code": "110063",
+        "Website": "z151515028@GMAIL.COM",
+        "Year of Foundation": "1962",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "GEETA CHOUDHARY",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A ,B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "18",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "directate of education",
+        "Remarks, if any": null
+    },
+    "links": []
+}

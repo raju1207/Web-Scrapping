@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730710",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730710"
+    },
+    "listing_data": {
+        "affiliation_number": "2730710",
+        "listing_raw_columns": [
+            "776",
+            "Aff. No. : 2730710 Sch. Code: 25363",
+            "State : DELHI District : WEST DELHI",
+            "Senior Secondary Level",
+            "Name : G.B.M PUBLIC SCHOOL Head/Principal Name: MOOL CHAND",
+            "Address : SHIVANI ENCLAVE, PHASE-1, KAKROLA, NEW DELHI-110078 Website : http://gmbpublicschool.com/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730710",
+        "serial_number": "776",
+        "affiliation_and_school_code": "Aff. No. : 2730710 Sch. Code: 25363",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : G.B.M PUBLIC SCHOOL Head/Principal Name: MOOL CHAND",
+        "address_and_website": "Address : SHIVANI ENCLAVE, PHASE-1, KAKROLA, NEW DELHI-110078 Website : http://gmbpublicschool.com/"
+    },
+    "school_details": {
+        "Name of Institution": "G.B.M PUBLIC SCHOOL",
+        "Affiliation Number": "2730710",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "SHIVANI ENCLAVE, PHASE-1, KAKROLA, NEW DELHI-110078",
+        "Pin Code": "110078",
+        "Website": "http://gmbpublicschool.com/",
+        "Year of Foundation": "2000",
+        "Date of First Opening of School": "01 Apr 2000",
+        "Name of Principal/ Head of Institution": "MOOL CHAND",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.SC.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "22",
+        "Teaching:": "22",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "GULAB BIR EDUCATIONAL & CHARITABLE SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2750070",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750070"
+    },
+    "listing_data": {
+        "affiliation_number": "2750070",
+        "listing_raw_columns": [
+            "1023",
+            "Aff. No. : 2750070 Sch. Code:",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Secondary Level",
+            "Name : GOVT BOYS SEC SCHOOL Head/Principal Name: SHRI G C GOHAR",
+            "Address : ANAND VAS (2ND SHIFT) DELHI Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750070",
+        "serial_number": "1023",
+        "affiliation_and_school_code": "Aff. No. : 2750070 Sch. Code:",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SEC SCHOOL Head/Principal Name: SHRI G C GOHAR",
+        "address_and_website": "Address : ANAND VAS (2ND SHIFT) DELHI Website :"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SEC SCHOOL",
+        "Affiliation Number": "2750070",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "ANAND VAS (2ND SHIFT) DELHI",
+        "Pin Code": "110034",
+        "Website": null,
+        "Year of Foundation": null,
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "SHRI G C GOHAR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": null,
+        "No of Experience ( in Years ):": null,
+        "Administrative:": null,
+        "Teaching:": null,
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2002 To : 31/03/2007",
+        "Name of Trust/ Society/ Managing Committee": "GOVERNMENT",
+        "Remarks, if any": null
+    },
+    "links": []
+}

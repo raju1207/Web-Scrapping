@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2752020",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752020"
+    },
+    "listing_data": {
+        "affiliation_number": "2752020",
+        "listing_raw_columns": [
+            "1144",
+            "Aff. No. : 2752020 Sch. Code: 27044",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT SARVODAYA BOYS SR SEC SCHOOL Head/Principal Name: AMIT SHARMA",
+            "Address : KRISHNA NAGAR DELHI Website : 1003013hos@gmail.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752020",
+        "serial_number": "1144",
+        "affiliation_and_school_code": "Aff. No. : 2752020 Sch. Code: 27044",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT SARVODAYA BOYS SR SEC SCHOOL Head/Principal Name: AMIT SHARMA",
+        "address_and_website": "Address : KRISHNA NAGAR DELHI Website : 1003013hos@gmail.com"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT SARVODAYA BOYS SR SEC SCHOOL",
+        "Affiliation Number": "2752020",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "KRISHNA NAGAR DELHI",
+        "Pin Code": "110051",
+        "Website": "1003013hos@gmail.com",
+        "Year of Foundation": "1954",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "AMIT SHARMA",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A. ENGLISH, B.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "15",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "delhi administration delhi",
+        "Remarks, if any": null
+    },
+    "links": []
+}

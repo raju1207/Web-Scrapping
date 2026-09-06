@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2780009",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2780009"
+    },
+    "listing_data": {
+        "affiliation_number": "2780009",
+        "listing_raw_columns": [
+            "2197",
+            "Aff. No. : 2780009 Sch. Code: 27131",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : AIR FCE GOLDEN JUBILEE INSTITUTE Head/Principal Name: ALKA SINGH",
+            "Address : SUBROTO PARK DELHI CANTT. NEW DELHI Website : www.afgji.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2780009",
+        "serial_number": "2197",
+        "affiliation_and_school_code": "Aff. No. : 2780009 Sch. Code: 27131",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : AIR FCE GOLDEN JUBILEE INSTITUTE Head/Principal Name: ALKA SINGH",
+        "address_and_website": "Address : SUBROTO PARK DELHI CANTT. NEW DELHI Website : www.afgji.in"
+    },
+    "school_details": {
+        "Name of Institution": "AIR FCE GOLDEN JUBILEE INSTITUTE",
+        "Affiliation Number": "2780009",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "SUBROTO PARK DELHI CANTT. NEW DELHI",
+        "Pin Code": "110010",
+        "Website": "www.afgji.in",
+        "Year of Foundation": "1986",
+        "Date of First Opening of School": "01 Apr 2007",
+        "Name of Principal/ Head of Institution": "ALKA SINGH",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA, M ED,",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "0",
+        "Teaching:": "29",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "iaf educational and cultural socy",
+        "Remarks, if any": null
+    },
+    "links": []
+}

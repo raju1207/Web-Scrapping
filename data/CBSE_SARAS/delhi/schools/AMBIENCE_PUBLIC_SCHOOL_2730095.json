@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730095",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730095"
+    },
+    "listing_data": {
+        "affiliation_number": "2730095",
+        "listing_raw_columns": [
+            "183",
+            "Aff. No. : 2730095 Sch. Code: 25197",
+            "State : DELHI District : SOUTH DELHI",
+            "Senior Secondary Level",
+            "Name : AMBIENCE PUBLIC SCHOOL Head/Principal Name: Himani Asija",
+            "Address : A-1 SAFDARJUNG ENCLAVE (BEHIND KAMAL CINEMA) NEW DELHI Website : https://ambiencepublicschool.com/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730095",
+        "serial_number": "183",
+        "affiliation_and_school_code": "Aff. No. : 2730095 Sch. Code: 25197",
+        "state_and_district": "State : DELHI District : SOUTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : AMBIENCE PUBLIC SCHOOL Head/Principal Name: Himani Asija",
+        "address_and_website": "Address : A-1 SAFDARJUNG ENCLAVE (BEHIND KAMAL CINEMA) NEW DELHI Website : https://ambiencepublicschool.com/"
+    },
+    "school_details": {
+        "Name of Institution": "AMBIENCE PUBLIC SCHOOL",
+        "Affiliation Number": "2730095",
+        "State": "DELHI",
+        "District": "SOUTH DELHI",
+        "Postal Address": "A-1 SAFDARJUNG ENCLAVE (BEHIND KAMAL CINEMA) NEW DELHI",
+        "Pin Code": "110029",
+        "Website": "https://ambiencepublicschool.com/",
+        "Year of Foundation": "1971",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "Himani Asija",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.Sc. M.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "6",
+        "Teaching:": "26",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": null,
+        "Remarks, if any": null
+    },
+    "links": []
+}

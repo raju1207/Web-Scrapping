@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2766076",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2766076"
+    },
+    "listing_data": {
+        "affiliation_number": "2766076",
+        "listing_raw_columns": [
+            "1974",
+            "Aff. No. : 2766076 Sch. Code: 27540",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : SARVODAYA KANYA VIDYALAYA Head/Principal Name: PRATIMA KANWAT",
+            "Address : RAJ NAGAR -II EXTN PALAM COLONY NEW DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2766076",
+        "serial_number": "1974",
+        "affiliation_and_school_code": "Aff. No. : 2766076 Sch. Code: 27540",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SARVODAYA KANYA VIDYALAYA Head/Principal Name: PRATIMA KANWAT",
+        "address_and_website": "Address : RAJ NAGAR -II EXTN PALAM COLONY NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "SARVODAYA KANYA VIDYALAYA",
+        "Affiliation Number": "2766076",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "RAJ NAGAR -II EXTN PALAM COLONY NEW DELHI",
+        "Pin Code": "110045",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1990",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "PRATIMA KANWAT",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "5",
+        "Teaching:": "20",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "directate of education",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730022",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730022"
+    },
+    "listing_data": {
+        "affiliation_number": "2730022",
+        "listing_raw_columns": [
+            "112",
+            "Aff. No. : 2730022 Sch. Code:",
+            "State : DELHI District : SOUTH DELHI",
+            "Senior Secondary Level",
+            "Name : BHAVAN'S SAWAN PUBLIC SCHOOL Head/Principal Name: DR S C BIALA",
+            "Address : BHATTI MINES ROAD, ASOLA, DISTT SOUTH DELHI NEW DELHI Website : www.sawanschooldelhi.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730022",
+        "serial_number": "112",
+        "affiliation_and_school_code": "Aff. No. : 2730022 Sch. Code:",
+        "state_and_district": "State : DELHI District : SOUTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : BHAVAN'S SAWAN PUBLIC SCHOOL Head/Principal Name: DR S C BIALA",
+        "address_and_website": "Address : BHATTI MINES ROAD, ASOLA, DISTT SOUTH DELHI NEW DELHI Website : www.sawanschooldelhi.com"
+    },
+    "school_details": {
+        "Name of Institution": "BHAVAN'S SAWAN PUBLIC SCHOOL",
+        "Affiliation Number": "2730022",
+        "State": "DELHI",
+        "District": "SOUTH DELHI",
+        "Postal Address": "BHATTI MINES ROAD, ASOLA, DISTT SOUTH DELHI NEW DELHI",
+        "Pin Code": "110030",
+        "Website": "www.sawanschooldelhi.com",
+        "Year of Foundation": null,
+        "Date of First Opening of School": "03 Jun 2002",
+        "Name of Principal/ Head of Institution": "DR S C BIALA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA, BEd.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "6",
+        "Teaching:": "30",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2013 To : 31/03/2018",
+        "Name of Trust/ Society/ Managing Committee": "BHARTIYA VIDYA BHAVAN",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2778045",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778045"
+    },
+    "listing_data": {
+        "affiliation_number": "2778045",
+        "listing_raw_columns": [
+            "2162",
+            "Aff. No. : 2778045 Sch. Code: 87004",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : ATAL ADARSH VIDYALYA Head/Principal Name: SANJAY KUMAR SINGH",
+            "Address : TILAK MARG NEW DELHI Website : https://aavtilakmarg.gov.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778045",
+        "serial_number": "2162",
+        "affiliation_and_school_code": "Aff. No. : 2778045 Sch. Code: 87004",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : ATAL ADARSH VIDYALYA Head/Principal Name: SANJAY KUMAR SINGH",
+        "address_and_website": "Address : TILAK MARG NEW DELHI Website : https://aavtilakmarg.gov.in"
+    },
+    "school_details": {
+        "Name of Institution": "ATAL ADARSH VIDYALYA",
+        "Affiliation Number": "2778045",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "TILAK MARG NEW DELHI",
+        "Pin Code": "110001",
+        "Website": "https://aavtilakmarg.gov.in",
+        "Year of Foundation": "1974",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "SANJAY KUMAR SINGH",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A. HISTORY, B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "2",
+        "Teaching:": "30",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "NEW DELHI MUNICIPAL COMMITTEE",
+        "Remarks, if any": null
+    },
+    "links": []
+}

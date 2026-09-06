@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730034",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730034"
+    },
+    "listing_data": {
+        "affiliation_number": "2730034",
+        "listing_raw_columns": [
+            "123",
+            "Aff. No. : 2730034 Sch. Code: 25091",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : TAGORE INTERNATIONAL SCHOOL Head/Principal Name: JYOTIKA JAKHAR",
+            "Address : B-PASCHIMI MARG VASANT VIHAR NEW DELHI Website : https://www.vv.tagoreint.com/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730034",
+        "serial_number": "123",
+        "affiliation_and_school_code": "Aff. No. : 2730034 Sch. Code: 25091",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : TAGORE INTERNATIONAL SCHOOL Head/Principal Name: JYOTIKA JAKHAR",
+        "address_and_website": "Address : B-PASCHIMI MARG VASANT VIHAR NEW DELHI Website : https://www.vv.tagoreint.com/"
+    },
+    "school_details": {
+        "Name of Institution": "TAGORE INTERNATIONAL SCHOOL",
+        "Affiliation Number": "2730034",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "B-PASCHIMI MARG VASANT VIHAR NEW DELHI",
+        "Pin Code": "110057",
+        "Website": "https://www.vv.tagoreint.com/",
+        "Year of Foundation": "1972",
+        "Date of First Opening of School": "12 Jun 2013",
+        "Name of Principal/ Head of Institution": "JYOTIKA JAKHAR",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "PH.D",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "9",
+        "Teaching:": "22",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "tage education society",
+        "Remarks, if any": null
+    },
+    "links": []
+}

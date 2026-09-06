@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730782",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730782"
+    },
+    "listing_data": {
+        "affiliation_number": "2730782",
+        "listing_raw_columns": [
+            "846",
+            "Aff. No. : 2730782 Sch. Code: 25251",
+            "State : DELHI District : SOUTH DELHI",
+            "Senior Secondary Level",
+            "Name : G.D. GOENKA PUBLIC SCHOOL Head/Principal Name: SEEMA SAHAY",
+            "Address : J-BLOCK, SARITA VIHAR Website : www.gdgoenka-saritavihar.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730782",
+        "serial_number": "846",
+        "affiliation_and_school_code": "Aff. No. : 2730782 Sch. Code: 25251",
+        "state_and_district": "State : DELHI District : SOUTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : G.D. GOENKA PUBLIC SCHOOL Head/Principal Name: SEEMA SAHAY",
+        "address_and_website": "Address : J-BLOCK, SARITA VIHAR Website : www.gdgoenka-saritavihar.com"
+    },
+    "school_details": {
+        "Name of Institution": "G.D. GOENKA PUBLIC SCHOOL",
+        "Affiliation Number": "2730782",
+        "State": "DELHI",
+        "District": "SOUTH DELHI",
+        "Postal Address": "J-BLOCK, SARITA VIHAR",
+        "Pin Code": "110076",
+        "Website": "www.gdgoenka-saritavihar.com",
+        "Year of Foundation": "2015",
+        "Date of First Opening of School": "06 Apr 2015",
+        "Name of Principal/ Head of Institution": "SEEMA SAHAY",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA HISTORY, BED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "40",
+        "Teaching:": "35",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "RAI BAHADUR RAGHBIR SINGH EDUCATIONAL SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

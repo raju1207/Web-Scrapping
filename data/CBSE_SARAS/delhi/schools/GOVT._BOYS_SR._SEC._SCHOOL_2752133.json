@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2752133",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752133"
+    },
+    "listing_data": {
+        "affiliation_number": "2752133",
+        "listing_raw_columns": [
+            "1250",
+            "Aff. No. : 2752133 Sch. Code: 27099",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT. BOYS SR. SEC. SCHOOL Head/Principal Name: ASHOK KUMAR YADAV",
+            "Address : VASUNDHRA ENCLAVE Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752133",
+        "serial_number": "1250",
+        "affiliation_and_school_code": "Aff. No. : 2752133 Sch. Code: 27099",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT. BOYS SR. SEC. SCHOOL Head/Principal Name: ASHOK KUMAR YADAV",
+        "address_and_website": "Address : VASUNDHRA ENCLAVE Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT. BOYS SR. SEC. SCHOOL",
+        "Affiliation Number": "2752133",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "VASUNDHRA ENCLAVE",
+        "Pin Code": "110096",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "2011",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "ASHOK KUMAR YADAV",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MSc Bed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "11",
+        "Teaching:": "24",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": null,
+        "Remarks, if any": null
+    },
+    "links": []
+}

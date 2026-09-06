@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730829",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730829"
+    },
+    "listing_data": {
+        "affiliation_number": "2730829",
+        "listing_raw_columns": [
+            "889",
+            "Aff. No. : 2730829 Sch. Code: 25426",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : KALINGA INSTITUTE OF SOCIAL SCIENCES DELHI GOVERNMENT SENIOR SECONDARY RESIDENTIAL SCHOOL Head/Principal Name: Himanshu Sharma",
+            "Address : VILLAGE ISSAPUR, NAJAFGARH, DELHI-110073 Website : www.kissdelhi.ac.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730829",
+        "serial_number": "889",
+        "affiliation_and_school_code": "Aff. No. : 2730829 Sch. Code: 25426",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : KALINGA INSTITUTE OF SOCIAL SCIENCES DELHI GOVERNMENT SENIOR SECONDARY RESIDENTIAL SCHOOL Head/Principal Name: Himanshu Sharma",
+        "address_and_website": "Address : VILLAGE ISSAPUR, NAJAFGARH, DELHI-110073 Website : www.kissdelhi.ac.in"
+    },
+    "school_details": {
+        "Name of Institution": "KALINGA INSTITUTE OF SOCIAL SCIENCES DELHI GOVERNMENT SENIOR SECONDARY RESIDENTIAL SCHOOL",
+        "Affiliation Number": "2730829",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "VILLAGE ISSAPUR, NAJAFGARH, DELHI-110073",
+        "Pin Code": "110073",
+        "Website": "www.kissdelhi.ac.in",
+        "Year of Foundation": "2013",
+        "Date of First Opening of School": "11 Sep 2013",
+        "Name of Principal/ Head of Institution": "Himanshu Sharma",
+        "Gender": "Unknown",
+        "Principal's Educational/Professional Qualifications:": "MA,BED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "10",
+        "Teaching:": "11",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "Department for the Welfare of SC/ST/OBC/Minorities",
+        "Remarks, if any": null
+    },
+    "links": []
+}

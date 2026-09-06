@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730766",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730766"
+    },
+    "listing_data": {
+        "affiliation_number": "2730766",
+        "listing_raw_columns": [
+            "830",
+            "Aff. No. : 2730766 Sch. Code: 85052",
+            "State : DELHI District : NORTH DELHI",
+            "Secondary Level",
+            "Name : SAVITA PUBLIC SCHOOL Head/Principal Name: UPMA SAXENA",
+            "Address : 173, OPPOSITE STREET NO.3, VILLAGE WAZIRABAD, DELHI 110084 Website : www.savitapublicschool.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730766",
+        "serial_number": "830",
+        "affiliation_and_school_code": "Aff. No. : 2730766 Sch. Code: 85052",
+        "state_and_district": "State : DELHI District : NORTH DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : SAVITA PUBLIC SCHOOL Head/Principal Name: UPMA SAXENA",
+        "address_and_website": "Address : 173, OPPOSITE STREET NO.3, VILLAGE WAZIRABAD, DELHI 110084 Website : www.savitapublicschool.com"
+    },
+    "school_details": {
+        "Name of Institution": "SAVITA PUBLIC SCHOOL",
+        "Affiliation Number": "2730766",
+        "State": "DELHI",
+        "District": "NORTH DELHI",
+        "Postal Address": "173, OPPOSITE STREET NO.3, VILLAGE WAZIRABAD, DELHI 110084",
+        "Pin Code": "110084",
+        "Website": "www.savitapublicschool.com",
+        "Year of Foundation": "2002",
+        "Date of First Opening of School": "02 Apr 2001",
+        "Name of Principal/ Head of Institution": "UPMA SAXENA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.SC, B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "20",
+        "Teaching:": "14",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "RAVI DUTT TYAGI MEMORIAL EDUCATION SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

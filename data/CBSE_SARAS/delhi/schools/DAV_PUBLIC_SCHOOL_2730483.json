@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730483",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730483"
+    },
+    "listing_data": {
+        "affiliation_number": "2730483",
+        "listing_raw_columns": [
+            "556",
+            "Aff. No. : 2730483 Sch. Code: 25154",
+            "State : DELHI District : NORTH EAST DELHI",
+            "Senior Secondary Level",
+            "Name : DAV PUBLIC SCHOOL Head/Principal Name: SAMEEKSHA SHARMA",
+            "Address : POCKET C LIG FLATS EAST OF LONI ROAD DELHI-110093 Website : https://daveastofloniroad.org/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730483",
+        "serial_number": "556",
+        "affiliation_and_school_code": "Aff. No. : 2730483 Sch. Code: 25154",
+        "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : DAV PUBLIC SCHOOL Head/Principal Name: SAMEEKSHA SHARMA",
+        "address_and_website": "Address : POCKET C LIG FLATS EAST OF LONI ROAD DELHI-110093 Website : https://daveastofloniroad.org/"
+    },
+    "school_details": {
+        "Name of Institution": "DAV PUBLIC SCHOOL",
+        "Affiliation Number": "2730483",
+        "State": "DELHI",
+        "District": "NORTH EAST DELHI",
+        "Postal Address": "POCKET C LIG FLATS EAST OF LONI ROAD DELHI-110093",
+        "Pin Code": "110093",
+        "Website": "https://daveastofloniroad.org/",
+        "Year of Foundation": "1989",
+        "Date of First Opening of School": "09 Jul 2003",
+        "Name of Principal/ Head of Institution": "SAMEEKSHA SHARMA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA, B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "14",
+        "Teaching:": "30",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "DAV COLLEGE MGMT COMMITTEE",
+        "Remarks, if any": null
+    },
+    "links": []
+}

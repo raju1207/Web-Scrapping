@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2720099",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720099"
+    },
+    "listing_data": {
+        "affiliation_number": "2720099",
+        "listing_raw_columns": [
+            "96",
+            "Aff. No. : 2720099 Sch. Code: 87769",
+            "State : DELHI District : WEST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT GIRLS SENIOR SECONDARY SCHOOL TIKRI KALAN Head/Principal Name: Kavita Lakra",
+            "Address : TIKRI KALAN, TIKRI KALAN, TIKRI KALAN Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720099",
+        "serial_number": "96",
+        "affiliation_and_school_code": "Aff. No. : 2720099 Sch. Code: 87769",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT GIRLS SENIOR SECONDARY SCHOOL TIKRI KALAN Head/Principal Name: Kavita Lakra",
+        "address_and_website": "Address : TIKRI KALAN, TIKRI KALAN, TIKRI KALAN Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT GIRLS SENIOR SECONDARY SCHOOL TIKRI KALAN",
+        "Affiliation Number": "2720099",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "TIKRI KALAN, TIKRI KALAN, TIKRI KALAN",
+        "Pin Code": "110041",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "2025",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "Kavita Lakra",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA,B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "2",
+        "Teaching:": "4",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "DIRECTORATE OF EDUCATION GOVT OF NCT",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2700001",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700001"
+    },
+    "listing_data": {
+        "affiliation_number": "2700001",
+        "listing_raw_columns": [
+            "1",
+            "Aff. No. : 2700001 Sch. Code: 29022",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: VIVEK YADAV",
+            "Address : ANDREWS GANJ NEW DELHI Website : www.andrewsganj.kvs.ac.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700001",
+        "serial_number": "1",
+        "affiliation_and_school_code": "Aff. No. : 2700001 Sch. Code: 29022",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: VIVEK YADAV",
+        "address_and_website": "Address : ANDREWS GANJ NEW DELHI Website : www.andrewsganj.kvs.ac.in"
+    },
+    "school_details": {
+        "Name of Institution": "PM SHRI KENDRIYA VIDYALAYA",
+        "Affiliation Number": "2700001",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "ANDREWS GANJ NEW DELHI",
+        "Pin Code": "110024",
+        "Website": "www.andrewsganj.kvs.ac.in",
+        "Year of Foundation": "1969",
+        "Date of First Opening of School": "16 Oct 2019",
+        "Name of Principal/ Head of Institution": "VIVEK YADAV",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MSC, BED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "10",
+        "Teaching:": "13",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "KV",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "K V S NEW DELHI",
+        "Remarks, if any": null
+    },
+    "links": []
+}

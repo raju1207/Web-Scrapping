@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2752057",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752057"
+    },
+    "listing_data": {
+        "affiliation_number": "2752057",
+        "listing_raw_columns": [
+            "1177",
+            "Aff. No. : 2752057 Sch. Code: 87384",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT SARVODAYA BAL VIDYALAYA NO 2 Head/Principal Name: SATYA VIR SINGH",
+            "Address : B-BLOCK YAMUNA VIHAR DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752057",
+        "serial_number": "1177",
+        "affiliation_and_school_code": "Aff. No. : 2752057 Sch. Code: 87384",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT SARVODAYA BAL VIDYALAYA NO 2 Head/Principal Name: SATYA VIR SINGH",
+        "address_and_website": "Address : B-BLOCK YAMUNA VIHAR DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT SARVODAYA BAL VIDYALAYA NO 2",
+        "Affiliation Number": "2752057",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "B-BLOCK YAMUNA VIHAR DELHI",
+        "Pin Code": "110053",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1986",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "SATYA VIR SINGH",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A., M.SC., P.HD, B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "14",
+        "Teaching:": "16",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

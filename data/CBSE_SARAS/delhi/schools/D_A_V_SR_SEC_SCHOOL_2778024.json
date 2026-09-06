@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2778024",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778024"
+    },
+    "listing_data": {
+        "affiliation_number": "2778024",
+        "listing_raw_columns": [
+            "2141",
+            "Aff. No. : 2778024 Sch. Code: 87088",
+            "State : DELHI District : CENTRAL DELHI",
+            "Senior Secondary Level",
+            "Name : D A V SR SEC SCHOOL Head/Principal Name: JAI PARKASH ARORA",
+            "Address : CHITRAGUPTA ROAD NEW DELHI Website : http://www.davscgr.com/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778024",
+        "serial_number": "2141",
+        "affiliation_and_school_code": "Aff. No. : 2778024 Sch. Code: 87088",
+        "state_and_district": "State : DELHI District : CENTRAL DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : D A V SR SEC SCHOOL Head/Principal Name: JAI PARKASH ARORA",
+        "address_and_website": "Address : CHITRAGUPTA ROAD NEW DELHI Website : http://www.davscgr.com/"
+    },
+    "school_details": {
+        "Name of Institution": "D A V SR SEC SCHOOL",
+        "Affiliation Number": "2778024",
+        "State": "DELHI",
+        "District": "CENTRAL DELHI",
+        "Postal Address": "CHITRAGUPTA ROAD NEW DELHI",
+        "Pin Code": "110055",
+        "Website": "http://www.davscgr.com/",
+        "Year of Foundation": "1933",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "JAI PARKASH ARORA",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.SC,B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "05",
+        "Teaching:": "26",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "managing committee",
+        "Remarks, if any": null
+    },
+    "links": []
+}

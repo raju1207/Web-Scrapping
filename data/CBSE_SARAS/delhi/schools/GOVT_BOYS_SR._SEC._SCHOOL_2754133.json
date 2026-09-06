@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2754133",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754133"
+    },
+    "listing_data": {
+        "affiliation_number": "2754133",
+        "listing_raw_columns": [
+            "1382",
+            "Aff. No. : 2754133 Sch. Code: 27369",
+            "State : DELHI District : SOUTH DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR. SEC. SCHOOL Head/Principal Name: DHARMRAJ MEENA",
+            "Address : TEJPUR, PAHARI, BADARPUR, NEW DELHI-110044 Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754133",
+        "serial_number": "1382",
+        "affiliation_and_school_code": "Aff. No. : 2754133 Sch. Code: 27369",
+        "state_and_district": "State : DELHI District : SOUTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR. SEC. SCHOOL Head/Principal Name: DHARMRAJ MEENA",
+        "address_and_website": "Address : TEJPUR, PAHARI, BADARPUR, NEW DELHI-110044 Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR. SEC. SCHOOL",
+        "Affiliation Number": "2754133",
+        "State": "DELHI",
+        "District": "SOUTH DELHI",
+        "Postal Address": "TEJPUR, PAHARI, BADARPUR, NEW DELHI-110044",
+        "Pin Code": "110044",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "2013",
+        "Date of First Opening of School": "09 Jul 2003",
+        "Name of Principal/ Head of Institution": "DHARMRAJ MEENA",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A., B.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "20",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "board of governs sainik schools",
+        "Remarks, if any": null
+    },
+    "links": []
+}

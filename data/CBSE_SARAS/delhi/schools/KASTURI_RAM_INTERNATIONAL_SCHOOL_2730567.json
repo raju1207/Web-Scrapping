@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730567",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730567"
+    },
+    "listing_data": {
+        "affiliation_number": "2730567",
+        "listing_raw_columns": [
+            "638",
+            "Aff. No. : 2730567 Sch. Code: 85099",
+            "State : DELHI District : NORTH DELHI",
+            "Senior Secondary Level",
+            "Name : KASTURI RAM INTERNATIONAL SCHOOL Head/Principal Name: SUSHIL KUMAR DUBEY",
+            "Address : SECTOR A - 10, NARELA, DISTT NORTH DELHI, DELHI Website : https://www.krschool.org",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730567",
+        "serial_number": "638",
+        "affiliation_and_school_code": "Aff. No. : 2730567 Sch. Code: 85099",
+        "state_and_district": "State : DELHI District : NORTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : KASTURI RAM INTERNATIONAL SCHOOL Head/Principal Name: SUSHIL KUMAR DUBEY",
+        "address_and_website": "Address : SECTOR A - 10, NARELA, DISTT NORTH DELHI, DELHI Website : https://www.krschool.org"
+    },
+    "school_details": {
+        "Name of Institution": "KASTURI RAM INTERNATIONAL SCHOOL",
+        "Affiliation Number": "2730567",
+        "State": "DELHI",
+        "District": "NORTH DELHI",
+        "Postal Address": "SECTOR A - 10, NARELA, DISTT NORTH DELHI, DELHI",
+        "Pin Code": "110040",
+        "Website": "https://www.krschool.org",
+        "Year of Foundation": "2006",
+        "Date of First Opening of School": "01 Apr 2005",
+        "Name of Principal/ Head of Institution": "SUSHIL KUMAR DUBEY",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A. B.ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "07",
+        "Teaching:": "05",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "LUCKY EDUCATIONAL SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

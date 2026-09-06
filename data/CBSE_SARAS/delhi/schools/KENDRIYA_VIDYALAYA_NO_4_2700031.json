@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2700031",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700031"
+    },
+    "listing_data": {
+        "affiliation_number": "2700031",
+        "listing_raw_columns": [
+            "30",
+            "Aff. No. : 2700031 Sch. Code: 29007",
+            "State : DELHI District : WEST DELHI",
+            "Senior Secondary Level",
+            "Name : KENDRIYA VIDYALAYA NO 4 Head/Principal Name: SHIVA KUMAR SHARMA",
+            "Address : KANDHAR LINES DELHI CANTT NEW DELHI Website : https://no4delhicantt.kvs.ac.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700031",
+        "serial_number": "30",
+        "affiliation_and_school_code": "Aff. No. : 2700031 Sch. Code: 29007",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : KENDRIYA VIDYALAYA NO 4 Head/Principal Name: SHIVA KUMAR SHARMA",
+        "address_and_website": "Address : KANDHAR LINES DELHI CANTT NEW DELHI Website : https://no4delhicantt.kvs.ac.in"
+    },
+    "school_details": {
+        "Name of Institution": "KENDRIYA VIDYALAYA NO 4",
+        "Affiliation Number": "2700031",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "KANDHAR LINES DELHI CANTT NEW DELHI",
+        "Pin Code": "110010",
+        "Website": "https://no4delhicantt.kvs.ac.in",
+        "Year of Foundation": "1994",
+        "Date of First Opening of School": "24 Jun 2006",
+        "Name of Principal/ Head of Institution": "SHIVA KUMAR SHARMA",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.Sc./M.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "2",
+        "Teaching:": "28",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "KV",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "KENDRIYA VIDYALAYA SANGATHAN N.D.",
+        "Remarks, if any": null
+    },
+    "links": []
+}

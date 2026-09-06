@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2750126",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750126"
+    },
+    "listing_data": {
+        "affiliation_number": "2750126",
+        "listing_raw_columns": [
+            "1074",
+            "Aff. No. : 2750126 Sch. Code: 87440",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : SARVODAYA VIDYALAYA Head/Principal Name: DHARA SINGH",
+            "Address : K 2-BLOCK MANGOL PURI DELHI Website : https://www.edudel.nic.in//mis/schoolplant/school_informatio",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750126",
+        "serial_number": "1074",
+        "affiliation_and_school_code": "Aff. No. : 2750126 Sch. Code: 87440",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SARVODAYA VIDYALAYA Head/Principal Name: DHARA SINGH",
+        "address_and_website": "Address : K 2-BLOCK MANGOL PURI DELHI Website : https://www.edudel.nic.in//mis/schoolplant/school_informatio"
+    },
+    "school_details": {
+        "Name of Institution": "SARVODAYA VIDYALAYA",
+        "Affiliation Number": "2750126",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "K 2-BLOCK MANGOL PURI DELHI",
+        "Pin Code": "110083",
+        "Website": "https://www.edudel.nic.in//mis/schoolplant/school_informatio",
+        "Year of Foundation": "2000",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "DHARA SINGH",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "m sc maths b ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "03",
+        "Teaching:": "29",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "GNCTD",
+        "Remarks, if any": null
+    },
+    "links": []
+}

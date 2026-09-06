@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730541",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730541"
+    },
+    "listing_data": {
+        "affiliation_number": "2730541",
+        "listing_raw_columns": [
+            "612",
+            "Aff. No. : 2730541 Sch. Code: 25322",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : MATA KASTURI DEVI PUBLIC SCHOOL Head/Principal Name: Anita Shishodia",
+            "Address : GOPAL NAGAR, DISTT SOUTH WEST DELHI, DELHI Website : www.matakasturidevipublicschool.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730541",
+        "serial_number": "612",
+        "affiliation_and_school_code": "Aff. No. : 2730541 Sch. Code: 25322",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : MATA KASTURI DEVI PUBLIC SCHOOL Head/Principal Name: Anita Shishodia",
+        "address_and_website": "Address : GOPAL NAGAR, DISTT SOUTH WEST DELHI, DELHI Website : www.matakasturidevipublicschool.com"
+    },
+    "school_details": {
+        "Name of Institution": "MATA KASTURI DEVI PUBLIC SCHOOL",
+        "Affiliation Number": "2730541",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "GOPAL NAGAR, DISTT SOUTH WEST DELHI, DELHI",
+        "Pin Code": "110043",
+        "Website": "www.matakasturidevipublicschool.com",
+        "Year of Foundation": "1988",
+        "Date of First Opening of School": "04 Jun 1998",
+        "Name of Principal/ Head of Institution": "Anita Shishodia",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A. B.ED.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "25",
+        "Teaching:": "20",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": "VAISH EDUCATION SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

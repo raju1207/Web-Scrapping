@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2768015",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2768015"
+    },
+    "listing_data": {
+        "affiliation_number": "2768015",
+        "listing_raw_columns": [
+            "2001",
+            "Aff. No. : 2768015 Sch. Code:",
+            "State : DELHI District : NEW DELHI",
+            "Secondary Level",
+            "Name : GOVT GIRLS SEC SCHOOL Head/Principal Name: MRS MALTI BHARGAWA",
+            "Address : LINK ROAD PLOT NO 1 NEW DELHI Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2768015",
+        "serial_number": "2001",
+        "affiliation_and_school_code": "Aff. No. : 2768015 Sch. Code:",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : GOVT GIRLS SEC SCHOOL Head/Principal Name: MRS MALTI BHARGAWA",
+        "address_and_website": "Address : LINK ROAD PLOT NO 1 NEW DELHI Website :"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT GIRLS SEC SCHOOL",
+        "Affiliation Number": "2768015",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "LINK ROAD PLOT NO 1 NEW DELHI",
+        "Pin Code": "110005",
+        "Website": null,
+        "Year of Foundation": null,
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "MRS MALTI BHARGAWA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": null,
+        "No of Experience ( in Years ):": null,
+        "Administrative:": null,
+        "Teaching:": null,
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : To :",
+        "Name of Trust/ Society/ Managing Committee": null,
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730915",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730915"
+    },
+    "listing_data": {
+        "affiliation_number": "2730915",
+        "listing_raw_columns": [
+            "930",
+            "Aff. No. : 2730915 Sch. Code: 25566",
+            "State : DELHI District : SOUTH DELHI",
+            "Secondary Level",
+            "Name : NALANDA CONVENT SCHOOL Head/Principal Name: Neha Singh",
+            "Address : BADARPUR,, NEW DELHI Website : https://www.nalandaconventschool.com/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730915",
+        "serial_number": "930",
+        "affiliation_and_school_code": "Aff. No. : 2730915 Sch. Code: 25566",
+        "state_and_district": "State : DELHI District : SOUTH DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : NALANDA CONVENT SCHOOL Head/Principal Name: Neha Singh",
+        "address_and_website": "Address : BADARPUR,, NEW DELHI Website : https://www.nalandaconventschool.com/"
+    },
+    "school_details": {
+        "Name of Institution": "NALANDA CONVENT SCHOOL",
+        "Affiliation Number": "2730915",
+        "State": "DELHI",
+        "District": "SOUTH DELHI",
+        "Postal Address": "BADARPUR,, NEW DELHI",
+        "Pin Code": "110044",
+        "Website": "https://www.nalandaconventschool.com/",
+        "Year of Foundation": "2001",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "Neha Singh",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A., B.ED.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "10",
+        "Teaching:": "10",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "New Nalanda Educational Society",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2764030",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764030"
+    },
+    "listing_data": {
+        "affiliation_number": "2764030",
+        "listing_raw_columns": [
+            "1837",
+            "Aff. No. : 2764030 Sch. Code: 27312",
+            "State : DELHI District : SOUTH DELHI",
+            "Senior Secondary Level",
+            "Name : GARGI GOVT. SARVODAYA GIRLS SR SEC Head/Principal Name: SONU NIJHAWAN",
+            "Address : SCHOOL GREEN PARK EXTN NEW DELHI Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764030",
+        "serial_number": "1837",
+        "affiliation_and_school_code": "Aff. No. : 2764030 Sch. Code: 27312",
+        "state_and_district": "State : DELHI District : SOUTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GARGI GOVT. SARVODAYA GIRLS SR SEC Head/Principal Name: SONU NIJHAWAN",
+        "address_and_website": "Address : SCHOOL GREEN PARK EXTN NEW DELHI Website :"
+    },
+    "school_details": {
+        "Name of Institution": "GARGI GOVT. SARVODAYA GIRLS SR SEC",
+        "Affiliation Number": "2764030",
+        "State": "DELHI",
+        "District": "SOUTH DELHI",
+        "Postal Address": "SCHOOL GREEN PARK EXTN NEW DELHI",
+        "Pin Code": "110016",
+        "Website": null,
+        "Year of Foundation": "1967",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "SONU NIJHAWAN",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.SC.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "11",
+        "Teaching:": "21",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "delhi admn",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730210",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730210"
+    },
+    "listing_data": {
+        "affiliation_number": "2730210",
+        "listing_raw_columns": [
+            "297",
+            "Aff. No. : 2730210 Sch. Code: 85399",
+            "State : DELHI District : WEST DELHI",
+            "Senior Secondary Level",
+            "Name : S.S.MOTA SINGH MODEL SCHOOL Head/Principal Name: ASHU MEHTA",
+            "Address : GURU HARKRISHAN NAGAR, DISTT WEST DELHI, NEW DELHI Website : www.ssmsschool.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730210",
+        "serial_number": "297",
+        "affiliation_and_school_code": "Aff. No. : 2730210 Sch. Code: 85399",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : S.S.MOTA SINGH MODEL SCHOOL Head/Principal Name: ASHU MEHTA",
+        "address_and_website": "Address : GURU HARKRISHAN NAGAR, DISTT WEST DELHI, NEW DELHI Website : www.ssmsschool.com"
+    },
+    "school_details": {
+        "Name of Institution": "S.S.MOTA SINGH MODEL SCHOOL",
+        "Affiliation Number": "2730210",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "GURU HARKRISHAN NAGAR, DISTT WEST DELHI, NEW DELHI",
+        "Pin Code": "110087",
+        "Website": "www.ssmsschool.com",
+        "Year of Foundation": "1984",
+        "Date of First Opening of School": "01 Sep 1986",
+        "Name of Principal/ Head of Institution": "ASHU MEHTA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.COM, B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "10",
+        "Teaching:": "30",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "S.S. Mota Singh(NILA) Charitable Trust",
+        "Remarks, if any": null
+    },
+    "links": []
+}

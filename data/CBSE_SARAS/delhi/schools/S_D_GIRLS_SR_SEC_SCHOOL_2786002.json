@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2786002",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2786002"
+    },
+    "listing_data": {
+        "affiliation_number": "2786002",
+        "listing_raw_columns": [
+            "2208",
+            "Aff. No. : 2786002 Sch. Code: 87544",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : S D GIRLS SR SEC SCHOOL Head/Principal Name: VANDANA MATHUR",
+            "Address : EAST PATEL NAGAR NEW DELHI Website : www.ssdgirlsschoolepn.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2786002",
+        "serial_number": "2208",
+        "affiliation_and_school_code": "Aff. No. : 2786002 Sch. Code: 87544",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : S D GIRLS SR SEC SCHOOL Head/Principal Name: VANDANA MATHUR",
+        "address_and_website": "Address : EAST PATEL NAGAR NEW DELHI Website : www.ssdgirlsschoolepn.in"
+    },
+    "school_details": {
+        "Name of Institution": "S D GIRLS SR SEC SCHOOL",
+        "Affiliation Number": "2786002",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "EAST PATEL NAGAR NEW DELHI",
+        "Pin Code": "110008",
+        "Website": "www.ssdgirlsschoolepn.in",
+        "Year of Foundation": "1961",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "VANDANA MATHUR",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.SC/B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "31",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "MANAGING COMMITTEE",
+        "Remarks, if any": null
+    },
+    "links": []
+}

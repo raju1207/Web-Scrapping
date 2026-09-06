@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2754130",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754130"
+    },
+    "listing_data": {
+        "affiliation_number": "2754130",
+        "listing_raw_columns": [
+            "1379",
+            "Aff. No. : 2754130 Sch. Code: 27445",
+            "State : DELHI District : SOUTH DELHI",
+            "Secondary Level",
+            "Name : SARVODAYA BAL VIDYALAYA Head/Principal Name: KAMLESH KUMAR MEENA",
+            "Address : J-BLOCK, SANGAM VIHAR,NEW DELHI-110080 Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754130",
+        "serial_number": "1379",
+        "affiliation_and_school_code": "Aff. No. : 2754130 Sch. Code: 27445",
+        "state_and_district": "State : DELHI District : SOUTH DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : SARVODAYA BAL VIDYALAYA Head/Principal Name: KAMLESH KUMAR MEENA",
+        "address_and_website": "Address : J-BLOCK, SANGAM VIHAR,NEW DELHI-110080 Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "SARVODAYA BAL VIDYALAYA",
+        "Affiliation Number": "2754130",
+        "State": "DELHI",
+        "District": "SOUTH DELHI",
+        "Postal Address": "J-BLOCK, SANGAM VIHAR,NEW DELHI-110080",
+        "Pin Code": "110080",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "2012",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "KAMLESH KUMAR MEENA",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MA B.ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "12",
+        "Teaching:": "16",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": "dir of education",
+        "Remarks, if any": null
+    },
+    "links": []
+}

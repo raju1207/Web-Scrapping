@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730425",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730425"
+    },
+    "listing_data": {
+        "affiliation_number": "2730425",
+        "listing_raw_columns": [
+            "500",
+            "Aff. No. : 2730425 Sch. Code: 85173",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : B V M MODEL SCHOOL Head/Principal Name: KANTA DEVI",
+            "Address : B 245 RAJIV NAGAR BEGUMPUR, DISTT NORTH WEST DELHI, DELHI Website : www.bvmmodelschool.org",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730425",
+        "serial_number": "500",
+        "affiliation_and_school_code": "Aff. No. : 2730425 Sch. Code: 85173",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : B V M MODEL SCHOOL Head/Principal Name: KANTA DEVI",
+        "address_and_website": "Address : B 245 RAJIV NAGAR BEGUMPUR, DISTT NORTH WEST DELHI, DELHI Website : www.bvmmodelschool.org"
+    },
+    "school_details": {
+        "Name of Institution": "B V M MODEL SCHOOL",
+        "Affiliation Number": "2730425",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "B 245 RAJIV NAGAR BEGUMPUR, DISTT NORTH WEST DELHI, DELHI",
+        "Pin Code": "110041",
+        "Website": "www.bvmmodelschool.org",
+        "Year of Foundation": "1995",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "KANTA DEVI",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA , B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "14",
+        "Teaching:": "29",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "BRAHM RISHI VASHISTA MEM EDU AND SOCIAL WELFARE SOC",
+        "Remarks, if any": null
+    },
+    "links": []
+}

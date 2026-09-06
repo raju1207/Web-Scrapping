@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2750046",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750046"
+    },
+    "listing_data": {
+        "affiliation_number": "2750046",
+        "listing_raw_columns": [
+            "1003",
+            "Aff. No. : 2750046 Sch. Code: 87415",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: ASHOK KUMAR SINGH",
+            "Address : D-BLOCK ASHOK VIHAR DELHI Website : https://www.edudel.nic.in/mis/schoolplant/school_information",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750046",
+        "serial_number": "1003",
+        "affiliation_and_school_code": "Aff. No. : 2750046 Sch. Code: 87415",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: ASHOK KUMAR SINGH",
+        "address_and_website": "Address : D-BLOCK ASHOK VIHAR DELHI Website : https://www.edudel.nic.in/mis/schoolplant/school_information"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR SEC SCHOOL",
+        "Affiliation Number": "2750046",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "D-BLOCK ASHOK VIHAR DELHI",
+        "Pin Code": "110052",
+        "Website": "https://www.edudel.nic.in/mis/schoolplant/school_information",
+        "Year of Foundation": "1968",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "ASHOK KUMAR SINGH",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.Com BED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "5",
+        "Teaching:": "12",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": "GOVT",
+        "Remarks, if any": null
+    },
+    "links": []
+}

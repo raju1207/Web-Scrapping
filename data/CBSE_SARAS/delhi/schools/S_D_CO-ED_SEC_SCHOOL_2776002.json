@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2776002",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2776002"
+    },
+    "listing_data": {
+        "affiliation_number": "2776002",
+        "listing_raw_columns": [
+            "2105",
+            "Aff. No. : 2776002 Sch. Code: 27123",
+            "State : DELHI District : NEW DELHI",
+            "Secondary Level",
+            "Name : S D CO-ED SEC SCHOOL Head/Principal Name: PUSHPA RANI",
+            "Address : SADAR BAZAR DELHI CANTT NEW DELHI Website : www.sdcoedsecschool.co.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2776002",
+        "serial_number": "2105",
+        "affiliation_and_school_code": "Aff. No. : 2776002 Sch. Code: 27123",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : S D CO-ED SEC SCHOOL Head/Principal Name: PUSHPA RANI",
+        "address_and_website": "Address : SADAR BAZAR DELHI CANTT NEW DELHI Website : www.sdcoedsecschool.co.in"
+    },
+    "school_details": {
+        "Name of Institution": "S D CO-ED SEC SCHOOL",
+        "Affiliation Number": "2776002",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "SADAR BAZAR DELHI CANTT NEW DELHI",
+        "Pin Code": "110010",
+        "Website": "www.sdcoedsecschool.co.in",
+        "Year of Foundation": "1953",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "PUSHPA RANI",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "04",
+        "Teaching:": "16",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": "shrisanatandha rammandir sabha",
+        "Remarks, if any": null
+    },
+    "links": []
+}

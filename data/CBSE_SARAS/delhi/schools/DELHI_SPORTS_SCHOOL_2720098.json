@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2720098",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720098"
+    },
+    "listing_data": {
+        "affiliation_number": "2720098",
+        "listing_raw_columns": [
+            "95",
+            "Aff. No. : 2720098 Sch. Code: 87768",
+            "State : DELHI District : NORTH DELHI",
+            "Senior Secondary Level",
+            "Name : DELHI SPORTS SCHOOL Head/Principal Name: MULK RAJ",
+            "Address : 4,SHAMNATH MARG, CIVIL LINES, DELHI Website : https://dss.dsu.ac.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720098",
+        "serial_number": "95",
+        "affiliation_and_school_code": "Aff. No. : 2720098 Sch. Code: 87768",
+        "state_and_district": "State : DELHI District : NORTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : DELHI SPORTS SCHOOL Head/Principal Name: MULK RAJ",
+        "address_and_website": "Address : 4,SHAMNATH MARG, CIVIL LINES, DELHI Website : https://dss.dsu.ac.in/"
+    },
+    "school_details": {
+        "Name of Institution": "DELHI SPORTS SCHOOL",
+        "Affiliation Number": "2720098",
+        "State": "DELHI",
+        "District": "NORTH DELHI",
+        "Postal Address": "4,SHAMNATH MARG, CIVIL LINES, DELHI",
+        "Pin Code": "110054",
+        "Website": "https://dss.dsu.ac.in/",
+        "Year of Foundation": "2023",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "MULK RAJ",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.Sc, B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "2",
+        "Teaching:": "15",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "DELHI SPORTS UNIVERSITY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

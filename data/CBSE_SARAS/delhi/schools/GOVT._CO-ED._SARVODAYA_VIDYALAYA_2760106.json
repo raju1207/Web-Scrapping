@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2760106",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2760106"
+    },
+    "listing_data": {
+        "affiliation_number": "2760106",
+        "listing_raw_columns": [
+            "1721",
+            "Aff. No. : 2760106 Sch. Code: 87499",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT. CO-ED. SARVODAYA VIDYALAYA Head/Principal Name: DEVENDER SINGH DABAS",
+            "Address : SECT-22, DELHI-110086 Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2760106",
+        "serial_number": "1721",
+        "affiliation_and_school_code": "Aff. No. : 2760106 Sch. Code: 87499",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT. CO-ED. SARVODAYA VIDYALAYA Head/Principal Name: DEVENDER SINGH DABAS",
+        "address_and_website": "Address : SECT-22, DELHI-110086 Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT. CO-ED. SARVODAYA VIDYALAYA",
+        "Affiliation Number": "2760106",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "SECT-22, DELHI-110086",
+        "Pin Code": null,
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "2017",
+        "Date of First Opening of School": "09 Nov 2017",
+        "Name of Principal/ Head of Institution": "DEVENDER SINGH DABAS",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MA MED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "22",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": null,
+        "Remarks, if any": null
+    },
+    "links": []
+}

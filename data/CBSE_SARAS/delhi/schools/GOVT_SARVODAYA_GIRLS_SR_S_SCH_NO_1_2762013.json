@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2762013",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762013"
+    },
+    "listing_data": {
+        "affiliation_number": "2762013",
+        "listing_raw_columns": [
+            "1735",
+            "Aff. No. : 2762013 Sch. Code: 27204",
+            "State : DELHI District : SHAHDARA",
+            "Senior Secondary Level",
+            "Name : GOVT SARVODAYA GIRLS SR S SCH NO 1 Head/Principal Name: MAMTA MEENA",
+            "Address : BHOLA NATH NAGAR SHAHDARA DELHI Website : https://www.edudel.nic.in/mis/MisAdmin/frmMisLogin.aspx",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762013",
+        "serial_number": "1735",
+        "affiliation_and_school_code": "Aff. No. : 2762013 Sch. Code: 27204",
+        "state_and_district": "State : DELHI District : SHAHDARA",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT SARVODAYA GIRLS SR S SCH NO 1 Head/Principal Name: MAMTA MEENA",
+        "address_and_website": "Address : BHOLA NATH NAGAR SHAHDARA DELHI Website : https://www.edudel.nic.in/mis/MisAdmin/frmMisLogin.aspx"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT SARVODAYA GIRLS SR S SCH NO 1",
+        "Affiliation Number": "2762013",
+        "State": "DELHI",
+        "District": "SHAHDARA",
+        "Postal Address": "BHOLA NATH NAGAR SHAHDARA DELHI",
+        "Pin Code": "110032",
+        "Website": "https://www.edudel.nic.in/mis/MisAdmin/frmMisLogin.aspx",
+        "Year of Foundation": "1952",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "MAMTA MEENA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A Hindi",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "3",
+        "Teaching:": "03",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "delhi administration",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2782002",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2782002"
+    },
+    "listing_data": {
+        "affiliation_number": "2782002",
+        "listing_raw_columns": [
+            "2201",
+            "Aff. No. : 2782002 Sch. Code: 27203",
+            "State : DELHI District : SHAHDARA",
+            "Senior Secondary Level",
+            "Name : LALITA PRASAD ARYA GIRLS SR SEC SCH Head/Principal Name: KAMINI BHASIN",
+            "Address : ANAJ MANDI SHAHDARA DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2782002",
+        "serial_number": "2201",
+        "affiliation_and_school_code": "Aff. No. : 2782002 Sch. Code: 27203",
+        "state_and_district": "State : DELHI District : SHAHDARA",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : LALITA PRASAD ARYA GIRLS SR SEC SCH Head/Principal Name: KAMINI BHASIN",
+        "address_and_website": "Address : ANAJ MANDI SHAHDARA DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "LALITA PRASAD ARYA GIRLS SR SEC SCH",
+        "Affiliation Number": "2782002",
+        "State": "DELHI",
+        "District": "SHAHDARA",
+        "Postal Address": "ANAJ MANDI SHAHDARA DELHI",
+        "Pin Code": "110032",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1959",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "KAMINI BHASIN",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A ECONOMICS",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "10",
+        "Teaching:": "20",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "MANAGEMENT",
+        "Remarks, if any": null
+    },
+    "links": []
+}

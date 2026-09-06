@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2768004",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2768004"
+    },
+    "listing_data": {
+        "affiliation_number": "2768004",
+        "listing_raw_columns": [
+            "1993",
+            "Aff. No. : 2768004 Sch. Code: 87142",
+            "State : DELHI District : NORTH DELHI",
+            "Senior Secondary Level",
+            "Name : C M SHRI SCHOOL LANCER ROAD DELHI Head/Principal Name: DR NARESH KUMAR",
+            "Address : LANCERS ROAD DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2768004",
+        "serial_number": "1993",
+        "affiliation_and_school_code": "Aff. No. : 2768004 Sch. Code: 87142",
+        "state_and_district": "State : DELHI District : NORTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : C M SHRI SCHOOL LANCER ROAD DELHI Head/Principal Name: DR NARESH KUMAR",
+        "address_and_website": "Address : LANCERS ROAD DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "C M SHRI SCHOOL LANCER ROAD DELHI",
+        "Affiliation Number": "2768004",
+        "State": "DELHI",
+        "District": "NORTH DELHI",
+        "Postal Address": "LANCERS ROAD DELHI",
+        "Pin Code": "110007",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1986",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "DR NARESH KUMAR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "DOCTRAITE",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "8",
+        "Teaching:": "27",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": "directate of education delhi admn",
+        "Remarks, if any": null
+    },
+    "links": []
+}

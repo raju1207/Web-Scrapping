@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2766065",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2766065"
+    },
+    "listing_data": {
+        "affiliation_number": "2766065",
+        "listing_raw_columns": [
+            "1963",
+            "Aff. No. : 2766065 Sch. Code:",
+            "State : DELHI District : NORTH DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT GIRLS SR SEC SCHOOL Head/Principal Name: sita rani modgill",
+            "Address : R-BLOCK MANGOLPURI DELHI Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2766065",
+        "serial_number": "1963",
+        "affiliation_and_school_code": "Aff. No. : 2766065 Sch. Code:",
+        "state_and_district": "State : DELHI District : NORTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT GIRLS SR SEC SCHOOL Head/Principal Name: sita rani modgill",
+        "address_and_website": "Address : R-BLOCK MANGOLPURI DELHI Website :"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT GIRLS SR SEC SCHOOL",
+        "Affiliation Number": "2766065",
+        "State": "DELHI",
+        "District": "NORTH DELHI",
+        "Postal Address": "R-BLOCK MANGOLPURI DELHI",
+        "Pin Code": "110083",
+        "Website": null,
+        "Year of Foundation": null,
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "sita rani modgill",
+        "Gender": "Unknown",
+        "Principal's Educational/Professional Qualifications:": null,
+        "No of Experience ( in Years ):": null,
+        "Administrative:": null,
+        "Teaching:": null,
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2008 To : 31/03/2011",
+        "Name of Trust/ Society/ Managing Committee": "delhi admn",
+        "Remarks, if any": null
+    },
+    "links": []
+}

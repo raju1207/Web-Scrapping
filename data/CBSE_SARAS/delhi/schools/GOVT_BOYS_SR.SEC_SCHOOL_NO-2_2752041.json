@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2752041",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752041"
+    },
+    "listing_data": {
+        "affiliation_number": "2752041",
+        "listing_raw_columns": [
+            "1163",
+            "Aff. No. : 2752041 Sch. Code: 87325",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR.SEC SCHOOL NO-2 Head/Principal Name: ANIL KUMAR TIWARI",
+            "Address : GHONDA DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752041",
+        "serial_number": "1163",
+        "affiliation_and_school_code": "Aff. No. : 2752041 Sch. Code: 87325",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR.SEC SCHOOL NO-2 Head/Principal Name: ANIL KUMAR TIWARI",
+        "address_and_website": "Address : GHONDA DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR.SEC SCHOOL NO-2",
+        "Affiliation Number": "2752041",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "GHONDA DELHI",
+        "Pin Code": "110053",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1984",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "ANIL KUMAR TIWARI",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.SC. CHEMISTRY , B.ED.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "1",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": "directate of education",
+        "Remarks, if any": null
+    },
+    "links": []
+}

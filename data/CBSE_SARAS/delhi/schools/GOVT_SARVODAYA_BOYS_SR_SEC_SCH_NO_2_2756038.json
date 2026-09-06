@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2756038",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756038"
+    },
+    "listing_data": {
+        "affiliation_number": "2756038",
+        "listing_raw_columns": [
+            "1430",
+            "Aff. No. : 2756038 Sch. Code: 87599",
+            "State : DELHI District : WEST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT SARVODAYA BOYS SR SEC SCH NO 2 Head/Principal Name: NEERAJ KUMAR JINDAL",
+            "Address : TILAK NAGAR NEW DELHI Website : https://www.edudel.nic.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756038",
+        "serial_number": "1430",
+        "affiliation_and_school_code": "Aff. No. : 2756038 Sch. Code: 87599",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT SARVODAYA BOYS SR SEC SCH NO 2 Head/Principal Name: NEERAJ KUMAR JINDAL",
+        "address_and_website": "Address : TILAK NAGAR NEW DELHI Website : https://www.edudel.nic.in/"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT SARVODAYA BOYS SR SEC SCH NO 2",
+        "Affiliation Number": "2756038",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "TILAK NAGAR NEW DELHI",
+        "Pin Code": "110018",
+        "Website": "https://www.edudel.nic.in/",
+        "Year of Foundation": "1959",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "NEERAJ KUMAR JINDAL",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A, B.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "7",
+        "Teaching:": "19",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

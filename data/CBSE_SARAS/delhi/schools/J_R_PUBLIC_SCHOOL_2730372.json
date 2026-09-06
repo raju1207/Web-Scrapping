@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730372",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730372"
+    },
+    "listing_data": {
+        "affiliation_number": "2730372",
+        "listing_raw_columns": [
+            "451",
+            "Aff. No. : 2730372 Sch. Code: 25095",
+            "State : DELHI District : WEST DELHI",
+            "Senior Secondary Level",
+            "Name : J R PUBLIC SCHOOL Head/Principal Name: SALIM SIDDIQUEE",
+            "Address : K 351 P-14 GALI NO 2 SHIVPURI WEST SAGARPUR NEW DELHI Website : www.jrpublicschool.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730372",
+        "serial_number": "451",
+        "affiliation_and_school_code": "Aff. No. : 2730372 Sch. Code: 25095",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : J R PUBLIC SCHOOL Head/Principal Name: SALIM SIDDIQUEE",
+        "address_and_website": "Address : K 351 P-14 GALI NO 2 SHIVPURI WEST SAGARPUR NEW DELHI Website : www.jrpublicschool.in"
+    },
+    "school_details": {
+        "Name of Institution": "J R PUBLIC SCHOOL",
+        "Affiliation Number": "2730372",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "K 351 P-14 GALI NO 2 SHIVPURI WEST SAGARPUR NEW DELHI",
+        "Pin Code": "123401",
+        "Website": "www.jrpublicschool.in",
+        "Year of Foundation": "1990",
+        "Date of First Opening of School": "03 Jun 2002",
+        "Name of Principal/ Head of Institution": "SALIM SIDDIQUEE",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "Msc Bed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "3",
+        "Teaching:": "17",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "J R EDU SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

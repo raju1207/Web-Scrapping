@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730554",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730554"
+    },
+    "listing_data": {
+        "affiliation_number": "2730554",
+        "listing_raw_columns": [
+            "625",
+            "Aff. No. : 2730554 Sch. Code: 25148",
+            "State : DELHI District : EAST DELHI",
+            "Secondary Level",
+            "Name : DILSHAD PUBLIC SCHOOL Head/Principal Name: Anupma Sharma",
+            "Address : BEHIND B- BLOCK MARKET, DILSHAD GARDEN, DELHI Website : https://www.dilshadpublicsecschool.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730554",
+        "serial_number": "625",
+        "affiliation_and_school_code": "Aff. No. : 2730554 Sch. Code: 25148",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : DILSHAD PUBLIC SCHOOL Head/Principal Name: Anupma Sharma",
+        "address_and_website": "Address : BEHIND B- BLOCK MARKET, DILSHAD GARDEN, DELHI Website : https://www.dilshadpublicsecschool.in/"
+    },
+    "school_details": {
+        "Name of Institution": "DILSHAD PUBLIC SCHOOL",
+        "Affiliation Number": "2730554",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "BEHIND B- BLOCK MARKET, DILSHAD GARDEN, DELHI",
+        "Pin Code": "110095",
+        "Website": "https://www.dilshadpublicsecschool.in/",
+        "Year of Foundation": "1990",
+        "Date of First Opening of School": "01 Jul 1987",
+        "Name of Principal/ Head of Institution": "Anupma Sharma",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A, B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "7",
+        "Teaching:": "7",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "al khozama intt school committee",
+        "Remarks, if any": null
+    },
+    "links": []
+}

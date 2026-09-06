@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2784003",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2784003"
+    },
+    "listing_data": {
+        "affiliation_number": "2784003",
+        "listing_raw_columns": [
+            "2206",
+            "Aff. No. : 2784003 Sch. Code: 27347",
+            "State : DELHI District : NEW DELHI",
+            "Secondary Level",
+            "Name : JAIN GIRLS SEC SCHOOL Head/Principal Name: Manju Varshney",
+            "Address : GREEN PARK EXTN. NEW DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2784003",
+        "serial_number": "2206",
+        "affiliation_and_school_code": "Aff. No. : 2784003 Sch. Code: 27347",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : JAIN GIRLS SEC SCHOOL Head/Principal Name: Manju Varshney",
+        "address_and_website": "Address : GREEN PARK EXTN. NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "JAIN GIRLS SEC SCHOOL",
+        "Affiliation Number": "2784003",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "GREEN PARK EXTN. NEW DELHI",
+        "Pin Code": "110016",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1959",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "Manju Varshney",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A.B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "0",
+        "Teaching:": "32",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "jain shiksha samiti new delhi",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2776006",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2776006"
+    },
+    "listing_data": {
+        "affiliation_number": "2776006",
+        "listing_raw_columns": [
+            "2108",
+            "Aff. No. : 2776006 Sch. Code: 87573",
+            "State : DELHI District : NEW DELHI",
+            "Secondary Level",
+            "Name : SWAMI SIVANANDA MEMORIAL SEC SCH Head/Principal Name: RAJESH KUMAR",
+            "Address : EAST AVENUE PUNJABI BAGH NEW DELHI Website : https://www.ssmi.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2776006",
+        "serial_number": "2108",
+        "affiliation_and_school_code": "Aff. No. : 2776006 Sch. Code: 87573",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : SWAMI SIVANANDA MEMORIAL SEC SCH Head/Principal Name: RAJESH KUMAR",
+        "address_and_website": "Address : EAST AVENUE PUNJABI BAGH NEW DELHI Website : https://www.ssmi.in/"
+    },
+    "school_details": {
+        "Name of Institution": "SWAMI SIVANANDA MEMORIAL SEC SCH",
+        "Affiliation Number": "2776006",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "EAST AVENUE PUNJABI BAGH NEW DELHI",
+        "Pin Code": "110026",
+        "Website": "https://www.ssmi.in/",
+        "Year of Foundation": "1967",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "RAJESH KUMAR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "Msc, B.ED,PGDCA",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "5",
+        "Teaching:": "22",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "SWAMI SIVANANDA MEMORIAL INSTITUTE",
+        "Remarks, if any": null
+    },
+    "links": []
+}

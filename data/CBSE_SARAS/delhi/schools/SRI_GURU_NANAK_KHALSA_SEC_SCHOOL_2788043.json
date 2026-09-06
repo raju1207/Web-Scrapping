@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2788043",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2788043"
+    },
+    "listing_data": {
+        "affiliation_number": "2788043",
+        "listing_raw_columns": [
+            "2249",
+            "Aff. No. : 2788043 Sch. Code: 87111",
+            "State : DELHI District : NORTH DELHI",
+            "Secondary Level",
+            "Name : SRI GURU NANAK KHALSA SEC SCHOOL Head/Principal Name: MANJEET KAUR INCHARGE",
+            "Address : AHATA KIDARA DELHI Website : http://sgnkchardikla.com/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2788043",
+        "serial_number": "2249",
+        "affiliation_and_school_code": "Aff. No. : 2788043 Sch. Code: 87111",
+        "state_and_district": "State : DELHI District : NORTH DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : SRI GURU NANAK KHALSA SEC SCHOOL Head/Principal Name: MANJEET KAUR INCHARGE",
+        "address_and_website": "Address : AHATA KIDARA DELHI Website : http://sgnkchardikla.com/"
+    },
+    "school_details": {
+        "Name of Institution": "SRI GURU NANAK KHALSA SEC SCHOOL",
+        "Affiliation Number": "2788043",
+        "State": "DELHI",
+        "District": "NORTH DELHI",
+        "Postal Address": "AHATA KIDARA DELHI",
+        "Pin Code": "110006",
+        "Website": "http://sgnkchardikla.com/",
+        "Year of Foundation": "1950",
+        "Date of First Opening of School": "01 Jul 2005",
+        "Name of Principal/ Head of Institution": "MANJEET KAUR INCHARGE",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "B COM honors AND B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "5",
+        "Teaching:": "33",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "navratan vidya mandir shiksha samiti",
+        "Remarks, if any": null
+    },
+    "links": []
+}

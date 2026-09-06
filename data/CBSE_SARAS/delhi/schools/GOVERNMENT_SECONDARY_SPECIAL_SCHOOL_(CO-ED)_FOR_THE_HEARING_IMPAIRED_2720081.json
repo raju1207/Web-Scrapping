@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2720081",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720081"
+    },
+    "listing_data": {
+        "affiliation_number": "2720081",
+        "listing_raw_columns": [
+            "78",
+            "Aff. No. : 2720081 Sch. Code: 87758",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Secondary Level",
+            "Name : GOVERNMENT SECONDARY SPECIAL SCHOOL (CO-ED) FOR THE HEARING IMPAIRED Head/Principal Name: ASHA SHARMA",
+            "Address : VISHRAM CHOWK, SECTOR - 4, ROHINI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720081",
+        "serial_number": "78",
+        "affiliation_and_school_code": "Aff. No. : 2720081 Sch. Code: 87758",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : GOVERNMENT SECONDARY SPECIAL SCHOOL (CO-ED) FOR THE HEARING IMPAIRED Head/Principal Name: ASHA SHARMA",
+        "address_and_website": "Address : VISHRAM CHOWK, SECTOR - 4, ROHINI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVERNMENT SECONDARY SPECIAL SCHOOL (CO-ED) FOR THE HEARING IMPAIRED",
+        "Affiliation Number": "2720081",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "VISHRAM CHOWK, SECTOR - 4, ROHINI",
+        "Pin Code": "110085",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "2023",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "ASHA SHARMA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A. B.ED. M. PHIL",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "6",
+        "Teaching:": "24",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "DIRECTORATE OF EUDCATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

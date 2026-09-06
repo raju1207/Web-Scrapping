@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730489",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730489"
+    },
+    "listing_data": {
+        "affiliation_number": "2730489",
+        "listing_raw_columns": [
+            "562",
+            "Aff. No. : 2730489 Sch. Code: 25028",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : VANASTHALI PUBLIC SCHOOL Head/Principal Name: ANURADHA JAIN",
+            "Address : MAYUR VIHAR PHASE III NEAR RUCHIKA PETROL PUMP, DISTT EAST DELHI, DELHI Website : https://www.vpsphase3.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730489",
+        "serial_number": "562",
+        "affiliation_and_school_code": "Aff. No. : 2730489 Sch. Code: 25028",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : VANASTHALI PUBLIC SCHOOL Head/Principal Name: ANURADHA JAIN",
+        "address_and_website": "Address : MAYUR VIHAR PHASE III NEAR RUCHIKA PETROL PUMP, DISTT EAST DELHI, DELHI Website : https://www.vpsphase3.com"
+    },
+    "school_details": {
+        "Name of Institution": "VANASTHALI PUBLIC SCHOOL",
+        "Affiliation Number": "2730489",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "MAYUR VIHAR PHASE III NEAR RUCHIKA PETROL PUMP, DISTT EAST DELHI, DELHI",
+        "Pin Code": "110096",
+        "Website": "https://www.vpsphase3.com",
+        "Year of Foundation": "2002",
+        "Date of First Opening of School": "01 Apr 2002",
+        "Name of Principal/ Head of Institution": "ANURADHA JAIN",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "21",
+        "Teaching:": "15",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "ALL INDIA DIGAMBER JAIN SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

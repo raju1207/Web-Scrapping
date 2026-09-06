@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2750026",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750026"
+    },
+    "listing_data": {
+        "affiliation_number": "2750026",
+        "listing_raw_columns": [
+            "984",
+            "Aff. No. : 2750026 Sch. Code: 87447",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT SARVODAYA BOYS SR SEC SCH NO 1 Head/Principal Name: DR RANVEER",
+            "Address : K-BLOCK MANGOLPURI DELHI Website : https://www.edudel.nic.in/DirectorateOfEducation.htm",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750026",
+        "serial_number": "984",
+        "affiliation_and_school_code": "Aff. No. : 2750026 Sch. Code: 87447",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT SARVODAYA BOYS SR SEC SCH NO 1 Head/Principal Name: DR RANVEER",
+        "address_and_website": "Address : K-BLOCK MANGOLPURI DELHI Website : https://www.edudel.nic.in/DirectorateOfEducation.htm"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT SARVODAYA BOYS SR SEC SCH NO 1",
+        "Affiliation Number": "2750026",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "K-BLOCK MANGOLPURI DELHI",
+        "Pin Code": "110083",
+        "Website": "https://www.edudel.nic.in/DirectorateOfEducation.htm",
+        "Year of Foundation": "1979",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "DR RANVEER",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "Ph.D, BED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "2",
+        "Teaching:": "15",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

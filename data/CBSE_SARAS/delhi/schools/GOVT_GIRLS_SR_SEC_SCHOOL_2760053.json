@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2760053",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2760053"
+    },
+    "listing_data": {
+        "affiliation_number": "2760053",
+        "listing_raw_columns": [
+            "1671",
+            "Aff. No. : 2760053 Sch. Code: 87240",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT GIRLS SR SEC SCHOOL Head/Principal Name: GEETA",
+            "Address : BANKNER DELHI Website : 87240@CBSESHIKSHA.IN",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2760053",
+        "serial_number": "1671",
+        "affiliation_and_school_code": "Aff. No. : 2760053 Sch. Code: 87240",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT GIRLS SR SEC SCHOOL Head/Principal Name: GEETA",
+        "address_and_website": "Address : BANKNER DELHI Website : 87240@CBSESHIKSHA.IN"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT GIRLS SR SEC SCHOOL",
+        "Affiliation Number": "2760053",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "BANKNER DELHI",
+        "Pin Code": "110040",
+        "Website": "87240@CBSESHIKSHA.IN",
+        "Year of Foundation": "1985",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "GEETA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A., B.ED.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "15",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "delhi administration",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730474",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730474"
+    },
+    "listing_data": {
+        "affiliation_number": "2730474",
+        "listing_raw_columns": [
+            "547",
+            "Aff. No. : 2730474 Sch. Code: 25330",
+            "State : DELHI District : NEW DELHI",
+            "Secondary Level",
+            "Name : HIND BAL MANDIR SEC. SCHOOL Head/Principal Name: ANUPAMA SHARMA",
+            "Address : DHARAMPURA COLONY NAJAFGARH NEW DELHI Website : www.hbmss.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730474",
+        "serial_number": "547",
+        "affiliation_and_school_code": "Aff. No. : 2730474 Sch. Code: 25330",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : HIND BAL MANDIR SEC. SCHOOL Head/Principal Name: ANUPAMA SHARMA",
+        "address_and_website": "Address : DHARAMPURA COLONY NAJAFGARH NEW DELHI Website : www.hbmss.in"
+    },
+    "school_details": {
+        "Name of Institution": "HIND BAL MANDIR SEC. SCHOOL",
+        "Affiliation Number": "2730474",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "DHARAMPURA COLONY NAJAFGARH NEW DELHI",
+        "Pin Code": "110043",
+        "Website": "www.hbmss.in",
+        "Year of Foundation": "1989",
+        "Date of First Opening of School": "13 Jun 2018",
+        "Name of Principal/ Head of Institution": "ANUPAMA SHARMA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "15",
+        "Teaching:": "13",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "HIND BAL MANDIR SHIKSHA SAMITI",
+        "Remarks, if any": null
+    },
+    "links": []
+}

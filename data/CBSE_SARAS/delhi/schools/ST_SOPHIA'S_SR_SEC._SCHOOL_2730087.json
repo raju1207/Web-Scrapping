@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730087",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730087"
+    },
+    "listing_data": {
+        "affiliation_number": "2730087",
+        "listing_raw_columns": [
+            "175",
+            "Aff. No. : 2730087 Sch. Code:",
+            "State : DELHI District : NEW DELHI",
+            "Secondary Level",
+            "Name : ST SOPHIA'S SR SEC. SCHOOL Head/Principal Name: MRS P JOSEPH",
+            "Address : D-23 KIRTI NAGAR NEW DELHI Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730087",
+        "serial_number": "175",
+        "affiliation_and_school_code": "Aff. No. : 2730087 Sch. Code:",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : ST SOPHIA'S SR SEC. SCHOOL Head/Principal Name: MRS P JOSEPH",
+        "address_and_website": "Address : D-23 KIRTI NAGAR NEW DELHI Website :"
+    },
+    "school_details": {
+        "Name of Institution": "ST SOPHIA'S SR SEC. SCHOOL",
+        "Affiliation Number": "2730087",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "D-23 KIRTI NAGAR NEW DELHI",
+        "Pin Code": "110015",
+        "Website": null,
+        "Year of Foundation": null,
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "MRS P JOSEPH",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": null,
+        "No of Experience ( in Years ):": null,
+        "Administrative:": null,
+        "Teaching:": null,
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/05/1986 To : 31/03/2000",
+        "Name of Trust/ Society/ Managing Committee": "ST SOPHIA'S CHRISTIAN EDUCATION SOC",
+        "Remarks, if any": null
+    },
+    "links": []
+}

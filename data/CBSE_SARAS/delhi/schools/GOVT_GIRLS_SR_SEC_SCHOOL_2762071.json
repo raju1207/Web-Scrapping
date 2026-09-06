@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2762071",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762071"
+    },
+    "listing_data": {
+        "affiliation_number": "2762071",
+        "listing_raw_columns": [
+            "1789",
+            "Aff. No. : 2762071 Sch. Code: 27072",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT GIRLS SR SEC SCHOOL Head/Principal Name: NEETU",
+            "Address : NEW ASHOK NAGAR DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762071",
+        "serial_number": "1789",
+        "affiliation_and_school_code": "Aff. No. : 2762071 Sch. Code: 27072",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT GIRLS SR SEC SCHOOL Head/Principal Name: NEETU",
+        "address_and_website": "Address : NEW ASHOK NAGAR DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT GIRLS SR SEC SCHOOL",
+        "Affiliation Number": "2762071",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "NEW ASHOK NAGAR DELHI",
+        "Pin Code": "110096",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1992",
+        "Date of First Opening of School": "22 Jan 2020",
+        "Name of Principal/ Head of Institution": "NEETU",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MSC, B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "0",
+        "Teaching:": "8",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "DIR.OF EDUCATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

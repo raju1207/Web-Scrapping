@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2750165",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750165"
+    },
+    "listing_data": {
+        "affiliation_number": "2750165",
+        "listing_raw_columns": [
+            "1112",
+            "Aff. No. : 2750165 Sch. Code: 87531",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : SARVODAYA CO-ED VIDYALAYA SULTANPUR MAJRA Head/Principal Name: RAJ KUMAR",
+            "Address : SULTANPUR, MAJRA, DELHI Website : https://www.edudel.nic.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750165",
+        "serial_number": "1112",
+        "affiliation_and_school_code": "Aff. No. : 2750165 Sch. Code: 87531",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SARVODAYA CO-ED VIDYALAYA SULTANPUR MAJRA Head/Principal Name: RAJ KUMAR",
+        "address_and_website": "Address : SULTANPUR, MAJRA, DELHI Website : https://www.edudel.nic.in/"
+    },
+    "school_details": {
+        "Name of Institution": "SARVODAYA CO-ED VIDYALAYA SULTANPUR MAJRA",
+        "Affiliation Number": "2750165",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "SULTANPUR, MAJRA, DELHI",
+        "Pin Code": "110086",
+        "Website": "https://www.edudel.nic.in/",
+        "Year of Foundation": "1994",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "RAJ KUMAR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MA.B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "12",
+        "Teaching:": "12",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "delhi administration",
+        "Remarks, if any": null
+    },
+    "links": []
+}

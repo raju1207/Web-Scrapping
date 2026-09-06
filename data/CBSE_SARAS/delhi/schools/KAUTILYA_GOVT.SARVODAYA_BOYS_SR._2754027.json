@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2754027",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754027"
+    },
+    "listing_data": {
+        "affiliation_number": "2754027",
+        "listing_raw_columns": [
+            "1288",
+            "Aff. No. : 2754027 Sch. Code: 27378",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : KAUTILYA GOVT.SARVODAYA BOYS SR. Head/Principal Name: MARIAM M LAKRA",
+            "Address : SEC SCHOOL CHIRAG ENCLAVE NEW DELHI Website : https://www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754027",
+        "serial_number": "1288",
+        "affiliation_and_school_code": "Aff. No. : 2754027 Sch. Code: 27378",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : KAUTILYA GOVT.SARVODAYA BOYS SR. Head/Principal Name: MARIAM M LAKRA",
+        "address_and_website": "Address : SEC SCHOOL CHIRAG ENCLAVE NEW DELHI Website : https://www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "KAUTILYA GOVT.SARVODAYA BOYS SR.",
+        "Affiliation Number": "2754027",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "SEC SCHOOL CHIRAG ENCLAVE NEW DELHI",
+        "Pin Code": "110048",
+        "Website": "https://www.edudel.nic.in",
+        "Year of Foundation": "1967",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "MARIAM M LAKRA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "Post Graduction",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "3",
+        "Teaching:": "25",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMN",
+        "Remarks, if any": null
+    },
+    "links": []
+}

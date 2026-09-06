@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2720096",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720096"
+    },
+    "listing_data": {
+        "affiliation_number": "2720096",
+        "listing_raw_columns": [
+            "93",
+            "Aff. No. : 2720096 Sch. Code: 87767",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : C M SHRI SCHOOL Head/Principal Name: Mamta Saluja",
+            "Address : ANANDWAS,, KOHAT ENCLAVE,, DELHI Website : http://www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720096",
+        "serial_number": "93",
+        "affiliation_and_school_code": "Aff. No. : 2720096 Sch. Code: 87767",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : C M SHRI SCHOOL Head/Principal Name: Mamta Saluja",
+        "address_and_website": "Address : ANANDWAS,, KOHAT ENCLAVE,, DELHI Website : http://www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "C M SHRI SCHOOL",
+        "Affiliation Number": "2720096",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "ANANDWAS,, KOHAT ENCLAVE,, DELHI",
+        "Pin Code": "110034",
+        "Website": "http://www.edudel.nic.in",
+        "Year of Foundation": "2025",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "Mamta Saluja",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA English",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "6",
+        "Teaching:": "28",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "Directorate of Education Govt of NCT of Delhi",
+        "Remarks, if any": null
+    },
+    "links": []
+}

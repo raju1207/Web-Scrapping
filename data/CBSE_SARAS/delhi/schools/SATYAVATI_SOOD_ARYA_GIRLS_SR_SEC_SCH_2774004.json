@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2774004",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774004"
+    },
+    "listing_data": {
+        "affiliation_number": "2774004",
+        "listing_raw_columns": [
+            "2069",
+            "Aff. No. : 2774004 Sch. Code: 27438",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : SATYAVATI SOOD ARYA GIRLS SR SEC SCH Head/Principal Name: MEENAKSHI SETHI",
+            "Address : NIZAMUDDIN EAST NEW DELHI Website : https://satyawatisoodaryaschool.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774004",
+        "serial_number": "2069",
+        "affiliation_and_school_code": "Aff. No. : 2774004 Sch. Code: 27438",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SATYAVATI SOOD ARYA GIRLS SR SEC SCH Head/Principal Name: MEENAKSHI SETHI",
+        "address_and_website": "Address : NIZAMUDDIN EAST NEW DELHI Website : https://satyawatisoodaryaschool.in/"
+    },
+    "school_details": {
+        "Name of Institution": "SATYAVATI SOOD ARYA GIRLS SR SEC SCH",
+        "Affiliation Number": "2774004",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "NIZAMUDDIN EAST NEW DELHI",
+        "Pin Code": "110013",
+        "Website": "https://satyawatisoodaryaschool.in/",
+        "Year of Foundation": "1961",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "MEENAKSHI SETHI",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A., B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "35",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "d a v education society",
+        "Remarks, if any": null
+    },
+    "links": []
+}

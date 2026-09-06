@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2768055",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2768055"
+    },
+    "listing_data": {
+        "affiliation_number": "2768055",
+        "listing_raw_columns": [
+            "2038",
+            "Aff. No. : 2768055 Sch. Code: 87145",
+            "State : DELHI District : NORTH DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SEC SCHOOL Head/Principal Name: SITA RAM",
+            "Address : MUKUNDPUR VILLAGE, DELHI Website : gbsss1207236@gmail.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2768055",
+        "serial_number": "2038",
+        "affiliation_and_school_code": "Aff. No. : 2768055 Sch. Code: 87145",
+        "state_and_district": "State : DELHI District : NORTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SEC SCHOOL Head/Principal Name: SITA RAM",
+        "address_and_website": "Address : MUKUNDPUR VILLAGE, DELHI Website : gbsss1207236@gmail.com"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SEC SCHOOL",
+        "Affiliation Number": "2768055",
+        "State": "DELHI",
+        "District": "NORTH DELHI",
+        "Postal Address": "MUKUNDPUR VILLAGE, DELHI",
+        "Pin Code": "110042",
+        "Website": "gbsss1207236@gmail.com",
+        "Year of Foundation": "2012",
+        "Date of First Opening of School": "04 Jan 2013",
+        "Name of Principal/ Head of Institution": "SITA RAM",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A, BE.D",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "10",
+        "Teaching:": "12",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "DTE OF EDN.",
+        "Remarks, if any": null
+    },
+    "links": []
+}

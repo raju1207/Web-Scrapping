@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2762075",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762075"
+    },
+    "listing_data": {
+        "affiliation_number": "2762075",
+        "listing_raw_columns": [
+            "1793",
+            "Aff. No. : 2762075 Sch. Code: 87345",
+            "State : DELHI District : NORTH EAST DELHI",
+            "Secondary Level",
+            "Name : GOVT GIRLS SEC SCHOOL Head/Principal Name: PRIYA MALIK",
+            "Address : MUSTAFABAD DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762075",
+        "serial_number": "1793",
+        "affiliation_and_school_code": "Aff. No. : 2762075 Sch. Code: 87345",
+        "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : GOVT GIRLS SEC SCHOOL Head/Principal Name: PRIYA MALIK",
+        "address_and_website": "Address : MUSTAFABAD DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT GIRLS SEC SCHOOL",
+        "Affiliation Number": "2762075",
+        "State": "DELHI",
+        "District": "NORTH EAST DELHI",
+        "Postal Address": "MUSTAFABAD DELHI",
+        "Pin Code": "110094",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1993",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "PRIYA MALIK",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "2",
+        "Teaching:": "4",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "delhi administration dir. of edu.",
+        "Remarks, if any": null
+    },
+    "links": []
+}

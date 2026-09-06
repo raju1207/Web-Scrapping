@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2780001",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2780001"
+    },
+    "listing_data": {
+        "affiliation_number": "2780001",
+        "listing_raw_columns": [
+            "2189",
+            "Aff. No. : 2780001 Sch. Code: 87229",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : SANT NIRANKARI GIRLS SR SEC SCHOOL Head/Principal Name: BHARTI GOSWAMI",
+            "Address : SANT NIRANKARI COLONY DELHI Website : https://www.sngsss.edu.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2780001",
+        "serial_number": "2189",
+        "affiliation_and_school_code": "Aff. No. : 2780001 Sch. Code: 87229",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SANT NIRANKARI GIRLS SR SEC SCHOOL Head/Principal Name: BHARTI GOSWAMI",
+        "address_and_website": "Address : SANT NIRANKARI COLONY DELHI Website : https://www.sngsss.edu.in/"
+    },
+    "school_details": {
+        "Name of Institution": "SANT NIRANKARI GIRLS SR SEC SCHOOL",
+        "Affiliation Number": "2780001",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "SANT NIRANKARI COLONY DELHI",
+        "Pin Code": "110009",
+        "Website": "https://www.sngsss.edu.in/",
+        "Year of Foundation": "1961",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "BHARTI GOSWAMI",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "18",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "SANT NIRANKARI MANDAL",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2778058",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778058"
+    },
+    "listing_data": {
+        "affiliation_number": "2778058",
+        "listing_raw_columns": [
+            "2175",
+            "Aff. No. : 2778058 Sch. Code: 87120",
+            "State : DELHI District : NORTH DELHI",
+            "Senior Secondary Level",
+            "Name : RAMJAS SR SEC SCHOOL NO-3 Head/Principal Name: Anil Kumar Gautam",
+            "Address : KUCHA NATWAN CHANDNI CHOWK DELHI Website : https://www.ramjasfoundation.com/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778058",
+        "serial_number": "2175",
+        "affiliation_and_school_code": "Aff. No. : 2778058 Sch. Code: 87120",
+        "state_and_district": "State : DELHI District : NORTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : RAMJAS SR SEC SCHOOL NO-3 Head/Principal Name: Anil Kumar Gautam",
+        "address_and_website": "Address : KUCHA NATWAN CHANDNI CHOWK DELHI Website : https://www.ramjasfoundation.com/"
+    },
+    "school_details": {
+        "Name of Institution": "RAMJAS SR SEC SCHOOL NO-3",
+        "Affiliation Number": "2778058",
+        "State": "DELHI",
+        "District": "NORTH DELHI",
+        "Postal Address": "KUCHA NATWAN CHANDNI CHOWK DELHI",
+        "Pin Code": "110006",
+        "Website": "https://www.ramjasfoundation.com/",
+        "Year of Foundation": "1912",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "Anil Kumar Gautam",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M. Sc. M-Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "14",
+        "Teaching:": "28",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "RAMJAS FOUNDATION DELHI",
+        "Remarks, if any": null
+    },
+    "links": []
+}

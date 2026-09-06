@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2750157",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750157"
+    },
+    "listing_data": {
+        "affiliation_number": "2750157",
+        "listing_raw_columns": [
+            "1104",
+            "Aff. No. : 2750157 Sch. Code: 87495",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT. BOYS SR. SEC. SCHOOL Head/Principal Name: BACHCHU SINGH MEENA",
+            "Address : BLOCK - A, SECTOR - 16. ROHINI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750157",
+        "serial_number": "1104",
+        "affiliation_and_school_code": "Aff. No. : 2750157 Sch. Code: 87495",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT. BOYS SR. SEC. SCHOOL Head/Principal Name: BACHCHU SINGH MEENA",
+        "address_and_website": "Address : BLOCK - A, SECTOR - 16. ROHINI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT. BOYS SR. SEC. SCHOOL",
+        "Affiliation Number": "2750157",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "BLOCK - A, SECTOR - 16. ROHINI",
+        "Pin Code": "110089",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "2011",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "BACHCHU SINGH MEENA",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MA B ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "2",
+        "Teaching:": "2",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "arya samaj g hr sec school trust",
+        "Remarks, if any": null
+    },
+    "links": []
+}

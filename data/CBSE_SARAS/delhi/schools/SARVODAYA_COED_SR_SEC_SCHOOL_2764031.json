@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2764031",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764031"
+    },
+    "listing_data": {
+        "affiliation_number": "2764031",
+        "listing_raw_columns": [
+            "1838",
+            "Aff. No. : 2764031 Sch. Code: 27338",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : SARVODAYA COED SR SEC SCHOOL Head/Principal Name: SANGEETA CHAUHAN",
+            "Address : SAFDARJUNG ENCLAVE NEW DELHI Website : www.edudel.ni.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764031",
+        "serial_number": "1838",
+        "affiliation_and_school_code": "Aff. No. : 2764031 Sch. Code: 27338",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SARVODAYA COED SR SEC SCHOOL Head/Principal Name: SANGEETA CHAUHAN",
+        "address_and_website": "Address : SAFDARJUNG ENCLAVE NEW DELHI Website : www.edudel.ni.in"
+    },
+    "school_details": {
+        "Name of Institution": "SARVODAYA COED SR SEC SCHOOL",
+        "Affiliation Number": "2764031",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "SAFDARJUNG ENCLAVE NEW DELHI",
+        "Pin Code": "110029",
+        "Website": "www.edudel.ni.in",
+        "Year of Foundation": "1964",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "SANGEETA CHAUHAN",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.COM. , B.ED.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "11",
+        "Teaching:": "20",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "delhi administration",
+        "Remarks, if any": null
+    },
+    "links": []
+}

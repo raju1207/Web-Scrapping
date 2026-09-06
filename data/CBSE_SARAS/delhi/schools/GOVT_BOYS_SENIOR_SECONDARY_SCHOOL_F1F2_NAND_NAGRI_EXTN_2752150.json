@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2752150",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752150"
+    },
+    "listing_data": {
+        "affiliation_number": "2752150",
+        "listing_raw_columns": [
+            "1267",
+            "Aff. No. : 2752150 Sch. Code: 87347",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SENIOR SECONDARY SCHOOL F1F2 NAND NAGRI EXTN Head/Principal Name: SANJEEV KUMAR",
+            "Address : F1 F2, NAND NAGRI EXTN. DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752150",
+        "serial_number": "1267",
+        "affiliation_and_school_code": "Aff. No. : 2752150 Sch. Code: 87347",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SENIOR SECONDARY SCHOOL F1F2 NAND NAGRI EXTN Head/Principal Name: SANJEEV KUMAR",
+        "address_and_website": "Address : F1 F2, NAND NAGRI EXTN. DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SENIOR SECONDARY SCHOOL F1F2 NAND NAGRI EXTN",
+        "Affiliation Number": "2752150",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "F1 F2, NAND NAGRI EXTN. DELHI",
+        "Pin Code": "110093",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "2014",
+        "Date of First Opening of School": "04 Jan 1995",
+        "Name of Principal/ Head of Institution": "SANJEEV KUMAR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.SC , B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "5",
+        "Teaching:": "23",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "DIRECTORATE OF EDUCATION, DELHI",
+        "Remarks, if any": null
+    },
+    "links": []
+}

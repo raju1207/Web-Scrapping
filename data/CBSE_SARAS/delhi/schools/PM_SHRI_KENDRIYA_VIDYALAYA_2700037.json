@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2700037",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700037"
+    },
+    "listing_data": {
+        "affiliation_number": "2700037",
+        "listing_raw_columns": [
+            "36",
+            "Aff. No. : 2700037 Sch. Code: 89011",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: SAROJ KUMAR RAI",
+            "Address : SECTOR 25 ROHINI DELHI Website : https://rohinisec25.kvs.ac.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700037",
+        "serial_number": "36",
+        "affiliation_and_school_code": "Aff. No. : 2700037 Sch. Code: 89011",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: SAROJ KUMAR RAI",
+        "address_and_website": "Address : SECTOR 25 ROHINI DELHI Website : https://rohinisec25.kvs.ac.in/"
+    },
+    "school_details": {
+        "Name of Institution": "PM SHRI KENDRIYA VIDYALAYA",
+        "Affiliation Number": "2700037",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "SECTOR 25 ROHINI DELHI",
+        "Pin Code": "110085",
+        "Website": "https://rohinisec25.kvs.ac.in/",
+        "Year of Foundation": "2003",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "SAROJ KUMAR RAI",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.Sc",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "7",
+        "Teaching:": "22",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "KV",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "kendriya vidyalaya sangathan",
+        "Remarks, if any": null
+    },
+    "links": []
+}

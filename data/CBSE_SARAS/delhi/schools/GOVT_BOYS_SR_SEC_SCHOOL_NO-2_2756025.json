@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2756025",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756025"
+    },
+    "listing_data": {
+        "affiliation_number": "2756025",
+        "listing_raw_columns": [
+            "1420",
+            "Aff. No. : 2756025 Sch. Code: 27496",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR SEC SCHOOL NO-2 Head/Principal Name: SURENDER",
+            "Address : NAJAFGARH NEW DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756025",
+        "serial_number": "1420",
+        "affiliation_and_school_code": "Aff. No. : 2756025 Sch. Code: 27496",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR SEC SCHOOL NO-2 Head/Principal Name: SURENDER",
+        "address_and_website": "Address : NAJAFGARH NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR SEC SCHOOL NO-2",
+        "Affiliation Number": "2756025",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "NAJAFGARH NEW DELHI",
+        "Pin Code": "110043",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1970",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "SURENDER",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M PHIL",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "3",
+        "Teaching:": "15",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "DIRECTORATE OF EDUCATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

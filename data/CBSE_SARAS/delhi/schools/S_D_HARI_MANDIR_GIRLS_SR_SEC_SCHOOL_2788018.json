@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2788018",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2788018"
+    },
+    "listing_data": {
+        "affiliation_number": "2788018",
+        "listing_raw_columns": [
+            "2226",
+            "Aff. No. : 2788018 Sch. Code: 87091",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : S D HARI MANDIR GIRLS SR SEC SCHOOL Head/Principal Name: INDU NAYYAR",
+            "Address : JHANDEWALAN MARG NABI KARIM NEW DELHI Website : www.sdhmgssschool.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2788018",
+        "serial_number": "2226",
+        "affiliation_and_school_code": "Aff. No. : 2788018 Sch. Code: 87091",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : S D HARI MANDIR GIRLS SR SEC SCHOOL Head/Principal Name: INDU NAYYAR",
+        "address_and_website": "Address : JHANDEWALAN MARG NABI KARIM NEW DELHI Website : www.sdhmgssschool.com"
+    },
+    "school_details": {
+        "Name of Institution": "S D HARI MANDIR GIRLS SR SEC SCHOOL",
+        "Affiliation Number": "2788018",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "JHANDEWALAN MARG NABI KARIM NEW DELHI",
+        "Pin Code": "110055",
+        "Website": "www.sdhmgssschool.com",
+        "Year of Foundation": "1955",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "INDU NAYYAR",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A. B.ED.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "25",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "s.d.sabh hari mandir registered",
+        "Remarks, if any": null
+    },
+    "links": []
+}

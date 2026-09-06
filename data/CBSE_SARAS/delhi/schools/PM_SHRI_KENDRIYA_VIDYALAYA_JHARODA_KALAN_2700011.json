@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2700011",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700011"
+    },
+    "listing_data": {
+        "affiliation_number": "2700011",
+        "listing_raw_columns": [
+            "10",
+            "Aff. No. : 2700011 Sch. Code: 29031",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : PM SHRI KENDRIYA VIDYALAYA JHARODA KALAN Head/Principal Name: SATISH KUMAR",
+            "Address : C R P F CAMP JHARODAKALAN NEW DELHI Website : https://jharodakalan.kvs.ac.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700011",
+        "serial_number": "10",
+        "affiliation_and_school_code": "Aff. No. : 2700011 Sch. Code: 29031",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : PM SHRI KENDRIYA VIDYALAYA JHARODA KALAN Head/Principal Name: SATISH KUMAR",
+        "address_and_website": "Address : C R P F CAMP JHARODAKALAN NEW DELHI Website : https://jharodakalan.kvs.ac.in"
+    },
+    "school_details": {
+        "Name of Institution": "PM SHRI KENDRIYA VIDYALAYA JHARODA KALAN",
+        "Affiliation Number": "2700011",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "C R P F CAMP JHARODAKALAN NEW DELHI",
+        "Pin Code": "110072",
+        "Website": "https://jharodakalan.kvs.ac.in",
+        "Year of Foundation": "1975",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "SATISH KUMAR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "PHD",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "16",
+        "Teaching:": "25",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "KV",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "KENDRIYA VIDYALAYA SANGATHAN",
+        "Remarks, if any": null
+    },
+    "links": []
+}

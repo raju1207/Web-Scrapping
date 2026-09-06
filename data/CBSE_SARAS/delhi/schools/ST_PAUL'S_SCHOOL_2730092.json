@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730092",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730092"
+    },
+    "listing_data": {
+        "affiliation_number": "2730092",
+        "listing_raw_columns": [
+            "180",
+            "Aff. No. : 2730092 Sch. Code: 25159",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : ST PAUL'S SCHOOL Head/Principal Name: REGI OOMMEN",
+            "Address : C-III SAFDARJUNG DEVELOPMENT AREA HAUZ KHAS NEW DELHI Website : www.stpauls-delhi.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730092",
+        "serial_number": "180",
+        "affiliation_and_school_code": "Aff. No. : 2730092 Sch. Code: 25159",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : ST PAUL'S SCHOOL Head/Principal Name: REGI OOMMEN",
+        "address_and_website": "Address : C-III SAFDARJUNG DEVELOPMENT AREA HAUZ KHAS NEW DELHI Website : www.stpauls-delhi.com"
+    },
+    "school_details": {
+        "Name of Institution": "ST PAUL'S SCHOOL",
+        "Affiliation Number": "2730092",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "C-III SAFDARJUNG DEVELOPMENT AREA HAUZ KHAS NEW DELHI",
+        "Pin Code": "110016",
+        "Website": "www.stpauls-delhi.com",
+        "Year of Foundation": "1968",
+        "Date of First Opening of School": "02 Apr 2001",
+        "Name of Principal/ Head of Institution": "REGI OOMMEN",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.Sc- Mathematics , B.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "16",
+        "Teaching:": "36",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "THE DELHI ORTHODOX SYRIAN CHURCH SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

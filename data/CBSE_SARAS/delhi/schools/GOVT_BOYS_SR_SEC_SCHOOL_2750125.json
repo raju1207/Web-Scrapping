@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2750125",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750125"
+    },
+    "listing_data": {
+        "affiliation_number": "2750125",
+        "listing_raw_columns": [
+            "1073",
+            "Aff. No. : 2750125 Sch. Code: 87527",
+            "State : DELHI District : WEST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: BRIJESH KUMAR SINGH",
+            "Address : E BLOCK SULTAN PURI DELHI Website : https://drive.google.com/file/d/130bZP9QvSnbRsCZhH0OhVAf7RH2",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750125",
+        "serial_number": "1073",
+        "affiliation_and_school_code": "Aff. No. : 2750125 Sch. Code: 87527",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: BRIJESH KUMAR SINGH",
+        "address_and_website": "Address : E BLOCK SULTAN PURI DELHI Website : https://drive.google.com/file/d/130bZP9QvSnbRsCZhH0OhVAf7RH2"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR SEC SCHOOL",
+        "Affiliation Number": "2750125",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "E BLOCK SULTAN PURI DELHI",
+        "Pin Code": "110041",
+        "Website": "https://drive.google.com/file/d/130bZP9QvSnbRsCZhH0OhVAf7RH2",
+        "Year of Foundation": "1998",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "BRIJESH KUMAR SINGH",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "PHD, M.A., B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "14",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2016 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "directate of education",
+        "Remarks, if any": null
+    },
+    "links": []
+}

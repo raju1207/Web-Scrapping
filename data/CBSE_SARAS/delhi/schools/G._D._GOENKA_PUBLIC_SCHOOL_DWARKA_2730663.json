@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730663",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730663"
+    },
+    "listing_data": {
+        "affiliation_number": "2730663",
+        "listing_raw_columns": [
+            "731",
+            "Aff. No. : 2730663 Sch. Code: 25303",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : G. D. GOENKA PUBLIC SCHOOL DWARKA Head/Principal Name: Anita Khosla",
+            "Address : ELEPHANTA LANE, BEHIND SECTOR 10/6 MARKET, SECTOR-10, DWARKA, NEW DELHI Website : www.gdgoenkadwarka.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730663",
+        "serial_number": "731",
+        "affiliation_and_school_code": "Aff. No. : 2730663 Sch. Code: 25303",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : G. D. GOENKA PUBLIC SCHOOL DWARKA Head/Principal Name: Anita Khosla",
+        "address_and_website": "Address : ELEPHANTA LANE, BEHIND SECTOR 10/6 MARKET, SECTOR-10, DWARKA, NEW DELHI Website : www.gdgoenkadwarka.com"
+    },
+    "school_details": {
+        "Name of Institution": "G. D. GOENKA PUBLIC SCHOOL DWARKA",
+        "Affiliation Number": "2730663",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "ELEPHANTA LANE, BEHIND SECTOR 10/6 MARKET, SECTOR-10, DWARKA, NEW DELHI",
+        "Pin Code": "110075",
+        "Website": "www.gdgoenkadwarka.com",
+        "Year of Foundation": "2009",
+        "Date of First Opening of School": "01 Apr 2009",
+        "Name of Principal/ Head of Institution": "Anita Khosla",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.Sc, B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "8",
+        "Teaching:": "27",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "Lakhmi Chand Charitable Society",
+        "Remarks, if any": null
+    },
+    "links": []
+}

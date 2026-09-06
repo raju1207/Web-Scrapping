@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2756071",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756071"
+    },
+    "listing_data": {
+        "affiliation_number": "2756071",
+        "listing_raw_columns": [
+            "1455",
+            "Aff. No. : 2756071 Sch. Code:",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR SEC SCHOOL NO-2 Head/Principal Name: B C CHHIMWAL",
+            "Address : PUNJABI BAGH NEW DELHI Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756071",
+        "serial_number": "1455",
+        "affiliation_and_school_code": "Aff. No. : 2756071 Sch. Code:",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR SEC SCHOOL NO-2 Head/Principal Name: B C CHHIMWAL",
+        "address_and_website": "Address : PUNJABI BAGH NEW DELHI Website :"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR SEC SCHOOL NO-2",
+        "Affiliation Number": "2756071",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "PUNJABI BAGH NEW DELHI",
+        "Pin Code": "110026",
+        "Website": null,
+        "Year of Foundation": null,
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "B C CHHIMWAL",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": null,
+        "No of Experience ( in Years ):": null,
+        "Administrative:": null,
+        "Teaching:": null,
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2001 To : 31/03/2004",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

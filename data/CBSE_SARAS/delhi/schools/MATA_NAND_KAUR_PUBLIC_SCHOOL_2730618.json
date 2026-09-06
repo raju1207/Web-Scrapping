@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730618",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730618"
+    },
+    "listing_data": {
+        "affiliation_number": "2730618",
+        "listing_raw_columns": [
+            "688",
+            "Aff. No. : 2730618 Sch. Code: 25355",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : MATA NAND KAUR PUBLIC SCHOOL Head/Principal Name: AJAY KUMAR",
+            "Address : VILL. & POST OFFICE DHANSA, NEW DELHI-110073 Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730618",
+        "serial_number": "688",
+        "affiliation_and_school_code": "Aff. No. : 2730618 Sch. Code: 25355",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : MATA NAND KAUR PUBLIC SCHOOL Head/Principal Name: AJAY KUMAR",
+        "address_and_website": "Address : VILL. & POST OFFICE DHANSA, NEW DELHI-110073 Website :"
+    },
+    "school_details": {
+        "Name of Institution": "MATA NAND KAUR PUBLIC SCHOOL",
+        "Affiliation Number": "2730618",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "VILL. & POST OFFICE DHANSA, NEW DELHI-110073",
+        "Pin Code": "110073",
+        "Website": null,
+        "Year of Foundation": "2000",
+        "Date of First Opening of School": "01 Apr 2000",
+        "Name of Principal/ Head of Institution": "AJAY KUMAR",
+        "Gender": "Unknown",
+        "Principal's Educational/Professional Qualifications:": "M.PHILL B.ED.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "17",
+        "Teaching:": "23",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "Mata Nand Kaur Educational Society (Regd.),",
+        "Remarks, if any": null
+    },
+    "links": []
+}

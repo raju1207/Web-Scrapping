@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730758",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730758"
+    },
+    "listing_data": {
+        "affiliation_number": "2730758",
+        "listing_raw_columns": [
+            "822",
+            "Aff. No. : 2730758 Sch. Code: 25394",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Secondary Level",
+            "Name : ZIGYASA CO-ED ENGLISH MEDIUM SCHOOL Head/Principal Name: SWEETY",
+            "Address : KH. NO. 76 & 81, VILLAGE BADUSARAI, NEW DELHI Website : https://zigyasaschool.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730758",
+        "serial_number": "822",
+        "affiliation_and_school_code": "Aff. No. : 2730758 Sch. Code: 25394",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : ZIGYASA CO-ED ENGLISH MEDIUM SCHOOL Head/Principal Name: SWEETY",
+        "address_and_website": "Address : KH. NO. 76 & 81, VILLAGE BADUSARAI, NEW DELHI Website : https://zigyasaschool.com"
+    },
+    "school_details": {
+        "Name of Institution": "ZIGYASA CO-ED ENGLISH MEDIUM SCHOOL",
+        "Affiliation Number": "2730758",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "KH. NO. 76 & 81, VILLAGE BADUSARAI, NEW DELHI",
+        "Pin Code": "110071",
+        "Website": "https://zigyasaschool.com",
+        "Year of Foundation": "2006",
+        "Date of First Opening of School": "01 Apr 2006",
+        "Name of Principal/ Head of Institution": "SWEETY",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M. SC. B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "7",
+        "Teaching:": "11",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "Zigyasa Educational Society",
+        "Remarks, if any": null
+    },
+    "links": []
+}

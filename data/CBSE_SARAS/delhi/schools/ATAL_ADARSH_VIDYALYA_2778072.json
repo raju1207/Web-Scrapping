@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2778072",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778072"
+    },
+    "listing_data": {
+        "affiliation_number": "2778072",
+        "listing_raw_columns": [
+            "2188",
+            "Aff. No. : 2778072 Sch. Code: 27116",
+            "State : DELHI District : NEW DELHI",
+            "Secondary Level",
+            "Name : ATAL ADARSH VIDYALYA Head/Principal Name: BHARTI KAPUR",
+            "Address : BABU MARKET, SAROJINI NAGAR, NEW DELHI Website : http://aavbabumarket.ndmc.gov.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778072",
+        "serial_number": "2188",
+        "affiliation_and_school_code": "Aff. No. : 2778072 Sch. Code: 27116",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : ATAL ADARSH VIDYALYA Head/Principal Name: BHARTI KAPUR",
+        "address_and_website": "Address : BABU MARKET, SAROJINI NAGAR, NEW DELHI Website : http://aavbabumarket.ndmc.gov.in"
+    },
+    "school_details": {
+        "Name of Institution": "ATAL ADARSH VIDYALYA",
+        "Affiliation Number": "2778072",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "BABU MARKET, SAROJINI NAGAR, NEW DELHI",
+        "Pin Code": "571104",
+        "Website": "http://aavbabumarket.ndmc.gov.in",
+        "Year of Foundation": "1973",
+        "Date of First Opening of School": "09 Nov 2017",
+        "Name of Principal/ Head of Institution": "BHARTI KAPUR",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.P.ED.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "0",
+        "Teaching:": "0",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": "c t s a, new delhi",
+        "Remarks, if any": null
+    },
+    "links": []
+}

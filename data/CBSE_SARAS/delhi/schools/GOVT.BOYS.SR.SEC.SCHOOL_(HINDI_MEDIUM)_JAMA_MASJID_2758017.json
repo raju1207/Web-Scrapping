@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2758017",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2758017"
+    },
+    "listing_data": {
+        "affiliation_number": "2758017",
+        "listing_raw_columns": [
+            "1591",
+            "Aff. No. : 2758017 Sch. Code: 87050",
+            "State : DELHI District : NORTH DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT.BOYS.SR.SEC.SCHOOL (HINDI MEDIUM) JAMA MASJID Head/Principal Name: NAZIM",
+            "Address : (HINDI MEDIUM) JAMA MASJID DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2758017",
+        "serial_number": "1591",
+        "affiliation_and_school_code": "Aff. No. : 2758017 Sch. Code: 87050",
+        "state_and_district": "State : DELHI District : NORTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT.BOYS.SR.SEC.SCHOOL (HINDI MEDIUM) JAMA MASJID Head/Principal Name: NAZIM",
+        "address_and_website": "Address : (HINDI MEDIUM) JAMA MASJID DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT.BOYS.SR.SEC.SCHOOL (HINDI MEDIUM) JAMA MASJID",
+        "Affiliation Number": "2758017",
+        "State": "DELHI",
+        "District": "NORTH DELHI",
+        "Postal Address": "(HINDI MEDIUM) JAMA MASJID DELHI",
+        "Pin Code": "110006",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1979",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "NAZIM",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "B.ED ,MA",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "10",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "directate of education",
+        "Remarks, if any": null
+    },
+    "links": []
+}

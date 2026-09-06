@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2760085",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2760085"
+    },
+    "listing_data": {
+        "affiliation_number": "2760085",
+        "listing_raw_columns": [
+            "1702",
+            "Aff. No. : 2760085 Sch. Code: 87279",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Secondary Level",
+            "Name : GOVT GIRLS SEC SCHOOL Head/Principal Name: SEEMA YADAV",
+            "Address : MAJLIS PARK DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2760085",
+        "serial_number": "1702",
+        "affiliation_and_school_code": "Aff. No. : 2760085 Sch. Code: 87279",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : GOVT GIRLS SEC SCHOOL Head/Principal Name: SEEMA YADAV",
+        "address_and_website": "Address : MAJLIS PARK DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT GIRLS SEC SCHOOL",
+        "Affiliation Number": "2760085",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "MAJLIS PARK DELHI",
+        "Pin Code": "110033",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1970",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "SEEMA YADAV",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "8",
+        "Teaching:": "23",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "dir. of edu.",
+        "Remarks, if any": null
+    },
+    "links": []
+}

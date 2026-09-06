@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730552",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730552"
+    },
+    "listing_data": {
+        "affiliation_number": "2730552",
+        "listing_raw_columns": [
+            "623",
+            "Aff. No. : 2730552 Sch. Code: 85166",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : GURU ANGAD PUBLIC SCHOOL Head/Principal Name: MANJEET KAUR",
+            "Address : GURUDWARA COMPLEX, ASHOK VIHAR, PHASE - I, DISTT NORTH WEST DELHI, DELHI Website : http://www.gaps.edu.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730552",
+        "serial_number": "623",
+        "affiliation_and_school_code": "Aff. No. : 2730552 Sch. Code: 85166",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GURU ANGAD PUBLIC SCHOOL Head/Principal Name: MANJEET KAUR",
+        "address_and_website": "Address : GURUDWARA COMPLEX, ASHOK VIHAR, PHASE - I, DISTT NORTH WEST DELHI, DELHI Website : http://www.gaps.edu.in/"
+    },
+    "school_details": {
+        "Name of Institution": "GURU ANGAD PUBLIC SCHOOL",
+        "Affiliation Number": "2730552",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "GURUDWARA COMPLEX, ASHOK VIHAR, PHASE - I, DISTT NORTH WEST DELHI, DELHI",
+        "Pin Code": "110052",
+        "Website": "http://www.gaps.edu.in/",
+        "Year of Foundation": "1982",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "MANJEET KAUR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A, B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "22",
+        "Teaching:": "10",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": null,
+        "Remarks, if any": null
+    },
+    "links": []
+}

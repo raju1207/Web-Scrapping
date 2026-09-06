@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2700014",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700014"
+    },
+    "listing_data": {
+        "affiliation_number": "2700014",
+        "listing_raw_columns": [
+            "13",
+            "Aff. No. : 2700014 Sch. Code: 29024",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: PREM PAL SINGH MEENA",
+            "Address : MASJID MOTH SECTOR III SADIQ NAGAR NEW DELHI Website : https://masjidmoth.kvs.ac.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700014",
+        "serial_number": "13",
+        "affiliation_and_school_code": "Aff. No. : 2700014 Sch. Code: 29024",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: PREM PAL SINGH MEENA",
+        "address_and_website": "Address : MASJID MOTH SECTOR III SADIQ NAGAR NEW DELHI Website : https://masjidmoth.kvs.ac.in"
+    },
+    "school_details": {
+        "Name of Institution": "PM SHRI KENDRIYA VIDYALAYA",
+        "Affiliation Number": "2700014",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "MASJID MOTH SECTOR III SADIQ NAGAR NEW DELHI",
+        "Pin Code": "110049",
+        "Website": "https://masjidmoth.kvs.ac.in",
+        "Year of Foundation": "1981",
+        "Date of First Opening of School": "06 Jun 2008",
+        "Name of Principal/ Head of Institution": "PREM PAL SINGH MEENA",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.Sc. Maths, M.A. Economics, B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "28",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "KV",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "KENDRIYA VIYALAYA SANGATHAN",
+        "Remarks, if any": null
+    },
+    "links": []
+}

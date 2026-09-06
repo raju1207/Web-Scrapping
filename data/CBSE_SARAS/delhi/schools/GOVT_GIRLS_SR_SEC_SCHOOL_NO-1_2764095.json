@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2764095",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764095"
+    },
+    "listing_data": {
+        "affiliation_number": "2764095",
+        "listing_raw_columns": [
+            "1898",
+            "Aff. No. : 2764095 Sch. Code: 27374",
+            "State : DELHI District : SOUTH DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT GIRLS SR SEC SCHOOL NO-1 Head/Principal Name: shaloo gaur",
+            "Address : MOLAR, BAND, DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764095",
+        "serial_number": "1898",
+        "affiliation_and_school_code": "Aff. No. : 2764095 Sch. Code: 27374",
+        "state_and_district": "State : DELHI District : SOUTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT GIRLS SR SEC SCHOOL NO-1 Head/Principal Name: shaloo gaur",
+        "address_and_website": "Address : MOLAR, BAND, DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT GIRLS SR SEC SCHOOL NO-1",
+        "Affiliation Number": "2764095",
+        "State": "DELHI",
+        "District": "SOUTH DELHI",
+        "Postal Address": "MOLAR, BAND, DELHI",
+        "Pin Code": "110044",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "2015",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "shaloo gaur",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A. B.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "2",
+        "Teaching:": "02",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": "dir. of edu.",
+        "Remarks, if any": null
+    },
+    "links": []
+}

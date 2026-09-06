@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2762018",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762018"
+    },
+    "listing_data": {
+        "affiliation_number": "2762018",
+        "listing_raw_columns": [
+            "1739",
+            "Aff. No. : 2762018 Sch. Code: 27008",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : SKV GANDHI NAGAR Head/Principal Name: BEENA",
+            "Address : GANDHI NAGAR DELHI Website : https://www.edudel.nic.in/welcomemain.htm",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762018",
+        "serial_number": "1739",
+        "affiliation_and_school_code": "Aff. No. : 2762018 Sch. Code: 27008",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SKV GANDHI NAGAR Head/Principal Name: BEENA",
+        "address_and_website": "Address : GANDHI NAGAR DELHI Website : https://www.edudel.nic.in/welcomemain.htm"
+    },
+    "school_details": {
+        "Name of Institution": "SKV GANDHI NAGAR",
+        "Affiliation Number": "2762018",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "GANDHI NAGAR DELHI",
+        "Pin Code": "110031",
+        "Website": "https://www.edudel.nic.in/welcomemain.htm",
+        "Year of Foundation": "1969",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "BEENA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "5",
+        "Teaching:": "5",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "directate of education",
+        "Remarks, if any": null
+    },
+    "links": []
+}

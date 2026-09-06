@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2700032",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700032"
+    },
+    "listing_data": {
+        "affiliation_number": "2700032",
+        "listing_raw_columns": [
+            "31",
+            "Aff. No. : 2700032 Sch. Code: 29009",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : KENDRIYA VIDYALAYA Head/Principal Name: HARIPADA DAS",
+            "Address : A.A.I RANGPURI NEW DELHI Website : https://rangpuriaai.kvs.ac.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700032",
+        "serial_number": "31",
+        "affiliation_and_school_code": "Aff. No. : 2700032 Sch. Code: 29009",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : KENDRIYA VIDYALAYA Head/Principal Name: HARIPADA DAS",
+        "address_and_website": "Address : A.A.I RANGPURI NEW DELHI Website : https://rangpuriaai.kvs.ac.in"
+    },
+    "school_details": {
+        "Name of Institution": "KENDRIYA VIDYALAYA",
+        "Affiliation Number": "2700032",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "A.A.I RANGPURI NEW DELHI",
+        "Pin Code": "110037",
+        "Website": "https://rangpuriaai.kvs.ac.in",
+        "Year of Foundation": "1993",
+        "Date of First Opening of School": "24 Jun 2006",
+        "Name of Principal/ Head of Institution": "HARIPADA DAS",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.COM, B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "8",
+        "Teaching:": "21",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "KV",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "K V S",
+        "Remarks, if any": null
+    },
+    "links": []
+}

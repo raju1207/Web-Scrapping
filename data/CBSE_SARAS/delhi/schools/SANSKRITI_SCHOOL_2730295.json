@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730295",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730295"
+    },
+    "listing_data": {
+        "affiliation_number": "2730295",
+        "listing_raw_columns": [
+            "380",
+            "Aff. No. : 2730295 Sch. Code: 25055",
+            "State : DELHI District : CENTRAL DELHI",
+            "Senior Secondary Level",
+            "Name : SANSKRITI SCHOOL Head/Principal Name: RICHA SHARMA AGNIHOTRI",
+            "Address : DR. S. RADHAKRISHNAN MARG, CHANAKYAPURI, NEW DELHI- 110021 Website : www.sanskritischool.edu.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730295",
+        "serial_number": "380",
+        "affiliation_and_school_code": "Aff. No. : 2730295 Sch. Code: 25055",
+        "state_and_district": "State : DELHI District : CENTRAL DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SANSKRITI SCHOOL Head/Principal Name: RICHA SHARMA AGNIHOTRI",
+        "address_and_website": "Address : DR. S. RADHAKRISHNAN MARG, CHANAKYAPURI, NEW DELHI- 110021 Website : www.sanskritischool.edu.in"
+    },
+    "school_details": {
+        "Name of Institution": "SANSKRITI SCHOOL",
+        "Affiliation Number": "2730295",
+        "State": "DELHI",
+        "District": "CENTRAL DELHI",
+        "Postal Address": "DR. S. RADHAKRISHNAN MARG, CHANAKYAPURI, NEW DELHI- 110021",
+        "Pin Code": "110021",
+        "Website": "www.sanskritischool.edu.in",
+        "Year of Foundation": "1998",
+        "Date of First Opening of School": "01 Apr 2005",
+        "Name of Principal/ Head of Institution": "RICHA SHARMA AGNIHOTRI",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.Sc., M.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "9",
+        "Teaching:": "26",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "the civil services society",
+        "Remarks, if any": null
+    },
+    "links": []
+}

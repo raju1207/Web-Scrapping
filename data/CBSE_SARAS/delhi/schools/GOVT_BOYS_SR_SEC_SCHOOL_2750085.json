@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2750085",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750085"
+    },
+    "listing_data": {
+        "affiliation_number": "2750085",
+        "listing_raw_columns": [
+            "1036",
+            "Aff. No. : 2750085 Sch. Code: 87452",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: RAJESH KUMAR",
+            "Address : U-BLOCK MANGOL PURI DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750085",
+        "serial_number": "1036",
+        "affiliation_and_school_code": "Aff. No. : 2750085 Sch. Code: 87452",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: RAJESH KUMAR",
+        "address_and_website": "Address : U-BLOCK MANGOL PURI DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR SEC SCHOOL",
+        "Affiliation Number": "2750085",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "U-BLOCK MANGOL PURI DELHI",
+        "Pin Code": "110083",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1983",
+        "Date of First Opening of School": "16 Aug 2019",
+        "Name of Principal/ Head of Institution": "RAJESH KUMAR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "PH.D",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "02",
+        "Teaching:": "07",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2017 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

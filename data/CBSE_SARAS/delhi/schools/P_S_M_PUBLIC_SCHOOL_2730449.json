@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730449",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730449"
+    },
+    "listing_data": {
+        "affiliation_number": "2730449",
+        "listing_raw_columns": [
+            "523",
+            "Aff. No. : 2730449 Sch. Code: 85366",
+            "State : DELHI District : WEST DELHI",
+            "Senior Secondary Level",
+            "Name : P S M PUBLIC SCHOOL Head/Principal Name: RENU CHAUDHARY",
+            "Address : PRATAP VIHAR KIRARI EXTENSION NANGLOI, DISTT WEST DELHI, DELHI Website : www.psmsrschool.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730449",
+        "serial_number": "523",
+        "affiliation_and_school_code": "Aff. No. : 2730449 Sch. Code: 85366",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : P S M PUBLIC SCHOOL Head/Principal Name: RENU CHAUDHARY",
+        "address_and_website": "Address : PRATAP VIHAR KIRARI EXTENSION NANGLOI, DISTT WEST DELHI, DELHI Website : www.psmsrschool.in"
+    },
+    "school_details": {
+        "Name of Institution": "P S M PUBLIC SCHOOL",
+        "Affiliation Number": "2730449",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "PRATAP VIHAR KIRARI EXTENSION NANGLOI, DISTT WEST DELHI, DELHI",
+        "Pin Code": "110041",
+        "Website": "www.psmsrschool.in",
+        "Year of Foundation": "1989",
+        "Date of First Opening of School": "03 Jul 2000",
+        "Name of Principal/ Head of Institution": "RENU CHAUDHARY",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.COM, B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "22",
+        "Teaching:": "29",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": "PSM PUB SCH EDU SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

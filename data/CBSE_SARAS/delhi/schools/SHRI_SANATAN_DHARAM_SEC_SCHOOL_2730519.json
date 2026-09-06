@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730519",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730519"
+    },
+    "listing_data": {
+        "affiliation_number": "2730519",
+        "listing_raw_columns": [
+            "590",
+            "Aff. No. : 2730519 Sch. Code:",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : SHRI SANATAN DHARAM SEC SCHOOL Head/Principal Name: SMT MEENU SHARMA",
+            "Address : SHRI RAGHUNATH MANDIR KRISHNA NAGAR GHONDLI DELHI Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730519",
+        "serial_number": "590",
+        "affiliation_and_school_code": "Aff. No. : 2730519 Sch. Code:",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SHRI SANATAN DHARAM SEC SCHOOL Head/Principal Name: SMT MEENU SHARMA",
+        "address_and_website": "Address : SHRI RAGHUNATH MANDIR KRISHNA NAGAR GHONDLI DELHI Website :"
+    },
+    "school_details": {
+        "Name of Institution": "SHRI SANATAN DHARAM SEC SCHOOL",
+        "Affiliation Number": "2730519",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "SHRI RAGHUNATH MANDIR KRISHNA NAGAR GHONDLI DELHI",
+        "Pin Code": "110051",
+        "Website": null,
+        "Year of Foundation": null,
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "SMT MEENU SHARMA",
+        "Gender": "Unknown",
+        "Principal's Educational/Professional Qualifications:": null,
+        "No of Experience ( in Years ):": null,
+        "Administrative:": null,
+        "Teaching:": null,
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2009 To : 31/03/2014",
+        "Name of Trust/ Society/ Managing Committee": "SHRI SANATAN DHARAM SABHA",
+        "Remarks, if any": null
+    },
+    "links": []
+}

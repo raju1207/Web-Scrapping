@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2720082",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720082"
+    },
+    "listing_data": {
+        "affiliation_number": "2720082",
+        "listing_raw_columns": [
+            "79",
+            "Aff. No. : 2720082 Sch. Code: 27722",
+            "State : DELHI District : NORTH EAST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVERNMENT SARVODAYA BAL VIDYALAYA Head/Principal Name: KANHAIYA JHA DIWANA",
+            "Address : E BLOCK, NAND NAGRI, NORTH EAST-II Website : https://www.edudel.nic.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720082",
+        "serial_number": "79",
+        "affiliation_and_school_code": "Aff. No. : 2720082 Sch. Code: 27722",
+        "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVERNMENT SARVODAYA BAL VIDYALAYA Head/Principal Name: KANHAIYA JHA DIWANA",
+        "address_and_website": "Address : E BLOCK, NAND NAGRI, NORTH EAST-II Website : https://www.edudel.nic.in/"
+    },
+    "school_details": {
+        "Name of Institution": "GOVERNMENT SARVODAYA BAL VIDYALAYA",
+        "Affiliation Number": "2720082",
+        "State": "DELHI",
+        "District": "NORTH EAST DELHI",
+        "Postal Address": "E BLOCK, NAND NAGRI, NORTH EAST-II",
+        "Pin Code": "110093",
+        "Website": "https://www.edudel.nic.in/",
+        "Year of Foundation": "2024",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "KANHAIYA JHA DIWANA",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "Ph.D. MA,BA,B.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "11",
+        "Teaching:": "22",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "DIRECTORATE OF EDUCATION DELHI",
+        "Remarks, if any": null
+    },
+    "links": []
+}

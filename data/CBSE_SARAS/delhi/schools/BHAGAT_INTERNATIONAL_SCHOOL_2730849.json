@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730849",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730849"
+    },
+    "listing_data": {
+        "affiliation_number": "2730849",
+        "listing_raw_columns": [
+            "909",
+            "Aff. No. : 2730849 Sch. Code: 85512",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Secondary Level",
+            "Name : BHAGAT INTERNATIONAL SCHOOL Head/Principal Name: KAVITA",
+            "Address : KH. NO. 26/8, MOHAMAD PUR MAJRI, RAMA VIHAR, DELHI, 110081 Website : www.bhagatinternationalschool.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730849",
+        "serial_number": "909",
+        "affiliation_and_school_code": "Aff. No. : 2730849 Sch. Code: 85512",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : BHAGAT INTERNATIONAL SCHOOL Head/Principal Name: KAVITA",
+        "address_and_website": "Address : KH. NO. 26/8, MOHAMAD PUR MAJRI, RAMA VIHAR, DELHI, 110081 Website : www.bhagatinternationalschool.in"
+    },
+    "school_details": {
+        "Name of Institution": "BHAGAT INTERNATIONAL SCHOOL",
+        "Affiliation Number": "2730849",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "KH. NO. 26/8, MOHAMAD PUR MAJRI, RAMA VIHAR, DELHI, 110081",
+        "Pin Code": "110081",
+        "Website": "www.bhagatinternationalschool.in",
+        "Year of Foundation": "2006",
+        "Date of First Opening of School": "01 Apr 2006",
+        "Name of Principal/ Head of Institution": "KAVITA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A., B.ED.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "10",
+        "Teaching:": "12",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "SHRADHEY BHAGWATI DEVI EDUCATIONAL & WELFARE SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2768046",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2768046"
+    },
+    "listing_data": {
+        "affiliation_number": "2768046",
+        "listing_raw_columns": [
+            "2029",
+            "Aff. No. : 2768046 Sch. Code:",
+            "State : DELHI District : NORTH DELHI",
+            "Secondary Level",
+            "Name : GOVT GIRLS SEC SCHOOL (URDU MEDIUM) Head/Principal Name: MRS SHAHANA KHATOON",
+            "Address : IIND SHIFT CHASHMA BUILDING BALLIMARAN DELHI Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2768046",
+        "serial_number": "2029",
+        "affiliation_and_school_code": "Aff. No. : 2768046 Sch. Code:",
+        "state_and_district": "State : DELHI District : NORTH DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : GOVT GIRLS SEC SCHOOL (URDU MEDIUM) Head/Principal Name: MRS SHAHANA KHATOON",
+        "address_and_website": "Address : IIND SHIFT CHASHMA BUILDING BALLIMARAN DELHI Website :"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT GIRLS SEC SCHOOL (URDU MEDIUM)",
+        "Affiliation Number": "2768046",
+        "State": "DELHI",
+        "District": "NORTH DELHI",
+        "Postal Address": "IIND SHIFT CHASHMA BUILDING BALLIMARAN DELHI",
+        "Pin Code": "110006",
+        "Website": null,
+        "Year of Foundation": null,
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "MRS SHAHANA KHATOON",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": null,
+        "No of Experience ( in Years ):": null,
+        "Administrative:": null,
+        "Teaching:": null,
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2002 To : 31/03/2005",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

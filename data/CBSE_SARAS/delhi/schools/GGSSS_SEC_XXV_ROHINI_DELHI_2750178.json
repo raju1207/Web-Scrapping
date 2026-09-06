@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2750178",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750178"
+    },
+    "listing_data": {
+        "affiliation_number": "2750178",
+        "listing_raw_columns": [
+            "1125",
+            "Aff. No. : 2750178 Sch. Code: 88502",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : GGSSS SEC XXV ROHINI DELHI Head/Principal Name: SEEMAKSHI TOMAR",
+            "Address : SEC-25 ROHINI DELHI 110085 Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750178",
+        "serial_number": "1125",
+        "affiliation_and_school_code": "Aff. No. : 2750178 Sch. Code: 88502",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GGSSS SEC XXV ROHINI DELHI Head/Principal Name: SEEMAKSHI TOMAR",
+        "address_and_website": "Address : SEC-25 ROHINI DELHI 110085 Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GGSSS SEC XXV ROHINI DELHI",
+        "Affiliation Number": "2750178",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "SEC-25 ROHINI DELHI 110085",
+        "Pin Code": "110085",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "2019",
+        "Date of First Opening of School": "01 Apr 2019",
+        "Name of Principal/ Head of Institution": "SEEMAKSHI TOMAR",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.SC",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "5",
+        "Teaching:": "17",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": "Dte of Education",
+        "Remarks, if any": null
+    },
+    "links": []
+}

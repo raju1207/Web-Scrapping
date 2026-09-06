@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2750114",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750114"
+    },
+    "listing_data": {
+        "affiliation_number": "2750114",
+        "listing_raw_columns": [
+            "1062",
+            "Aff. No. : 2750114 Sch. Code: 87533",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : CH. BANWARI LAL GOVT. SARVODAYA Head/Principal Name: Suman Sharma",
+            "Address : CO-EDN SCHOOL WAZIR PUR VILLAGE DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750114",
+        "serial_number": "1062",
+        "affiliation_and_school_code": "Aff. No. : 2750114 Sch. Code: 87533",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : CH. BANWARI LAL GOVT. SARVODAYA Head/Principal Name: Suman Sharma",
+        "address_and_website": "Address : CO-EDN SCHOOL WAZIR PUR VILLAGE DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "CH. BANWARI LAL GOVT. SARVODAYA",
+        "Affiliation Number": "2750114",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "CO-EDN SCHOOL WAZIR PUR VILLAGE DELHI",
+        "Pin Code": "110052",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1967",
+        "Date of First Opening of School": "30 Apr 2014",
+        "Name of Principal/ Head of Institution": "Suman Sharma",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "PHD.D.LIT.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "8",
+        "Teaching:": "20",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "DIR. OF EDUCATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

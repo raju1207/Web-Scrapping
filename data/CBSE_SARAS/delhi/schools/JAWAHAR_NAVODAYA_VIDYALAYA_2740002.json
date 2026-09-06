@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2740002",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2740002"
+    },
+    "listing_data": {
+        "affiliation_number": "2740002",
+        "listing_raw_columns": [
+            "960",
+            "Aff. No. : 2740002 Sch. Code: 29030",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : JAWAHAR NAVODAYA VIDYALAYA Head/Principal Name: RAJINDER KUMAR",
+            "Address : JAFFARPUR KALAN NEW DELHI Website : https://navodaya.gov.in/nvs/nvs-school/SOUTH-WEST-DELHI/en/a",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2740002",
+        "serial_number": "960",
+        "affiliation_and_school_code": "Aff. No. : 2740002 Sch. Code: 29030",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : JAWAHAR NAVODAYA VIDYALAYA Head/Principal Name: RAJINDER KUMAR",
+        "address_and_website": "Address : JAFFARPUR KALAN NEW DELHI Website : https://navodaya.gov.in/nvs/nvs-school/SOUTH-WEST-DELHI/en/a"
+    },
+    "school_details": {
+        "Name of Institution": "JAWAHAR NAVODAYA VIDYALAYA",
+        "Affiliation Number": "2740002",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "JAFFARPUR KALAN NEW DELHI",
+        "Pin Code": "110073",
+        "Website": "https://navodaya.gov.in/nvs/nvs-school/SOUTH-WEST-DELHI/en/a",
+        "Year of Foundation": "1991",
+        "Date of First Opening of School": "30 Apr 2014",
+        "Name of Principal/ Head of Institution": "RAJINDER KUMAR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M PHIL ECONOMICS B ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "15",
+        "Teaching:": "8",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "JNV",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "N.V.S",
+        "Remarks, if any": null
+    },
+    "links": []
+}

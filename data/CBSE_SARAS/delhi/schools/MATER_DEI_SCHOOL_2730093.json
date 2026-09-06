@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730093",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730093"
+    },
+    "listing_data": {
+        "affiliation_number": "2730093",
+        "listing_raw_columns": [
+            "181",
+            "Aff. No. : 2730093 Sch. Code: 85034",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : MATER DEI SCHOOL Head/Principal Name: ARUL VIMALA GEETHA",
+            "Address : TILAK LANE, DISTT NEW DELHI, NEW DELHI Website : www.materdeischool.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730093",
+        "serial_number": "181",
+        "affiliation_and_school_code": "Aff. No. : 2730093 Sch. Code: 85034",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : MATER DEI SCHOOL Head/Principal Name: ARUL VIMALA GEETHA",
+        "address_and_website": "Address : TILAK LANE, DISTT NEW DELHI, NEW DELHI Website : www.materdeischool.in"
+    },
+    "school_details": {
+        "Name of Institution": "MATER DEI SCHOOL",
+        "Affiliation Number": "2730093",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "TILAK LANE, DISTT NEW DELHI, NEW DELHI",
+        "Pin Code": "110001",
+        "Website": "www.materdeischool.in",
+        "Year of Foundation": "1956",
+        "Date of First Opening of School": "25 Jun 2007",
+        "Name of Principal/ Head of Institution": "ARUL VIMALA GEETHA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "Masters in English",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "10",
+        "Teaching:": "21",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "FRANCISCAN SISTERS OF MARY NEW DELH",
+        "Remarks, if any": null
+    },
+    "links": []
+}

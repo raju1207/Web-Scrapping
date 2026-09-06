@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2756158",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756158"
+    },
+    "listing_data": {
+        "affiliation_number": "2756158",
+        "listing_raw_columns": [
+            "1538",
+            "Aff. No. : 2756158 Sch. Code: 27574",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : GOVERNMENT GIRLS SR.SECONDARY SCHOOL Head/Principal Name: BHAWNA SAGAR",
+            "Address : MOHAN GARDEN, UTTAM NAGAR, NEW DELHI-110059 Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756158",
+        "serial_number": "1538",
+        "affiliation_and_school_code": "Aff. No. : 2756158 Sch. Code: 27574",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVERNMENT GIRLS SR.SECONDARY SCHOOL Head/Principal Name: BHAWNA SAGAR",
+        "address_and_website": "Address : MOHAN GARDEN, UTTAM NAGAR, NEW DELHI-110059 Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVERNMENT GIRLS SR.SECONDARY SCHOOL",
+        "Affiliation Number": "2756158",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "MOHAN GARDEN, UTTAM NAGAR, NEW DELHI-110059",
+        "Pin Code": "110059",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "2008",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "BHAWNA SAGAR",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "Post Graduation, B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "3",
+        "Teaching:": "4",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

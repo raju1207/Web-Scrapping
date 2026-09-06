@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2762077",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762077"
+    },
+    "listing_data": {
+        "affiliation_number": "2762077",
+        "listing_raw_columns": [
+            "1795",
+            "Aff. No. : 2762077 Sch. Code: 27197",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT SARVODAYA GIRLS SR SEC SCHOOL Head/Principal Name: NEETU NARGAS",
+            "Address : KIRAN VIHAR DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762077",
+        "serial_number": "1795",
+        "affiliation_and_school_code": "Aff. No. : 2762077 Sch. Code: 27197",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT SARVODAYA GIRLS SR SEC SCHOOL Head/Principal Name: NEETU NARGAS",
+        "address_and_website": "Address : KIRAN VIHAR DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT SARVODAYA GIRLS SR SEC SCHOOL",
+        "Affiliation Number": "2762077",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "KIRAN VIHAR DELHI",
+        "Pin Code": "110092",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1984",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "NEETU NARGAS",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA MED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "3",
+        "Teaching:": "26",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "DIR. OF EDUCATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

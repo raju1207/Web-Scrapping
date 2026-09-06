@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2720057",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720057"
+    },
+    "listing_data": {
+        "affiliation_number": "2720057",
+        "listing_raw_columns": [
+            "54",
+            "Aff. No. : 2720057 Sch. Code: 87752",
+            "State : DELHI District : NORTH DELHI",
+            "Senior Secondary Level",
+            "Name : GOVERNMENT GIRLS SENIOR SECONDARY SCHOOL, BHORGARH Head/Principal Name: NEELAM KUMARI",
+            "Address : DSIDC, BHORGARH, NARELA Website : http://www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720057",
+        "serial_number": "54",
+        "affiliation_and_school_code": "Aff. No. : 2720057 Sch. Code: 87752",
+        "state_and_district": "State : DELHI District : NORTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVERNMENT GIRLS SENIOR SECONDARY SCHOOL, BHORGARH Head/Principal Name: NEELAM KUMARI",
+        "address_and_website": "Address : DSIDC, BHORGARH, NARELA Website : http://www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVERNMENT GIRLS SENIOR SECONDARY SCHOOL, BHORGARH",
+        "Affiliation Number": "2720057",
+        "State": "DELHI",
+        "District": "NORTH DELHI",
+        "Postal Address": "DSIDC, BHORGARH, NARELA",
+        "Pin Code": "110040",
+        "Website": "http://www.edudel.nic.in",
+        "Year of Foundation": "2022",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "NEELAM KUMARI",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A. B.ED.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "8",
+        "Teaching:": "18",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "Directorate of Education",
+        "Remarks, if any": null
+    },
+    "links": []
+}

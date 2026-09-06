@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2760055",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2760055"
+    },
+    "listing_data": {
+        "affiliation_number": "2760055",
+        "listing_raw_columns": [
+            "1673",
+            "Aff. No. : 2760055 Sch. Code: 87264",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : SARVODAYA KANYA VIDYALAYA NO.2 Head/Principal Name: REENA",
+            "Address : A-BLOCK JAHANGIR PURI DELHI Website : www.edudel.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2760055",
+        "serial_number": "1673",
+        "affiliation_and_school_code": "Aff. No. : 2760055 Sch. Code: 87264",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SARVODAYA KANYA VIDYALAYA NO.2 Head/Principal Name: REENA",
+        "address_and_website": "Address : A-BLOCK JAHANGIR PURI DELHI Website : www.edudel.com"
+    },
+    "school_details": {
+        "Name of Institution": "SARVODAYA KANYA VIDYALAYA NO.2",
+        "Affiliation Number": "2760055",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "A-BLOCK JAHANGIR PURI DELHI",
+        "Pin Code": "110033",
+        "Website": "www.edudel.com",
+        "Year of Foundation": "1981",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "REENA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.Phil. M.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "01",
+        "Teaching:": "20",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "directate of education",
+        "Remarks, if any": null
+    },
+    "links": []
+}

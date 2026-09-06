@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730504",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730504"
+    },
+    "listing_data": {
+        "affiliation_number": "2730504",
+        "listing_raw_columns": [
+            "577",
+            "Aff. No. : 2730504 Sch. Code: 85267",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : PRESTIGE CONVENT SCHOOL Head/Principal Name: POOJA SHARMA",
+            "Address : POCKET B 5 SECTOR 8 ROHINI DELHI Website : www.prestigeconventschool.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730504",
+        "serial_number": "577",
+        "affiliation_and_school_code": "Aff. No. : 2730504 Sch. Code: 85267",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : PRESTIGE CONVENT SCHOOL Head/Principal Name: POOJA SHARMA",
+        "address_and_website": "Address : POCKET B 5 SECTOR 8 ROHINI DELHI Website : www.prestigeconventschool.in"
+    },
+    "school_details": {
+        "Name of Institution": "PRESTIGE CONVENT SCHOOL",
+        "Affiliation Number": "2730504",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "POCKET B 5 SECTOR 8 ROHINI DELHI",
+        "Pin Code": "110085",
+        "Website": "www.prestigeconventschool.in",
+        "Year of Foundation": "2002",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "POOJA SHARMA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "7",
+        "Teaching:": "18",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": null,
+        "Remarks, if any": null
+    },
+    "links": []
+}

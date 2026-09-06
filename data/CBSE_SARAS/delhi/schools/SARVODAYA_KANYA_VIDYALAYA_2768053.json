@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2768053",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2768053"
+    },
+    "listing_data": {
+        "affiliation_number": "2768053",
+        "listing_raw_columns": [
+            "2036",
+            "Aff. No. : 2768053 Sch. Code: 87122",
+            "State : DELHI District : NORTH DELHI",
+            "Secondary Level",
+            "Name : SARVODAYA KANYA VIDYALAYA Head/Principal Name: NEHA YADAV",
+            "Address : DIWAN HALL, GALI JOGHIAN, CHANDNI CHOWK, DELHI Website : http://www.edudel.nic.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2768053",
+        "serial_number": "2036",
+        "affiliation_and_school_code": "Aff. No. : 2768053 Sch. Code: 87122",
+        "state_and_district": "State : DELHI District : NORTH DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : SARVODAYA KANYA VIDYALAYA Head/Principal Name: NEHA YADAV",
+        "address_and_website": "Address : DIWAN HALL, GALI JOGHIAN, CHANDNI CHOWK, DELHI Website : http://www.edudel.nic.in/"
+    },
+    "school_details": {
+        "Name of Institution": "SARVODAYA KANYA VIDYALAYA",
+        "Affiliation Number": "2768053",
+        "State": "DELHI",
+        "District": "NORTH DELHI",
+        "Postal Address": "DIWAN HALL, GALI JOGHIAN, CHANDNI CHOWK, DELHI",
+        "Pin Code": "110006",
+        "Website": "http://www.edudel.nic.in/",
+        "Year of Foundation": "1962",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "NEHA YADAV",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.Sc Zoology PhD",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "0",
+        "Teaching:": "23",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "delhi admn",
+        "Remarks, if any": null
+    },
+    "links": []
+}

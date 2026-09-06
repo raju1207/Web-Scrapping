@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2700009",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700009"
+    },
+    "listing_data": {
+        "affiliation_number": "2700009",
+        "listing_raw_columns": [
+            "9",
+            "Aff. No. : 2700009 Sch. Code: 89001",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: SHUCHITA KAUSHAL",
+            "Address : ROBERT SQUARE GOLE MARKET NEW DELHI Website : www.kvcrpfdurgapur.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700009",
+        "serial_number": "9",
+        "affiliation_and_school_code": "Aff. No. : 2700009 Sch. Code: 89001",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: SHUCHITA KAUSHAL",
+        "address_and_website": "Address : ROBERT SQUARE GOLE MARKET NEW DELHI Website : www.kvcrpfdurgapur.com"
+    },
+    "school_details": {
+        "Name of Institution": "PM SHRI KENDRIYA VIDYALAYA",
+        "Affiliation Number": "2700009",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "ROBERT SQUARE GOLE MARKET NEW DELHI",
+        "Pin Code": "110001",
+        "Website": "www.kvcrpfdurgapur.com",
+        "Year of Foundation": "1972",
+        "Date of First Opening of School": "08 Dec 1984",
+        "Name of Principal/ Head of Institution": "SHUCHITA KAUSHAL",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "9",
+        "Teaching:": "22",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "KV",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "KENDRIYA VIDYALAYA SANGATHAN",
+        "Remarks, if any": null
+    },
+    "links": []
+}

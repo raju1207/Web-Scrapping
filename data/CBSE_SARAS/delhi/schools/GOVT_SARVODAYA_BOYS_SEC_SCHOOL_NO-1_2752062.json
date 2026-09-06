@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2752062",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752062"
+    },
+    "listing_data": {
+        "affiliation_number": "2752062",
+        "listing_raw_columns": [
+            "1181",
+            "Aff. No. : 2752062 Sch. Code: 27205",
+            "State : DELHI District : SHAHDARA",
+            "Senior Secondary Level",
+            "Name : GOVT SARVODAYA BOYS SEC SCHOOL NO-1 Head/Principal Name: ASHUTOSH KUMAR AGARWAL",
+            "Address : BHOLA NATH NAGAR SHAHDARA DELHI Website : 1001008hos@gmail.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752062",
+        "serial_number": "1181",
+        "affiliation_and_school_code": "Aff. No. : 2752062 Sch. Code: 27205",
+        "state_and_district": "State : DELHI District : SHAHDARA",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT SARVODAYA BOYS SEC SCHOOL NO-1 Head/Principal Name: ASHUTOSH KUMAR AGARWAL",
+        "address_and_website": "Address : BHOLA NATH NAGAR SHAHDARA DELHI Website : 1001008hos@gmail.com"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT SARVODAYA BOYS SEC SCHOOL NO-1",
+        "Affiliation Number": "2752062",
+        "State": "DELHI",
+        "District": "SHAHDARA",
+        "Postal Address": "BHOLA NATH NAGAR SHAHDARA DELHI",
+        "Pin Code": "110032",
+        "Website": "1001008hos@gmail.com",
+        "Year of Foundation": "1989",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "ASHUTOSH KUMAR AGARWAL",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MA MATHS B ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "8",
+        "Teaching:": "20",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

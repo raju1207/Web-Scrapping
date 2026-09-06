@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730232",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730232"
+    },
+    "listing_data": {
+        "affiliation_number": "2730232",
+        "listing_raw_columns": [
+            "318",
+            "Aff. No. : 2730232 Sch. Code: 25033",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : ST ANDREWS SCOTS SR SEC SCHOOL Head/Principal Name: DEEKSHA SINGH RANA",
+            "Address : 9TH AVENUE I P EXTENSION PATPARGANJ, DISTT EAST DELHI, DELHI Website : www.standrewsdelhi.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730232",
+        "serial_number": "318",
+        "affiliation_and_school_code": "Aff. No. : 2730232 Sch. Code: 25033",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : ST ANDREWS SCOTS SR SEC SCHOOL Head/Principal Name: DEEKSHA SINGH RANA",
+        "address_and_website": "Address : 9TH AVENUE I P EXTENSION PATPARGANJ, DISTT EAST DELHI, DELHI Website : www.standrewsdelhi.com"
+    },
+    "school_details": {
+        "Name of Institution": "ST ANDREWS SCOTS SR SEC SCHOOL",
+        "Affiliation Number": "2730232",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "9TH AVENUE I P EXTENSION PATPARGANJ, DISTT EAST DELHI, DELHI",
+        "Pin Code": "110092",
+        "Website": "www.standrewsdelhi.com",
+        "Year of Foundation": "1990",
+        "Date of First Opening of School": "01 Apr 2005",
+        "Name of Principal/ Head of Institution": "DEEKSHA SINGH RANA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A. B.ED, B.Arch",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "10",
+        "Teaching:": "10",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "ST. ANDREWS SCOTS EDUCATION SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

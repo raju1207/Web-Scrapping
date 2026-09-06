@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730314",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730314"
+    },
+    "listing_data": {
+        "affiliation_number": "2730314",
+        "listing_raw_columns": [
+            "397",
+            "Aff. No. : 2730314 Sch. Code: 85421",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : SHRI TULA RAM PUBLIC SCHOOL Head/Principal Name: SHASHANK",
+            "Address : AMAN VIHAR, DISTT NORTH WEST DELHI, DELHI Website : www.strps.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730314",
+        "serial_number": "397",
+        "affiliation_and_school_code": "Aff. No. : 2730314 Sch. Code: 85421",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SHRI TULA RAM PUBLIC SCHOOL Head/Principal Name: SHASHANK",
+        "address_and_website": "Address : AMAN VIHAR, DISTT NORTH WEST DELHI, DELHI Website : www.strps.in"
+    },
+    "school_details": {
+        "Name of Institution": "SHRI TULA RAM PUBLIC SCHOOL",
+        "Affiliation Number": "2730314",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "AMAN VIHAR, DISTT NORTH WEST DELHI, DELHI",
+        "Pin Code": "110041",
+        "Website": "www.strps.in",
+        "Year of Foundation": "1995",
+        "Date of First Opening of School": "05 Jun 2000",
+        "Name of Principal/ Head of Institution": "SHASHANK",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A., Ph.D, M.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "14",
+        "Teaching:": "14",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "JANTA SHIKSHA PRACHAR SAMITI",
+        "Remarks, if any": null
+    },
+    "links": []
+}

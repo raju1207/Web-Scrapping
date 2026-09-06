@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2750020",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750020"
+    },
+    "listing_data": {
+        "affiliation_number": "2750020",
+        "listing_raw_columns": [
+            "979",
+            "Aff. No. : 2750020 Sch. Code: 87251",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT SARVODAYA CO-EDN SR SEC SCHOOL Head/Principal Name: SITA RAM",
+            "Address : CHANDPUR MAJRA DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750020",
+        "serial_number": "979",
+        "affiliation_and_school_code": "Aff. No. : 2750020 Sch. Code: 87251",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT SARVODAYA CO-EDN SR SEC SCHOOL Head/Principal Name: SITA RAM",
+        "address_and_website": "Address : CHANDPUR MAJRA DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT SARVODAYA CO-EDN SR SEC SCHOOL",
+        "Affiliation Number": "2750020",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "CHANDPUR MAJRA DELHI",
+        "Pin Code": "110081",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1974",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "SITA RAM",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.Sc B.ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "10",
+        "Teaching:": "30",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

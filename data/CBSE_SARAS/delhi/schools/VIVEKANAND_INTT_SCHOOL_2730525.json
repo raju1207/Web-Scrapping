@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730525",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730525"
+    },
+    "listing_data": {
+        "affiliation_number": "2730525",
+        "listing_raw_columns": [
+            "596",
+            "Aff. No. : 2730525 Sch. Code: 25037",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : VIVEKANAND INTT SCHOOL Head/Principal Name: VANDANA ARORA HOS",
+            "Address : RS-3 I P EXTN PATPAR GANJ DELHI Website : www.vivekanandinternationalschool.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730525",
+        "serial_number": "596",
+        "affiliation_and_school_code": "Aff. No. : 2730525 Sch. Code: 25037",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : VIVEKANAND INTT SCHOOL Head/Principal Name: VANDANA ARORA HOS",
+        "address_and_website": "Address : RS-3 I P EXTN PATPAR GANJ DELHI Website : www.vivekanandinternationalschool.com"
+    },
+    "school_details": {
+        "Name of Institution": "VIVEKANAND INTT SCHOOL",
+        "Affiliation Number": "2730525",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "RS-3 I P EXTN PATPAR GANJ DELHI",
+        "Pin Code": "110092",
+        "Website": "www.vivekanandinternationalschool.com",
+        "Year of Foundation": "1989",
+        "Date of First Opening of School": "30 Sep 2019",
+        "Name of Principal/ Head of Institution": "VANDANA ARORA HOS",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MCOM MED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "5",
+        "Teaching:": "8",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "SANT VIVEKANAND EDU & CUL WEL SOC",
+        "Remarks, if any": null
+    },
+    "links": []
+}

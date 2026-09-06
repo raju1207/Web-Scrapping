@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2774009",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774009"
+    },
+    "listing_data": {
+        "affiliation_number": "2774009",
+        "listing_raw_columns": [
+            "2074",
+            "Aff. No. : 2774009 Sch. Code: 87006",
+            "State : DELHI District : CENTRAL DELHI",
+            "Senior Secondary Level",
+            "Name : KERALA EDUCATION SOCIETY SR SEC SCH Head/Principal Name: HARIKUMAR K G",
+            "Address : CANNING ROAD NEW DELHI Website : www.keralaschoolcanningroad.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774009",
+        "serial_number": "2074",
+        "affiliation_and_school_code": "Aff. No. : 2774009 Sch. Code: 87006",
+        "state_and_district": "State : DELHI District : CENTRAL DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : KERALA EDUCATION SOCIETY SR SEC SCH Head/Principal Name: HARIKUMAR K G",
+        "address_and_website": "Address : CANNING ROAD NEW DELHI Website : www.keralaschoolcanningroad.com"
+    },
+    "school_details": {
+        "Name of Institution": "KERALA EDUCATION SOCIETY SR SEC SCH",
+        "Affiliation Number": "2774009",
+        "State": "DELHI",
+        "District": "CENTRAL DELHI",
+        "Postal Address": "CANNING ROAD NEW DELHI",
+        "Pin Code": "110001",
+        "Website": "www.keralaschoolcanningroad.com",
+        "Year of Foundation": "1957",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "HARIKUMAR K G",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.COM, B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "14",
+        "Teaching:": "32",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": "KERALA EDUCATION SOCIETY REGISTRED",
+        "Remarks, if any": null
+    },
+    "links": []
+}

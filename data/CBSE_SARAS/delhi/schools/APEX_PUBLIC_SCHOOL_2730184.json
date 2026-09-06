@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730184",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730184"
+    },
+    "listing_data": {
+        "affiliation_number": "2730184",
+        "listing_raw_columns": [
+            "271",
+            "Aff. No. : 2730184 Sch. Code: 85037",
+            "State : DELHI District : NORTH DELHI",
+            "Senior Secondary Level",
+            "Name : APEX PUBLIC SCHOOL Head/Principal Name: DOROTHY JONATHAN",
+            "Address : APEX AVENUE SANT NAGAR (BURARI), DISTT NORTH DELHI, DELHI Website : https://apexpublicschool.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730184",
+        "serial_number": "271",
+        "affiliation_and_school_code": "Aff. No. : 2730184 Sch. Code: 85037",
+        "state_and_district": "State : DELHI District : NORTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : APEX PUBLIC SCHOOL Head/Principal Name: DOROTHY JONATHAN",
+        "address_and_website": "Address : APEX AVENUE SANT NAGAR (BURARI), DISTT NORTH DELHI, DELHI Website : https://apexpublicschool.in/"
+    },
+    "school_details": {
+        "Name of Institution": "APEX PUBLIC SCHOOL",
+        "Affiliation Number": "2730184",
+        "State": "DELHI",
+        "District": "NORTH DELHI",
+        "Postal Address": "APEX AVENUE SANT NAGAR (BURARI), DISTT NORTH DELHI, DELHI",
+        "Pin Code": "110009",
+        "Website": "https://apexpublicschool.in/",
+        "Year of Foundation": "1985",
+        "Date of First Opening of School": "02 Jun 2008",
+        "Name of Principal/ Head of Institution": "DOROTHY JONATHAN",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "LLB, M.A., B. Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "4",
+        "Teaching:": "7",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": "JEANNE CHRISTIAN EDNL SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2700016",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700016"
+    },
+    "listing_data": {
+        "affiliation_number": "2700016",
+        "listing_raw_columns": [
+            "15",
+            "Aff. No. : 2700016 Sch. Code: 29017",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: VINAY KUMAR TRIPATHI",
+            "Address : A G C R COLONY (KARKARDOOMA) DELHI Website : https://agcrcolony.kvs.ac.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700016",
+        "serial_number": "15",
+        "affiliation_and_school_code": "Aff. No. : 2700016 Sch. Code: 29017",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: VINAY KUMAR TRIPATHI",
+        "address_and_website": "Address : A G C R COLONY (KARKARDOOMA) DELHI Website : https://agcrcolony.kvs.ac.in"
+    },
+    "school_details": {
+        "Name of Institution": "PM SHRI KENDRIYA VIDYALAYA",
+        "Affiliation Number": "2700016",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "A G C R COLONY (KARKARDOOMA) DELHI",
+        "Pin Code": "110092",
+        "Website": "https://agcrcolony.kvs.ac.in",
+        "Year of Foundation": "1981",
+        "Date of First Opening of School": "25 Jan 2009",
+        "Name of Principal/ Head of Institution": "VINAY KUMAR TRIPATHI",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.SC., M.Ed.,NET, GATE",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "11",
+        "Teaching:": "16",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "KV",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "KENDRIYA VIDYALAYA SANGATHAN",
+        "Remarks, if any": null
+    },
+    "links": []
+}

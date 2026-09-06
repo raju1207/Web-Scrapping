@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730148",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730148"
+    },
+    "listing_data": {
+        "affiliation_number": "2730148",
+        "listing_raw_columns": [
+            "236",
+            "Aff. No. : 2730148 Sch. Code: 85432",
+            "State : DELHI District : WEST DELHI",
+            "Senior Secondary Level",
+            "Name : BANASTHALI PUBLIC SCHOOL Head/Principal Name: ANUBHA GOYAL",
+            "Address : H-1/149 VIKASPURI, DISTT WEST DELHI, NEW DELHI Website : www.banasthalipublicschool.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730148",
+        "serial_number": "236",
+        "affiliation_and_school_code": "Aff. No. : 2730148 Sch. Code: 85432",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : BANASTHALI PUBLIC SCHOOL Head/Principal Name: ANUBHA GOYAL",
+        "address_and_website": "Address : H-1/149 VIKASPURI, DISTT WEST DELHI, NEW DELHI Website : www.banasthalipublicschool.com"
+    },
+    "school_details": {
+        "Name of Institution": "BANASTHALI PUBLIC SCHOOL",
+        "Affiliation Number": "2730148",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "H-1/149 VIKASPURI, DISTT WEST DELHI, NEW DELHI",
+        "Pin Code": "110018",
+        "Website": "www.banasthalipublicschool.com",
+        "Year of Foundation": "1972",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "ANUBHA GOYAL",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.C.A/M.B.A./B.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "15",
+        "Teaching:": "15",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "ANAND PRAKASH CHARITABLE EDN. TRUST",
+        "Remarks, if any": null
+    },
+    "links": []
+}

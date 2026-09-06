@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2774033",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774033"
+    },
+    "listing_data": {
+        "affiliation_number": "2774033",
+        "listing_raw_columns": [
+            "2096",
+            "Aff. No. : 2774033 Sch. Code: 27385",
+            "State : DELHI District : NEW DELHI",
+            "Secondary Level",
+            "Name : DAY TIME SEC SCHOOL F ADULT WOMEN/ Head/Principal Name: NISHAT KHAN",
+            "Address : OUT GIRLS EAST KIDWAI NAGAR NEW DELHI Website : http://daytimekidwainagar.ndmc.gov.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774033",
+        "serial_number": "2096",
+        "affiliation_and_school_code": "Aff. No. : 2774033 Sch. Code: 27385",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : DAY TIME SEC SCHOOL F ADULT WOMEN/ Head/Principal Name: NISHAT KHAN",
+        "address_and_website": "Address : OUT GIRLS EAST KIDWAI NAGAR NEW DELHI Website : http://daytimekidwainagar.ndmc.gov.in"
+    },
+    "school_details": {
+        "Name of Institution": "DAY TIME SEC SCHOOL F ADULT WOMEN/",
+        "Affiliation Number": "2774033",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "OUT GIRLS EAST KIDWAI NAGAR NEW DELHI",
+        "Pin Code": "110023",
+        "Website": "http://daytimekidwainagar.ndmc.gov.in",
+        "Year of Foundation": "1993",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "NISHAT KHAN",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "POST GRADUATE",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "6",
+        "Teaching:": "5",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "n d m c",
+        "Remarks, if any": null
+    },
+    "links": []
+}

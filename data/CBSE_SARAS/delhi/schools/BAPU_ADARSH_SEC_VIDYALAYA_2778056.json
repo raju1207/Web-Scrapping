@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2778056",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778056"
+    },
+    "listing_data": {
+        "affiliation_number": "2778056",
+        "listing_raw_columns": [
+            "2173",
+            "Aff. No. : 2778056 Sch. Code: 87102",
+            "State : DELHI District : NEW DELHI",
+            "Secondary Level",
+            "Name : BAPU ADARSH SEC VIDYALAYA Head/Principal Name: RUCHI SHARMA",
+            "Address : R BLOCK NEW RAJINDER NAGAR NEW DELHI Website : www.bapuadarshvidyalaya.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778056",
+        "serial_number": "2173",
+        "affiliation_and_school_code": "Aff. No. : 2778056 Sch. Code: 87102",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : BAPU ADARSH SEC VIDYALAYA Head/Principal Name: RUCHI SHARMA",
+        "address_and_website": "Address : R BLOCK NEW RAJINDER NAGAR NEW DELHI Website : www.bapuadarshvidyalaya.com"
+    },
+    "school_details": {
+        "Name of Institution": "BAPU ADARSH SEC VIDYALAYA",
+        "Affiliation Number": "2778056",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "R BLOCK NEW RAJINDER NAGAR NEW DELHI",
+        "Pin Code": "110060",
+        "Website": "www.bapuadarshvidyalaya.com",
+        "Year of Foundation": "1954",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "RUCHI SHARMA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA B ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "0",
+        "Teaching:": "17",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "b a v society",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2764088",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764088"
+    },
+    "listing_data": {
+        "affiliation_number": "2764088",
+        "listing_raw_columns": [
+            "1891",
+            "Aff. No. : 2764088 Sch. Code: 27366",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : GOVERNMENT GIRLS SENIOR SECONDARY SCHOOL Head/Principal Name: MANJU",
+            "Address : MADANPUR KHADAR EXTN, J J COLONY, NEW DELHI-110076 Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764088",
+        "serial_number": "1891",
+        "affiliation_and_school_code": "Aff. No. : 2764088 Sch. Code: 27366",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVERNMENT GIRLS SENIOR SECONDARY SCHOOL Head/Principal Name: MANJU",
+        "address_and_website": "Address : MADANPUR KHADAR EXTN, J J COLONY, NEW DELHI-110076 Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVERNMENT GIRLS SENIOR SECONDARY SCHOOL",
+        "Affiliation Number": "2764088",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "MADANPUR KHADAR EXTN, J J COLONY, NEW DELHI-110076",
+        "Pin Code": "110076",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "2005",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "MANJU",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.Phil,B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "3",
+        "Teaching:": "23",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "dir. of education",
+        "Remarks, if any": null
+    },
+    "links": []
+}

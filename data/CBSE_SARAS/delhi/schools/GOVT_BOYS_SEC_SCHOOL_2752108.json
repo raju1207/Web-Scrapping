@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2752108",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752108"
+    },
+    "listing_data": {
+        "affiliation_number": "2752108",
+        "listing_raw_columns": [
+            "1225",
+            "Aff. No. : 2752108 Sch. Code: 27040",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SEC SCHOOL Head/Principal Name: DHARAM SINGH",
+            "Address : KONDLI GHARAULI MAYUR VIHAR PHASE III DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752108",
+        "serial_number": "1225",
+        "affiliation_and_school_code": "Aff. No. : 2752108 Sch. Code: 27040",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SEC SCHOOL Head/Principal Name: DHARAM SINGH",
+        "address_and_website": "Address : KONDLI GHARAULI MAYUR VIHAR PHASE III DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SEC SCHOOL",
+        "Affiliation Number": "2752108",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "KONDLI GHARAULI MAYUR VIHAR PHASE III DELHI",
+        "Pin Code": "110096",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "2003",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "DHARAM SINGH",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MA English B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "9",
+        "Teaching:": "27",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": null,
+        "Remarks, if any": null
+    },
+    "links": []
+}

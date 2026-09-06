@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730498",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730498"
+    },
+    "listing_data": {
+        "affiliation_number": "2730498",
+        "listing_raw_columns": [
+            "571",
+            "Aff. No. : 2730498 Sch. Code: 85218",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : VISHAL BHARTI SECONDARY SCHOOL Head/Principal Name: KIRAN DHALL",
+            "Address : SARASWATI VIHAR PITAM PURA DELHI Website : www.vishalbhartischool.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730498",
+        "serial_number": "571",
+        "affiliation_and_school_code": "Aff. No. : 2730498 Sch. Code: 85218",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : VISHAL BHARTI SECONDARY SCHOOL Head/Principal Name: KIRAN DHALL",
+        "address_and_website": "Address : SARASWATI VIHAR PITAM PURA DELHI Website : www.vishalbhartischool.in"
+    },
+    "school_details": {
+        "Name of Institution": "VISHAL BHARTI SECONDARY SCHOOL",
+        "Affiliation Number": "2730498",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "SARASWATI VIHAR PITAM PURA DELHI",
+        "Pin Code": "110034",
+        "Website": "www.vishalbhartischool.in",
+        "Year of Foundation": "1989",
+        "Date of First Opening of School": "10 Apr 2008",
+        "Name of Principal/ Head of Institution": "KIRAN DHALL",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.COM,M.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "8",
+        "Teaching:": "11",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "J K SARASWATI DEVI MEM EDN SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

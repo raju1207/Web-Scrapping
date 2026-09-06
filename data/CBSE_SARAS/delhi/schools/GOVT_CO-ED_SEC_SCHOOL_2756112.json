@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2756112",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756112"
+    },
+    "listing_data": {
+        "affiliation_number": "2756112",
+        "listing_raw_columns": [
+            "1493",
+            "Aff. No. : 2756112 Sch. Code:",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Secondary Level",
+            "Name : GOVT CO-ED SEC SCHOOL Head/Principal Name: MR S BAJAJ",
+            "Address : PEERA GARHI CAMP DELHI Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756112",
+        "serial_number": "1493",
+        "affiliation_and_school_code": "Aff. No. : 2756112 Sch. Code:",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : GOVT CO-ED SEC SCHOOL Head/Principal Name: MR S BAJAJ",
+        "address_and_website": "Address : PEERA GARHI CAMP DELHI Website :"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT CO-ED SEC SCHOOL",
+        "Affiliation Number": "2756112",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "PEERA GARHI CAMP DELHI",
+        "Pin Code": "110056",
+        "Website": null,
+        "Year of Foundation": null,
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "MR S BAJAJ",
+        "Gender": "Unknown",
+        "Principal's Educational/Professional Qualifications:": null,
+        "No of Experience ( in Years ):": null,
+        "Administrative:": null,
+        "Teaching:": null,
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/1994 To : 31/03/2003",
+        "Name of Trust/ Society/ Managing Committee": "DIRECTORATE OF EDUCATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

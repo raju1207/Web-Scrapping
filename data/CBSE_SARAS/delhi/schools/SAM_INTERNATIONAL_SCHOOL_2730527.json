@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730527",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730527"
+    },
+    "listing_data": {
+        "affiliation_number": "2730527",
+        "listing_raw_columns": [
+            "598",
+            "Aff. No. : 2730527 Sch. Code: 25285",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : SAM INTERNATIONAL SCHOOL Head/Principal Name: PREETI RANA",
+            "Address : SECTOR 12, PHASE II DWARKA, DISTT SOUTH WEST DELHI, NEW DELHI Website : www.samis.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730527",
+        "serial_number": "598",
+        "affiliation_and_school_code": "Aff. No. : 2730527 Sch. Code: 25285",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SAM INTERNATIONAL SCHOOL Head/Principal Name: PREETI RANA",
+        "address_and_website": "Address : SECTOR 12, PHASE II DWARKA, DISTT SOUTH WEST DELHI, NEW DELHI Website : www.samis.in"
+    },
+    "school_details": {
+        "Name of Institution": "SAM INTERNATIONAL SCHOOL",
+        "Affiliation Number": "2730527",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "SECTOR 12, PHASE II DWARKA, DISTT SOUTH WEST DELHI, NEW DELHI",
+        "Pin Code": "110075",
+        "Website": "www.samis.in",
+        "Year of Foundation": "2004",
+        "Date of First Opening of School": "01 Apr 2005",
+        "Name of Principal/ Head of Institution": "PREETI RANA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "PhD English, M.A English, M.Ed, B.Ed,BA English",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "2",
+        "Teaching:": "9",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "LUCKY EDUCATIONAL SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

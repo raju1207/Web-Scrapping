@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2750060",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750060"
+    },
+    "listing_data": {
+        "affiliation_number": "2750060",
+        "listing_raw_columns": [
+            "1014",
+            "Aff. No. : 2750060 Sch. Code: 87637",
+            "State : DELHI District : WEST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: DHANANJAY SINHA",
+            "Address : S.P.ROAD NANGLOI DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750060",
+        "serial_number": "1014",
+        "affiliation_and_school_code": "Aff. No. : 2750060 Sch. Code: 87637",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: DHANANJAY SINHA",
+        "address_and_website": "Address : S.P.ROAD NANGLOI DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR SEC SCHOOL",
+        "Affiliation Number": "2750060",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "S.P.ROAD NANGLOI DELHI",
+        "Pin Code": "110041",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1983",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "DHANANJAY SINHA",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "6",
+        "Teaching:": "16",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

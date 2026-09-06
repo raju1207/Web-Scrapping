@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730545",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730545"
+    },
+    "listing_data": {
+        "affiliation_number": "2730545",
+        "listing_raw_columns": [
+            "616",
+            "Aff. No. : 2730545 Sch. Code: 85063",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : LITTLE FAIRY PUBLIC SCHOOL Head/Principal Name: INDU KHURANA",
+            "Address : HUDSON LINE Website : www.littlefairyschool.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730545",
+        "serial_number": "616",
+        "affiliation_and_school_code": "Aff. No. : 2730545 Sch. Code: 85063",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : LITTLE FAIRY PUBLIC SCHOOL Head/Principal Name: INDU KHURANA",
+        "address_and_website": "Address : HUDSON LINE Website : www.littlefairyschool.com"
+    },
+    "school_details": {
+        "Name of Institution": "LITTLE FAIRY PUBLIC SCHOOL",
+        "Affiliation Number": "2730545",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "HUDSON LINE",
+        "Pin Code": "110009",
+        "Website": "www.littlefairyschool.com",
+        "Year of Foundation": "1984",
+        "Date of First Opening of School": "01 Mar 2008",
+        "Name of Principal/ Head of Institution": "INDU KHURANA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.SC/M.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "11",
+        "Teaching:": "30",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": "VAISH EDUCATION SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

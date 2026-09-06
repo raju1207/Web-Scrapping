@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2750161",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750161"
+    },
+    "listing_data": {
+        "affiliation_number": "2750161",
+        "listing_raw_columns": [
+            "1108",
+            "Aff. No. : 2750161 Sch. Code: 87456",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT. BOYS SR. SEC. SCHOOL NO-2 Head/Principal Name: AJAY KUMAR",
+            "Address : MUBARAK PUR, DABAS, DELHI-110081 Website : Abcd@com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750161",
+        "serial_number": "1108",
+        "affiliation_and_school_code": "Aff. No. : 2750161 Sch. Code: 87456",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT. BOYS SR. SEC. SCHOOL NO-2 Head/Principal Name: AJAY KUMAR",
+        "address_and_website": "Address : MUBARAK PUR, DABAS, DELHI-110081 Website : Abcd@com"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT. BOYS SR. SEC. SCHOOL NO-2",
+        "Affiliation Number": "2750161",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "MUBARAK PUR, DABAS, DELHI-110081",
+        "Pin Code": "110074",
+        "Website": "Abcd@com",
+        "Year of Foundation": "2012",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "AJAY KUMAR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "0",
+        "Teaching:": "20",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "delhi administration",
+        "Remarks, if any": null
+    },
+    "links": []
+}

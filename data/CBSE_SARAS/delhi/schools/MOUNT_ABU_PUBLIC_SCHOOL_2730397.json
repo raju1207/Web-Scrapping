@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730397",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730397"
+    },
+    "listing_data": {
+        "affiliation_number": "2730397",
+        "listing_raw_columns": [
+            "473",
+            "Aff. No. : 2730397 Sch. Code: 85264",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : MOUNT ABU PUBLIC SCHOOL Head/Principal Name: JYOTI ARORA",
+            "Address : SECTOR 5 POCKET B-8, ROHINI DELHI Website : www.mountabuschool.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730397",
+        "serial_number": "473",
+        "affiliation_and_school_code": "Aff. No. : 2730397 Sch. Code: 85264",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : MOUNT ABU PUBLIC SCHOOL Head/Principal Name: JYOTI ARORA",
+        "address_and_website": "Address : SECTOR 5 POCKET B-8, ROHINI DELHI Website : www.mountabuschool.com"
+    },
+    "school_details": {
+        "Name of Institution": "MOUNT ABU PUBLIC SCHOOL",
+        "Affiliation Number": "2730397",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "SECTOR 5 POCKET B-8, ROHINI DELHI",
+        "Pin Code": "110085",
+        "Website": "www.mountabuschool.com",
+        "Year of Foundation": "1998",
+        "Date of First Opening of School": "09 Jul 2002",
+        "Name of Principal/ Head of Institution": "JYOTI ARORA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "Ph.D, M.Phil, B.ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "24",
+        "Teaching:": "21",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": "Permanant",
+        "Affiliation Period": "Permanent (Subject to final outcome of WPC-6115/19 pending before Honourable High court of Delhi)",
+        "Name of Trust/ Society/ Managing Committee": "MOUNT ABU EDUCATION SOCIETY",
+        "Remarks, if any": "Permanent (Subject to final outcome of WPC-6115/19 pending before Honourable High court of Delhi)"
+    },
+    "links": []
+}

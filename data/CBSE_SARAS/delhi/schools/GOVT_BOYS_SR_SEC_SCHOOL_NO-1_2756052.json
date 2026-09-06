@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2756052",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756052"
+    },
+    "listing_data": {
+        "affiliation_number": "2756052",
+        "listing_raw_columns": [
+            "1441",
+            "Aff. No. : 2756052 Sch. Code:",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR SEC SCHOOL NO-1 Head/Principal Name: sh satya vir singh",
+            "Address : MOTI NAGAR NEW DELHI Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756052",
+        "serial_number": "1441",
+        "affiliation_and_school_code": "Aff. No. : 2756052 Sch. Code:",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR SEC SCHOOL NO-1 Head/Principal Name: sh satya vir singh",
+        "address_and_website": "Address : MOTI NAGAR NEW DELHI Website :"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR SEC SCHOOL NO-1",
+        "Affiliation Number": "2756052",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "MOTI NAGAR NEW DELHI",
+        "Pin Code": "110015",
+        "Website": null,
+        "Year of Foundation": null,
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "sh satya vir singh",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": null,
+        "No of Experience ( in Years ):": null,
+        "Administrative:": null,
+        "Teaching:": null,
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2002 To : 31/03/2007",
+        "Name of Trust/ Society/ Managing Committee": "directate of education",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730943",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730943"
+    },
+    "listing_data": {
+        "affiliation_number": "2730943",
+        "listing_raw_columns": [
+            "958",
+            "Aff. No. : 2730943 Sch. Code: 25579",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : TELUGU MIDDLE SCHOOL Head/Principal Name: A B T SUNDARI",
+            "Address : SECTOR - 2, R. K. PURAM, NEW DELHI Website : https://www.rkpuram.andhraeducationsociety.com/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730943",
+        "serial_number": "958",
+        "affiliation_and_school_code": "Aff. No. : 2730943 Sch. Code: 25579",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : TELUGU MIDDLE SCHOOL Head/Principal Name: A B T SUNDARI",
+        "address_and_website": "Address : SECTOR - 2, R. K. PURAM, NEW DELHI Website : https://www.rkpuram.andhraeducationsociety.com/"
+    },
+    "school_details": {
+        "Name of Institution": "TELUGU MIDDLE SCHOOL",
+        "Affiliation Number": "2730943",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "SECTOR - 2, R. K. PURAM, NEW DELHI",
+        "Pin Code": "110022",
+        "Website": "https://www.rkpuram.andhraeducationsociety.com/",
+        "Year of Foundation": "1973",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "A B T SUNDARI",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.SC PHYSICS, M.SC METEOROLOGY, B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "5",
+        "Teaching:": "17",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "The Andhra Education Society",
+        "Remarks, if any": null
+    },
+    "links": []
+}

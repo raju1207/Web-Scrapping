@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2752054",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752054"
+    },
+    "listing_data": {
+        "affiliation_number": "2752054",
+        "listing_raw_columns": [
+            "1175",
+            "Aff. No. : 2752054 Sch. Code: 27229",
+            "State : DELHI District : NORTH EAST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: HARI RAJ SINGH",
+            "Address : DAYALPUR DELHI Website : https://www.edudel.nic.in/welcomemain.htm",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752054",
+        "serial_number": "1175",
+        "affiliation_and_school_code": "Aff. No. : 2752054 Sch. Code: 27229",
+        "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: HARI RAJ SINGH",
+        "address_and_website": "Address : DAYALPUR DELHI Website : https://www.edudel.nic.in/welcomemain.htm"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR SEC SCHOOL",
+        "Affiliation Number": "2752054",
+        "State": "DELHI",
+        "District": "NORTH EAST DELHI",
+        "Postal Address": "DAYALPUR DELHI",
+        "Pin Code": "110094",
+        "Website": "https://www.edudel.nic.in/welcomemain.htm",
+        "Year of Foundation": "1960",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "HARI RAJ SINGH",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "POST GRADUATE",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "7",
+        "Teaching:": "19",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "directate of education",
+        "Remarks, if any": null
+    },
+    "links": []
+}

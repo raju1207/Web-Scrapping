@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2766064",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2766064"
+    },
+    "listing_data": {
+        "affiliation_number": "2766064",
+        "listing_raw_columns": [
+            "1962",
+            "Aff. No. : 2766064 Sch. Code: 27180",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT SARVODAYA GIRLS SR SEC SCH NO 2 Head/Principal Name: NIVEDITA SACHDEVA",
+            "Address : SAGARPUR NEW DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2766064",
+        "serial_number": "1962",
+        "affiliation_and_school_code": "Aff. No. : 2766064 Sch. Code: 27180",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT SARVODAYA GIRLS SR SEC SCH NO 2 Head/Principal Name: NIVEDITA SACHDEVA",
+        "address_and_website": "Address : SAGARPUR NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT SARVODAYA GIRLS SR SEC SCH NO 2",
+        "Affiliation Number": "2766064",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "SAGARPUR NEW DELHI",
+        "Pin Code": "110046",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1989",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "NIVEDITA SACHDEVA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.SC. MED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "2",
+        "Teaching:": "21",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "directate of education delhi admn",
+        "Remarks, if any": null
+    },
+    "links": []
+}

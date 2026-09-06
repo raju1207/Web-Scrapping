@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2788041",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2788041"
+    },
+    "listing_data": {
+        "affiliation_number": "2788041",
+        "listing_raw_columns": [
+            "2247",
+            "Aff. No. : 2788041 Sch. Code: 87202",
+            "State : DELHI District : NORTH DELHI",
+            "Senior Secondary Level",
+            "Name : BIRLA ARYA GIRLS SR SEC SCHOOL Head/Principal Name: Nidhi",
+            "Address : BIRLA LINES KAMLA NAGAR DELHI Website : http://birlaaryagirlssrsecschool.com/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2788041",
+        "serial_number": "2247",
+        "affiliation_and_school_code": "Aff. No. : 2788041 Sch. Code: 87202",
+        "state_and_district": "State : DELHI District : NORTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : BIRLA ARYA GIRLS SR SEC SCHOOL Head/Principal Name: Nidhi",
+        "address_and_website": "Address : BIRLA LINES KAMLA NAGAR DELHI Website : http://birlaaryagirlssrsecschool.com/"
+    },
+    "school_details": {
+        "Name of Institution": "BIRLA ARYA GIRLS SR SEC SCHOOL",
+        "Affiliation Number": "2788041",
+        "State": "DELHI",
+        "District": "NORTH DELHI",
+        "Postal Address": "BIRLA LINES KAMLA NAGAR DELHI",
+        "Pin Code": "110007",
+        "Website": "http://birlaaryagirlssrsecschool.com/",
+        "Year of Foundation": "1948",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "Nidhi",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A, B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "2",
+        "Teaching:": "20",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "MANAGING COMMITTEE BIRLA SCHOOL",
+        "Remarks, if any": null
+    },
+    "links": []
+}

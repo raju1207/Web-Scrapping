@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730050",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730050"
+    },
+    "listing_data": {
+        "affiliation_number": "2730050",
+        "listing_raw_columns": [
+            "139",
+            "Aff. No. : 2730050 Sch. Code: 85033",
+            "State : DELHI District : CENTRAL DELHI",
+            "Senior Secondary Level",
+            "Name : MANAV STHALI SCHOOL Head/Principal Name: DIPTI A BHATNAGAR",
+            "Address : R-BLOCK NEW RAJINDER NAGAR NEW DELHI Website : www.manavsthalischool.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730050",
+        "serial_number": "139",
+        "affiliation_and_school_code": "Aff. No. : 2730050 Sch. Code: 85033",
+        "state_and_district": "State : DELHI District : CENTRAL DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : MANAV STHALI SCHOOL Head/Principal Name: DIPTI A BHATNAGAR",
+        "address_and_website": "Address : R-BLOCK NEW RAJINDER NAGAR NEW DELHI Website : www.manavsthalischool.com"
+    },
+    "school_details": {
+        "Name of Institution": "MANAV STHALI SCHOOL",
+        "Affiliation Number": "2730050",
+        "State": "DELHI",
+        "District": "CENTRAL DELHI",
+        "Postal Address": "R-BLOCK NEW RAJINDER NAGAR NEW DELHI",
+        "Pin Code": "110060",
+        "Website": "www.manavsthalischool.com",
+        "Year of Foundation": "1975",
+        "Date of First Opening of School": "09 Jul 2003",
+        "Name of Principal/ Head of Institution": "DIPTI A BHATNAGAR",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A., B.ED., HONORARY DOCTORATE IN EDUCATION,",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "12",
+        "Teaching:": "12",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "RAJINDER NAGAR EDUCATION SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

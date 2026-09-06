@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2750106",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750106"
+    },
+    "listing_data": {
+        "affiliation_number": "2750106",
+        "listing_raw_columns": [
+            "1054",
+            "Aff. No. : 2750106 Sch. Code: 87481",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR. SEC SCHOOL NO-2 Head/Principal Name: DR PURAN SINGH",
+            "Address : AVANTIKA SECT I ROHINI DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750106",
+        "serial_number": "1054",
+        "affiliation_and_school_code": "Aff. No. : 2750106 Sch. Code: 87481",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR. SEC SCHOOL NO-2 Head/Principal Name: DR PURAN SINGH",
+        "address_and_website": "Address : AVANTIKA SECT I ROHINI DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR. SEC SCHOOL NO-2",
+        "Affiliation Number": "2750106",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "AVANTIKA SECT I ROHINI DELHI",
+        "Pin Code": "110085",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1996",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "DR PURAN SINGH",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A. , PhD",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "5",
+        "Teaching:": "34",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "directate of education",
+        "Remarks, if any": null
+    },
+    "links": []
+}

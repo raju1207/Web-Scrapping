@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730235",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730235"
+    },
+    "listing_data": {
+        "affiliation_number": "2730235",
+        "listing_raw_columns": [
+            "321",
+            "Aff. No. : 2730235 Sch. Code: 25181",
+            "State : DELHI District : SOUTH DELHI",
+            "Senior Secondary Level",
+            "Name : HAMDARD PUBLIC SCHOOL Head/Principal Name: SAHER M A SAYED",
+            "Address : TALIMABAD SANGAM VIHAR, DIST SOUTH DELHI, NEW DELHI Website : www.hamdardpublicschool.edu.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730235",
+        "serial_number": "321",
+        "affiliation_and_school_code": "Aff. No. : 2730235 Sch. Code: 25181",
+        "state_and_district": "State : DELHI District : SOUTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : HAMDARD PUBLIC SCHOOL Head/Principal Name: SAHER M A SAYED",
+        "address_and_website": "Address : TALIMABAD SANGAM VIHAR, DIST SOUTH DELHI, NEW DELHI Website : www.hamdardpublicschool.edu.in"
+    },
+    "school_details": {
+        "Name of Institution": "HAMDARD PUBLIC SCHOOL",
+        "Affiliation Number": "2730235",
+        "State": "DELHI",
+        "District": "SOUTH DELHI",
+        "Postal Address": "TALIMABAD SANGAM VIHAR, DIST SOUTH DELHI, NEW DELHI",
+        "Pin Code": "110062",
+        "Website": "www.hamdardpublicschool.edu.in",
+        "Year of Foundation": "1993",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "SAHER M A SAYED",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA ,M ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "24",
+        "Teaching:": "28",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": null,
+        "Remarks, if any": null
+    },
+    "links": []
+}

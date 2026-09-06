@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2758052",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2758052"
+    },
+    "listing_data": {
+        "affiliation_number": "2758052",
+        "listing_raw_columns": [
+            "1618",
+            "Aff. No. : 2758052 Sch. Code: 87067",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT. BOYS SR. SEC. SCHOOL, Head/Principal Name: KHALEEQ AHMED",
+            "Address : RAMJAS LANE, KAROL BAGH, NEW DELHI- 110 005. Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2758052",
+        "serial_number": "1618",
+        "affiliation_and_school_code": "Aff. No. : 2758052 Sch. Code: 87067",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT. BOYS SR. SEC. SCHOOL, Head/Principal Name: KHALEEQ AHMED",
+        "address_and_website": "Address : RAMJAS LANE, KAROL BAGH, NEW DELHI- 110 005. Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT. BOYS SR. SEC. SCHOOL,",
+        "Affiliation Number": "2758052",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "RAMJAS LANE, KAROL BAGH, NEW DELHI- 110 005.",
+        "Pin Code": "110005",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1957",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "KHALEEQ AHMED",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M. COM. PHD IN EDUCATION",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "18",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "delhi admn",
+        "Remarks, if any": null
+    },
+    "links": []
+}

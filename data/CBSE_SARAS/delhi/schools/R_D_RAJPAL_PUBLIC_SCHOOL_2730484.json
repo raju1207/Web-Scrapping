@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730484",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730484"
+    },
+    "listing_data": {
+        "affiliation_number": "2730484",
+        "listing_raw_columns": [
+            "557",
+            "Aff. No. : 2730484 Sch. Code: 25284",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : R D RAJPAL PUBLIC SCHOOL Head/Principal Name: SEEMA GULERIA VP",
+            "Address : SECTOR - 9 DWARKA, DISTT SOUTH WEST DELHI, NEW DELHI Website : www.rdrajpalschooldwarka.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730484",
+        "serial_number": "557",
+        "affiliation_and_school_code": "Aff. No. : 2730484 Sch. Code: 25284",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : R D RAJPAL PUBLIC SCHOOL Head/Principal Name: SEEMA GULERIA VP",
+        "address_and_website": "Address : SECTOR - 9 DWARKA, DISTT SOUTH WEST DELHI, NEW DELHI Website : www.rdrajpalschooldwarka.com"
+    },
+    "school_details": {
+        "Name of Institution": "R D RAJPAL PUBLIC SCHOOL",
+        "Affiliation Number": "2730484",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "SECTOR - 9 DWARKA, DISTT SOUTH WEST DELHI, NEW DELHI",
+        "Pin Code": "209402",
+        "Website": "www.rdrajpalschooldwarka.com",
+        "Year of Foundation": "2004",
+        "Date of First Opening of School": "13 Jul 1998",
+        "Name of Principal/ Head of Institution": "SEEMA GULERIA VP",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.SC, B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "7",
+        "Teaching:": "3",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "ANHANTCIVIC SERNCEL SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

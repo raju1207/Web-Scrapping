@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730472",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730472"
+    },
+    "listing_data": {
+        "affiliation_number": "2730472",
+        "listing_raw_columns": [
+            "545",
+            "Aff. No. : 2730472 Sch. Code: 85110",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : BHAGATI JI MEMORIAL MODEL SCHOOL Head/Principal Name: JAI PRAKASH",
+            "Address : 34/8/1 YAMUNA ROAD PALLA DELHI Website : http://bmms.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730472",
+        "serial_number": "545",
+        "affiliation_and_school_code": "Aff. No. : 2730472 Sch. Code: 85110",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : BHAGATI JI MEMORIAL MODEL SCHOOL Head/Principal Name: JAI PRAKASH",
+        "address_and_website": "Address : 34/8/1 YAMUNA ROAD PALLA DELHI Website : http://bmms.in/"
+    },
+    "school_details": {
+        "Name of Institution": "BHAGATI JI MEMORIAL MODEL SCHOOL",
+        "Affiliation Number": "2730472",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "34/8/1 YAMUNA ROAD PALLA DELHI",
+        "Pin Code": "110036",
+        "Website": "http://bmms.in/",
+        "Year of Foundation": "1995",
+        "Date of First Opening of School": "01 Jul 2012",
+        "Name of Principal/ Head of Institution": "JAI PRAKASH",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A. B.ED.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "20",
+        "Teaching:": "27",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "SURYA DEV EDUCATION SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

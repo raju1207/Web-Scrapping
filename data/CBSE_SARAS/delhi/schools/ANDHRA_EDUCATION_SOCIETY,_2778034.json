@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2778034",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778034"
+    },
+    "listing_data": {
+        "affiliation_number": "2778034",
+        "listing_raw_columns": [
+            "2151",
+            "Aff. No. : 2778034 Sch. Code: 87042",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : ANDHRA EDUCATION SOCIETY, Head/Principal Name: S UPENDAR",
+            "Address : DR. DURGABAI DESHMUKH MEMORIAL SR. SEC. SCHOOL, DDU MARG, ROUSE AVENUE, NEW DELHI-110 002 Website : www.andhraeducationsociety.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778034",
+        "serial_number": "2151",
+        "affiliation_and_school_code": "Aff. No. : 2778034 Sch. Code: 87042",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : ANDHRA EDUCATION SOCIETY, Head/Principal Name: S UPENDAR",
+        "address_and_website": "Address : DR. DURGABAI DESHMUKH MEMORIAL SR. SEC. SCHOOL, DDU MARG, ROUSE AVENUE, NEW DELHI-110 002 Website : www.andhraeducationsociety.com"
+    },
+    "school_details": {
+        "Name of Institution": "ANDHRA EDUCATION SOCIETY,",
+        "Affiliation Number": "2778034",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "DR. DURGABAI DESHMUKH MEMORIAL SR. SEC. SCHOOL, DDU MARG, ROUSE AVENUE, NEW DELHI-110 002",
+        "Pin Code": "110002",
+        "Website": "www.andhraeducationsociety.com",
+        "Year of Foundation": "1948",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "S UPENDAR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MSC, BED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "3",
+        "Teaching:": "18",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "andhra education society",
+        "Remarks, if any": null
+    },
+    "links": []
+}

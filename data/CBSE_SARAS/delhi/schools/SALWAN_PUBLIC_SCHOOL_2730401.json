@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730401",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730401"
+    },
+    "listing_data": {
+        "affiliation_number": "2730401",
+        "listing_raw_columns": [
+            "476",
+            "Aff. No. : 2730401 Sch. Code: 25026",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : SALWAN PUBLIC SCHOOL Head/Principal Name: Capt Richa Sharma Katyal",
+            "Address : KONDLI GHAROLI COMPLEX MAYUR VIHAR PHASE III, DISTT EAST DELHI, DELHI Website : www.spsmayurvihar.edu.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730401",
+        "serial_number": "476",
+        "affiliation_and_school_code": "Aff. No. : 2730401 Sch. Code: 25026",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SALWAN PUBLIC SCHOOL Head/Principal Name: Capt Richa Sharma Katyal",
+        "address_and_website": "Address : KONDLI GHAROLI COMPLEX MAYUR VIHAR PHASE III, DISTT EAST DELHI, DELHI Website : www.spsmayurvihar.edu.in"
+    },
+    "school_details": {
+        "Name of Institution": "SALWAN PUBLIC SCHOOL",
+        "Affiliation Number": "2730401",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "KONDLI GHAROLI COMPLEX MAYUR VIHAR PHASE III, DISTT EAST DELHI, DELHI",
+        "Pin Code": "110096",
+        "Website": "www.spsmayurvihar.edu.in",
+        "Year of Foundation": "1996",
+        "Date of First Opening of School": "02 Apr 1980",
+        "Name of Principal/ Head of Institution": "Capt Richa Sharma Katyal",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "B.Ed, M.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "3",
+        "Teaching:": "33",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "SALWAN EDUCATION TRUST",
+        "Remarks, if any": null
+    },
+    "links": []
+}

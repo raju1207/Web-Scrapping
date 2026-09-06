@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2762050",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762050"
+    },
+    "listing_data": {
+        "affiliation_number": "2762050",
+        "listing_raw_columns": [
+            "1771",
+            "Aff. No. : 2762050 Sch. Code: 27240",
+            "State : DELHI District : NORTH EAST DELHI",
+            "Senior Secondary Level",
+            "Name : NAJNA MAHTA GOVT.SARVODAYA GIRLS SR Head/Principal Name: SHIKHA JAIN",
+            "Address : SEC SCHOOL MANDOLI DELHI Website : https://www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762050",
+        "serial_number": "1771",
+        "affiliation_and_school_code": "Aff. No. : 2762050 Sch. Code: 27240",
+        "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : NAJNA MAHTA GOVT.SARVODAYA GIRLS SR Head/Principal Name: SHIKHA JAIN",
+        "address_and_website": "Address : SEC SCHOOL MANDOLI DELHI Website : https://www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "NAJNA MAHTA GOVT.SARVODAYA GIRLS SR",
+        "Affiliation Number": "2762050",
+        "State": "DELHI",
+        "District": "NORTH EAST DELHI",
+        "Postal Address": "SEC SCHOOL MANDOLI DELHI",
+        "Pin Code": "110093",
+        "Website": "https://www.edudel.nic.in",
+        "Year of Foundation": "1989",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "SHIKHA JAIN",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.C.A , B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "2",
+        "Teaching:": "16",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "delhi administration",
+        "Remarks, if any": null
+    },
+    "links": []
+}

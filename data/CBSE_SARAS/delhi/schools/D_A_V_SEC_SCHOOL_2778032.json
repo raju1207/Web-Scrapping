@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2778032",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778032"
+    },
+    "listing_data": {
+        "affiliation_number": "2778032",
+        "listing_raw_columns": [
+            "2149",
+            "Aff. No. : 2778032 Sch. Code:",
+            "State : DELHI District : NEW DELHI",
+            "Secondary Level",
+            "Name : D A V SEC SCHOOL Head/Principal Name: SH LAXMI NARAIN PALIWAL",
+            "Address : BAIRD ROAD BHAGAT SINGH MARG NEW DELHI Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778032",
+        "serial_number": "2149",
+        "affiliation_and_school_code": "Aff. No. : 2778032 Sch. Code:",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : D A V SEC SCHOOL Head/Principal Name: SH LAXMI NARAIN PALIWAL",
+        "address_and_website": "Address : BAIRD ROAD BHAGAT SINGH MARG NEW DELHI Website :"
+    },
+    "school_details": {
+        "Name of Institution": "D A V SEC SCHOOL",
+        "Affiliation Number": "2778032",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "BAIRD ROAD BHAGAT SINGH MARG NEW DELHI",
+        "Pin Code": "110001",
+        "Website": null,
+        "Year of Foundation": null,
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "SH LAXMI NARAIN PALIWAL",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": null,
+        "No of Experience ( in Years ):": null,
+        "Administrative:": null,
+        "Teaching:": null,
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2009 To : 31/03/2014",
+        "Name of Trust/ Society/ Managing Committee": null,
+        "Remarks, if any": null
+    },
+    "links": []
+}

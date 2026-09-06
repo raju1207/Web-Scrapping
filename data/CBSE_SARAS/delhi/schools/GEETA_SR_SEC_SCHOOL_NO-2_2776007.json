@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2776007",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2776007"
+    },
+    "listing_data": {
+        "affiliation_number": "2776007",
+        "listing_raw_columns": [
+            "2109",
+            "Aff. No. : 2776007 Sch. Code: 87524",
+            "State : DELHI District : WEST DELHI",
+            "Senior Secondary Level",
+            "Name : GEETA SR SEC SCHOOL NO-2 Head/Principal Name: RAJESH KUMAR PALIWAL",
+            "Address : J J COLONY SULTANPURI DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2776007",
+        "serial_number": "2109",
+        "affiliation_and_school_code": "Aff. No. : 2776007 Sch. Code: 87524",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GEETA SR SEC SCHOOL NO-2 Head/Principal Name: RAJESH KUMAR PALIWAL",
+        "address_and_website": "Address : J J COLONY SULTANPURI DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GEETA SR SEC SCHOOL NO-2",
+        "Affiliation Number": "2776007",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "J J COLONY SULTANPURI DELHI",
+        "Pin Code": "110041",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1970",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "RAJESH KUMAR PALIWAL",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.Sc./ M.COM.//M.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "30",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2021 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "DIRECTORATE OF EDUCATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

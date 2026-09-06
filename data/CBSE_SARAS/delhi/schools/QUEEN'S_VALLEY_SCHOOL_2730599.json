@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730599",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730599"
+    },
+    "listing_data": {
+        "affiliation_number": "2730599",
+        "listing_raw_columns": [
+            "669",
+            "Aff. No. : 2730599 Sch. Code: 25291",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : QUEEN'S VALLEY SCHOOL Head/Principal Name: AMBIKA ROSHAN",
+            "Address : SITE-B, SECTOR-8,DWARKA Website : www.queensvalleyschool.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730599",
+        "serial_number": "669",
+        "affiliation_and_school_code": "Aff. No. : 2730599 Sch. Code: 25291",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : QUEEN'S VALLEY SCHOOL Head/Principal Name: AMBIKA ROSHAN",
+        "address_and_website": "Address : SITE-B, SECTOR-8,DWARKA Website : www.queensvalleyschool.in"
+    },
+    "school_details": {
+        "Name of Institution": "QUEEN'S VALLEY SCHOOL",
+        "Affiliation Number": "2730599",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "SITE-B, SECTOR-8,DWARKA",
+        "Pin Code": "110077",
+        "Website": "www.queensvalleyschool.in",
+        "Year of Foundation": "2007",
+        "Date of First Opening of School": "02 Jul 2007",
+        "Name of Principal/ Head of Institution": "AMBIKA ROSHAN",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA , M.ED. M Phil.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "13",
+        "Teaching:": "10",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "Durga Parvati Khaitan Memorial Centre",
+        "Remarks, if any": null
+    },
+    "links": []
+}

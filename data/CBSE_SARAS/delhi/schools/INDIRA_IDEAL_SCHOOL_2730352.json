@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730352",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730352"
+    },
+    "listing_data": {
+        "affiliation_number": "2730352",
+        "listing_raw_columns": [
+            "433",
+            "Aff. No. : 2730352 Sch. Code: 85307",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : INDIRA IDEAL SCHOOL Head/Principal Name: NALINI SAXENA",
+            "Address : C-3 JANAK PURI NEW DELHI Website : www://indiraidealschool.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730352",
+        "serial_number": "433",
+        "affiliation_and_school_code": "Aff. No. : 2730352 Sch. Code: 85307",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : INDIRA IDEAL SCHOOL Head/Principal Name: NALINI SAXENA",
+        "address_and_website": "Address : C-3 JANAK PURI NEW DELHI Website : www://indiraidealschool.com"
+    },
+    "school_details": {
+        "Name of Institution": "INDIRA IDEAL SCHOOL",
+        "Affiliation Number": "2730352",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "C-3 JANAK PURI NEW DELHI",
+        "Pin Code": "110058",
+        "Website": "www://indiraidealschool.com",
+        "Year of Foundation": "1970",
+        "Date of First Opening of School": "02 Apr 2007",
+        "Name of Principal/ Head of Institution": "NALINI SAXENA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A. M.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "19",
+        "Teaching:": "28",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "INDIRA ADARSH SHIKSHA SAMITI",
+        "Remarks, if any": null
+    },
+    "links": []
+}

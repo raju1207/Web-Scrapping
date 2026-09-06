@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730824",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730824"
+    },
+    "listing_data": {
+        "affiliation_number": "2730824",
+        "listing_raw_columns": [
+            "884",
+            "Aff. No. : 2730824 Sch. Code: 86703",
+            "State : DELHI District : WEST DELHI",
+            "Secondary Level",
+            "Name : SUNSHINE CONVENT PUBLIC SCHOOL Head/Principal Name: Sandeep Yadav",
+            "Address : 10/21, MAIN HASTSAL RANHAULA ROAD, NEAR PRADHAN CHOWK, VIKAS NAGAR, NEW DELHI -110059 Website : www.scpsweb.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730824",
+        "serial_number": "884",
+        "affiliation_and_school_code": "Aff. No. : 2730824 Sch. Code: 86703",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : SUNSHINE CONVENT PUBLIC SCHOOL Head/Principal Name: Sandeep Yadav",
+        "address_and_website": "Address : 10/21, MAIN HASTSAL RANHAULA ROAD, NEAR PRADHAN CHOWK, VIKAS NAGAR, NEW DELHI -110059 Website : www.scpsweb.com"
+    },
+    "school_details": {
+        "Name of Institution": "SUNSHINE CONVENT PUBLIC SCHOOL",
+        "Affiliation Number": "2730824",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "10/21, MAIN HASTSAL RANHAULA ROAD, NEAR PRADHAN CHOWK, VIKAS NAGAR, NEW DELHI -110059",
+        "Pin Code": "110059",
+        "Website": "www.scpsweb.com",
+        "Year of Foundation": "2009",
+        "Date of First Opening of School": "01 Apr 2009",
+        "Name of Principal/ Head of Institution": "Sandeep Yadav",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.C.A,P.G.P.M,B.E.d.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "5",
+        "Teaching:": "10",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "BABA SINGH RAM WELFARE SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

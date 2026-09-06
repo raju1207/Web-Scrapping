@@ -1,0 +1,13 @@
+{
+    "source": "CBSE SARAS",
+    "location": "Delhi",
+    "state": "DELHI",
+    "district_filter": "ALL / NONE",
+    "total_schools_discovered": 2252,
+    "already_existing_skipped": 1237,
+    "newly_scraped": 1015,
+    "failed_this_run": 0,
+    "completed_unique_affiliations": 2252,
+    "school_json_files": 2252,
+    "output_folder": "data\\CBSE_SARAS\\delhi\\schools"
+}
