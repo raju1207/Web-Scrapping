@@ -1,0 +1,55 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Mumbai",
+        "state": "MAHARASHTRA",
+        "selected_district": "MUMBAI",
+        "affiliation_number": "1130085",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130085"
+    },
+    "listing_data": {
+        "affiliation_number": "1130085",
+        "listing_raw_columns": [
+            "19",
+            "Aff. No. : 1130085 Sch. Code: 30092",
+            "State : MAHARASHTRA District : MUMBAI",
+            "Secondary Level",
+            "Name : SHETH KARAMSHI KANJI ENGLISH SCHOOL Head/Principal Name: Mrs.Varsha Deshpande",
+            "Address : V P ROAD, MULUND WEST MUMBAI MAHARASHTRA Website : www.skkeschool.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130085",
+        "serial_number": "19",
+        "affiliation_and_school_code": "Aff. No. : 1130085 Sch. Code: 30092",
+        "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : SHETH KARAMSHI KANJI ENGLISH SCHOOL Head/Principal Name: Mrs.Varsha Deshpande",
+        "address_and_website": "Address : V P ROAD, MULUND WEST MUMBAI MAHARASHTRA Website : www.skkeschool.com",
+        "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+        "Name of Institution": "SHETH KARAMSHI KANJI ENGLISH SCHOOL",
+        "Affiliation Number": "1130085",
+        "State": "MAHARASHTRA",
+        "District": "MUMBAI",
+        "Postal Address": "V P ROAD, MULUND WEST MUMBAI MAHARASHTRA",
+        "Pin Code": "400080",
+        "Website": "www.skkeschool.com",
+        "Year of Foundation": "1986",
+        "Date of First Opening of School": "01 Jul 2008",
+        "Name of Principal/ Head of Institution": "Mrs.Varsha Deshpande",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M Sc B Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "12",
+        "Teaching:": "15",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "s m p rashtriya shala trust",
+        "Remarks, if any": null
+    },
+    "links": []
+}

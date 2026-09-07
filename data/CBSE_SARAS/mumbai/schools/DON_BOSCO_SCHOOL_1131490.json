@@ -1,0 +1,55 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Mumbai",
+        "state": "MAHARASHTRA",
+        "selected_district": "MUMBAI SUBURBAN",
+        "affiliation_number": "1131490",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131490"
+    },
+    "listing_data": {
+        "affiliation_number": "1131490",
+        "listing_raw_columns": [
+            "25",
+            "Aff. No. : 1131490 Sch. Code: 31479",
+            "State : MAHARASHTRA District : MUMBAI SUBURBAN",
+            "Secondary Level",
+            "Name : DON BOSCO SCHOOL Head/Principal Name: Neelam Rodrigues",
+            "Address : VAZIRA NAKA, L.T. ROAD, BORIVLI (W.) Website : https://cbse.donboscoborivli.org/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131490",
+        "serial_number": "25",
+        "affiliation_and_school_code": "Aff. No. : 1131490 Sch. Code: 31479",
+        "state_and_district": "State : MAHARASHTRA District : MUMBAI SUBURBAN",
+        "status": "Secondary Level",
+        "school_and_head": "Name : DON BOSCO SCHOOL Head/Principal Name: Neelam Rodrigues",
+        "address_and_website": "Address : VAZIRA NAKA, L.T. ROAD, BORIVLI (W.) Website : https://cbse.donboscoborivli.org/",
+        "saras_selected_district": "MUMBAI SUBURBAN"
+    },
+    "school_details": {
+        "Name of Institution": "DON BOSCO SCHOOL",
+        "Affiliation Number": "1131490",
+        "State": "MAHARASHTRA",
+        "District": "MUMBAI SUBURBAN",
+        "Postal Address": "VAZIRA NAKA, L.T. ROAD, BORIVLI (W.)",
+        "Pin Code": "400091",
+        "Website": "https://cbse.donboscoborivli.org/",
+        "Year of Foundation": "2023",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "Neelam Rodrigues",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A., B.ED.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "25",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "The Bombay Salesian Society",
+        "Remarks, if any": null
+    },
+    "links": []
+}

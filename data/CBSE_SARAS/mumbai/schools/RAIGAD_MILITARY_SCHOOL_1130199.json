@@ -1,0 +1,55 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Mumbai",
+        "state": "MAHARASHTRA",
+        "selected_district": "MUMBAI",
+        "affiliation_number": "1130199",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130199"
+    },
+    "listing_data": {
+        "affiliation_number": "1130199",
+        "listing_raw_columns": [
+            "26",
+            "Aff. No. : 1130199 Sch. Code: 30154",
+            "State : MAHARASHTRA District : MUMBAI",
+            "Senior Secondary Level",
+            "Name : RAIGAD MILITARY SCHOOL Head/Principal Name: Arti Jha",
+            "Address : NEW LINK ROAD, BEHRAM BAUG, OSHIWARA. JOGESHWARI(W) Website : www.raigadmilitaryschool.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130199",
+        "serial_number": "26",
+        "affiliation_and_school_code": "Aff. No. : 1130199 Sch. Code: 30154",
+        "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : RAIGAD MILITARY SCHOOL Head/Principal Name: Arti Jha",
+        "address_and_website": "Address : NEW LINK ROAD, BEHRAM BAUG, OSHIWARA. JOGESHWARI(W) Website : www.raigadmilitaryschool.in",
+        "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+        "Name of Institution": "RAIGAD MILITARY SCHOOL",
+        "Affiliation Number": "1130199",
+        "State": "MAHARASHTRA",
+        "District": "MUMBAI",
+        "Postal Address": "NEW LINK ROAD, BEHRAM BAUG, OSHIWARA. JOGESHWARI(W)",
+        "Pin Code": "400102",
+        "Website": "www.raigadmilitaryschool.in",
+        "Year of Foundation": "2005",
+        "Date of First Opening of School": "12 Jun 2006",
+        "Name of Principal/ Head of Institution": "Arti Jha",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.Sc ,B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "9",
+        "Teaching:": "20",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "Raigad Military School",
+        "Remarks, if any": null
+    },
+    "links": []
+}

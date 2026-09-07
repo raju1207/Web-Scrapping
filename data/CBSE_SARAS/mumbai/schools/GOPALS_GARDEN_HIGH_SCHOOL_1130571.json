@@ -1,0 +1,55 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Mumbai",
+        "state": "MAHARASHTRA",
+        "selected_district": "MUMBAI",
+        "affiliation_number": "1130571",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130571"
+    },
+    "listing_data": {
+        "affiliation_number": "1130571",
+        "listing_raw_columns": [
+            "39",
+            "Aff. No. : 1130571 Sch. Code: 30502",
+            "State : MAHARASHTRA District : MUMBAI",
+            "Secondary Level",
+            "Name : GOPALS GARDEN HIGH SCHOOL Head/Principal Name: RAJAS SARDESAI BHOSALE",
+            "Address : PLOT NO.1 ,OPPOSITE MANGALAM BUILDING,NEAR NATIONAL PARK, KULUPWADI, BORIVALI EAST, MUMBAI 400066 Website : www.gopalsgarden.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130571",
+        "serial_number": "39",
+        "affiliation_and_school_code": "Aff. No. : 1130571 Sch. Code: 30502",
+        "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : GOPALS GARDEN HIGH SCHOOL Head/Principal Name: RAJAS SARDESAI BHOSALE",
+        "address_and_website": "Address : PLOT NO.1 ,OPPOSITE MANGALAM BUILDING,NEAR NATIONAL PARK, KULUPWADI, BORIVALI EAST, MUMBAI 400066 Website : www.gopalsgarden.com",
+        "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+        "Name of Institution": "GOPALS GARDEN HIGH SCHOOL",
+        "Affiliation Number": "1130571",
+        "State": "MAHARASHTRA",
+        "District": "MUMBAI",
+        "Postal Address": "PLOT NO.1 ,OPPOSITE MANGALAM BUILDING,NEAR NATIONAL PARK, KULUPWADI, BORIVALI EAST, MUMBAI 400066",
+        "Pin Code": "400066",
+        "Website": "www.gopalsgarden.com",
+        "Year of Foundation": "2002",
+        "Date of First Opening of School": "16 Jun 2001",
+        "Name of Principal/ Head of Institution": "RAJAS SARDESAI BHOSALE",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MSC, BED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "22",
+        "Teaching:": "22",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "Sri Chaitanya Educational Trust",
+        "Remarks, if any": null
+    },
+    "links": []
+}

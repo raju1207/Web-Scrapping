@@ -1,0 +1,17 @@
+{
+    "source": "CBSE SARAS",
+    "location": "Mumbai",
+    "state": "MAHARASHTRA",
+    "district_keyword": "MUMBAI",
+    "districts_scraped": [
+        "MUMBAI",
+        "MUMBAI SUBURBAN"
+    ],
+    "total_schools_discovered": 92,
+    "already_existing_skipped": 35,
+    "newly_scraped": 57,
+    "failed_this_run": 0,
+    "completed_unique_affiliations": 92,
+    "school_json_files": 92,
+    "output_folder": "data\\CBSE_SARAS\\mumbai\\schools"
+}

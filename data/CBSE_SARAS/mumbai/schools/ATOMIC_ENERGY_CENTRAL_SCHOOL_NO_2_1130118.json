@@ -1,0 +1,55 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Mumbai",
+        "state": "MAHARASHTRA",
+        "selected_district": "MUMBAI",
+        "affiliation_number": "1130118",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130118"
+    },
+    "listing_data": {
+        "affiliation_number": "1130118",
+        "listing_raw_columns": [
+            "21",
+            "Aff. No. : 1130118 Sch. Code: 34100",
+            "State : MAHARASHTRA District : MUMBAI",
+            "Secondary Level",
+            "Name : ATOMIC ENERGY CENTRAL SCHOOL NO 2 Head/Principal Name: INU BANSAL",
+            "Address : ANUSHAKTI NAGAR MUMBAI MAHARASHTRA Website : www.aecsmum2.ac.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130118",
+        "serial_number": "21",
+        "affiliation_and_school_code": "Aff. No. : 1130118 Sch. Code: 34100",
+        "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : ATOMIC ENERGY CENTRAL SCHOOL NO 2 Head/Principal Name: INU BANSAL",
+        "address_and_website": "Address : ANUSHAKTI NAGAR MUMBAI MAHARASHTRA Website : www.aecsmum2.ac.in",
+        "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+        "Name of Institution": "ATOMIC ENERGY CENTRAL SCHOOL NO 2",
+        "Affiliation Number": "1130118",
+        "State": "MAHARASHTRA",
+        "District": "MUMBAI",
+        "Postal Address": "ANUSHAKTI NAGAR MUMBAI MAHARASHTRA",
+        "Pin Code": "400094",
+        "Website": "www.aecsmum2.ac.in",
+        "Year of Foundation": "1972",
+        "Date of First Opening of School": "03 Jul 2000",
+        "Name of Principal/ Head of Institution": "INU BANSAL",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M Sc B Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "7",
+        "Teaching:": "19",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "ATOMIC ENERGY EDU SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

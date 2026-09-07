@@ -1,0 +1,55 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Mumbai",
+        "state": "MAHARASHTRA",
+        "selected_district": "MUMBAI SUBURBAN",
+        "affiliation_number": "1131475",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131475"
+    },
+    "listing_data": {
+        "affiliation_number": "1131475",
+        "listing_raw_columns": [
+            "24",
+            "Aff. No. : 1131475 Sch. Code: 31464",
+            "State : MAHARASHTRA District : MUMBAI SUBURBAN",
+            "Secondary Level",
+            "Name : NCWA'S DHANVALLABH ENGLISH HIGH SCHOOL Head/Principal Name: PARASHABHATHINI SHYAMALA VENKATESHWARRAO",
+            "Address : NCWA EDUCATIONAL COMPLEX , P.K. ROAD , MULUND WEST, MUMBAI Website : www.dhanvallabh.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131475",
+        "serial_number": "24",
+        "affiliation_and_school_code": "Aff. No. : 1131475 Sch. Code: 31464",
+        "state_and_district": "State : MAHARASHTRA District : MUMBAI SUBURBAN",
+        "status": "Secondary Level",
+        "school_and_head": "Name : NCWA'S DHANVALLABH ENGLISH HIGH SCHOOL Head/Principal Name: PARASHABHATHINI SHYAMALA VENKATESHWARRAO",
+        "address_and_website": "Address : NCWA EDUCATIONAL COMPLEX , P.K. ROAD , MULUND WEST, MUMBAI Website : www.dhanvallabh.com",
+        "saras_selected_district": "MUMBAI SUBURBAN"
+    },
+    "school_details": {
+        "Name of Institution": "NCWA'S DHANVALLABH ENGLISH HIGH SCHOOL",
+        "Affiliation Number": "1131475",
+        "State": "MAHARASHTRA",
+        "District": "MUMBAI SUBURBAN",
+        "Postal Address": "NCWA EDUCATIONAL COMPLEX , P.K. ROAD , MULUND WEST, MUMBAI",
+        "Pin Code": "400080",
+        "Website": "www.dhanvallabh.com",
+        "Year of Foundation": "2015",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "PARASHABHATHINI SHYAMALA VENKATESHWARRAO",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "D.Sc, M.Sc, M.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "13",
+        "Teaching:": "30",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "NAHUR CITIZENS WELFARE ASSOCIATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,55 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Mumbai",
+        "state": "MAHARASHTRA",
+        "selected_district": "MUMBAI",
+        "affiliation_number": "1130871",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130871"
+    },
+    "listing_data": {
+        "affiliation_number": "1130871",
+        "listing_raw_columns": [
+            "47",
+            "Aff. No. : 1130871 Sch. Code: 30806",
+            "State : MAHARASHTRA District : MUMBAI",
+            "Senior Secondary Level",
+            "Name : NARAYANA E-TECHNO SCHOOL Head/Principal Name: AYYELLA MADHURI",
+            "Address : CTS NO 418B, MAROL VILLAGE, MAROL- MAROSHI ROAD, NEXT TO K.P. AURUM, Website : https://www.narayanaschools.in/mumbai/andheri/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130871",
+        "serial_number": "47",
+        "affiliation_and_school_code": "Aff. No. : 1130871 Sch. Code: 30806",
+        "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : NARAYANA E-TECHNO SCHOOL Head/Principal Name: AYYELLA MADHURI",
+        "address_and_website": "Address : CTS NO 418B, MAROL VILLAGE, MAROL- MAROSHI ROAD, NEXT TO K.P. AURUM, Website : https://www.narayanaschools.in/mumbai/andheri/",
+        "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+        "Name of Institution": "NARAYANA E-TECHNO SCHOOL",
+        "Affiliation Number": "1130871",
+        "State": "MAHARASHTRA",
+        "District": "MUMBAI",
+        "Postal Address": "CTS NO 418B, MAROL VILLAGE, MAROL- MAROSHI ROAD, NEXT TO K.P. AURUM,",
+        "Pin Code": "400092",
+        "Website": "https://www.narayanaschools.in/mumbai/andheri/",
+        "Year of Foundation": "2016",
+        "Date of First Opening of School": "01 Apr 2016",
+        "Name of Principal/ Head of Institution": "AYYELLA MADHURI",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MSC BED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "8",
+        "Teaching:": "12",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": "Narayana Educational Trust",
+        "Remarks, if any": null
+    },
+    "links": []
+}

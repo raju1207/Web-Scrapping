@@ -1,0 +1,55 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Mumbai",
+        "state": "MAHARASHTRA",
+        "selected_district": "MUMBAI",
+        "affiliation_number": "1100004",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1100004"
+    },
+    "listing_data": {
+        "affiliation_number": "1100004",
+        "listing_raw_columns": [
+            "2",
+            "Aff. No. : 1100004 Sch. Code: 34011",
+            "State : MAHARASHTRA District : MUMBAI",
+            "Senior Secondary Level",
+            "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: V S WANKHADE",
+            "Address : I I T POWAI MUMBAI MAHARASHTRA Website : https://iitpowai.kvs.ac.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1100004",
+        "serial_number": "2",
+        "affiliation_and_school_code": "Aff. No. : 1100004 Sch. Code: 34011",
+        "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: V S WANKHADE",
+        "address_and_website": "Address : I I T POWAI MUMBAI MAHARASHTRA Website : https://iitpowai.kvs.ac.in",
+        "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+        "Name of Institution": "PM SHRI KENDRIYA VIDYALAYA",
+        "Affiliation Number": "1100004",
+        "State": "MAHARASHTRA",
+        "District": "MUMBAI",
+        "Postal Address": "I I T POWAI MUMBAI MAHARASHTRA",
+        "Pin Code": "400076",
+        "Website": "https://iitpowai.kvs.ac.in",
+        "Year of Foundation": "1964",
+        "Date of First Opening of School": "25 Jan 2009",
+        "Name of Principal/ Head of Institution": "V S WANKHADE",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MCOM BED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "7",
+        "Teaching:": "26",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "KV",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "KENDRIYA VIDYALAYA SANGATHAN",
+        "Remarks, if any": null
+    },
+    "links": []
+}

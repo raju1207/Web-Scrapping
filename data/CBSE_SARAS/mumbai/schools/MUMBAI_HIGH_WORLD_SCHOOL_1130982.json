@@ -1,0 +1,55 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Mumbai",
+        "state": "MAHARASHTRA",
+        "selected_district": "MUMBAI",
+        "affiliation_number": "1130982",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130982"
+    },
+    "listing_data": {
+        "affiliation_number": "1130982",
+        "listing_raw_columns": [
+            "51",
+            "Aff. No. : 1130982 Sch. Code: 30940",
+            "State : MAHARASHTRA District : MUMBAI",
+            "Secondary Level",
+            "Name : MUMBAI HIGH WORLD SCHOOL Head/Principal Name: Asha Kumari",
+            "Address : SAIBABA NAGAR,BORIVALI WEST. Website : www.jayainternationalschool.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130982",
+        "serial_number": "51",
+        "affiliation_and_school_code": "Aff. No. : 1130982 Sch. Code: 30940",
+        "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : MUMBAI HIGH WORLD SCHOOL Head/Principal Name: Asha Kumari",
+        "address_and_website": "Address : SAIBABA NAGAR,BORIVALI WEST. Website : www.jayainternationalschool.in",
+        "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+        "Name of Institution": "MUMBAI HIGH WORLD SCHOOL",
+        "Affiliation Number": "1130982",
+        "State": "MAHARASHTRA",
+        "District": "MUMBAI",
+        "Postal Address": "SAIBABA NAGAR,BORIVALI WEST.",
+        "Pin Code": "400092",
+        "Website": "www.jayainternationalschool.in",
+        "Year of Foundation": "2010",
+        "Date of First Opening of School": "10 Jun 2010",
+        "Name of Principal/ Head of Institution": "Asha Kumari",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA Eng, M.A Education B.Ed, E.C.C.E",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "14",
+        "Teaching:": "24",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "SWATI EDUCATION TRUST",
+        "Remarks, if any": null
+    },
+    "links": []
+}

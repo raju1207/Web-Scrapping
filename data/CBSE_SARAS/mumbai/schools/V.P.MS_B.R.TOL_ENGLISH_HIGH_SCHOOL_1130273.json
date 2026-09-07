@@ -1,0 +1,55 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Mumbai",
+        "state": "MAHARASHTRA",
+        "selected_district": "MUMBAI",
+        "affiliation_number": "1130273",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130273"
+    },
+    "listing_data": {
+        "affiliation_number": "1130273",
+        "listing_raw_columns": [
+            "31",
+            "Aff. No. : 1130273 Sch. Code: 30226",
+            "State : MAHARASHTRA District : MUMBAI",
+            "Secondary Level",
+            "Name : V.P.MS B.R.TOL ENGLISH HIGH SCHOOL Head/Principal Name: Ajitha K. Nair",
+            "Address : MITHAGAR ROAD, MULUND(E) Website : http://www.vpmbrtol.co.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130273",
+        "serial_number": "31",
+        "affiliation_and_school_code": "Aff. No. : 1130273 Sch. Code: 30226",
+        "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : V.P.MS B.R.TOL ENGLISH HIGH SCHOOL Head/Principal Name: Ajitha K. Nair",
+        "address_and_website": "Address : MITHAGAR ROAD, MULUND(E) Website : http://www.vpmbrtol.co.in",
+        "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+        "Name of Institution": "V.P.MS B.R.TOL ENGLISH HIGH SCHOOL",
+        "Affiliation Number": "1130273",
+        "State": "MAHARASHTRA",
+        "District": "MUMBAI",
+        "Postal Address": "MITHAGAR ROAD, MULUND(E)",
+        "Pin Code": "400081",
+        "Website": "http://www.vpmbrtol.co.in",
+        "Year of Foundation": "1972",
+        "Date of First Opening of School": "11 Aug 1972",
+        "Name of Principal/ Head of Institution": "Ajitha K. Nair",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A / B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "4",
+        "Teaching:": "33",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "Vidya Prasarak Mandal",
+        "Remarks, if any": null
+    },
+    "links": []
+}

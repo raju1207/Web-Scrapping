@@ -1,0 +1,55 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Mumbai",
+        "state": "MAHARASHTRA",
+        "selected_district": "MUMBAI SUBURBAN",
+        "affiliation_number": "1120135",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1120135"
+    },
+    "listing_data": {
+        "affiliation_number": "1120135",
+        "listing_raw_columns": [
+            "10",
+            "Aff. No. : 1120135 Sch. Code: 32152",
+            "State : MAHARASHTRA District : MUMBAI SUBURBAN",
+            "Middle Class",
+            "Name : MUMBAI PUBLIC SCHOOL JIJAMATA NAGAR (CBSE) Head/Principal Name: PREETI PRASHANT JADHAV",
+            "Address : JIJAMATA NAGAR, NEAR EASTERN EXPRESS , FREE WAY, DULEEP SINGH ROAD, , CHEMBUR (EAST), MUMBAI Website : https://mpsjijamatanagar.mumbaipublicschools.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1120135",
+        "serial_number": "10",
+        "affiliation_and_school_code": "Aff. No. : 1120135 Sch. Code: 32152",
+        "state_and_district": "State : MAHARASHTRA District : MUMBAI SUBURBAN",
+        "status": "Middle Class",
+        "school_and_head": "Name : MUMBAI PUBLIC SCHOOL JIJAMATA NAGAR (CBSE) Head/Principal Name: PREETI PRASHANT JADHAV",
+        "address_and_website": "Address : JIJAMATA NAGAR, NEAR EASTERN EXPRESS , FREE WAY, DULEEP SINGH ROAD, , CHEMBUR (EAST), MUMBAI Website : https://mpsjijamatanagar.mumbaipublicschools.in/",
+        "saras_selected_district": "MUMBAI SUBURBAN"
+    },
+    "school_details": {
+        "Name of Institution": "MUMBAI PUBLIC SCHOOL JIJAMATA NAGAR (CBSE)",
+        "Affiliation Number": "1120135",
+        "State": "MAHARASHTRA",
+        "District": "MUMBAI SUBURBAN",
+        "Postal Address": "JIJAMATA NAGAR, NEAR EASTERN EXPRESS , FREE WAY, DULEEP SINGH ROAD, , CHEMBUR (EAST), MUMBAI",
+        "Pin Code": "400074",
+        "Website": "https://mpsjijamatanagar.mumbaipublicschools.in/",
+        "Year of Foundation": "2023",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "PREETI PRASHANT JADHAV",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "B.A DED DSM",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "5",
+        "Teaching:": "20",
+        "Status of The School": "Middle Class",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "BRIHANMUMBAI MUNICIPAL CORPORATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

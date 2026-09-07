@@ -1,0 +1,55 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Mumbai",
+        "state": "MAHARASHTRA",
+        "selected_district": "MUMBAI",
+        "affiliation_number": "1130253",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130253"
+    },
+    "listing_data": {
+        "affiliation_number": "1130253",
+        "listing_raw_columns": [
+            "29",
+            "Aff. No. : 1130253 Sch. Code: 30215",
+            "State : MAHARASHTRA District : MUMBAI",
+            "Secondary Level",
+            "Name : MAHAPRAGYA PUBLIC SCHOOL Head/Principal Name: Saroj Machado",
+            "Address : 32, DADI SETH AGAYARI LANE, Website : http://mahapragyapublicschool.com/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130253",
+        "serial_number": "29",
+        "affiliation_and_school_code": "Aff. No. : 1130253 Sch. Code: 30215",
+        "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : MAHAPRAGYA PUBLIC SCHOOL Head/Principal Name: Saroj Machado",
+        "address_and_website": "Address : 32, DADI SETH AGAYARI LANE, Website : http://mahapragyapublicschool.com/",
+        "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+        "Name of Institution": "MAHAPRAGYA PUBLIC SCHOOL",
+        "Affiliation Number": "1130253",
+        "State": "MAHARASHTRA",
+        "District": "MUMBAI",
+        "Postal Address": "32, DADI SETH AGAYARI LANE,",
+        "Pin Code": "400002",
+        "Website": "http://mahapragyapublicschool.com/",
+        "Year of Foundation": "2005",
+        "Date of First Opening of School": "10 Jun 2005",
+        "Name of Principal/ Head of Institution": "Saroj Machado",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "D.ED, B.A, M.A, B.Ed, M.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "04",
+        "Teaching:": "25",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "Acharya Mahapragya Vidya Nidhi Foundation",
+        "Remarks, if any": null
+    },
+    "links": []
+}

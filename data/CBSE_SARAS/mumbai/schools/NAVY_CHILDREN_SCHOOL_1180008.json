@@ -1,0 +1,55 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Mumbai",
+        "state": "MAHARASHTRA",
+        "selected_district": "MUMBAI",
+        "affiliation_number": "1180008",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1180008"
+    },
+    "listing_data": {
+        "affiliation_number": "1180008",
+        "listing_raw_columns": [
+            "66",
+            "Aff. No. : 1180008 Sch. Code: 34076",
+            "State : MAHARASHTRA District : MUMBAI",
+            "Senior Secondary Level",
+            "Name : NAVY CHILDREN SCHOOL Head/Principal Name: Dr.Nandana Khare",
+            "Address : BLOCK VII AREA BEHIND KV II NEW NAVY NAGAR COLABA MUMBAI MAHARASHTRA Website : https://ncsmumbai.nesnavy.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1180008",
+        "serial_number": "66",
+        "affiliation_and_school_code": "Aff. No. : 1180008 Sch. Code: 34076",
+        "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : NAVY CHILDREN SCHOOL Head/Principal Name: Dr.Nandana Khare",
+        "address_and_website": "Address : BLOCK VII AREA BEHIND KV II NEW NAVY NAGAR COLABA MUMBAI MAHARASHTRA Website : https://ncsmumbai.nesnavy.in/",
+        "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+        "Name of Institution": "NAVY CHILDREN SCHOOL",
+        "Affiliation Number": "1180008",
+        "State": "MAHARASHTRA",
+        "District": "MUMBAI",
+        "Postal Address": "BLOCK VII AREA BEHIND KV II NEW NAVY NAGAR COLABA MUMBAI MAHARASHTRA",
+        "Pin Code": "400005",
+        "Website": "https://ncsmumbai.nesnavy.in/",
+        "Year of Foundation": "1989",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "Dr.Nandana Khare",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "B.Sc, M.Sc, Ph.D, B.Ed, NET",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "2",
+        "Teaching:": "20",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": null,
+        "Remarks, if any": null
+    },
+    "links": []
+}

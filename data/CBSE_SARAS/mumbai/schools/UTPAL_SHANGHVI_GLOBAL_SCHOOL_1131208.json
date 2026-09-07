@@ -1,0 +1,55 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Mumbai",
+        "state": "MAHARASHTRA",
+        "selected_district": "MUMBAI SUBURBAN",
+        "affiliation_number": "1131208",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131208"
+    },
+    "listing_data": {
+        "affiliation_number": "1131208",
+        "listing_raw_columns": [
+            "16",
+            "Aff. No. : 1131208 Sch. Code: 31195",
+            "State : MAHARASHTRA District : MUMBAI SUBURBAN",
+            "Secondary Level",
+            "Name : UTPAL SHANGHVI GLOBAL SCHOOL Head/Principal Name: Anita Sharma",
+            "Address : BORIVALI WEST, MUMBAI 400103 Website : https://utpalshanghviglobalschool.org/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131208",
+        "serial_number": "16",
+        "affiliation_and_school_code": "Aff. No. : 1131208 Sch. Code: 31195",
+        "state_and_district": "State : MAHARASHTRA District : MUMBAI SUBURBAN",
+        "status": "Secondary Level",
+        "school_and_head": "Name : UTPAL SHANGHVI GLOBAL SCHOOL Head/Principal Name: Anita Sharma",
+        "address_and_website": "Address : BORIVALI WEST, MUMBAI 400103 Website : https://utpalshanghviglobalschool.org/",
+        "saras_selected_district": "MUMBAI SUBURBAN"
+    },
+    "school_details": {
+        "Name of Institution": "UTPAL SHANGHVI GLOBAL SCHOOL",
+        "Affiliation Number": "1131208",
+        "State": "MAHARASHTRA",
+        "District": "MUMBAI SUBURBAN",
+        "Postal Address": "BORIVALI WEST, MUMBAI 400103",
+        "Pin Code": "400103",
+        "Website": "https://utpalshanghviglobalschool.org/",
+        "Year of Foundation": "2019",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "Anita Sharma",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A, MBA, B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "13",
+        "Teaching:": "13",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "Dr. Kiran Patel Education Trust",
+        "Remarks, if any": null
+    },
+    "links": []
+}

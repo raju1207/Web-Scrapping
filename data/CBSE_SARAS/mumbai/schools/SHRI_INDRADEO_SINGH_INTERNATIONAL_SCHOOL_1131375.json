@@ -1,0 +1,55 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Mumbai",
+        "state": "MAHARASHTRA",
+        "selected_district": "MUMBAI SUBURBAN",
+        "affiliation_number": "1131375",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131375"
+    },
+    "listing_data": {
+        "affiliation_number": "1131375",
+        "listing_raw_columns": [
+            "18",
+            "Aff. No. : 1131375 Sch. Code: 31364",
+            "State : MAHARASHTRA District : MUMBAI SUBURBAN",
+            "Secondary Level",
+            "Name : SHRI INDRADEO SINGH INTERNATIONAL SCHOOL Head/Principal Name: SANGEETA MEHROTRA",
+            "Address : LAXMINARAYAN MANDIR ROAD , GHATKOPAR-KIROL (OPP. GHATKOPAR STATION), GHATKOPAR WEST Website : https://idsisghatkopar.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131375",
+        "serial_number": "18",
+        "affiliation_and_school_code": "Aff. No. : 1131375 Sch. Code: 31364",
+        "state_and_district": "State : MAHARASHTRA District : MUMBAI SUBURBAN",
+        "status": "Secondary Level",
+        "school_and_head": "Name : SHRI INDRADEO SINGH INTERNATIONAL SCHOOL Head/Principal Name: SANGEETA MEHROTRA",
+        "address_and_website": "Address : LAXMINARAYAN MANDIR ROAD , GHATKOPAR-KIROL (OPP. GHATKOPAR STATION), GHATKOPAR WEST Website : https://idsisghatkopar.in/",
+        "saras_selected_district": "MUMBAI SUBURBAN"
+    },
+    "school_details": {
+        "Name of Institution": "SHRI INDRADEO SINGH INTERNATIONAL SCHOOL",
+        "Affiliation Number": "1131375",
+        "State": "MAHARASHTRA",
+        "District": "MUMBAI SUBURBAN",
+        "Postal Address": "LAXMINARAYAN MANDIR ROAD , GHATKOPAR-KIROL (OPP. GHATKOPAR STATION), GHATKOPAR WEST",
+        "Pin Code": "400086",
+        "Website": "https://idsisghatkopar.in/",
+        "Year of Foundation": "2019",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "SANGEETA MEHROTRA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A., M.Ed.,SET, PGDME",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "9",
+        "Teaching:": "26",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "Hindi Vidya Prachar Samiti",
+        "Remarks, if any": null
+    },
+    "links": []
+}

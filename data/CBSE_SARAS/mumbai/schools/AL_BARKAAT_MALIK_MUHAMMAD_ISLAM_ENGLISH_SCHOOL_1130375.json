@@ -1,0 +1,55 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Mumbai",
+        "state": "MAHARASHTRA",
+        "selected_district": "MUMBAI",
+        "affiliation_number": "1130375",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130375"
+    },
+    "listing_data": {
+        "affiliation_number": "1130375",
+        "listing_raw_columns": [
+            "34",
+            "Aff. No. : 1130375 Sch. Code: 30252",
+            "State : MAHARASHTRA District : MUMBAI",
+            "Secondary Level",
+            "Name : AL BARKAAT MALIK MUHAMMAD ISLAM ENGLISH SCHOOL Head/Principal Name: Shamina Irfan Shaikh",
+            "Address : VINOBA BHAVE NAGAR, KURLA (W), MUMBAI - 400070. Website : https://www.albarkaatmumbai.edu.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130375",
+        "serial_number": "34",
+        "affiliation_and_school_code": "Aff. No. : 1130375 Sch. Code: 30252",
+        "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : AL BARKAAT MALIK MUHAMMAD ISLAM ENGLISH SCHOOL Head/Principal Name: Shamina Irfan Shaikh",
+        "address_and_website": "Address : VINOBA BHAVE NAGAR, KURLA (W), MUMBAI - 400070. Website : https://www.albarkaatmumbai.edu.in",
+        "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+        "Name of Institution": "AL BARKAAT MALIK MUHAMMAD ISLAM ENGLISH SCHOOL",
+        "Affiliation Number": "1130375",
+        "State": "MAHARASHTRA",
+        "District": "MUMBAI",
+        "Postal Address": "VINOBA BHAVE NAGAR, KURLA (W), MUMBAI - 400070.",
+        "Pin Code": "400070",
+        "Website": "https://www.albarkaatmumbai.edu.in",
+        "Year of Foundation": "2006",
+        "Date of First Opening of School": "15 Jun 2006",
+        "Name of Principal/ Head of Institution": "Shamina Irfan Shaikh",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A, B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "13",
+        "Teaching:": "18",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "Rehbar Foundation",
+        "Remarks, if any": null
+    },
+    "links": []
+}

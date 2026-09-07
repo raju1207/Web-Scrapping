@@ -1,0 +1,55 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Mumbai",
+        "state": "MAHARASHTRA",
+        "selected_district": "MUMBAI",
+        "affiliation_number": "1130234",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130234"
+    },
+    "listing_data": {
+        "affiliation_number": "1130234",
+        "listing_raw_columns": [
+            "27",
+            "Aff. No. : 1130234 Sch. Code: 34103",
+            "State : MAHARASHTRA District : MUMBAI",
+            "Secondary Level",
+            "Name : ATOMIC ENERGY CENTRAL SCHOOL NO 6 Head/Principal Name: NEERAJ KUMAR BLAHATIA",
+            "Address : ATOMIC ENERGY CENTRAL SCHOOL NO6, WESTERNSECTOR, ANUSHAKTINAGAR, MUMBAI, 400094 Website : https://www.aecsmum6.ac.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130234",
+        "serial_number": "27",
+        "affiliation_and_school_code": "Aff. No. : 1130234 Sch. Code: 34103",
+        "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : ATOMIC ENERGY CENTRAL SCHOOL NO 6 Head/Principal Name: NEERAJ KUMAR BLAHATIA",
+        "address_and_website": "Address : ATOMIC ENERGY CENTRAL SCHOOL NO6, WESTERNSECTOR, ANUSHAKTINAGAR, MUMBAI, 400094 Website : https://www.aecsmum6.ac.in/",
+        "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+        "Name of Institution": "ATOMIC ENERGY CENTRAL SCHOOL NO 6",
+        "Affiliation Number": "1130234",
+        "State": "MAHARASHTRA",
+        "District": "MUMBAI",
+        "Postal Address": "ATOMIC ENERGY CENTRAL SCHOOL NO6, WESTERNSECTOR, ANUSHAKTINAGAR, MUMBAI, 400094",
+        "Pin Code": "400094",
+        "Website": "https://www.aecsmum6.ac.in/",
+        "Year of Foundation": "2007",
+        "Date of First Opening of School": "13 Jun 2007",
+        "Name of Principal/ Head of Institution": "NEERAJ KUMAR BLAHATIA",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MSC BED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "16",
+        "Teaching:": "25",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "ATOMIC ENERGY EDUCATION SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}
