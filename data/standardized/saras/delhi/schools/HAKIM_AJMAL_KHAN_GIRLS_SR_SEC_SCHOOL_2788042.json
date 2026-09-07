@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2788042",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\HAKIM_AJMAL_KHAN_GIRLS_SR_SEC_SCHOOL_2788042.json"
+  },
+  "school_identity": {
+    "school_name": "HAKIM AJMAL KHAN GIRLS SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2788042",
+    "cbse_school_code": "87024"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "DARYA GANJ BACHO KA GHAR NEW DELHI",
+    "pincode": "110002"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT AIDED",
+    "foundation_year": "1974",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://www.cbseschool.org/hakim-ajmal-khan-girls-sr-sec-sch",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SHABNAM KHANAM",
+    "gender": "Female",
+    "qualification": "M. PHIL",
+    "administrative_experience": "3",
+    "teaching_experience": "18"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2788042",
+    "school_code": "87024",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2021",
+    "affiliation_to": "31/03/2026",
+    "affiliation_period_raw": "From : 01/04/2021 To : 31/03/2026",
+    "trust_society": "dir of education"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2788042",
+      "listing_raw_columns": [
+        "2248",
+        "Aff. No. : 2788042 Sch. Code: 87024",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : HAKIM AJMAL KHAN GIRLS SR SEC SCHOOL Head/Principal Name: SHABNAM KHANAM",
+        "Address : DARYA GANJ BACHO KA GHAR NEW DELHI Website : https://www.cbseschool.org/hakim-ajmal-khan-girls-sr-sec-sch",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2788042",
+      "serial_number": "2248",
+      "affiliation_and_school_code": "Aff. No. : 2788042 Sch. Code: 87024",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : HAKIM AJMAL KHAN GIRLS SR SEC SCHOOL Head/Principal Name: SHABNAM KHANAM",
+      "address_and_website": "Address : DARYA GANJ BACHO KA GHAR NEW DELHI Website : https://www.cbseschool.org/hakim-ajmal-khan-girls-sr-sec-sch"
+    },
+    "school_details": {
+      "Name of Institution": "HAKIM AJMAL KHAN GIRLS SR SEC SCHOOL",
+      "Affiliation Number": "2788042",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "DARYA GANJ BACHO KA GHAR NEW DELHI",
+      "Pin Code": "110002",
+      "Website": "https://www.cbseschool.org/hakim-ajmal-khan-girls-sr-sec-sch",
+      "Year of Foundation": "1974",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "SHABNAM KHANAM",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M. PHIL",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "3",
+      "Teaching:": "18",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT AIDED",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2021 To : 31/03/2026",
+      "Name of Trust/ Society/ Managing Committee": "dir of education",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

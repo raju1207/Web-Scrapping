@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756111",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_BOYS_SR_SEC_SCHOOL_2756111.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT BOYS SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2756111",
+    "cbse_school_code": "87671"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "AMBIKA VIHAR DELHI",
+    "pincode": "110087"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1986",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "DR NARENDRA KUMAR",
+    "gender": "Male",
+    "qualification": "PH.D",
+    "administrative_experience": "12",
+    "teaching_experience": "25"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2756111",
+    "school_code": "87671",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "directate of education"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2756111",
+      "listing_raw_columns": [
+        "1492",
+        "Aff. No. : 2756111 Sch. Code: 87671",
+        "State : DELHI District : WEST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: DR NARENDRA KUMAR",
+        "Address : AMBIKA VIHAR DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756111",
+      "serial_number": "1492",
+      "affiliation_and_school_code": "Aff. No. : 2756111 Sch. Code: 87671",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: DR NARENDRA KUMAR",
+      "address_and_website": "Address : AMBIKA VIHAR DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT BOYS SR SEC SCHOOL",
+      "Affiliation Number": "2756111",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "AMBIKA VIHAR DELHI",
+      "Pin Code": "110087",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "1986",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "DR NARENDRA KUMAR",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "PH.D",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "12",
+      "Teaching:": "25",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "directate of education",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

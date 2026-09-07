@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2758041",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_BOYS_SR_SEC_SCHOOL_(FOR_BLINDS)_2758041.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT BOYS SR SEC SCHOOL (FOR BLINDS)",
+    "udise_code": null,
+    "cbse_affiliation_number": "2758041",
+    "cbse_school_code": "87189"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "GTB NAGAR KINGSWAY CAMP SEWA KUTIR DELHI",
+    "pincode": "110009"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1969",
+    "first_opening_date": "02 Apr 2001",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://socialwelfare.delhi.gov.in/social/govt-senior-second",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Pravin Chandra Tripathi",
+    "gender": "Male",
+    "qualification": "POST GRADUATION AND B.ED",
+    "administrative_experience": "1",
+    "teaching_experience": "13"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2758041",
+    "school_code": "87189",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2009",
+    "affiliation_to": "31/03/2042",
+    "affiliation_period_raw": "From : 01/04/2009 To : 31/03/2042",
+    "trust_society": "DIR. OF EDU"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2758041",
+      "listing_raw_columns": [
+        "1608",
+        "Aff. No. : 2758041 Sch. Code: 87189",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT BOYS SR SEC SCHOOL (FOR BLINDS) Head/Principal Name: Pravin Chandra Tripathi",
+        "Address : GTB NAGAR KINGSWAY CAMP SEWA KUTIR DELHI Website : https://socialwelfare.delhi.gov.in/social/govt-senior-second",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2758041",
+      "serial_number": "1608",
+      "affiliation_and_school_code": "Aff. No. : 2758041 Sch. Code: 87189",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT BOYS SR SEC SCHOOL (FOR BLINDS) Head/Principal Name: Pravin Chandra Tripathi",
+      "address_and_website": "Address : GTB NAGAR KINGSWAY CAMP SEWA KUTIR DELHI Website : https://socialwelfare.delhi.gov.in/social/govt-senior-second"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT BOYS SR SEC SCHOOL (FOR BLINDS)",
+      "Affiliation Number": "2758041",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "GTB NAGAR KINGSWAY CAMP SEWA KUTIR DELHI",
+      "Pin Code": "110009",
+      "Website": "https://socialwelfare.delhi.gov.in/social/govt-senior-second",
+      "Year of Foundation": "1969",
+      "Date of First Opening of School": "02 Apr 2001",
+      "Name of Principal/ Head of Institution": "Pravin Chandra Tripathi",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "POST GRADUATION AND B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "1",
+      "Teaching:": "13",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2009 To : 31/03/2042",
+      "Name of Trust/ Society/ Managing Committee": "DIR. OF EDU",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

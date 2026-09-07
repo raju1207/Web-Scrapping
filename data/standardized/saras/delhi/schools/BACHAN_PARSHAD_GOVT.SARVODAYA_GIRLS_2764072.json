@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764072",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\BACHAN_PARSHAD_GOVT.SARVODAYA_GIRLS_2764072.json"
+  },
+  "school_identity": {
+    "school_name": "BACHAN PARSHAD GOVT.SARVODAYA GIRLS",
+    "udise_code": null,
+    "cbse_affiliation_number": "2764072",
+    "cbse_school_code": "27305"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "SR SEC SCHOOL DEOLI NEW DELHI",
+    "pincode": "110062"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1970",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://www.edudel.nic.in/mis/MisAdmin/frmMisLogin.aspx",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "PRATIBHA SHARMA",
+    "gender": "Female",
+    "qualification": "M PHIL",
+    "administrative_experience": "1",
+    "teaching_experience": "15"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2764072",
+    "school_code": "27305",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2027",
+    "affiliation_to": "31/03/2032",
+    "affiliation_period_raw": "From : 01/04/2027 To : 31/03/2032",
+    "trust_society": "DIRECTORATE OF EDUCATION"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2764072",
+      "listing_raw_columns": [
+        "1875",
+        "Aff. No. : 2764072 Sch. Code: 27305",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : BACHAN PARSHAD GOVT.SARVODAYA GIRLS Head/Principal Name: PRATIBHA SHARMA",
+        "Address : SR SEC SCHOOL DEOLI NEW DELHI Website : https://www.edudel.nic.in/mis/MisAdmin/frmMisLogin.aspx",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764072",
+      "serial_number": "1875",
+      "affiliation_and_school_code": "Aff. No. : 2764072 Sch. Code: 27305",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : BACHAN PARSHAD GOVT.SARVODAYA GIRLS Head/Principal Name: PRATIBHA SHARMA",
+      "address_and_website": "Address : SR SEC SCHOOL DEOLI NEW DELHI Website : https://www.edudel.nic.in/mis/MisAdmin/frmMisLogin.aspx"
+    },
+    "school_details": {
+      "Name of Institution": "BACHAN PARSHAD GOVT.SARVODAYA GIRLS",
+      "Affiliation Number": "2764072",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "SR SEC SCHOOL DEOLI NEW DELHI",
+      "Pin Code": "110062",
+      "Website": "https://www.edudel.nic.in/mis/MisAdmin/frmMisLogin.aspx",
+      "Year of Foundation": "1970",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "PRATIBHA SHARMA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M PHIL",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "1",
+      "Teaching:": "15",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+      "Name of Trust/ Society/ Managing Committee": "DIRECTORATE OF EDUCATION",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

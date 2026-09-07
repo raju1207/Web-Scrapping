@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752099",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_CO-ED_SR._SEC_SCHOOL_2752099.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT CO-ED SR. SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2752099",
+    "cbse_school_code": "27103"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "EAST DELHI",
+    "block": null,
+    "address": "E BLOCK WEST VINOD NAGAR DELHI",
+    "pincode": "110092"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2001",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "HEM CHAND",
+    "gender": "Male",
+    "qualification": "M. COM, B.Ed",
+    "administrative_experience": "8",
+    "teaching_experience": "16"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2752099",
+    "school_code": "27103",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "dir. of education"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2752099",
+      "listing_raw_columns": [
+        "1216",
+        "Aff. No. : 2752099 Sch. Code: 27103",
+        "State : DELHI District : EAST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT CO-ED SR. SEC SCHOOL Head/Principal Name: HEM CHAND",
+        "Address : E BLOCK WEST VINOD NAGAR DELHI Website : www.edudel.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752099",
+      "serial_number": "1216",
+      "affiliation_and_school_code": "Aff. No. : 2752099 Sch. Code: 27103",
+      "state_and_district": "State : DELHI District : EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT CO-ED SR. SEC SCHOOL Head/Principal Name: HEM CHAND",
+      "address_and_website": "Address : E BLOCK WEST VINOD NAGAR DELHI Website : www.edudel.com"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT CO-ED SR. SEC SCHOOL",
+      "Affiliation Number": "2752099",
+      "State": "DELHI",
+      "District": "EAST DELHI",
+      "Postal Address": "E BLOCK WEST VINOD NAGAR DELHI",
+      "Pin Code": "110092",
+      "Website": "www.edudel.com",
+      "Year of Foundation": "2001",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "HEM CHAND",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M. COM, B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "8",
+      "Teaching:": "16",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "dir. of education",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730091",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GURU_HARKRISHAN_PUBLIC_SCHOOL_2730091.json"
+  },
+  "school_identity": {
+    "school_name": "GURU HARKRISHAN PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730091",
+    "cbse_school_code": "85323"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "PUNJABI BAGH, DISTT WEST DELHI, NEW DELHI",
+    "pincode": "110026"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1979",
+    "first_opening_date": "01 Aug 2005",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.ghpspb.edu.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "JASVINDER KAUR",
+    "gender": "Female",
+    "qualification": "M.Sc., B.Ed.",
+    "administrative_experience": "7",
+    "teaching_experience": "27"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730091",
+    "school_code": "85323",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "GURU HARKRISHNAN PUB SCHL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730091",
+      "listing_raw_columns": [
+        "179",
+        "Aff. No. : 2730091 Sch. Code: 85323",
+        "State : DELHI District : WEST DELHI",
+        "Senior Secondary Level",
+        "Name : GURU HARKRISHAN PUBLIC SCHOOL Head/Principal Name: JASVINDER KAUR",
+        "Address : PUNJABI BAGH, DISTT WEST DELHI, NEW DELHI Website : www.ghpspb.edu.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730091",
+      "serial_number": "179",
+      "affiliation_and_school_code": "Aff. No. : 2730091 Sch. Code: 85323",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GURU HARKRISHAN PUBLIC SCHOOL Head/Principal Name: JASVINDER KAUR",
+      "address_and_website": "Address : PUNJABI BAGH, DISTT WEST DELHI, NEW DELHI Website : www.ghpspb.edu.in"
+    },
+    "school_details": {
+      "Name of Institution": "GURU HARKRISHAN PUBLIC SCHOOL",
+      "Affiliation Number": "2730091",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "PUNJABI BAGH, DISTT WEST DELHI, NEW DELHI",
+      "Pin Code": "110026",
+      "Website": "www.ghpspb.edu.in",
+      "Year of Foundation": "1979",
+      "Date of First Opening of School": "01 Aug 2005",
+      "Name of Principal/ Head of Institution": "JASVINDER KAUR",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.Sc., B.Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "7",
+      "Teaching:": "27",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "GURU HARKRISHNAN PUB SCHL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

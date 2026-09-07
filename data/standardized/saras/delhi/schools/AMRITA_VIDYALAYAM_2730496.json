@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730496",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\AMRITA_VIDYALAYAM_2730496.json"
+  },
+  "school_identity": {
+    "school_name": "AMRITA VIDYALAYAM",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730496",
+    "cbse_school_code": "25180"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH DELHI",
+    "block": null,
+    "address": "SECTOR VII PUSHP VIHAR SAKET NEW DELHI",
+    "pincode": "110017"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2004",
+    "first_opening_date": "02 Jun 2008",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://www.avdelhi.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "BRI. SAMAPIKA",
+    "gender": "Female",
+    "qualification": "M.A., B.Ed",
+    "administrative_experience": "13",
+    "teaching_experience": "5"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730496",
+    "school_code": "25180",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "MATA AMRITANAND MATH"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730496",
+      "listing_raw_columns": [
+        "569",
+        "Aff. No. : 2730496 Sch. Code: 25180",
+        "State : DELHI District : SOUTH DELHI",
+        "Senior Secondary Level",
+        "Name : AMRITA VIDYALAYAM Head/Principal Name: BRI. SAMAPIKA",
+        "Address : SECTOR VII PUSHP VIHAR SAKET NEW DELHI Website : https://www.avdelhi.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730496",
+      "serial_number": "569",
+      "affiliation_and_school_code": "Aff. No. : 2730496 Sch. Code: 25180",
+      "state_and_district": "State : DELHI District : SOUTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : AMRITA VIDYALAYAM Head/Principal Name: BRI. SAMAPIKA",
+      "address_and_website": "Address : SECTOR VII PUSHP VIHAR SAKET NEW DELHI Website : https://www.avdelhi.com"
+    },
+    "school_details": {
+      "Name of Institution": "AMRITA VIDYALAYAM",
+      "Affiliation Number": "2730496",
+      "State": "DELHI",
+      "District": "SOUTH DELHI",
+      "Postal Address": "SECTOR VII PUSHP VIHAR SAKET NEW DELHI",
+      "Pin Code": "110017",
+      "Website": "https://www.avdelhi.com",
+      "Year of Foundation": "2004",
+      "Date of First Opening of School": "02 Jun 2008",
+      "Name of Principal/ Head of Institution": "BRI. SAMAPIKA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A., B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "13",
+      "Teaching:": "5",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "MATA AMRITANAND MATH",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

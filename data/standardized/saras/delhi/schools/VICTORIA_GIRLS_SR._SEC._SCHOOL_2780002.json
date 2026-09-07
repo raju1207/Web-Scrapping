@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2780002",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\VICTORIA_GIRLS_SR._SEC._SCHOOL_2780002.json"
+  },
+  "school_identity": {
+    "school_name": "VICTORIA GIRLS SR. SEC. SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2780002",
+    "cbse_school_code": "87160"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH DELHI",
+    "block": null,
+    "address": "6 RAJ PUR ROAD DELHI",
+    "pincode": "110054"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT AIDED",
+    "foundation_year": "1868",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.victoriagirls.school",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "AMITA SINGH",
+    "gender": "Female",
+    "qualification": "M.A., B.ED",
+    "administrative_experience": "1",
+    "teaching_experience": "1"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2780002",
+    "school_code": "87160",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2030",
+    "trust_society": "CNI THROUGH DIOCESE OF DELHI"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2780002",
+      "listing_raw_columns": [
+        "2190",
+        "Aff. No. : 2780002 Sch. Code: 87160",
+        "State : DELHI District : NORTH DELHI",
+        "Senior Secondary Level",
+        "Name : VICTORIA GIRLS SR. SEC. SCHOOL Head/Principal Name: AMITA SINGH",
+        "Address : 6 RAJ PUR ROAD DELHI Website : www.victoriagirls.school",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2780002",
+      "serial_number": "2190",
+      "affiliation_and_school_code": "Aff. No. : 2780002 Sch. Code: 87160",
+      "state_and_district": "State : DELHI District : NORTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : VICTORIA GIRLS SR. SEC. SCHOOL Head/Principal Name: AMITA SINGH",
+      "address_and_website": "Address : 6 RAJ PUR ROAD DELHI Website : www.victoriagirls.school"
+    },
+    "school_details": {
+      "Name of Institution": "VICTORIA GIRLS SR. SEC. SCHOOL",
+      "Affiliation Number": "2780002",
+      "State": "DELHI",
+      "District": "NORTH DELHI",
+      "Postal Address": "6 RAJ PUR ROAD DELHI",
+      "Pin Code": "110054",
+      "Website": "www.victoriagirls.school",
+      "Year of Foundation": "1868",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "AMITA SINGH",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A., B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "1",
+      "Teaching:": "1",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT AIDED",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "CNI THROUGH DIOCESE OF DELHI",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

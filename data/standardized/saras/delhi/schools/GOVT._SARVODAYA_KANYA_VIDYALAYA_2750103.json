@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750103",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT._SARVODAYA_KANYA_VIDYALAYA_2750103.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT. SARVODAYA KANYA VIDYALAYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2750103",
+    "cbse_school_code": "87487"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "SECTOR-16 ROHINI DELHI",
+    "pincode": "110085"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1992",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "BHAVNA",
+    "gender": "Female",
+    "qualification": "POST GRADUATION",
+    "administrative_experience": "0",
+    "teaching_experience": "0"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2750103",
+    "school_code": "87487",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "DIR. OF EDUCATION"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2750103",
+      "listing_raw_columns": [
+        "1051",
+        "Aff. No. : 2750103 Sch. Code: 87487",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT. SARVODAYA KANYA VIDYALAYA Head/Principal Name: BHAVNA",
+        "Address : SECTOR-16 ROHINI DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750103",
+      "serial_number": "1051",
+      "affiliation_and_school_code": "Aff. No. : 2750103 Sch. Code: 87487",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT. SARVODAYA KANYA VIDYALAYA Head/Principal Name: BHAVNA",
+      "address_and_website": "Address : SECTOR-16 ROHINI DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT. SARVODAYA KANYA VIDYALAYA",
+      "Affiliation Number": "2750103",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "SECTOR-16 ROHINI DELHI",
+      "Pin Code": "110085",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "1992",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "BHAVNA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "POST GRADUATION",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "0",
+      "Teaching:": "0",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "DIR. OF EDUCATION",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

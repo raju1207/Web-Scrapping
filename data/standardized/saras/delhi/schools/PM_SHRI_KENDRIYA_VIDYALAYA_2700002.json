@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700002",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\PM_SHRI_KENDRIYA_VIDYALAYA_2700002.json"
+  },
+  "school_identity": {
+    "school_name": "PM SHRI KENDRIYA VIDYALAYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2700002",
+    "cbse_school_code": "29013"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "SECTOR II R K PURAM NEW DELHI",
+    "pincode": "110022"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "KV",
+    "foundation_year": "1964",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://rkpuramsec2.kvs.ac.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SATYA NARAIN",
+    "gender": "Male",
+    "qualification": "M.Sc B.Ed",
+    "administrative_experience": "10",
+    "teaching_experience": "22"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2700002",
+    "school_code": "29013",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "K V SANGATHAN N.D."
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2700002",
+      "listing_raw_columns": [
+        "2",
+        "Aff. No. : 2700002 Sch. Code: 29013",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: SATYA NARAIN",
+        "Address : SECTOR II R K PURAM NEW DELHI Website : https://rkpuramsec2.kvs.ac.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700002",
+      "serial_number": "2",
+      "affiliation_and_school_code": "Aff. No. : 2700002 Sch. Code: 29013",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: SATYA NARAIN",
+      "address_and_website": "Address : SECTOR II R K PURAM NEW DELHI Website : https://rkpuramsec2.kvs.ac.in/"
+    },
+    "school_details": {
+      "Name of Institution": "PM SHRI KENDRIYA VIDYALAYA",
+      "Affiliation Number": "2700002",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "SECTOR II R K PURAM NEW DELHI",
+      "Pin Code": "110022",
+      "Website": "https://rkpuramsec2.kvs.ac.in/",
+      "Year of Foundation": "1964",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "SATYA NARAIN",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.Sc B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "10",
+      "Teaching:": "22",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "KV",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "K V SANGATHAN N.D.",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

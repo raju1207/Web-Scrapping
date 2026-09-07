@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730433",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\RAJINDRA_PUBLIC_SCHOOL_2730433.json"
+  },
+  "school_identity": {
+    "school_name": "RAJINDRA PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730433",
+    "cbse_school_code": "85379"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "NIHAL VIHAR NANGLOI DELHI",
+    "pincode": "110041"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1997",
+    "first_opening_date": "01 Apr 2005",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.rajindrapublicschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "MANISHA",
+    "gender": "Female",
+    "qualification": "M.A M.ED",
+    "administrative_experience": "24",
+    "teaching_experience": "25"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730433",
+    "school_code": "85379",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2030",
+    "trust_society": "SUKHODAYA EDUCATIONAL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730433",
+      "listing_raw_columns": [
+        "507",
+        "Aff. No. : 2730433 Sch. Code: 85379",
+        "State : DELHI District : WEST DELHI",
+        "Secondary Level",
+        "Name : RAJINDRA PUBLIC SCHOOL Head/Principal Name: MANISHA",
+        "Address : NIHAL VIHAR NANGLOI DELHI Website : www.rajindrapublicschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730433",
+      "serial_number": "507",
+      "affiliation_and_school_code": "Aff. No. : 2730433 Sch. Code: 85379",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : RAJINDRA PUBLIC SCHOOL Head/Principal Name: MANISHA",
+      "address_and_website": "Address : NIHAL VIHAR NANGLOI DELHI Website : www.rajindrapublicschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "RAJINDRA PUBLIC SCHOOL",
+      "Affiliation Number": "2730433",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "NIHAL VIHAR NANGLOI DELHI",
+      "Pin Code": "110041",
+      "Website": "www.rajindrapublicschool.com",
+      "Year of Foundation": "1997",
+      "Date of First Opening of School": "01 Apr 2005",
+      "Name of Principal/ Head of Institution": "MANISHA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A M.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "24",
+      "Teaching:": "25",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "SUKHODAYA EDUCATIONAL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

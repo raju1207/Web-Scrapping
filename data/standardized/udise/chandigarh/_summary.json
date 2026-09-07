@@ -1,0 +1,9 @@
+{
+  "source": "UDISE+",
+  "location": "Chandigarh",
+  "raw_files_found": 229,
+  "standardized_records": 229,
+  "failed_records": 0,
+  "schema": "canonical_school_schema_v1",
+  "output_folder": "data\\standardized\\udise\\chandigarh"
+}

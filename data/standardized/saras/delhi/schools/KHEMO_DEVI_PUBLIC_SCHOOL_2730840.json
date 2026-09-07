@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730840",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\KHEMO_DEVI_PUBLIC_SCHOOL_2730840.json"
+  },
+  "school_identity": {
+    "school_name": "KHEMO DEVI PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730840",
+    "cbse_school_code": "85506"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "KHASRA NO. 33/4, STREET NO SAFIABAD ROAD, VILLAGE NEAR BHARAT GAS AGENCY, NARELA, DELHI-110040",
+    "pincode": "110040"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2006",
+    "first_opening_date": "01 Apr 2016",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.khemodevipublicschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "REKHA GUPTA",
+    "gender": "Male",
+    "qualification": "MA,BED",
+    "administrative_experience": "5",
+    "teaching_experience": "7"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730840",
+    "school_code": "85506",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "The Trinetra Deva Society For Educational Research, Cultural & Social Upliftment"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730840",
+      "listing_raw_columns": [
+        "900",
+        "Aff. No. : 2730840 Sch. Code: 85506",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Secondary Level",
+        "Name : KHEMO DEVI PUBLIC SCHOOL Head/Principal Name: REKHA GUPTA",
+        "Address : KHASRA NO. 33/4, STREET NO SAFIABAD ROAD, VILLAGE NEAR BHARAT GAS AGENCY, NARELA, DELHI-110040 Website : www.khemodevipublicschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730840",
+      "serial_number": "900",
+      "affiliation_and_school_code": "Aff. No. : 2730840 Sch. Code: 85506",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : KHEMO DEVI PUBLIC SCHOOL Head/Principal Name: REKHA GUPTA",
+      "address_and_website": "Address : KHASRA NO. 33/4, STREET NO SAFIABAD ROAD, VILLAGE NEAR BHARAT GAS AGENCY, NARELA, DELHI-110040 Website : www.khemodevipublicschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "KHEMO DEVI PUBLIC SCHOOL",
+      "Affiliation Number": "2730840",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "KHASRA NO. 33/4, STREET NO SAFIABAD ROAD, VILLAGE NEAR BHARAT GAS AGENCY, NARELA, DELHI-110040",
+      "Pin Code": "110040",
+      "Website": "www.khemodevipublicschool.com",
+      "Year of Foundation": "2006",
+      "Date of First Opening of School": "01 Apr 2016",
+      "Name of Principal/ Head of Institution": "REKHA GUPTA",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "MA,BED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "5",
+      "Teaching:": "7",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "The Trinetra Deva Society For Educational Research, Cultural & Social Upliftment",
+      "Remarks, if any": "Affiliated to secondary level till outcome of the findings of the Inspection Committee in compliance of the Hon'ble High Court of Delhi in WPC No. 4852/2025"
+    },
+    "links": []
+  }
+}

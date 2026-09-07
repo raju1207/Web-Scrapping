@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730799",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\ROCKFIELD_PUBLIC_SCHOOL_2730799.json"
+  },
+  "school_identity": {
+    "school_name": "ROCKFIELD PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730799",
+    "cbse_school_code": "85250"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "BLOCK-A, SECTOR-16, ROHINI, DELHI",
+    "pincode": "110089"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1992",
+    "first_opening_date": "01 Apr 1992",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.rockfieldschool.net",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "ALKA SRIVASTAVA",
+    "gender": "Female",
+    "qualification": "M.A B.ED",
+    "administrative_experience": "7",
+    "teaching_experience": "24"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730799",
+    "school_code": "85250",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "ROCKFIELD EDUCATION SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730799",
+      "listing_raw_columns": [
+        "863",
+        "Aff. No. : 2730799 Sch. Code: 85250",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : ROCKFIELD PUBLIC SCHOOL Head/Principal Name: ALKA SRIVASTAVA",
+        "Address : BLOCK-A, SECTOR-16, ROHINI, DELHI Website : www.rockfieldschool.net",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730799",
+      "serial_number": "863",
+      "affiliation_and_school_code": "Aff. No. : 2730799 Sch. Code: 85250",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : ROCKFIELD PUBLIC SCHOOL Head/Principal Name: ALKA SRIVASTAVA",
+      "address_and_website": "Address : BLOCK-A, SECTOR-16, ROHINI, DELHI Website : www.rockfieldschool.net"
+    },
+    "school_details": {
+      "Name of Institution": "ROCKFIELD PUBLIC SCHOOL",
+      "Affiliation Number": "2730799",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "BLOCK-A, SECTOR-16, ROHINI, DELHI",
+      "Pin Code": "110089",
+      "Website": "www.rockfieldschool.net",
+      "Year of Foundation": "1992",
+      "Date of First Opening of School": "01 Apr 1992",
+      "Name of Principal/ Head of Institution": "ALKA SRIVASTAVA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "7",
+      "Teaching:": "24",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "ROCKFIELD EDUCATION SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730434",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GREEN_VIEW_PUBLIC_SCHOOL_2730434.json"
+  },
+  "school_identity": {
+    "school_name": "GREEN VIEW PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730434",
+    "cbse_school_code": "25343"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "DWARKA VIHAR KAKROLA ROAD NAJAFGARH NEW DELHI",
+    "pincode": "110018"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2003",
+    "first_opening_date": "12 Jul 2005",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.greenviewpublicschool.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SANJAY PUNDHIR",
+    "gender": "Male",
+    "qualification": "M.SC, B.ED",
+    "administrative_experience": "7",
+    "teaching_experience": "27"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730434",
+    "school_code": "25343",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "DABAS EDUCATION SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730434",
+      "listing_raw_columns": [
+        "508",
+        "Aff. No. : 2730434 Sch. Code: 25343",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : GREEN VIEW PUBLIC SCHOOL Head/Principal Name: SANJAY PUNDHIR",
+        "Address : DWARKA VIHAR KAKROLA ROAD NAJAFGARH NEW DELHI Website : www.greenviewpublicschool.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730434",
+      "serial_number": "508",
+      "affiliation_and_school_code": "Aff. No. : 2730434 Sch. Code: 25343",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GREEN VIEW PUBLIC SCHOOL Head/Principal Name: SANJAY PUNDHIR",
+      "address_and_website": "Address : DWARKA VIHAR KAKROLA ROAD NAJAFGARH NEW DELHI Website : www.greenviewpublicschool.in"
+    },
+    "school_details": {
+      "Name of Institution": "GREEN VIEW PUBLIC SCHOOL",
+      "Affiliation Number": "2730434",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "DWARKA VIHAR KAKROLA ROAD NAJAFGARH NEW DELHI",
+      "Pin Code": "110018",
+      "Website": "www.greenviewpublicschool.in",
+      "Year of Foundation": "2003",
+      "Date of First Opening of School": "12 Jul 2005",
+      "Name of Principal/ Head of Institution": "SANJAY PUNDHIR",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.SC, B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "7",
+      "Teaching:": "27",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "DABAS EDUCATION SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

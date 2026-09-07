@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752025",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_SARVODAYA_BOYS_SR_SEC_SCH_NO_1_2752025.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT SARVODAYA BOYS SR SEC SCH NO 1",
+    "udise_code": null,
+    "cbse_affiliation_number": "2752025",
+    "cbse_school_code": "27023"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "EAST DELHI",
+    "block": null,
+    "address": "JHEEL KHURANJA DELHI",
+    "pincode": "110031"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1964",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "DEEN DYAL",
+    "gender": "Male",
+    "qualification": "M.A Economics, M.Ed.",
+    "administrative_experience": "1",
+    "teaching_experience": "10"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2752025",
+    "school_code": "27023",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2031",
+    "trust_society": "DTE OF EDN DELHI ADMN DELHI"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2752025",
+      "listing_raw_columns": [
+        "1148",
+        "Aff. No. : 2752025 Sch. Code: 27023",
+        "State : DELHI District : EAST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT SARVODAYA BOYS SR SEC SCH NO 1 Head/Principal Name: DEEN DYAL",
+        "Address : JHEEL KHURANJA DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752025",
+      "serial_number": "1148",
+      "affiliation_and_school_code": "Aff. No. : 2752025 Sch. Code: 27023",
+      "state_and_district": "State : DELHI District : EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT SARVODAYA BOYS SR SEC SCH NO 1 Head/Principal Name: DEEN DYAL",
+      "address_and_website": "Address : JHEEL KHURANJA DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT SARVODAYA BOYS SR SEC SCH NO 1",
+      "Affiliation Number": "2752025",
+      "State": "DELHI",
+      "District": "EAST DELHI",
+      "Postal Address": "JHEEL KHURANJA DELHI",
+      "Pin Code": "110031",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "1964",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "DEEN DYAL",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.A Economics, M.Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "1",
+      "Teaching:": "10",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "DTE OF EDN DELHI ADMN DELHI",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2788026",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\S_S_K_KHALSA_GIRLS_SR_SEC_SCHOOL_2788026.json"
+  },
+  "school_identity": {
+    "school_name": "S S K KHALSA GIRLS SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2788026",
+    "cbse_school_code": "87018"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "CENTRAL DELHI",
+    "block": null,
+    "address": "DARYA GANJ NEW DELHI",
+    "pincode": "110002"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT AIDED",
+    "foundation_year": "1946",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.sskkhalsaschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "HARITIMA",
+    "gender": "Female",
+    "qualification": "MA HINDI B ED",
+    "administrative_experience": "04",
+    "teaching_experience": "27"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2788026",
+    "school_code": "87018",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "GURU NANAK VIDYA BHANDAR TRUST"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2788026",
+      "listing_raw_columns": [
+        "2234",
+        "Aff. No. : 2788026 Sch. Code: 87018",
+        "State : DELHI District : CENTRAL DELHI",
+        "Senior Secondary Level",
+        "Name : S S K KHALSA GIRLS SR SEC SCHOOL Head/Principal Name: HARITIMA",
+        "Address : DARYA GANJ NEW DELHI Website : www.sskkhalsaschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2788026",
+      "serial_number": "2234",
+      "affiliation_and_school_code": "Aff. No. : 2788026 Sch. Code: 87018",
+      "state_and_district": "State : DELHI District : CENTRAL DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : S S K KHALSA GIRLS SR SEC SCHOOL Head/Principal Name: HARITIMA",
+      "address_and_website": "Address : DARYA GANJ NEW DELHI Website : www.sskkhalsaschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "S S K KHALSA GIRLS SR SEC SCHOOL",
+      "Affiliation Number": "2788026",
+      "State": "DELHI",
+      "District": "CENTRAL DELHI",
+      "Postal Address": "DARYA GANJ NEW DELHI",
+      "Pin Code": "110002",
+      "Website": "www.sskkhalsaschool.com",
+      "Year of Foundation": "1946",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "HARITIMA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA HINDI B ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "04",
+      "Teaching:": "27",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT AIDED",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "GURU NANAK VIDYA BHANDAR TRUST",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

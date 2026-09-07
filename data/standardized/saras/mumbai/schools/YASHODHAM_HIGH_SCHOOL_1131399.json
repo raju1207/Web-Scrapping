@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131399",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\YASHODHAM_HIGH_SCHOOL_1131399.json"
+  },
+  "school_identity": {
+    "school_name": "YASHODHAM HIGH SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "1131399",
+    "cbse_school_code": "31388"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI SUBURBAN",
+    "block": null,
+    "address": "GEN. A. K. VAIDYA MARG, YASHODHAM , GOREGAON EAST",
+    "pincode": "400063"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1987",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "http://yhs.edu.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "MEENAKSHI DEEPAK MANCHANDA",
+    "gender": "Female",
+    "qualification": "M.Com., M.A., B.Ed",
+    "administrative_experience": "2",
+    "teaching_experience": "25"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1131399",
+    "school_code": "31388",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "GOENKA AND ASSOCIATES EDUCATIONAL TRUST"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1131399",
+      "listing_raw_columns": [
+        "19",
+        "Aff. No. : 1131399 Sch. Code: 31388",
+        "State : MAHARASHTRA District : MUMBAI SUBURBAN",
+        "Secondary Level",
+        "Name : YASHODHAM HIGH SCHOOL Head/Principal Name: MEENAKSHI DEEPAK MANCHANDA",
+        "Address : GEN. A. K. VAIDYA MARG, YASHODHAM , GOREGAON EAST Website : http://yhs.edu.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131399",
+      "serial_number": "19",
+      "affiliation_and_school_code": "Aff. No. : 1131399 Sch. Code: 31388",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI SUBURBAN",
+      "status": "Secondary Level",
+      "school_and_head": "Name : YASHODHAM HIGH SCHOOL Head/Principal Name: MEENAKSHI DEEPAK MANCHANDA",
+      "address_and_website": "Address : GEN. A. K. VAIDYA MARG, YASHODHAM , GOREGAON EAST Website : http://yhs.edu.in",
+      "saras_selected_district": "MUMBAI SUBURBAN"
+    },
+    "school_details": {
+      "Name of Institution": "YASHODHAM HIGH SCHOOL",
+      "Affiliation Number": "1131399",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI SUBURBAN",
+      "Postal Address": "GEN. A. K. VAIDYA MARG, YASHODHAM , GOREGAON EAST",
+      "Pin Code": "400063",
+      "Website": "http://yhs.edu.in",
+      "Year of Foundation": "1987",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "MEENAKSHI DEEPAK MANCHANDA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.Com., M.A., B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "2",
+      "Teaching:": "25",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "GOENKA AND ASSOCIATES EDUCATIONAL TRUST",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

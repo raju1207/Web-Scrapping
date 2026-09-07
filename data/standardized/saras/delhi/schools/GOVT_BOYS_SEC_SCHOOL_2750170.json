@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750170",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_BOYS_SEC_SCHOOL_2750170.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT BOYS SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2750170",
+    "cbse_school_code": "87136"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH DELHI",
+    "block": null,
+    "address": "JAGAT PUR, DELHI",
+    "pincode": "110084"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2014",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "RAJENDRA KUMAR",
+    "gender": "Male",
+    "qualification": "Post Graducation",
+    "administrative_experience": "8",
+    "teaching_experience": "22"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2750170",
+    "school_code": "87136",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "dir . of education"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2750170",
+      "listing_raw_columns": [
+        "1117",
+        "Aff. No. : 2750170 Sch. Code: 87136",
+        "State : DELHI District : NORTH DELHI",
+        "Secondary Level",
+        "Name : GOVT BOYS SEC SCHOOL Head/Principal Name: RAJENDRA KUMAR",
+        "Address : JAGAT PUR, DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750170",
+      "serial_number": "1117",
+      "affiliation_and_school_code": "Aff. No. : 2750170 Sch. Code: 87136",
+      "state_and_district": "State : DELHI District : NORTH DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : GOVT BOYS SEC SCHOOL Head/Principal Name: RAJENDRA KUMAR",
+      "address_and_website": "Address : JAGAT PUR, DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT BOYS SEC SCHOOL",
+      "Affiliation Number": "2750170",
+      "State": "DELHI",
+      "District": "NORTH DELHI",
+      "Postal Address": "JAGAT PUR, DELHI",
+      "Pin Code": "110084",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "2014",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "RAJENDRA KUMAR",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "Post Graducation",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "8",
+      "Teaching:": "22",
+      "Status of The School": "Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "dir . of education",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

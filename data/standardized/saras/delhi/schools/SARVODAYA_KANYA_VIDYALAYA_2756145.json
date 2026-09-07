@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756145",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SARVODAYA_KANYA_VIDYALAYA_2756145.json"
+  },
+  "school_identity": {
+    "school_name": "SARVODAYA KANYA VIDYALAYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2756145",
+    "cbse_school_code": "27525"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "DEENDARPUR NEW DELHI",
+    "pincode": "110043"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2003",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "school1822176@gmail.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SUNIL YADAV",
+    "gender": "Female",
+    "qualification": "M.SC/M.ED",
+    "administrative_experience": "2",
+    "teaching_experience": "2"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2756145",
+    "school_code": "27525",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "DIRECTORATE OF EDUCATION"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2756145",
+      "listing_raw_columns": [
+        "1525",
+        "Aff. No. : 2756145 Sch. Code: 27525",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : SARVODAYA KANYA VIDYALAYA Head/Principal Name: SUNIL YADAV",
+        "Address : DEENDARPUR NEW DELHI Website : school1822176@gmail.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756145",
+      "serial_number": "1525",
+      "affiliation_and_school_code": "Aff. No. : 2756145 Sch. Code: 27525",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SARVODAYA KANYA VIDYALAYA Head/Principal Name: SUNIL YADAV",
+      "address_and_website": "Address : DEENDARPUR NEW DELHI Website : school1822176@gmail.com"
+    },
+    "school_details": {
+      "Name of Institution": "SARVODAYA KANYA VIDYALAYA",
+      "Affiliation Number": "2756145",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "DEENDARPUR NEW DELHI",
+      "Pin Code": "110043",
+      "Website": "school1822176@gmail.com",
+      "Year of Foundation": "2003",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "SUNIL YADAV",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.SC/M.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "2",
+      "Teaching:": "2",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "DIRECTORATE OF EDUCATION",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

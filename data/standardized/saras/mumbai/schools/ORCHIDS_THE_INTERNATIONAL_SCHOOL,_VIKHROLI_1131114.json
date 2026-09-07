@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131114",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\ORCHIDS_THE_INTERNATIONAL_SCHOOL,_VIKHROLI_1131114.json"
+  },
+  "school_identity": {
+    "school_name": "ORCHIDS THE INTERNATIONAL SCHOOL, VIKHROLI",
+    "udise_code": null,
+    "cbse_affiliation_number": "1131114",
+    "cbse_school_code": "31099"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "block": null,
+    "address": "4-83, SM MANDIR MARG, RAJIV GANDHI NAGAR , VIKHROLI EAST, MUMBAI , MAHARASHTRA - 400083",
+    "pincode": "400083"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2018",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.orchidsinternationalschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Mou Jangid Bhattacharya",
+    "gender": "Female",
+    "qualification": "M. Ed",
+    "administrative_experience": "17",
+    "teaching_experience": "20"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1131114",
+    "school_code": "31099",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "Barister Nath Pai shikshan Prasarak Mandal"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1131114",
+      "listing_raw_columns": [
+        "58",
+        "Aff. No. : 1131114 Sch. Code: 31099",
+        "State : MAHARASHTRA District : MUMBAI",
+        "Secondary Level",
+        "Name : ORCHIDS THE INTERNATIONAL SCHOOL, VIKHROLI Head/Principal Name: Mou Jangid Bhattacharya",
+        "Address : 4-83, SM MANDIR MARG, RAJIV GANDHI NAGAR , VIKHROLI EAST, MUMBAI , MAHARASHTRA - 400083 Website : www.orchidsinternationalschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131114",
+      "serial_number": "58",
+      "affiliation_and_school_code": "Aff. No. : 1131114 Sch. Code: 31099",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : ORCHIDS THE INTERNATIONAL SCHOOL, VIKHROLI Head/Principal Name: Mou Jangid Bhattacharya",
+      "address_and_website": "Address : 4-83, SM MANDIR MARG, RAJIV GANDHI NAGAR , VIKHROLI EAST, MUMBAI , MAHARASHTRA - 400083 Website : www.orchidsinternationalschool.com",
+      "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+      "Name of Institution": "ORCHIDS THE INTERNATIONAL SCHOOL, VIKHROLI",
+      "Affiliation Number": "1131114",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI",
+      "Postal Address": "4-83, SM MANDIR MARG, RAJIV GANDHI NAGAR , VIKHROLI EAST, MUMBAI , MAHARASHTRA - 400083",
+      "Pin Code": "400083",
+      "Website": "www.orchidsinternationalschool.com",
+      "Year of Foundation": "2018",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "Mou Jangid Bhattacharya",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M. Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "17",
+      "Teaching:": "20",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "Barister Nath Pai shikshan Prasarak Mandal",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

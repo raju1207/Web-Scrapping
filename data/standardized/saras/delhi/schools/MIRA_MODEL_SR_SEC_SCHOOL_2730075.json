@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730075",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\MIRA_MODEL_SR_SEC_SCHOOL_2730075.json"
+  },
+  "school_identity": {
+    "school_name": "MIRA MODEL SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730075",
+    "cbse_school_code": "85299"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "B-BLOCK JANAK PURI NEW DELHI",
+    "pincode": "110058"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1972",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.miramodelschooldelhi.edu.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "MEENAKSHI SANT",
+    "gender": "Female",
+    "qualification": "MA/B.Ed/ UGC NET QUALIFIED",
+    "administrative_experience": "2",
+    "teaching_experience": "31"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730075",
+    "school_code": "85299",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2019",
+    "affiliation_to": "31/03/2032",
+    "affiliation_period_raw": "From : 01/04/2019 To : 31/03/2032",
+    "trust_society": "OBEROI EDUCATION SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730075",
+      "listing_raw_columns": [
+        "163",
+        "Aff. No. : 2730075 Sch. Code: 85299",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : MIRA MODEL SR SEC SCHOOL Head/Principal Name: MEENAKSHI SANT",
+        "Address : B-BLOCK JANAK PURI NEW DELHI Website : www.miramodelschooldelhi.edu.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730075",
+      "serial_number": "163",
+      "affiliation_and_school_code": "Aff. No. : 2730075 Sch. Code: 85299",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : MIRA MODEL SR SEC SCHOOL Head/Principal Name: MEENAKSHI SANT",
+      "address_and_website": "Address : B-BLOCK JANAK PURI NEW DELHI Website : www.miramodelschooldelhi.edu.in"
+    },
+    "school_details": {
+      "Name of Institution": "MIRA MODEL SR SEC SCHOOL",
+      "Affiliation Number": "2730075",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "B-BLOCK JANAK PURI NEW DELHI",
+      "Pin Code": "110058",
+      "Website": "www.miramodelschooldelhi.edu.in",
+      "Year of Foundation": "1972",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "MEENAKSHI SANT",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA/B.Ed/ UGC NET QUALIFIED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "2",
+      "Teaching:": "31",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2019 To : 31/03/2032",
+      "Name of Trust/ Society/ Managing Committee": "OBEROI EDUCATION SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

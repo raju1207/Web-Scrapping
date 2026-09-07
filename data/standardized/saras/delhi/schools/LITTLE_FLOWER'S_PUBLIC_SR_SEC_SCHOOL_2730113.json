@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730113",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\LITTLE_FLOWER'S_PUBLIC_SR_SEC_SCHOOL_2730113.json"
+  },
+  "school_identity": {
+    "school_name": "LITTLE FLOWER'S PUBLIC SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730113",
+    "cbse_school_code": "25110"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SHAHDARA",
+    "block": null,
+    "address": "SHIVAJI PARK BABARPUR ROAD SHAHDARA DELHI",
+    "pincode": "110032"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1975",
+    "first_opening_date": "21 Mar 2008",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.lfpsdelhi.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "NEETA DUA",
+    "gender": "Female",
+    "qualification": "M A History, Economics B.Ed",
+    "administrative_experience": "24",
+    "teaching_experience": "38"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730113",
+    "school_code": "25110",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "LITTLE FLOWERS EDU. SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730113",
+      "listing_raw_columns": [
+        "201",
+        "Aff. No. : 2730113 Sch. Code: 25110",
+        "State : DELHI District : SHAHDARA",
+        "Senior Secondary Level",
+        "Name : LITTLE FLOWER'S PUBLIC SR SEC SCHOOL Head/Principal Name: NEETA DUA",
+        "Address : SHIVAJI PARK BABARPUR ROAD SHAHDARA DELHI Website : www.lfpsdelhi.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730113",
+      "serial_number": "201",
+      "affiliation_and_school_code": "Aff. No. : 2730113 Sch. Code: 25110",
+      "state_and_district": "State : DELHI District : SHAHDARA",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : LITTLE FLOWER'S PUBLIC SR SEC SCHOOL Head/Principal Name: NEETA DUA",
+      "address_and_website": "Address : SHIVAJI PARK BABARPUR ROAD SHAHDARA DELHI Website : www.lfpsdelhi.com"
+    },
+    "school_details": {
+      "Name of Institution": "LITTLE FLOWER'S PUBLIC SR SEC SCHOOL",
+      "Affiliation Number": "2730113",
+      "State": "DELHI",
+      "District": "SHAHDARA",
+      "Postal Address": "SHIVAJI PARK BABARPUR ROAD SHAHDARA DELHI",
+      "Pin Code": "110032",
+      "Website": "www.lfpsdelhi.com",
+      "Year of Foundation": "1975",
+      "Date of First Opening of School": "21 Mar 2008",
+      "Name of Principal/ Head of Institution": "NEETA DUA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M A History, Economics B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "24",
+      "Teaching:": "38",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "LITTLE FLOWERS EDU. SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

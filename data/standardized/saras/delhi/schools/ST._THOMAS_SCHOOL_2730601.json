@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730601",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\ST._THOMAS_SCHOOL_2730601.json"
+  },
+  "school_identity": {
+    "school_name": "ST. THOMAS SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730601",
+    "cbse_school_code": "25292"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "27/9, GOYALA VIHAR, VILLAGE GOYALA, DWARKA,",
+    "pincode": "110043"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2006",
+    "first_opening_date": "01 Apr 2003",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.stthomasdwarka.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "MENEKA ISHWINDER SINGH",
+    "gender": "Female",
+    "qualification": "M.Sc. B.Ed.",
+    "administrative_experience": "19",
+    "teaching_experience": "23"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730601",
+    "school_code": "25292",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "DHANPATI EDUCATION SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730601",
+      "listing_raw_columns": [
+        "671",
+        "Aff. No. : 2730601 Sch. Code: 25292",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : ST. THOMAS SCHOOL Head/Principal Name: MENEKA ISHWINDER SINGH",
+        "Address : 27/9, GOYALA VIHAR, VILLAGE GOYALA, DWARKA, Website : www.stthomasdwarka.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730601",
+      "serial_number": "671",
+      "affiliation_and_school_code": "Aff. No. : 2730601 Sch. Code: 25292",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : ST. THOMAS SCHOOL Head/Principal Name: MENEKA ISHWINDER SINGH",
+      "address_and_website": "Address : 27/9, GOYALA VIHAR, VILLAGE GOYALA, DWARKA, Website : www.stthomasdwarka.com"
+    },
+    "school_details": {
+      "Name of Institution": "ST. THOMAS SCHOOL",
+      "Affiliation Number": "2730601",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "27/9, GOYALA VIHAR, VILLAGE GOYALA, DWARKA,",
+      "Pin Code": "110043",
+      "Website": "www.stthomasdwarka.com",
+      "Year of Foundation": "2006",
+      "Date of First Opening of School": "01 Apr 2003",
+      "Name of Principal/ Head of Institution": "MENEKA ISHWINDER SINGH",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.Sc. B.Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "19",
+      "Teaching:": "23",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "DHANPATI EDUCATION SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

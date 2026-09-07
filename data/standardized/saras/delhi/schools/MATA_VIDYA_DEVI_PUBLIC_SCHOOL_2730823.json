@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730823",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\MATA_VIDYA_DEVI_PUBLIC_SCHOOL_2730823.json"
+  },
+  "school_identity": {
+    "school_name": "MATA VIDYA DEVI PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730823",
+    "cbse_school_code": "25419"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "C-198, PREM NAGAR, NAJAFGARH, NEW DELHI -110043",
+    "pincode": "110043"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2013",
+    "first_opening_date": "01 Apr 2006",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.mvdschool.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "ANJU DALAL",
+    "gender": "Female",
+    "qualification": "M.SC , B.ED",
+    "administrative_experience": "4",
+    "teaching_experience": "6"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730823",
+    "school_code": "25419",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "MAA VIDYA DEVI EDUCATIONAL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730823",
+      "listing_raw_columns": [
+        "883",
+        "Aff. No. : 2730823 Sch. Code: 25419",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : MATA VIDYA DEVI PUBLIC SCHOOL Head/Principal Name: ANJU DALAL",
+        "Address : C-198, PREM NAGAR, NAJAFGARH, NEW DELHI -110043 Website : www.mvdschool.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730823",
+      "serial_number": "883",
+      "affiliation_and_school_code": "Aff. No. : 2730823 Sch. Code: 25419",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : MATA VIDYA DEVI PUBLIC SCHOOL Head/Principal Name: ANJU DALAL",
+      "address_and_website": "Address : C-198, PREM NAGAR, NAJAFGARH, NEW DELHI -110043 Website : www.mvdschool.in"
+    },
+    "school_details": {
+      "Name of Institution": "MATA VIDYA DEVI PUBLIC SCHOOL",
+      "Affiliation Number": "2730823",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "C-198, PREM NAGAR, NAJAFGARH, NEW DELHI -110043",
+      "Pin Code": "110043",
+      "Website": "www.mvdschool.in",
+      "Year of Foundation": "2013",
+      "Date of First Opening of School": "01 Apr 2006",
+      "Name of Principal/ Head of Institution": "ANJU DALAL",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.SC , B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "4",
+      "Teaching:": "6",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "MAA VIDYA DEVI EDUCATIONAL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

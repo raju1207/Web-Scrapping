@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730174",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\BOSCO_PUBLIC_SCHOOL_2730174.json"
+  },
+  "school_identity": {
+    "school_name": "BOSCO PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730174",
+    "cbse_school_code": "85398"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "SUNDER VIHAR PASCHIM VIHAR NEW DELHI",
+    "pincode": "110041"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1985",
+    "first_opening_date": "09 Jul 2003",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.boscoschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "RAJU DUGGAL",
+    "gender": "Male",
+    "qualification": "B.A B.ED MA ECONOMICS",
+    "administrative_experience": "14",
+    "teaching_experience": "18"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730174",
+    "school_code": "85398",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "INDIRA ADARSH SHIKSHA SAMITI"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730174",
+      "listing_raw_columns": [
+        "262",
+        "Aff. No. : 2730174 Sch. Code: 85398",
+        "State : DELHI District : WEST DELHI",
+        "Senior Secondary Level",
+        "Name : BOSCO PUBLIC SCHOOL Head/Principal Name: RAJU DUGGAL",
+        "Address : SUNDER VIHAR PASCHIM VIHAR NEW DELHI Website : www.boscoschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730174",
+      "serial_number": "262",
+      "affiliation_and_school_code": "Aff. No. : 2730174 Sch. Code: 85398",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : BOSCO PUBLIC SCHOOL Head/Principal Name: RAJU DUGGAL",
+      "address_and_website": "Address : SUNDER VIHAR PASCHIM VIHAR NEW DELHI Website : www.boscoschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "BOSCO PUBLIC SCHOOL",
+      "Affiliation Number": "2730174",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "SUNDER VIHAR PASCHIM VIHAR NEW DELHI",
+      "Pin Code": "110041",
+      "Website": "www.boscoschool.com",
+      "Year of Foundation": "1985",
+      "Date of First Opening of School": "09 Jul 2003",
+      "Name of Principal/ Head of Institution": "RAJU DUGGAL",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "B.A B.ED MA ECONOMICS",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "14",
+      "Teaching:": "18",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "INDIRA ADARSH SHIKSHA SAMITI",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

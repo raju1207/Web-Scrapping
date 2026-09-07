@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752083",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_CO-ED_SR_SEC_SCHOOL_2752083.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT CO-ED SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2752083",
+    "cbse_school_code": "27061"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "EAST DELHI",
+    "block": null,
+    "address": "CHILLA VILLAGE DELHI",
+    "pincode": "110091"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1989",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://www.edudel.nic.in/mis/schoolplant/school_information",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "AJAY KUMAR",
+    "gender": "Male",
+    "qualification": "M. A. , B. ED, Ph. D",
+    "administrative_experience": "9",
+    "teaching_experience": "15"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2752083",
+    "school_code": "27061",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "dir. of education"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2752083",
+      "listing_raw_columns": [
+        "1200",
+        "Aff. No. : 2752083 Sch. Code: 27061",
+        "State : DELHI District : EAST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT CO-ED SR SEC SCHOOL Head/Principal Name: AJAY KUMAR",
+        "Address : CHILLA VILLAGE DELHI Website : https://www.edudel.nic.in/mis/schoolplant/school_information",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752083",
+      "serial_number": "1200",
+      "affiliation_and_school_code": "Aff. No. : 2752083 Sch. Code: 27061",
+      "state_and_district": "State : DELHI District : EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT CO-ED SR SEC SCHOOL Head/Principal Name: AJAY KUMAR",
+      "address_and_website": "Address : CHILLA VILLAGE DELHI Website : https://www.edudel.nic.in/mis/schoolplant/school_information"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT CO-ED SR SEC SCHOOL",
+      "Affiliation Number": "2752083",
+      "State": "DELHI",
+      "District": "EAST DELHI",
+      "Postal Address": "CHILLA VILLAGE DELHI",
+      "Pin Code": "110091",
+      "Website": "https://www.edudel.nic.in/mis/schoolplant/school_information",
+      "Year of Foundation": "1989",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "AJAY KUMAR",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M. A. , B. ED, Ph. D",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "9",
+      "Teaching:": "15",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "dir. of education",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730040",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\DEV_SAMAJ_MODERN_SCHOOL_2730040.json"
+  },
+  "school_identity": {
+    "school_name": "DEV SAMAJ MODERN SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730040",
+    "cbse_school_code": "25241"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH DELHI",
+    "block": null,
+    "address": "NEHRU NAGAR RING ROAD, DISTT SOUTH DELHI, NEW DELHI",
+    "pincode": "110065"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1966",
+    "first_opening_date": "06 May 2000",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.devsamajschools.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SUSHMA NANDWANI",
+    "gender": "Female",
+    "qualification": "M.Sc., B.Ed , M.Phill",
+    "administrative_experience": "7",
+    "teaching_experience": "30"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730040",
+    "school_code": "25241",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "THE DEV SAMAJ"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730040",
+      "listing_raw_columns": [
+        "129",
+        "Aff. No. : 2730040 Sch. Code: 25241",
+        "State : DELHI District : SOUTH DELHI",
+        "Senior Secondary Level",
+        "Name : DEV SAMAJ MODERN SCHOOL Head/Principal Name: SUSHMA NANDWANI",
+        "Address : NEHRU NAGAR RING ROAD, DISTT SOUTH DELHI, NEW DELHI Website : www.devsamajschools.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730040",
+      "serial_number": "129",
+      "affiliation_and_school_code": "Aff. No. : 2730040 Sch. Code: 25241",
+      "state_and_district": "State : DELHI District : SOUTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : DEV SAMAJ MODERN SCHOOL Head/Principal Name: SUSHMA NANDWANI",
+      "address_and_website": "Address : NEHRU NAGAR RING ROAD, DISTT SOUTH DELHI, NEW DELHI Website : www.devsamajschools.com"
+    },
+    "school_details": {
+      "Name of Institution": "DEV SAMAJ MODERN SCHOOL",
+      "Affiliation Number": "2730040",
+      "State": "DELHI",
+      "District": "SOUTH DELHI",
+      "Postal Address": "NEHRU NAGAR RING ROAD, DISTT SOUTH DELHI, NEW DELHI",
+      "Pin Code": "110065",
+      "Website": "www.devsamajschools.com",
+      "Year of Foundation": "1966",
+      "Date of First Opening of School": "06 May 2000",
+      "Name of Principal/ Head of Institution": "SUSHMA NANDWANI",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.Sc., B.Ed , M.Phill",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "7",
+      "Teaching:": "30",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "THE DEV SAMAJ",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

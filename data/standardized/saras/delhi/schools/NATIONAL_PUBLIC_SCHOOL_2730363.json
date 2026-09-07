@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730363",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\NATIONAL_PUBLIC_SCHOOL_2730363.json"
+  },
+  "school_identity": {
+    "school_name": "NATIONAL PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730363",
+    "cbse_school_code": "85094"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "SAFIABAD ROAD NARELA DELHI",
+    "pincode": "110040"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1992",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.nationalpublicschool.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "JATIN KHATRI",
+    "gender": "Male",
+    "qualification": "M.Com, B.Ed",
+    "administrative_experience": "6",
+    "teaching_experience": "14"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730363",
+    "school_code": "85094",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": null
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730363",
+      "listing_raw_columns": [
+        "443",
+        "Aff. No. : 2730363 Sch. Code: 85094",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : NATIONAL PUBLIC SCHOOL Head/Principal Name: JATIN KHATRI",
+        "Address : SAFIABAD ROAD NARELA DELHI Website : www.nationalpublicschool.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730363",
+      "serial_number": "443",
+      "affiliation_and_school_code": "Aff. No. : 2730363 Sch. Code: 85094",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : NATIONAL PUBLIC SCHOOL Head/Principal Name: JATIN KHATRI",
+      "address_and_website": "Address : SAFIABAD ROAD NARELA DELHI Website : www.nationalpublicschool.in"
+    },
+    "school_details": {
+      "Name of Institution": "NATIONAL PUBLIC SCHOOL",
+      "Affiliation Number": "2730363",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "SAFIABAD ROAD NARELA DELHI",
+      "Pin Code": "110040",
+      "Website": "www.nationalpublicschool.in",
+      "Year of Foundation": "1992",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "JATIN KHATRI",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.Com, B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "6",
+      "Teaching:": "14",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": null,
+      "Remarks, if any": "Subject to outcome of W.P No :5620/2024"
+    },
+    "links": []
+  }
+}

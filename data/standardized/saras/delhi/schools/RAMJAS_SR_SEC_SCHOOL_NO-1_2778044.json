@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778044",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\RAMJAS_SR_SEC_SCHOOL_NO-1_2778044.json"
+  },
+  "school_identity": {
+    "school_name": "RAMJAS SR SEC SCHOOL NO-1",
+    "udise_code": null,
+    "cbse_affiliation_number": "2778044",
+    "cbse_school_code": "87021"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "DARYAGANJ NEW DELHI",
+    "pincode": "110002"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT AIDED",
+    "foundation_year": "1912",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": null,
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SHYAM PAL BHARTI",
+    "gender": "Male",
+    "qualification": "MA",
+    "administrative_experience": "15",
+    "teaching_experience": "20"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2778044",
+    "school_code": "87021",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2031",
+    "trust_society": "RAMJAS FOUNDATION DARYA GANJ N DEL"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2778044",
+      "listing_raw_columns": [
+        "2161",
+        "Aff. No. : 2778044 Sch. Code: 87021",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : RAMJAS SR SEC SCHOOL NO-1 Head/Principal Name: SHYAM PAL BHARTI",
+        "Address : DARYAGANJ NEW DELHI Website :",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778044",
+      "serial_number": "2161",
+      "affiliation_and_school_code": "Aff. No. : 2778044 Sch. Code: 87021",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : RAMJAS SR SEC SCHOOL NO-1 Head/Principal Name: SHYAM PAL BHARTI",
+      "address_and_website": "Address : DARYAGANJ NEW DELHI Website :"
+    },
+    "school_details": {
+      "Name of Institution": "RAMJAS SR SEC SCHOOL NO-1",
+      "Affiliation Number": "2778044",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "DARYAGANJ NEW DELHI",
+      "Pin Code": "110002",
+      "Website": null,
+      "Year of Foundation": "1912",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "SHYAM PAL BHARTI",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "MA",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "15",
+      "Teaching:": "20",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT AIDED",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "RAMJAS FOUNDATION DARYA GANJ N DEL",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2768005",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SARVODAYA_(CO.ED.)VIDYALAYA_2768005.json"
+  },
+  "school_identity": {
+    "school_name": "SARVODAYA (CO.ED.)VIDYALAYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2768005",
+    "cbse_school_code": "87211"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH DELHI",
+    "block": null,
+    "address": "PRATAP NAGAR DELHI",
+    "pincode": "110007"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1989",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "MANGAL SINGH CHAUHAN",
+    "gender": "Male",
+    "qualification": "M.A., B.ED.",
+    "administrative_experience": "06",
+    "teaching_experience": "06"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2768005",
+    "school_code": "87211",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "ditrecat of education delhi adm n"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2768005",
+      "listing_raw_columns": [
+        "1994",
+        "Aff. No. : 2768005 Sch. Code: 87211",
+        "State : DELHI District : NORTH DELHI",
+        "Senior Secondary Level",
+        "Name : SARVODAYA (CO.ED.)VIDYALAYA Head/Principal Name: MANGAL SINGH CHAUHAN",
+        "Address : PRATAP NAGAR DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2768005",
+      "serial_number": "1994",
+      "affiliation_and_school_code": "Aff. No. : 2768005 Sch. Code: 87211",
+      "state_and_district": "State : DELHI District : NORTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SARVODAYA (CO.ED.)VIDYALAYA Head/Principal Name: MANGAL SINGH CHAUHAN",
+      "address_and_website": "Address : PRATAP NAGAR DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "SARVODAYA (CO.ED.)VIDYALAYA",
+      "Affiliation Number": "2768005",
+      "State": "DELHI",
+      "District": "NORTH DELHI",
+      "Postal Address": "PRATAP NAGAR DELHI",
+      "Pin Code": "110007",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "1989",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "MANGAL SINGH CHAUHAN",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.A., B.ED.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "06",
+      "Teaching:": "06",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "ditrecat of education delhi adm n",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

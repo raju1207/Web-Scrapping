@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730030",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\ST_MARY'S_SCHOOL_2730030.json"
+  },
+  "school_identity": {
+    "school_name": "ST MARY'S SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730030",
+    "cbse_school_code": "25199"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "B-2 BLOCK SAFDARJANG ENCLAVE NEW DELHI",
+    "pincode": "110029"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1966",
+    "first_opening_date": "01 Sep 2008",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.stmarysdelhi.org",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "ANNIE KOSHI",
+    "gender": "Female",
+    "qualification": "PH.D, MA,B.ED",
+    "administrative_experience": "35",
+    "teaching_experience": "33"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730030",
+    "school_code": "25199",
+    "affiliation_status": null,
+    "affiliation_type": "Permanant",
+    "affiliation_from": null,
+    "affiliation_to": null,
+    "affiliation_period_raw": "Permanent (Subject to final outcome of WPC pending before Honourable High court of Delhi)",
+    "trust_society": "ST MARY EDUCATIONS SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730030",
+      "listing_raw_columns": [
+        "119",
+        "Aff. No. : 2730030 Sch. Code: 25199",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : ST MARY'S SCHOOL Head/Principal Name: ANNIE KOSHI",
+        "Address : B-2 BLOCK SAFDARJANG ENCLAVE NEW DELHI Website : www.stmarysdelhi.org",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730030",
+      "serial_number": "119",
+      "affiliation_and_school_code": "Aff. No. : 2730030 Sch. Code: 25199",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : ST MARY'S SCHOOL Head/Principal Name: ANNIE KOSHI",
+      "address_and_website": "Address : B-2 BLOCK SAFDARJANG ENCLAVE NEW DELHI Website : www.stmarysdelhi.org"
+    },
+    "school_details": {
+      "Name of Institution": "ST MARY'S SCHOOL",
+      "Affiliation Number": "2730030",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "B-2 BLOCK SAFDARJANG ENCLAVE NEW DELHI",
+      "Pin Code": "110029",
+      "Website": "www.stmarysdelhi.org",
+      "Year of Foundation": "1966",
+      "Date of First Opening of School": "01 Sep 2008",
+      "Name of Principal/ Head of Institution": "ANNIE KOSHI",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "PH.D, MA,B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "35",
+      "Teaching:": "33",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": "Permanant",
+      "Affiliation Period": "Permanent (Subject to final outcome of WPC pending before Honourable High court of Delhi)",
+      "Name of Trust/ Society/ Managing Committee": "ST MARY EDUCATIONS SOCIETY",
+      "Remarks, if any": "Permanent (subject to final outcome of writ petition pending before Honourable High court of Delhi) in our website"
+    },
+    "links": []
+  }
+}

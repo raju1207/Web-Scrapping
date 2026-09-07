@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730792",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\RAHUL_PUBLIC_SCHOOL_2730792.json"
+  },
+  "school_identity": {
+    "school_name": "RAHUL PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730792",
+    "cbse_school_code": "85161"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "D-16, RAJIV NAGAR EXTN.,DELHI - 110086",
+    "pincode": "110086"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1996",
+    "first_opening_date": "02 Apr 1996",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "http://rahulpublicschool.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "POONAM",
+    "gender": "Female",
+    "qualification": "MA,BED",
+    "administrative_experience": "5",
+    "teaching_experience": "10"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730792",
+    "school_code": "85161",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2029",
+    "trust_society": "RAHUL SOLANKI EDUCATIONAL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730792",
+      "listing_raw_columns": [
+        "856",
+        "Aff. No. : 2730792 Sch. Code: 85161",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Secondary Level",
+        "Name : RAHUL PUBLIC SCHOOL Head/Principal Name: POONAM",
+        "Address : D-16, RAJIV NAGAR EXTN.,DELHI - 110086 Website : http://rahulpublicschool.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730792",
+      "serial_number": "856",
+      "affiliation_and_school_code": "Aff. No. : 2730792 Sch. Code: 85161",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : RAHUL PUBLIC SCHOOL Head/Principal Name: POONAM",
+      "address_and_website": "Address : D-16, RAJIV NAGAR EXTN.,DELHI - 110086 Website : http://rahulpublicschool.in/"
+    },
+    "school_details": {
+      "Name of Institution": "RAHUL PUBLIC SCHOOL",
+      "Affiliation Number": "2730792",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "D-16, RAJIV NAGAR EXTN.,DELHI - 110086",
+      "Pin Code": "110086",
+      "Website": "http://rahulpublicschool.in/",
+      "Year of Foundation": "1996",
+      "Date of First Opening of School": "02 Apr 1996",
+      "Name of Principal/ Head of Institution": "POONAM",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA,BED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "5",
+      "Teaching:": "10",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "RAHUL SOLANKI EDUCATIONAL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

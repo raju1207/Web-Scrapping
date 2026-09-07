@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730543",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\BASAVA_INTERNATIONAL_SCHOOL_2730543.json"
+  },
+  "school_identity": {
+    "school_name": "BASAVA INTERNATIONAL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730543",
+    "cbse_school_code": "25286"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "SITE NO. 1, SECTOR-23, DWARKA, DISTT SOUTH WEST DELHI, DELHI",
+    "pincode": "110075"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2004",
+    "first_opening_date": "05 Jan 1986",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.basavainternational.school",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Mrs. Gunjan Mehrotra",
+    "gender": "Female",
+    "qualification": "MA B.Ed",
+    "administrative_experience": "6",
+    "teaching_experience": "25"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730543",
+    "school_code": "25286",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2027",
+    "affiliation_to": "31/03/2032",
+    "affiliation_period_raw": "From : 01/04/2027 To : 31/03/2032",
+    "trust_society": "LORD BASAVESHWAR EDUCATIONAL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730543",
+      "listing_raw_columns": [
+        "614",
+        "Aff. No. : 2730543 Sch. Code: 25286",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : BASAVA INTERNATIONAL SCHOOL Head/Principal Name: Mrs. Gunjan Mehrotra",
+        "Address : SITE NO. 1, SECTOR-23, DWARKA, DISTT SOUTH WEST DELHI, DELHI Website : www.basavainternational.school",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730543",
+      "serial_number": "614",
+      "affiliation_and_school_code": "Aff. No. : 2730543 Sch. Code: 25286",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : BASAVA INTERNATIONAL SCHOOL Head/Principal Name: Mrs. Gunjan Mehrotra",
+      "address_and_website": "Address : SITE NO. 1, SECTOR-23, DWARKA, DISTT SOUTH WEST DELHI, DELHI Website : www.basavainternational.school"
+    },
+    "school_details": {
+      "Name of Institution": "BASAVA INTERNATIONAL SCHOOL",
+      "Affiliation Number": "2730543",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "SITE NO. 1, SECTOR-23, DWARKA, DISTT SOUTH WEST DELHI, DELHI",
+      "Pin Code": "110075",
+      "Website": "www.basavainternational.school",
+      "Year of Foundation": "2004",
+      "Date of First Opening of School": "05 Jan 1986",
+      "Name of Principal/ Head of Institution": "Mrs. Gunjan Mehrotra",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "6",
+      "Teaching:": "25",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+      "Name of Trust/ Society/ Managing Committee": "LORD BASAVESHWAR EDUCATIONAL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730278",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\ST._FROEBEL_SCHOOL_2730278.json"
+  },
+  "school_identity": {
+    "school_name": "ST. FROEBEL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730278",
+    "cbse_school_code": "85411"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "A-3 PASCHIM VIHAR NEW DELHI",
+    "pincode": "110063"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1985",
+    "first_opening_date": "09 Jul 2003",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.stfroebelschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "DR NEERAJ VOHRA",
+    "gender": "Female",
+    "qualification": "M.SC., M.ED., PGDHRM, DOCTORATE IN EDUCATION",
+    "administrative_experience": "19",
+    "teaching_experience": "27"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730278",
+    "school_code": "85411",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "St froebel education society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730278",
+      "listing_raw_columns": [
+        "363",
+        "Aff. No. : 2730278 Sch. Code: 85411",
+        "State : DELHI District : WEST DELHI",
+        "Senior Secondary Level",
+        "Name : ST. FROEBEL SCHOOL Head/Principal Name: DR NEERAJ VOHRA",
+        "Address : A-3 PASCHIM VIHAR NEW DELHI Website : www.stfroebelschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730278",
+      "serial_number": "363",
+      "affiliation_and_school_code": "Aff. No. : 2730278 Sch. Code: 85411",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : ST. FROEBEL SCHOOL Head/Principal Name: DR NEERAJ VOHRA",
+      "address_and_website": "Address : A-3 PASCHIM VIHAR NEW DELHI Website : www.stfroebelschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "ST. FROEBEL SCHOOL",
+      "Affiliation Number": "2730278",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "A-3 PASCHIM VIHAR NEW DELHI",
+      "Pin Code": "110063",
+      "Website": "www.stfroebelschool.com",
+      "Year of Foundation": "1985",
+      "Date of First Opening of School": "09 Jul 2003",
+      "Name of Principal/ Head of Institution": "DR NEERAJ VOHRA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.SC., M.ED., PGDHRM, DOCTORATE IN EDUCATION",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "19",
+      "Teaching:": "27",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "St froebel education society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

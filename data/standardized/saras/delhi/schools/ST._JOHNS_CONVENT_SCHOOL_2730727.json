@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730727",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\ST._JOHNS_CONVENT_SCHOOL_2730727.json"
+  },
+  "school_identity": {
+    "school_name": "ST. JOHNS CONVENT SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730727",
+    "cbse_school_code": "85045"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "B-4659/112, SANT NAGAR, BURARI,",
+    "pincode": "110084"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1999",
+    "first_opening_date": "13 Apr 1999",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "http://www.stjohnsschoolburari.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "VIKAS PANT",
+    "gender": "Male",
+    "qualification": "MSC, BED",
+    "administrative_experience": "09",
+    "teaching_experience": "09"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730727",
+    "school_code": "85045",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2029",
+    "trust_society": "ST JOHNS EDUCATIONAL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730727",
+      "listing_raw_columns": [
+        "792",
+        "Aff. No. : 2730727 Sch. Code: 85045",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : ST. JOHNS CONVENT SCHOOL Head/Principal Name: VIKAS PANT",
+        "Address : B-4659/112, SANT NAGAR, BURARI, Website : http://www.stjohnsschoolburari.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730727",
+      "serial_number": "792",
+      "affiliation_and_school_code": "Aff. No. : 2730727 Sch. Code: 85045",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : ST. JOHNS CONVENT SCHOOL Head/Principal Name: VIKAS PANT",
+      "address_and_website": "Address : B-4659/112, SANT NAGAR, BURARI, Website : http://www.stjohnsschoolburari.com"
+    },
+    "school_details": {
+      "Name of Institution": "ST. JOHNS CONVENT SCHOOL",
+      "Affiliation Number": "2730727",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "B-4659/112, SANT NAGAR, BURARI,",
+      "Pin Code": "110084",
+      "Website": "http://www.stjohnsschoolburari.com",
+      "Year of Foundation": "1999",
+      "Date of First Opening of School": "13 Apr 1999",
+      "Name of Principal/ Head of Institution": "VIKAS PANT",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "MSC, BED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "09",
+      "Teaching:": "09",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "ST JOHNS EDUCATIONAL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

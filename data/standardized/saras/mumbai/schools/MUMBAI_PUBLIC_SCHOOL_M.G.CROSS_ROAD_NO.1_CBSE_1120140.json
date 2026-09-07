@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1120140",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\MUMBAI_PUBLIC_SCHOOL_M.G.CROSS_ROAD_NO.1_CBSE_1120140.json"
+  },
+  "school_identity": {
+    "school_name": "MUMBAI PUBLIC SCHOOL M.G.CROSS ROAD NO.1 CBSE",
+    "udise_code": null,
+    "cbse_affiliation_number": "1120140",
+    "cbse_school_code": "32160"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI SUBURBAN",
+    "block": null,
+    "address": "SAI NAGAR, PAREKH NAGAR, NEAR SAMTA KRIDA SANKUL, KANDIVALI ( WEST )",
+    "pincode": "400067"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2023",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://mgcrossroadno1.mumbaipublicschools.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Sandipan Kondiba Ghule",
+    "gender": "Male",
+    "qualification": "M.A.B.Ed.",
+    "administrative_experience": "8",
+    "teaching_experience": "8"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1120140",
+    "school_code": "32160",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "BRIHANMUMBAI MUNICIPAL CORPORATION"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1120140",
+      "listing_raw_columns": [
+        "11",
+        "Aff. No. : 1120140 Sch. Code: 32160",
+        "State : MAHARASHTRA District : MUMBAI SUBURBAN",
+        "Secondary Level",
+        "Name : MUMBAI PUBLIC SCHOOL M.G.CROSS ROAD NO.1 CBSE Head/Principal Name: Sandipan Kondiba Ghule",
+        "Address : SAI NAGAR, PAREKH NAGAR, NEAR SAMTA KRIDA SANKUL, KANDIVALI ( WEST ) Website : https://mgcrossroadno1.mumbaipublicschools.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1120140",
+      "serial_number": "11",
+      "affiliation_and_school_code": "Aff. No. : 1120140 Sch. Code: 32160",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI SUBURBAN",
+      "status": "Secondary Level",
+      "school_and_head": "Name : MUMBAI PUBLIC SCHOOL M.G.CROSS ROAD NO.1 CBSE Head/Principal Name: Sandipan Kondiba Ghule",
+      "address_and_website": "Address : SAI NAGAR, PAREKH NAGAR, NEAR SAMTA KRIDA SANKUL, KANDIVALI ( WEST ) Website : https://mgcrossroadno1.mumbaipublicschools.in/",
+      "saras_selected_district": "MUMBAI SUBURBAN"
+    },
+    "school_details": {
+      "Name of Institution": "MUMBAI PUBLIC SCHOOL M.G.CROSS ROAD NO.1 CBSE",
+      "Affiliation Number": "1120140",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI SUBURBAN",
+      "Postal Address": "SAI NAGAR, PAREKH NAGAR, NEAR SAMTA KRIDA SANKUL, KANDIVALI ( WEST )",
+      "Pin Code": "400067",
+      "Website": "https://mgcrossroadno1.mumbaipublicschools.in/",
+      "Year of Foundation": "2023",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "Sandipan Kondiba Ghule",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.A.B.Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "8",
+      "Teaching:": "8",
+      "Status of The School": "Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "BRIHANMUMBAI MUNICIPAL CORPORATION",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

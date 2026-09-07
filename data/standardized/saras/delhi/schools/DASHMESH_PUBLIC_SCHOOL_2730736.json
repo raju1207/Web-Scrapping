@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730736",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\DASHMESH_PUBLIC_SCHOOL_2730736.json"
+  },
+  "school_identity": {
+    "school_name": "DASHMESH PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730736",
+    "cbse_school_code": "25136"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "EAST DELHI",
+    "block": null,
+    "address": "C BLOCK VIVEK VIHAR",
+    "pincode": "110095"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2011",
+    "first_opening_date": "13 Apr 2011",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.dashmeshschools.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "RICHA KAUR",
+    "gender": "Female",
+    "qualification": "M A B.Ed.",
+    "administrative_experience": "02",
+    "teaching_experience": "02"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730736",
+    "school_code": "25136",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "Dasmesh Education Society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730736",
+      "listing_raw_columns": [
+        "800",
+        "Aff. No. : 2730736 Sch. Code: 25136",
+        "State : DELHI District : EAST DELHI",
+        "Secondary Level",
+        "Name : DASHMESH PUBLIC SCHOOL Head/Principal Name: RICHA KAUR",
+        "Address : C BLOCK VIVEK VIHAR Website : www.dashmeshschools.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730736",
+      "serial_number": "800",
+      "affiliation_and_school_code": "Aff. No. : 2730736 Sch. Code: 25136",
+      "state_and_district": "State : DELHI District : EAST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : DASHMESH PUBLIC SCHOOL Head/Principal Name: RICHA KAUR",
+      "address_and_website": "Address : C BLOCK VIVEK VIHAR Website : www.dashmeshschools.com"
+    },
+    "school_details": {
+      "Name of Institution": "DASHMESH PUBLIC SCHOOL",
+      "Affiliation Number": "2730736",
+      "State": "DELHI",
+      "District": "EAST DELHI",
+      "Postal Address": "C BLOCK VIVEK VIHAR",
+      "Pin Code": "110095",
+      "Website": "www.dashmeshschools.com",
+      "Year of Foundation": "2011",
+      "Date of First Opening of School": "13 Apr 2011",
+      "Name of Principal/ Head of Institution": "RICHA KAUR",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M A B.Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "02",
+      "Teaching:": "02",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "Dasmesh Education Society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

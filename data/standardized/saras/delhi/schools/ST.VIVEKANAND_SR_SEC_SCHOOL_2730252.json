@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730252",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\ST.VIVEKANAND_SR_SEC_SCHOOL_2730252.json"
+  },
+  "school_identity": {
+    "school_name": "ST.VIVEKANAND SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730252",
+    "cbse_school_code": "85228"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "QUTAB GARH ROAD LADPUR, DISTT NORHT WEST DELHI, DELHI",
+    "pincode": "110081"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1991",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.stvivekanandschool.org",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "YUVRAJ PUNJ",
+    "gender": "Male",
+    "qualification": "M.A, M.Ed",
+    "administrative_experience": "15",
+    "teaching_experience": "15"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730252",
+    "school_code": "85228",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": null
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730252",
+      "listing_raw_columns": [
+        "338",
+        "Aff. No. : 2730252 Sch. Code: 85228",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : ST.VIVEKANAND SR SEC SCHOOL Head/Principal Name: YUVRAJ PUNJ",
+        "Address : QUTAB GARH ROAD LADPUR, DISTT NORHT WEST DELHI, DELHI Website : www.stvivekanandschool.org",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730252",
+      "serial_number": "338",
+      "affiliation_and_school_code": "Aff. No. : 2730252 Sch. Code: 85228",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : ST.VIVEKANAND SR SEC SCHOOL Head/Principal Name: YUVRAJ PUNJ",
+      "address_and_website": "Address : QUTAB GARH ROAD LADPUR, DISTT NORHT WEST DELHI, DELHI Website : www.stvivekanandschool.org"
+    },
+    "school_details": {
+      "Name of Institution": "ST.VIVEKANAND SR SEC SCHOOL",
+      "Affiliation Number": "2730252",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "QUTAB GARH ROAD LADPUR, DISTT NORHT WEST DELHI, DELHI",
+      "Pin Code": "110081",
+      "Website": "www.stvivekanandschool.org",
+      "Year of Foundation": "1991",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "YUVRAJ PUNJ",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.A, M.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "15",
+      "Teaching:": "15",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": null,
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

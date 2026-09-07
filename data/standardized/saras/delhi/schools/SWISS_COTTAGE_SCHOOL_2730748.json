@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730748",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SWISS_COTTAGE_SCHOOL_2730748.json"
+  },
+  "school_identity": {
+    "school_name": "SWISS COTTAGE SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730748",
+    "cbse_school_code": "25258"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "SALAHPUR, BIJWASAN,",
+    "pincode": "110061"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2007",
+    "first_opening_date": "19 Apr 2007",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.swisscottageschool.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Neena Thimmaya",
+    "gender": "Female",
+    "qualification": "MA, B.Ed CELTA",
+    "administrative_experience": "8",
+    "teaching_experience": "16"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730748",
+    "school_code": "25258",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "Raj Bindu Charitable Trust"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730748",
+      "listing_raw_columns": [
+        "812",
+        "Aff. No. : 2730748 Sch. Code: 25258",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : SWISS COTTAGE SCHOOL Head/Principal Name: Neena Thimmaya",
+        "Address : SALAHPUR, BIJWASAN, Website : www.swisscottageschool.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730748",
+      "serial_number": "812",
+      "affiliation_and_school_code": "Aff. No. : 2730748 Sch. Code: 25258",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SWISS COTTAGE SCHOOL Head/Principal Name: Neena Thimmaya",
+      "address_and_website": "Address : SALAHPUR, BIJWASAN, Website : www.swisscottageschool.in"
+    },
+    "school_details": {
+      "Name of Institution": "SWISS COTTAGE SCHOOL",
+      "Affiliation Number": "2730748",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "SALAHPUR, BIJWASAN,",
+      "Pin Code": "110061",
+      "Website": "www.swisscottageschool.in",
+      "Year of Foundation": "2007",
+      "Date of First Opening of School": "19 Apr 2007",
+      "Name of Principal/ Head of Institution": "Neena Thimmaya",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA, B.Ed CELTA",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "8",
+      "Teaching:": "16",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "Raj Bindu Charitable Trust",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730455",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\D_S_SAINIK_MODEL_SCHOOL_2730455.json"
+  },
+  "school_identity": {
+    "school_name": "D S SAINIK MODEL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730455",
+    "cbse_school_code": "85363"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "SWARN PARK MUNDKA DELHI",
+    "pincode": "110041"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1994",
+    "first_opening_date": "18 May 2002",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "puneet_lakra_school@yahoo.co.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "ASHA RANI DABAS",
+    "gender": "Female",
+    "qualification": "b.ped, b.ed",
+    "administrative_experience": "20",
+    "teaching_experience": "25"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730455",
+    "school_code": "85363",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2027",
+    "affiliation_to": "31/03/2032",
+    "affiliation_period_raw": "From : 01/04/2027 To : 31/03/2032",
+    "trust_society": "D S SAINIK EDUCATIONAL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730455",
+      "listing_raw_columns": [
+        "529",
+        "Aff. No. : 2730455 Sch. Code: 85363",
+        "State : DELHI District : WEST DELHI",
+        "Secondary Level",
+        "Name : D S SAINIK MODEL SCHOOL Head/Principal Name: ASHA RANI DABAS",
+        "Address : SWARN PARK MUNDKA DELHI Website : puneet_lakra_school@yahoo.co.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730455",
+      "serial_number": "529",
+      "affiliation_and_school_code": "Aff. No. : 2730455 Sch. Code: 85363",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : D S SAINIK MODEL SCHOOL Head/Principal Name: ASHA RANI DABAS",
+      "address_and_website": "Address : SWARN PARK MUNDKA DELHI Website : puneet_lakra_school@yahoo.co.in"
+    },
+    "school_details": {
+      "Name of Institution": "D S SAINIK MODEL SCHOOL",
+      "Affiliation Number": "2730455",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "SWARN PARK MUNDKA DELHI",
+      "Pin Code": "110041",
+      "Website": "puneet_lakra_school@yahoo.co.in",
+      "Year of Foundation": "1994",
+      "Date of First Opening of School": "18 May 2002",
+      "Name of Principal/ Head of Institution": "ASHA RANI DABAS",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "b.ped, b.ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "20",
+      "Teaching:": "25",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+      "Name of Trust/ Society/ Managing Committee": "D S SAINIK EDUCATIONAL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

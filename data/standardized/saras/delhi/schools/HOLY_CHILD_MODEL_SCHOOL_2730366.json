@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730366",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\HOLY_CHILD_MODEL_SCHOOL_2730366.json"
+  },
+  "school_identity": {
+    "school_name": "HOLY CHILD MODEL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730366",
+    "cbse_school_code": "25328"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "GOPAL NAGAR EXTN NAJAFGARH NEW DELHI",
+    "pincode": "110043"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1994",
+    "first_opening_date": "05 Jun 2000",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.holychildmodelschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "KIRAN DUTTA",
+    "gender": "Female",
+    "qualification": "M.A. ,B.ED",
+    "administrative_experience": "8",
+    "teaching_experience": "16"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730366",
+    "school_code": "25328",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "GOPAL NAGAR EDN SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730366",
+      "listing_raw_columns": [
+        "446",
+        "Aff. No. : 2730366 Sch. Code: 25328",
+        "State : DELHI District : NEW DELHI",
+        "Secondary Level",
+        "Name : HOLY CHILD MODEL SCHOOL Head/Principal Name: KIRAN DUTTA",
+        "Address : GOPAL NAGAR EXTN NAJAFGARH NEW DELHI Website : www.holychildmodelschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730366",
+      "serial_number": "446",
+      "affiliation_and_school_code": "Aff. No. : 2730366 Sch. Code: 25328",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : HOLY CHILD MODEL SCHOOL Head/Principal Name: KIRAN DUTTA",
+      "address_and_website": "Address : GOPAL NAGAR EXTN NAJAFGARH NEW DELHI Website : www.holychildmodelschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "HOLY CHILD MODEL SCHOOL",
+      "Affiliation Number": "2730366",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "GOPAL NAGAR EXTN NAJAFGARH NEW DELHI",
+      "Pin Code": "110043",
+      "Website": "www.holychildmodelschool.com",
+      "Year of Foundation": "1994",
+      "Date of First Opening of School": "05 Jun 2000",
+      "Name of Principal/ Head of Institution": "KIRAN DUTTA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A. ,B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "8",
+      "Teaching:": "16",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "GOPAL NAGAR EDN SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

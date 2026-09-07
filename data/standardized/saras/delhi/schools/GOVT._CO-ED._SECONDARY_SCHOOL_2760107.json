@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2760107",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT._CO-ED._SECONDARY_SCHOOL_2760107.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT. CO-ED. SECONDARY SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2760107",
+    "cbse_school_code": "87500"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "SECT-4, ROHINI, DELHI-110085",
+    "pincode": null
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2017",
+    "first_opening_date": "09 Nov 2017",
+    "gender_type": null
+  },
+  "contact": {
+    "website": null,
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "HARISH BHARDWAJ",
+    "gender": "Unknown",
+    "qualification": "M Com MBA Finance MA Edu B Ed UGC NET",
+    "administrative_experience": "0",
+    "teaching_experience": "13"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2760107",
+    "school_code": "87500",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": null
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2760107",
+      "listing_raw_columns": [
+        "1722",
+        "Aff. No. : 2760107 Sch. Code: 87500",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT. CO-ED. SECONDARY SCHOOL Head/Principal Name: HARISH BHARDWAJ",
+        "Address : SECT-4, ROHINI, DELHI-110085 Website :",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2760107",
+      "serial_number": "1722",
+      "affiliation_and_school_code": "Aff. No. : 2760107 Sch. Code: 87500",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT. CO-ED. SECONDARY SCHOOL Head/Principal Name: HARISH BHARDWAJ",
+      "address_and_website": "Address : SECT-4, ROHINI, DELHI-110085 Website :"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT. CO-ED. SECONDARY SCHOOL",
+      "Affiliation Number": "2760107",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "SECT-4, ROHINI, DELHI-110085",
+      "Pin Code": null,
+      "Website": null,
+      "Year of Foundation": "2017",
+      "Date of First Opening of School": "09 Nov 2017",
+      "Name of Principal/ Head of Institution": "HARISH BHARDWAJ",
+      "Gender": "Unknown",
+      "Principal's Educational/Professional Qualifications:": "M Com MBA Finance MA Edu B Ed UGC NET",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "0",
+      "Teaching:": "13",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": null,
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762075",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_GIRLS_SEC_SCHOOL_2762075.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT GIRLS SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2762075",
+    "cbse_school_code": "87345"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH EAST DELHI",
+    "block": null,
+    "address": "MUSTAFABAD DELHI",
+    "pincode": "110094"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1993",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "PRIYA MALIK",
+    "gender": "Female",
+    "qualification": "MA B.ED",
+    "administrative_experience": "2",
+    "teaching_experience": "4"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2762075",
+    "school_code": "87345",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "delhi administration dir. of edu."
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2762075",
+      "listing_raw_columns": [
+        "1793",
+        "Aff. No. : 2762075 Sch. Code: 87345",
+        "State : DELHI District : NORTH EAST DELHI",
+        "Secondary Level",
+        "Name : GOVT GIRLS SEC SCHOOL Head/Principal Name: PRIYA MALIK",
+        "Address : MUSTAFABAD DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762075",
+      "serial_number": "1793",
+      "affiliation_and_school_code": "Aff. No. : 2762075 Sch. Code: 87345",
+      "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : GOVT GIRLS SEC SCHOOL Head/Principal Name: PRIYA MALIK",
+      "address_and_website": "Address : MUSTAFABAD DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT GIRLS SEC SCHOOL",
+      "Affiliation Number": "2762075",
+      "State": "DELHI",
+      "District": "NORTH EAST DELHI",
+      "Postal Address": "MUSTAFABAD DELHI",
+      "Pin Code": "110094",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "1993",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "PRIYA MALIK",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "2",
+      "Teaching:": "4",
+      "Status of The School": "Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "delhi administration dir. of edu.",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

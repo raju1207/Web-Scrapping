@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730741",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\MAHARAJA_AGRASEN_VIDYAPEETH_2730741.json"
+  },
+  "school_identity": {
+    "school_name": "MAHARAJA AGRASEN VIDYAPEETH",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730741",
+    "cbse_school_code": "85362"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "ROTHAK ROAD, MUNDKA",
+    "pincode": "110041"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1984",
+    "first_opening_date": "27 Oct 1984",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.mavidyapeeth.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SIMPLE KAPOOR",
+    "gender": "Female",
+    "qualification": "MA, B.ED",
+    "administrative_experience": "4",
+    "teaching_experience": "14"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730741",
+    "school_code": "85362",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2030",
+    "trust_society": "MAHARAJA AGRASEN EDUCATIONAL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730741",
+      "listing_raw_columns": [
+        "805",
+        "Aff. No. : 2730741 Sch. Code: 85362",
+        "State : DELHI District : WEST DELHI",
+        "Senior Secondary Level",
+        "Name : MAHARAJA AGRASEN VIDYAPEETH Head/Principal Name: SIMPLE KAPOOR",
+        "Address : ROTHAK ROAD, MUNDKA Website : www.mavidyapeeth.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730741",
+      "serial_number": "805",
+      "affiliation_and_school_code": "Aff. No. : 2730741 Sch. Code: 85362",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : MAHARAJA AGRASEN VIDYAPEETH Head/Principal Name: SIMPLE KAPOOR",
+      "address_and_website": "Address : ROTHAK ROAD, MUNDKA Website : www.mavidyapeeth.com"
+    },
+    "school_details": {
+      "Name of Institution": "MAHARAJA AGRASEN VIDYAPEETH",
+      "Affiliation Number": "2730741",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "ROTHAK ROAD, MUNDKA",
+      "Pin Code": "110041",
+      "Website": "www.mavidyapeeth.com",
+      "Year of Foundation": "1984",
+      "Date of First Opening of School": "27 Oct 1984",
+      "Name of Principal/ Head of Institution": "SIMPLE KAPOOR",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA, B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "4",
+      "Teaching:": "14",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "MAHARAJA AGRASEN EDUCATIONAL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

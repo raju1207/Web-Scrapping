@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762068",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SANT_EKNATH_GOVT.SARVODAYA_GIRLS_SR_2762068.json"
+  },
+  "school_identity": {
+    "school_name": "SANT EKNATH GOVT.SARVODAYA GIRLS SR",
+    "udise_code": null,
+    "cbse_affiliation_number": "2762068",
+    "cbse_school_code": "27230"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "EAST DELHI",
+    "block": null,
+    "address": "SEC SCHOOL J & K BLOCK DILSHAD GARDEN DELHI",
+    "pincode": "110095"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1990",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "PARVATI NAUTIYAL",
+    "gender": "Female",
+    "qualification": "M.A",
+    "administrative_experience": "4",
+    "teaching_experience": "20"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2762068",
+    "school_code": "27230",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "dir. of education"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2762068",
+      "listing_raw_columns": [
+        "1786",
+        "Aff. No. : 2762068 Sch. Code: 27230",
+        "State : DELHI District : EAST DELHI",
+        "Senior Secondary Level",
+        "Name : SANT EKNATH GOVT.SARVODAYA GIRLS SR Head/Principal Name: PARVATI NAUTIYAL",
+        "Address : SEC SCHOOL J & K BLOCK DILSHAD GARDEN DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762068",
+      "serial_number": "1786",
+      "affiliation_and_school_code": "Aff. No. : 2762068 Sch. Code: 27230",
+      "state_and_district": "State : DELHI District : EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SANT EKNATH GOVT.SARVODAYA GIRLS SR Head/Principal Name: PARVATI NAUTIYAL",
+      "address_and_website": "Address : SEC SCHOOL J & K BLOCK DILSHAD GARDEN DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "SANT EKNATH GOVT.SARVODAYA GIRLS SR",
+      "Affiliation Number": "2762068",
+      "State": "DELHI",
+      "District": "EAST DELHI",
+      "Postal Address": "SEC SCHOOL J & K BLOCK DILSHAD GARDEN DELHI",
+      "Pin Code": "110095",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "1990",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "PARVATI NAUTIYAL",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "4",
+      "Teaching:": "20",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "dir. of education",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

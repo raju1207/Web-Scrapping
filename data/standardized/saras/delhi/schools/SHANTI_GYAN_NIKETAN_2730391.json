@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730391",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SHANTI_GYAN_NIKETAN_2730391.json"
+  },
+  "school_identity": {
+    "school_name": "SHANTI GYAN NIKETAN",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730391",
+    "cbse_school_code": "25325"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "VILLAGE GOYLA NAJAFGARH DWARKA NEAR SECTOR 19 NEW DELHI",
+    "pincode": "110071"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1994",
+    "first_opening_date": "02 Apr 2012",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.shantigyanniketan.org",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "ANJU BALA",
+    "gender": "Female",
+    "qualification": "M.A., B. Ed",
+    "administrative_experience": "32",
+    "teaching_experience": "10"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730391",
+    "school_code": "25325",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "KHURANA EDUCATINAL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730391",
+      "listing_raw_columns": [
+        "467",
+        "Aff. No. : 2730391 Sch. Code: 25325",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : SHANTI GYAN NIKETAN Head/Principal Name: ANJU BALA",
+        "Address : VILLAGE GOYLA NAJAFGARH DWARKA NEAR SECTOR 19 NEW DELHI Website : www.shantigyanniketan.org",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730391",
+      "serial_number": "467",
+      "affiliation_and_school_code": "Aff. No. : 2730391 Sch. Code: 25325",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SHANTI GYAN NIKETAN Head/Principal Name: ANJU BALA",
+      "address_and_website": "Address : VILLAGE GOYLA NAJAFGARH DWARKA NEAR SECTOR 19 NEW DELHI Website : www.shantigyanniketan.org"
+    },
+    "school_details": {
+      "Name of Institution": "SHANTI GYAN NIKETAN",
+      "Affiliation Number": "2730391",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "VILLAGE GOYLA NAJAFGARH DWARKA NEAR SECTOR 19 NEW DELHI",
+      "Pin Code": "110071",
+      "Website": "www.shantigyanniketan.org",
+      "Year of Foundation": "1994",
+      "Date of First Opening of School": "02 Apr 2012",
+      "Name of Principal/ Head of Institution": "ANJU BALA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A., B. Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "32",
+      "Teaching:": "10",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "KHURANA EDUCATINAL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

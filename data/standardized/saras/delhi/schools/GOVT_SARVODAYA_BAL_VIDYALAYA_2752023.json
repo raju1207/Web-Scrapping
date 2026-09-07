@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752023",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_SARVODAYA_BAL_VIDYALAYA_2752023.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT SARVODAYA BAL VIDYALAYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2752023",
+    "cbse_school_code": "27007"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "EAST DELHI",
+    "block": null,
+    "address": "GANDHI NAGAR OPP NEW SUBZI MANDI JHEEL KURANJA DELHI",
+    "pincode": "110031"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2004",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SARVENDRA SINGH",
+    "gender": "Male",
+    "qualification": "M.COM, M.ED, M.PHIL, PH.D., PGDGC, PGDSLM,",
+    "administrative_experience": "7",
+    "teaching_experience": "17"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2752023",
+    "school_code": "27007",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2030",
+    "trust_society": "directate of education delhi"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2752023",
+      "listing_raw_columns": [
+        "1146",
+        "Aff. No. : 2752023 Sch. Code: 27007",
+        "State : DELHI District : EAST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT SARVODAYA BAL VIDYALAYA Head/Principal Name: SARVENDRA SINGH",
+        "Address : GANDHI NAGAR OPP NEW SUBZI MANDI JHEEL KURANJA DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752023",
+      "serial_number": "1146",
+      "affiliation_and_school_code": "Aff. No. : 2752023 Sch. Code: 27007",
+      "state_and_district": "State : DELHI District : EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT SARVODAYA BAL VIDYALAYA Head/Principal Name: SARVENDRA SINGH",
+      "address_and_website": "Address : GANDHI NAGAR OPP NEW SUBZI MANDI JHEEL KURANJA DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT SARVODAYA BAL VIDYALAYA",
+      "Affiliation Number": "2752023",
+      "State": "DELHI",
+      "District": "EAST DELHI",
+      "Postal Address": "GANDHI NAGAR OPP NEW SUBZI MANDI JHEEL KURANJA DELHI",
+      "Pin Code": "110031",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "2004",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "SARVENDRA SINGH",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.COM, M.ED, M.PHIL, PH.D., PGDGC, PGDSLM,",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "7",
+      "Teaching:": "17",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "directate of education delhi",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

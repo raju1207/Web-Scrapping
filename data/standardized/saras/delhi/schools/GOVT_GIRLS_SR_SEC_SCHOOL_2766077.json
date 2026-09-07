@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2766077",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_GIRLS_SR_SEC_SCHOOL_2766077.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT GIRLS SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2766077",
+    "cbse_school_code": "27522"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "PANDWALAN KHURD NEW DELHI",
+    "pincode": "110043"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1989",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.gov.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SONIA TEHLAN",
+    "gender": "Female",
+    "qualification": "B. Sc, M. Sc, B. Ed",
+    "administrative_experience": "1",
+    "teaching_experience": "13"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2766077",
+    "school_code": "27522",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "DIRECTORATE OF EDUCATION"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2766077",
+      "listing_raw_columns": [
+        "1975",
+        "Aff. No. : 2766077 Sch. Code: 27522",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT GIRLS SR SEC SCHOOL Head/Principal Name: SONIA TEHLAN",
+        "Address : PANDWALAN KHURD NEW DELHI Website : www.edudel.gov.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2766077",
+      "serial_number": "1975",
+      "affiliation_and_school_code": "Aff. No. : 2766077 Sch. Code: 27522",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT GIRLS SR SEC SCHOOL Head/Principal Name: SONIA TEHLAN",
+      "address_and_website": "Address : PANDWALAN KHURD NEW DELHI Website : www.edudel.gov.in"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT GIRLS SR SEC SCHOOL",
+      "Affiliation Number": "2766077",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "PANDWALAN KHURD NEW DELHI",
+      "Pin Code": "110043",
+      "Website": "www.edudel.gov.in",
+      "Year of Foundation": "1989",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "SONIA TEHLAN",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "B. Sc, M. Sc, B. Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "1",
+      "Teaching:": "13",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "DIRECTORATE OF EDUCATION",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730307",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SAI_MEMORIAL_2730307.json"
+  },
+  "school_identity": {
+    "school_name": "SAI MEMORIAL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730307",
+    "cbse_school_code": "25008"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "EAST DELHI",
+    "block": null,
+    "address": "SAI BHAWAN F.C.CENTRE GEETA COLONY, DISTT EAST DELHI, DELHI",
+    "pincode": "110031"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2000",
+    "first_opening_date": "25 Jun 2007",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.saibhawan.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "DR MEENAKSHI KESWANI",
+    "gender": "Female",
+    "qualification": "M.A.,B.ED., PH.D",
+    "administrative_experience": "26",
+    "teaching_experience": "16"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730307",
+    "school_code": "25008",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2027",
+    "affiliation_to": "31/03/2032",
+    "affiliation_period_raw": "From : 01/04/2027 To : 31/03/2032",
+    "trust_society": "SAI MEMORIAL EDUCATION SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730307",
+      "listing_raw_columns": [
+        "391",
+        "Aff. No. : 2730307 Sch. Code: 25008",
+        "State : DELHI District : EAST DELHI",
+        "Senior Secondary Level",
+        "Name : SAI MEMORIAL Head/Principal Name: DR MEENAKSHI KESWANI",
+        "Address : SAI BHAWAN F.C.CENTRE GEETA COLONY, DISTT EAST DELHI, DELHI Website : www.saibhawan.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730307",
+      "serial_number": "391",
+      "affiliation_and_school_code": "Aff. No. : 2730307 Sch. Code: 25008",
+      "state_and_district": "State : DELHI District : EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SAI MEMORIAL Head/Principal Name: DR MEENAKSHI KESWANI",
+      "address_and_website": "Address : SAI BHAWAN F.C.CENTRE GEETA COLONY, DISTT EAST DELHI, DELHI Website : www.saibhawan.com"
+    },
+    "school_details": {
+      "Name of Institution": "SAI MEMORIAL",
+      "Affiliation Number": "2730307",
+      "State": "DELHI",
+      "District": "EAST DELHI",
+      "Postal Address": "SAI BHAWAN F.C.CENTRE GEETA COLONY, DISTT EAST DELHI, DELHI",
+      "Pin Code": "110031",
+      "Website": "www.saibhawan.com",
+      "Year of Foundation": "2000",
+      "Date of First Opening of School": "25 Jun 2007",
+      "Name of Principal/ Head of Institution": "DR MEENAKSHI KESWANI",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A.,B.ED., PH.D",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "26",
+      "Teaching:": "16",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+      "Name of Trust/ Society/ Managing Committee": "SAI MEMORIAL EDUCATION SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

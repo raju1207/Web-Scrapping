@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750141",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVERNMENT_BOYS_SR._SECONDARY_SCHOOL_NO.2_2750141.json"
+  },
+  "school_identity": {
+    "school_name": "GOVERNMENT BOYS SR. SECONDARY SCHOOL NO.2",
+    "udise_code": null,
+    "cbse_affiliation_number": "2750141",
+    "cbse_school_code": "87247"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "J J COLONY,NO.2, BAWANA, DELHI-110039",
+    "pincode": "110039"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2008",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "MAHESH CHANDER",
+    "gender": "Male",
+    "qualification": "M.SC, B.ED.",
+    "administrative_experience": "14",
+    "teaching_experience": "32"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2750141",
+    "school_code": "87247",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "dir. of education"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2750141",
+      "listing_raw_columns": [
+        "1089",
+        "Aff. No. : 2750141 Sch. Code: 87247",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVERNMENT BOYS SR. SECONDARY SCHOOL NO.2 Head/Principal Name: MAHESH CHANDER",
+        "Address : J J COLONY,NO.2, BAWANA, DELHI-110039 Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750141",
+      "serial_number": "1089",
+      "affiliation_and_school_code": "Aff. No. : 2750141 Sch. Code: 87247",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVERNMENT BOYS SR. SECONDARY SCHOOL NO.2 Head/Principal Name: MAHESH CHANDER",
+      "address_and_website": "Address : J J COLONY,NO.2, BAWANA, DELHI-110039 Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "GOVERNMENT BOYS SR. SECONDARY SCHOOL NO.2",
+      "Affiliation Number": "2750141",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "J J COLONY,NO.2, BAWANA, DELHI-110039",
+      "Pin Code": "110039",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "2008",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "MAHESH CHANDER",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.SC, B.ED.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "14",
+      "Teaching:": "32",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "dir. of education",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

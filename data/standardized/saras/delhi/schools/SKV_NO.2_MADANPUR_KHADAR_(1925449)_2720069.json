@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720069",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SKV_NO.2_MADANPUR_KHADAR_(1925449)_2720069.json"
+  },
+  "school_identity": {
+    "school_name": "SKV NO.2 MADANPUR KHADAR (1925449)",
+    "udise_code": null,
+    "cbse_affiliation_number": "2720069",
+    "cbse_school_code": "27713"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH EAST DELHI",
+    "block": null,
+    "address": "MADANPUR KHADAR, SARITA VIHAR, NEW DELHI, MADANPUR KHADAR, SARITA VIHAR, NEW DELHI",
+    "pincode": "110076"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2025",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "INDIRA KAPOOR",
+    "gender": "Female",
+    "qualification": null,
+    "administrative_experience": "1",
+    "teaching_experience": "0"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2720069",
+    "school_code": "27713",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "DOE"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2720069",
+      "listing_raw_columns": [
+        "66",
+        "Aff. No. : 2720069 Sch. Code: 27713",
+        "State : DELHI District : SOUTH EAST DELHI",
+        "Senior Secondary Level",
+        "Name : SKV NO.2 MADANPUR KHADAR (1925449) Head/Principal Name: INDIRA KAPOOR",
+        "Address : MADANPUR KHADAR, SARITA VIHAR, NEW DELHI, MADANPUR KHADAR, SARITA VIHAR, NEW DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720069",
+      "serial_number": "66",
+      "affiliation_and_school_code": "Aff. No. : 2720069 Sch. Code: 27713",
+      "state_and_district": "State : DELHI District : SOUTH EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SKV NO.2 MADANPUR KHADAR (1925449) Head/Principal Name: INDIRA KAPOOR",
+      "address_and_website": "Address : MADANPUR KHADAR, SARITA VIHAR, NEW DELHI, MADANPUR KHADAR, SARITA VIHAR, NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "SKV NO.2 MADANPUR KHADAR (1925449)",
+      "Affiliation Number": "2720069",
+      "State": "DELHI",
+      "District": "SOUTH EAST DELHI",
+      "Postal Address": "MADANPUR KHADAR, SARITA VIHAR, NEW DELHI, MADANPUR KHADAR, SARITA VIHAR, NEW DELHI",
+      "Pin Code": "110076",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "2025",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "INDIRA KAPOOR",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "NA",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "1",
+      "Teaching:": "0",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "DOE",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

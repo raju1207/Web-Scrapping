@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730820",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SHRI_RAM_GLOBAL_SCHOOL,DELHI-WEST_2730820.json"
+  },
+  "school_identity": {
+    "school_name": "SHRI RAM GLOBAL SCHOOL,DELHI-WEST",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730820",
+    "cbse_school_code": "86104"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "58/11, PVC MARKET ROAD ,TIKRI KALAN, NEW DELHI-110041",
+    "pincode": "110041"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2016",
+    "first_opening_date": "11 Apr 2016",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.srgsdelhiwest.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "MEENA GEER",
+    "gender": "Female",
+    "qualification": "M.A/B.ED",
+    "administrative_experience": "18",
+    "teaching_experience": "7"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730820",
+    "school_code": "86104",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "H.L. BERI MEMORIAL EDUCATIONAL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730820",
+      "listing_raw_columns": [
+        "880",
+        "Aff. No. : 2730820 Sch. Code: 86104",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : SHRI RAM GLOBAL SCHOOL,DELHI-WEST Head/Principal Name: MEENA GEER",
+        "Address : 58/11, PVC MARKET ROAD ,TIKRI KALAN, NEW DELHI-110041 Website : www.srgsdelhiwest.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730820",
+      "serial_number": "880",
+      "affiliation_and_school_code": "Aff. No. : 2730820 Sch. Code: 86104",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SHRI RAM GLOBAL SCHOOL,DELHI-WEST Head/Principal Name: MEENA GEER",
+      "address_and_website": "Address : 58/11, PVC MARKET ROAD ,TIKRI KALAN, NEW DELHI-110041 Website : www.srgsdelhiwest.com"
+    },
+    "school_details": {
+      "Name of Institution": "SHRI RAM GLOBAL SCHOOL,DELHI-WEST",
+      "Affiliation Number": "2730820",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "58/11, PVC MARKET ROAD ,TIKRI KALAN, NEW DELHI-110041",
+      "Pin Code": "110041",
+      "Website": "www.srgsdelhiwest.com",
+      "Year of Foundation": "2016",
+      "Date of First Opening of School": "11 Apr 2016",
+      "Name of Principal/ Head of Institution": "MEENA GEER",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A/B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "18",
+      "Teaching:": "7",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "H.L. BERI MEMORIAL EDUCATIONAL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

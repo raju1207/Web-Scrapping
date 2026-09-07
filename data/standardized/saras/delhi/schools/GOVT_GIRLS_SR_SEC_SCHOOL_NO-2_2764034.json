@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764034",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_GIRLS_SR_SEC_SCHOOL_NO-2_2764034.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT GIRLS SR SEC SCHOOL NO-2",
+    "udise_code": null,
+    "cbse_affiliation_number": "2764034",
+    "cbse_school_code": null
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "SAROJINI NAGAR NEW DELHI",
+    "pincode": "110023"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT AIDED",
+    "foundation_year": null,
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": null,
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "MISS K K MATHUR",
+    "gender": "Female",
+    "qualification": null,
+    "administrative_experience": null,
+    "teaching_experience": null
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2764034",
+    "school_code": null,
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": null,
+    "affiliation_to": null,
+    "affiliation_period_raw": "From : To : 31/03/1995",
+    "trust_society": "DIRECTOR OF EDUCATION"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2764034",
+      "listing_raw_columns": [
+        "1841",
+        "Aff. No. : 2764034 Sch. Code:",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT GIRLS SR SEC SCHOOL NO-2 Head/Principal Name: MISS K K MATHUR",
+        "Address : SAROJINI NAGAR NEW DELHI Website :",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764034",
+      "serial_number": "1841",
+      "affiliation_and_school_code": "Aff. No. : 2764034 Sch. Code:",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT GIRLS SR SEC SCHOOL NO-2 Head/Principal Name: MISS K K MATHUR",
+      "address_and_website": "Address : SAROJINI NAGAR NEW DELHI Website :"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT GIRLS SR SEC SCHOOL NO-2",
+      "Affiliation Number": "2764034",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "SAROJINI NAGAR NEW DELHI",
+      "Pin Code": "110023",
+      "Website": null,
+      "Year of Foundation": null,
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "MISS K K MATHUR",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": null,
+      "No of Experience ( in Years ):": null,
+      "Administrative:": null,
+      "Teaching:": null,
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT AIDED",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : To : 31/03/1995",
+      "Name of Trust/ Society/ Managing Committee": "DIRECTOR OF EDUCATION",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

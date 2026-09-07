@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730838",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\PARAG_JYOTI_PUBLIC_SCHOOL_2730838.json"
+  },
+  "school_identity": {
+    "school_name": "PARAG JYOTI PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730838",
+    "cbse_school_code": "85500"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "KHASRA NO. 86-87/9/1, SHIV VIHAR (OPP. DESU OFFICE) KARALA, DELHI-110081",
+    "pincode": "110081"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2000",
+    "first_opening_date": "01 Apr 2000",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.paragjyotipublicschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "CHANDRAMANI",
+    "gender": "Female",
+    "qualification": "M.A,B.ED,M.ED,",
+    "administrative_experience": "6",
+    "teaching_experience": "4"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730838",
+    "school_code": "85500",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "SARASWATI JAGARITY EDUCATIONAL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730838",
+      "listing_raw_columns": [
+        "898",
+        "Aff. No. : 2730838 Sch. Code: 85500",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Secondary Level",
+        "Name : PARAG JYOTI PUBLIC SCHOOL Head/Principal Name: CHANDRAMANI",
+        "Address : KHASRA NO. 86-87/9/1, SHIV VIHAR (OPP. DESU OFFICE) KARALA, DELHI-110081 Website : www.paragjyotipublicschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730838",
+      "serial_number": "898",
+      "affiliation_and_school_code": "Aff. No. : 2730838 Sch. Code: 85500",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : PARAG JYOTI PUBLIC SCHOOL Head/Principal Name: CHANDRAMANI",
+      "address_and_website": "Address : KHASRA NO. 86-87/9/1, SHIV VIHAR (OPP. DESU OFFICE) KARALA, DELHI-110081 Website : www.paragjyotipublicschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "PARAG JYOTI PUBLIC SCHOOL",
+      "Affiliation Number": "2730838",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "KHASRA NO. 86-87/9/1, SHIV VIHAR (OPP. DESU OFFICE) KARALA, DELHI-110081",
+      "Pin Code": "110081",
+      "Website": "www.paragjyotipublicschool.com",
+      "Year of Foundation": "2000",
+      "Date of First Opening of School": "01 Apr 2000",
+      "Name of Principal/ Head of Institution": "CHANDRAMANI",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A,B.ED,M.ED,",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "6",
+      "Teaching:": "4",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "SARASWATI JAGARITY EDUCATIONAL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

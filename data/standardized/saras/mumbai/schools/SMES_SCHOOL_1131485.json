@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131485",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\SMES_SCHOOL_1131485.json"
+  },
+  "school_identity": {
+    "school_name": "SMES SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "1131485",
+    "cbse_school_code": "31474"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "block": null,
+    "address": "369, TPS - III, SENAPATI BAPAT MARG, MAHIM, MUMBAI 400016",
+    "pincode": "400016"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2012",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://www.smesschoolmahim.edu.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Salima Sharief",
+    "gender": "Female",
+    "qualification": "M. A. B. Ed.",
+    "administrative_experience": "2",
+    "teaching_experience": "10"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1131485",
+    "school_code": "31474",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "Saraswati Mandir Education Society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1131485",
+      "listing_raw_columns": [
+        "61",
+        "Aff. No. : 1131485 Sch. Code: 31474",
+        "State : MAHARASHTRA District : MUMBAI",
+        "Secondary Level",
+        "Name : SMES SCHOOL Head/Principal Name: Salima Sharief",
+        "Address : 369, TPS - III, SENAPATI BAPAT MARG, MAHIM, MUMBAI 400016 Website : https://www.smesschoolmahim.edu.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131485",
+      "serial_number": "61",
+      "affiliation_and_school_code": "Aff. No. : 1131485 Sch. Code: 31474",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : SMES SCHOOL Head/Principal Name: Salima Sharief",
+      "address_and_website": "Address : 369, TPS - III, SENAPATI BAPAT MARG, MAHIM, MUMBAI 400016 Website : https://www.smesschoolmahim.edu.in/",
+      "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+      "Name of Institution": "SMES SCHOOL",
+      "Affiliation Number": "1131485",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI",
+      "Postal Address": "369, TPS - III, SENAPATI BAPAT MARG, MAHIM, MUMBAI 400016",
+      "Pin Code": "400016",
+      "Website": "https://www.smesschoolmahim.edu.in/",
+      "Year of Foundation": "2012",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "Salima Sharief",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M. A. B. Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "2",
+      "Teaching:": "10",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "Saraswati Mandir Education Society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

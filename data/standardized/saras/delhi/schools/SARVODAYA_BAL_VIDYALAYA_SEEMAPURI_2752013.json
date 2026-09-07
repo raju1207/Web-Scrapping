@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752013",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SARVODAYA_BAL_VIDYALAYA_SEEMAPURI_2752013.json"
+  },
+  "school_identity": {
+    "school_name": "SARVODAYA BAL VIDYALAYA SEEMAPURI",
+    "udise_code": null,
+    "cbse_affiliation_number": "2752013",
+    "cbse_school_code": "27254"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "EAST DELHI",
+    "block": null,
+    "address": "SEEMA PURI DELHI",
+    "pincode": "110095"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1980",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "BHUPENDRA",
+    "gender": "Male",
+    "qualification": "B.Com B.Ed",
+    "administrative_experience": "1",
+    "teaching_experience": "14"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2752013",
+    "school_code": "27254",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2027",
+    "affiliation_to": "31/03/2032",
+    "affiliation_period_raw": "From : 01/04/2027 To : 31/03/2032",
+    "trust_society": "delhi administration"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2752013",
+      "listing_raw_columns": [
+        "1139",
+        "Aff. No. : 2752013 Sch. Code: 27254",
+        "State : DELHI District : EAST DELHI",
+        "Senior Secondary Level",
+        "Name : SARVODAYA BAL VIDYALAYA SEEMAPURI Head/Principal Name: BHUPENDRA",
+        "Address : SEEMA PURI DELHI Website : https://www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752013",
+      "serial_number": "1139",
+      "affiliation_and_school_code": "Aff. No. : 2752013 Sch. Code: 27254",
+      "state_and_district": "State : DELHI District : EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SARVODAYA BAL VIDYALAYA SEEMAPURI Head/Principal Name: BHUPENDRA",
+      "address_and_website": "Address : SEEMA PURI DELHI Website : https://www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "SARVODAYA BAL VIDYALAYA SEEMAPURI",
+      "Affiliation Number": "2752013",
+      "State": "DELHI",
+      "District": "EAST DELHI",
+      "Postal Address": "SEEMA PURI DELHI",
+      "Pin Code": "110095",
+      "Website": "https://www.edudel.nic.in",
+      "Year of Foundation": "1980",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "BHUPENDRA",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "B.Com B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "1",
+      "Teaching:": "14",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+      "Name of Trust/ Society/ Managing Committee": "delhi administration",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

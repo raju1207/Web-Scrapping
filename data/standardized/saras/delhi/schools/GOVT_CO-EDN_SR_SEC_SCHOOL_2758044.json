@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2758044",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_CO-EDN_SR_SEC_SCHOOL_2758044.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT CO-EDN SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2758044",
+    "cbse_school_code": "87624"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "KAVITA COLONY NANGLOI DELHI",
+    "pincode": "110041"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1990",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.EDUDEL.NIC.IN",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "NEELAM",
+    "gender": "Female",
+    "qualification": "MA",
+    "administrative_experience": "8",
+    "teaching_experience": "30"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2758044",
+    "school_code": "87624",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "directate of education"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2758044",
+      "listing_raw_columns": [
+        "1610",
+        "Aff. No. : 2758044 Sch. Code: 87624",
+        "State : DELHI District : WEST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT CO-EDN SR SEC SCHOOL Head/Principal Name: NEELAM",
+        "Address : KAVITA COLONY NANGLOI DELHI Website : www.EDUDEL.NIC.IN",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2758044",
+      "serial_number": "1610",
+      "affiliation_and_school_code": "Aff. No. : 2758044 Sch. Code: 87624",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT CO-EDN SR SEC SCHOOL Head/Principal Name: NEELAM",
+      "address_and_website": "Address : KAVITA COLONY NANGLOI DELHI Website : www.EDUDEL.NIC.IN"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT CO-EDN SR SEC SCHOOL",
+      "Affiliation Number": "2758044",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "KAVITA COLONY NANGLOI DELHI",
+      "Pin Code": "110041",
+      "Website": "www.EDUDEL.NIC.IN",
+      "Year of Foundation": "1990",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "NEELAM",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "8",
+      "Teaching:": "30",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "directate of education",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

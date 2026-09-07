@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730652",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SONA_MODERN_PUBLIC_SCHOOL_(SECONDARY)_2730652.json"
+  },
+  "school_identity": {
+    "school_name": "SONA MODERN PUBLIC SCHOOL (SECONDARY)",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730652",
+    "cbse_school_code": "25163"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH DELHI",
+    "block": null,
+    "address": "A-3/4 DEVLI ROAD, KHANPUR, NEW DELHI-110062",
+    "pincode": "110062"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1999",
+    "first_opening_date": "01 Apr 1999",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.sonaschool.edu.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SHEFALI SAHU",
+    "gender": "Female",
+    "qualification": "MA BED",
+    "administrative_experience": "3",
+    "teaching_experience": "18"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730652",
+    "school_code": "25163",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "SONA MODERN EDUCATION SOCIETY (REGD.)"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730652",
+      "listing_raw_columns": [
+        "720",
+        "Aff. No. : 2730652 Sch. Code: 25163",
+        "State : DELHI District : SOUTH DELHI",
+        "Senior Secondary Level",
+        "Name : SONA MODERN PUBLIC SCHOOL (SECONDARY) Head/Principal Name: SHEFALI SAHU",
+        "Address : A-3/4 DEVLI ROAD, KHANPUR, NEW DELHI-110062 Website : www.sonaschool.edu.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730652",
+      "serial_number": "720",
+      "affiliation_and_school_code": "Aff. No. : 2730652 Sch. Code: 25163",
+      "state_and_district": "State : DELHI District : SOUTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SONA MODERN PUBLIC SCHOOL (SECONDARY) Head/Principal Name: SHEFALI SAHU",
+      "address_and_website": "Address : A-3/4 DEVLI ROAD, KHANPUR, NEW DELHI-110062 Website : www.sonaschool.edu.in"
+    },
+    "school_details": {
+      "Name of Institution": "SONA MODERN PUBLIC SCHOOL (SECONDARY)",
+      "Affiliation Number": "2730652",
+      "State": "DELHI",
+      "District": "SOUTH DELHI",
+      "Postal Address": "A-3/4 DEVLI ROAD, KHANPUR, NEW DELHI-110062",
+      "Pin Code": "110062",
+      "Website": "www.sonaschool.edu.in",
+      "Year of Foundation": "1999",
+      "Date of First Opening of School": "01 Apr 1999",
+      "Name of Principal/ Head of Institution": "SHEFALI SAHU",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA BED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "3",
+      "Teaching:": "18",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "SONA MODERN EDUCATION SOCIETY (REGD.)",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

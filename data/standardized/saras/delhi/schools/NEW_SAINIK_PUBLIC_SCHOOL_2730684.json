@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730684",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\NEW_SAINIK_PUBLIC_SCHOOL_2730684.json"
+  },
+  "school_identity": {
+    "school_name": "NEW SAINIK PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730684",
+    "cbse_school_code": "25304"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "QUTUB VIHAR, P.O. GOYALA DAIRY,",
+    "pincode": "110071"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2004",
+    "first_opening_date": "01 Apr 2004",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.newsainikschool.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "DR. NIRAJ SINGH",
+    "gender": "Female",
+    "qualification": "M.SC, B.Ed, P.HD",
+    "administrative_experience": "7",
+    "teaching_experience": "5"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730684",
+    "school_code": "25304",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "GEETA CHARITABLE TRUST"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730684",
+      "listing_raw_columns": [
+        "752",
+        "Aff. No. : 2730684 Sch. Code: 25304",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : NEW SAINIK PUBLIC SCHOOL Head/Principal Name: DR. NIRAJ SINGH",
+        "Address : QUTUB VIHAR, P.O. GOYALA DAIRY, Website : www.newsainikschool.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730684",
+      "serial_number": "752",
+      "affiliation_and_school_code": "Aff. No. : 2730684 Sch. Code: 25304",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : NEW SAINIK PUBLIC SCHOOL Head/Principal Name: DR. NIRAJ SINGH",
+      "address_and_website": "Address : QUTUB VIHAR, P.O. GOYALA DAIRY, Website : www.newsainikschool.in"
+    },
+    "school_details": {
+      "Name of Institution": "NEW SAINIK PUBLIC SCHOOL",
+      "Affiliation Number": "2730684",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "QUTUB VIHAR, P.O. GOYALA DAIRY,",
+      "Pin Code": "110071",
+      "Website": "www.newsainikschool.in",
+      "Year of Foundation": "2004",
+      "Date of First Opening of School": "01 Apr 2004",
+      "Name of Principal/ Head of Institution": "DR. NIRAJ SINGH",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.SC, B.Ed, P.HD",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "7",
+      "Teaching:": "5",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "GEETA CHARITABLE TRUST",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

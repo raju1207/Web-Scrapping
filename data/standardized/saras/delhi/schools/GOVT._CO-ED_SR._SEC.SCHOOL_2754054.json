@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754054",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT._CO-ED_SR._SEC.SCHOOL_2754054.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT. CO-ED SR. SEC.SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2754054",
+    "cbse_school_code": "27168"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "SECTOR-III R K PURAM NEW DELHI",
+    "pincode": "110022"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1962",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "BEENA KUMARI",
+    "gender": "Female",
+    "qualification": "MA HINDI B.ED.",
+    "administrative_experience": "4",
+    "teaching_experience": "24"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2754054",
+    "school_code": "27168",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2030",
+    "trust_society": "DELHI ADMINISTRATION"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2754054",
+      "listing_raw_columns": [
+        "1308",
+        "Aff. No. : 2754054 Sch. Code: 27168",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT. CO-ED SR. SEC.SCHOOL Head/Principal Name: BEENA KUMARI",
+        "Address : SECTOR-III R K PURAM NEW DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754054",
+      "serial_number": "1308",
+      "affiliation_and_school_code": "Aff. No. : 2754054 Sch. Code: 27168",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT. CO-ED SR. SEC.SCHOOL Head/Principal Name: BEENA KUMARI",
+      "address_and_website": "Address : SECTOR-III R K PURAM NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT. CO-ED SR. SEC.SCHOOL",
+      "Affiliation Number": "2754054",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "SECTOR-III R K PURAM NEW DELHI",
+      "Pin Code": "110022",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "1962",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "BEENA KUMARI",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA HINDI B.ED.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "4",
+      "Teaching:": "24",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

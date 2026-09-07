@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730367",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SMT_MISRI_DEVI_GYAN_NIKETAN_2730367.json"
+  },
+  "school_identity": {
+    "school_name": "SMT MISRI DEVI GYAN NIKETAN",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730367",
+    "cbse_school_code": "25337"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "SHYAM VIHAR GOYLA TAJPUR ROAD NAJAFGARH, DISTT SOUTH WEST DELHI, NEW DELHI",
+    "pincode": "110043"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1997",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.smdgndelhi.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "DUSHYANT VATS",
+    "gender": "Male",
+    "qualification": "M.A., B.ed",
+    "administrative_experience": "04",
+    "teaching_experience": "02"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730367",
+    "school_code": "25337",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": null
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730367",
+      "listing_raw_columns": [
+        "447",
+        "Aff. No. : 2730367 Sch. Code: 25337",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : SMT MISRI DEVI GYAN NIKETAN Head/Principal Name: DUSHYANT VATS",
+        "Address : SHYAM VIHAR GOYLA TAJPUR ROAD NAJAFGARH, DISTT SOUTH WEST DELHI, NEW DELHI Website : www.smdgndelhi.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730367",
+      "serial_number": "447",
+      "affiliation_and_school_code": "Aff. No. : 2730367 Sch. Code: 25337",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SMT MISRI DEVI GYAN NIKETAN Head/Principal Name: DUSHYANT VATS",
+      "address_and_website": "Address : SHYAM VIHAR GOYLA TAJPUR ROAD NAJAFGARH, DISTT SOUTH WEST DELHI, NEW DELHI Website : www.smdgndelhi.com"
+    },
+    "school_details": {
+      "Name of Institution": "SMT MISRI DEVI GYAN NIKETAN",
+      "Affiliation Number": "2730367",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "SHYAM VIHAR GOYLA TAJPUR ROAD NAJAFGARH, DISTT SOUTH WEST DELHI, NEW DELHI",
+      "Pin Code": "110043",
+      "Website": "www.smdgndelhi.com",
+      "Year of Foundation": "1997",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "DUSHYANT VATS",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.A., B.ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "04",
+      "Teaching:": "02",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": null,
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

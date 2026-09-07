@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778027",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\C_L_BHALLA_D_A_V_SR_SEC_SCHOOL_2778027.json"
+  },
+  "school_identity": {
+    "school_name": "C L BHALLA D A V SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2778027",
+    "cbse_school_code": "87064"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "JHANDEWALAN NEW DELHI",
+    "pincode": "110005"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT AIDED",
+    "foundation_year": "1948",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.clbhalladavschool.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "ARUN ARYA",
+    "gender": "Male",
+    "qualification": "M.COM MA",
+    "administrative_experience": "20",
+    "teaching_experience": "13"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2778027",
+    "school_code": "87064",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2029",
+    "trust_society": "d a v college managing committee"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2778027",
+      "listing_raw_columns": [
+        "2144",
+        "Aff. No. : 2778027 Sch. Code: 87064",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : C L BHALLA D A V SR SEC SCHOOL Head/Principal Name: ARUN ARYA",
+        "Address : JHANDEWALAN NEW DELHI Website : www.clbhalladavschool.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778027",
+      "serial_number": "2144",
+      "affiliation_and_school_code": "Aff. No. : 2778027 Sch. Code: 87064",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : C L BHALLA D A V SR SEC SCHOOL Head/Principal Name: ARUN ARYA",
+      "address_and_website": "Address : JHANDEWALAN NEW DELHI Website : www.clbhalladavschool.in"
+    },
+    "school_details": {
+      "Name of Institution": "C L BHALLA D A V SR SEC SCHOOL",
+      "Affiliation Number": "2778027",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "JHANDEWALAN NEW DELHI",
+      "Pin Code": "110005",
+      "Website": "www.clbhalladavschool.in",
+      "Year of Foundation": "1948",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "ARUN ARYA",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.COM MA",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "20",
+      "Teaching:": "13",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT AIDED",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "d a v college managing committee",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

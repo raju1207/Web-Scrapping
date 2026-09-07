@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750024",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_SARVODAYA_BOYS_SR_SEC_SCHOOL_2750024.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT SARVODAYA BOYS SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2750024",
+    "cbse_school_code": "87299"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "POOTH KALAN DELHI",
+    "pincode": "110041"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1966",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.EDUDEL.NIC.IN",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "DIWAN SINGH",
+    "gender": "Male",
+    "qualification": "POST GRADUATE",
+    "administrative_experience": "5",
+    "teaching_experience": "13"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2750024",
+    "school_code": "87299",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "DELHI ADMINISTRATION"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2750024",
+      "listing_raw_columns": [
+        "982",
+        "Aff. No. : 2750024 Sch. Code: 87299",
+        "State : DELHI District : WEST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT SARVODAYA BOYS SR SEC SCHOOL Head/Principal Name: DIWAN SINGH",
+        "Address : POOTH KALAN DELHI Website : www.EDUDEL.NIC.IN",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750024",
+      "serial_number": "982",
+      "affiliation_and_school_code": "Aff. No. : 2750024 Sch. Code: 87299",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT SARVODAYA BOYS SR SEC SCHOOL Head/Principal Name: DIWAN SINGH",
+      "address_and_website": "Address : POOTH KALAN DELHI Website : www.EDUDEL.NIC.IN"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT SARVODAYA BOYS SR SEC SCHOOL",
+      "Affiliation Number": "2750024",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "POOTH KALAN DELHI",
+      "Pin Code": "110041",
+      "Website": "www.EDUDEL.NIC.IN",
+      "Year of Foundation": "1966",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "DIWAN SINGH",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "POST GRADUATE",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "5",
+      "Teaching:": "13",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

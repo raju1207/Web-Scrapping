@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756092",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SARVODAYA_BAL_VIDYALAYA_2756092.json"
+  },
+  "school_identity": {
+    "school_name": "SARVODAYA BAL VIDYALAYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2756092",
+    "cbse_school_code": "87662"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "BLOCK-A VIKAS PURI NEW DELHI",
+    "pincode": "110018"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2004",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "KAPIL KUMAR GUPTA",
+    "gender": "Male",
+    "qualification": "M.A. Eng, M.Phil Eng, PhD Eng, UGC-NET Eng, B.ED",
+    "administrative_experience": "5",
+    "teaching_experience": "16"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2756092",
+    "school_code": "87662",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "GOVT SCHOOL"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2756092",
+      "listing_raw_columns": [
+        "1474",
+        "Aff. No. : 2756092 Sch. Code: 87662",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : SARVODAYA BAL VIDYALAYA Head/Principal Name: KAPIL KUMAR GUPTA",
+        "Address : BLOCK-A VIKAS PURI NEW DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756092",
+      "serial_number": "1474",
+      "affiliation_and_school_code": "Aff. No. : 2756092 Sch. Code: 87662",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SARVODAYA BAL VIDYALAYA Head/Principal Name: KAPIL KUMAR GUPTA",
+      "address_and_website": "Address : BLOCK-A VIKAS PURI NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "SARVODAYA BAL VIDYALAYA",
+      "Affiliation Number": "2756092",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "BLOCK-A VIKAS PURI NEW DELHI",
+      "Pin Code": "110018",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "2004",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "KAPIL KUMAR GUPTA",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.A. Eng, M.Phil Eng, PhD Eng, UGC-NET Eng, B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "5",
+      "Teaching:": "16",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "GOVT SCHOOL",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

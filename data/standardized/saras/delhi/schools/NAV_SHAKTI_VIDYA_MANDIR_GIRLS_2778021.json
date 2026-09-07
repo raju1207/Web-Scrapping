@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778021",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\NAV_SHAKTI_VIDYA_MANDIR_GIRLS_2778021.json"
+  },
+  "school_identity": {
+    "school_name": "NAV SHAKTI VIDYA MANDIR GIRLS",
+    "udise_code": null,
+    "cbse_affiliation_number": "2778021",
+    "cbse_school_code": "87094"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "SR SEC SCHOOL PAHAR GANJ NEW DELHI",
+    "pincode": "110055"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT AIDED",
+    "foundation_year": "1951",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.nvmgssspaharganj.org",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "PARAMJEET",
+    "gender": "Female",
+    "qualification": "M.A. B.ED",
+    "administrative_experience": "0",
+    "teaching_experience": "29"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2778021",
+    "school_code": "87094",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "navshakti educational society regd"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2778021",
+      "listing_raw_columns": [
+        "2138",
+        "Aff. No. : 2778021 Sch. Code: 87094",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : NAV SHAKTI VIDYA MANDIR GIRLS Head/Principal Name: PARAMJEET",
+        "Address : SR SEC SCHOOL PAHAR GANJ NEW DELHI Website : www.nvmgssspaharganj.org",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778021",
+      "serial_number": "2138",
+      "affiliation_and_school_code": "Aff. No. : 2778021 Sch. Code: 87094",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : NAV SHAKTI VIDYA MANDIR GIRLS Head/Principal Name: PARAMJEET",
+      "address_and_website": "Address : SR SEC SCHOOL PAHAR GANJ NEW DELHI Website : www.nvmgssspaharganj.org"
+    },
+    "school_details": {
+      "Name of Institution": "NAV SHAKTI VIDYA MANDIR GIRLS",
+      "Affiliation Number": "2778021",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "SR SEC SCHOOL PAHAR GANJ NEW DELHI",
+      "Pin Code": "110055",
+      "Website": "www.nvmgssspaharganj.org",
+      "Year of Foundation": "1951",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "PARAMJEET",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A. B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "0",
+      "Teaching:": "29",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT AIDED",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "navshakti educational society regd",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

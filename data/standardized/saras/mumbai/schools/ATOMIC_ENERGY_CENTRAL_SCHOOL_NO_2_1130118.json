@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130118",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\ATOMIC_ENERGY_CENTRAL_SCHOOL_NO_2_1130118.json"
+  },
+  "school_identity": {
+    "school_name": "ATOMIC ENERGY CENTRAL SCHOOL NO 2",
+    "udise_code": null,
+    "cbse_affiliation_number": "1130118",
+    "cbse_school_code": "34100"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "block": null,
+    "address": "ANUSHAKTI NAGAR MUMBAI MAHARASHTRA",
+    "pincode": "400094"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1972",
+    "first_opening_date": "03 Jul 2000",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.aecsmum2.ac.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "INU BANSAL",
+    "gender": "Female",
+    "qualification": "M Sc B Ed",
+    "administrative_experience": "7",
+    "teaching_experience": "19"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1130118",
+    "school_code": "34100",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "ATOMIC ENERGY EDU SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1130118",
+      "listing_raw_columns": [
+        "21",
+        "Aff. No. : 1130118 Sch. Code: 34100",
+        "State : MAHARASHTRA District : MUMBAI",
+        "Secondary Level",
+        "Name : ATOMIC ENERGY CENTRAL SCHOOL NO 2 Head/Principal Name: INU BANSAL",
+        "Address : ANUSHAKTI NAGAR MUMBAI MAHARASHTRA Website : www.aecsmum2.ac.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130118",
+      "serial_number": "21",
+      "affiliation_and_school_code": "Aff. No. : 1130118 Sch. Code: 34100",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : ATOMIC ENERGY CENTRAL SCHOOL NO 2 Head/Principal Name: INU BANSAL",
+      "address_and_website": "Address : ANUSHAKTI NAGAR MUMBAI MAHARASHTRA Website : www.aecsmum2.ac.in",
+      "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+      "Name of Institution": "ATOMIC ENERGY CENTRAL SCHOOL NO 2",
+      "Affiliation Number": "1130118",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI",
+      "Postal Address": "ANUSHAKTI NAGAR MUMBAI MAHARASHTRA",
+      "Pin Code": "400094",
+      "Website": "www.aecsmum2.ac.in",
+      "Year of Foundation": "1972",
+      "Date of First Opening of School": "03 Jul 2000",
+      "Name of Principal/ Head of Institution": "INU BANSAL",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M Sc B Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "7",
+      "Teaching:": "19",
+      "Status of The School": "Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "ATOMIC ENERGY EDU SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

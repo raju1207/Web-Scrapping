@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730917",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\J_.R._ROYAL_PUBLIC_SCHOOL_2730917.json"
+  },
+  "school_identity": {
+    "school_name": "J .R. ROYAL PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730917",
+    "cbse_school_code": "25569"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH DELHI",
+    "block": null,
+    "address": "34/3 , JONAPUR, NEW DELHI",
+    "pincode": "110047"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2014",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.jrroyalps.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "JYOTI NAGAR",
+    "gender": "Female",
+    "qualification": "M.A,B.ed",
+    "administrative_experience": "4",
+    "teaching_experience": "10"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730917",
+    "school_code": "25569",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "CHAUDHARY AFLATOON MEMORIAL AND CHARITABLE SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730917",
+      "listing_raw_columns": [
+        "932",
+        "Aff. No. : 2730917 Sch. Code: 25569",
+        "State : DELHI District : SOUTH DELHI",
+        "Secondary Level",
+        "Name : J .R. ROYAL PUBLIC SCHOOL Head/Principal Name: JYOTI NAGAR",
+        "Address : 34/3 , JONAPUR, NEW DELHI Website : www.jrroyalps.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730917",
+      "serial_number": "932",
+      "affiliation_and_school_code": "Aff. No. : 2730917 Sch. Code: 25569",
+      "state_and_district": "State : DELHI District : SOUTH DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : J .R. ROYAL PUBLIC SCHOOL Head/Principal Name: JYOTI NAGAR",
+      "address_and_website": "Address : 34/3 , JONAPUR, NEW DELHI Website : www.jrroyalps.com"
+    },
+    "school_details": {
+      "Name of Institution": "J .R. ROYAL PUBLIC SCHOOL",
+      "Affiliation Number": "2730917",
+      "State": "DELHI",
+      "District": "SOUTH DELHI",
+      "Postal Address": "34/3 , JONAPUR, NEW DELHI",
+      "Pin Code": "110047",
+      "Website": "www.jrroyalps.com",
+      "Year of Foundation": "2014",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "JYOTI NAGAR",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A,B.ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "4",
+      "Teaching:": "10",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "CHAUDHARY AFLATOON MEMORIAL AND CHARITABLE SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

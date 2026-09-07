@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130581",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\ORCHIDS_THE_INTERNATIONAL_SCHOOL_1130581.json"
+  },
+  "school_identity": {
+    "school_name": "ORCHIDS THE INTERNATIONAL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "1130581",
+    "cbse_school_code": "30507"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "block": null,
+    "address": "COSMOS ARCADE, AZAD NAGAR,OPPOSITE BRAHMAND PHASE 4,BESIDE TMC WATER TANK, KOLSHET,THANE (WEST), 400607.",
+    "pincode": "400607"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2014",
+    "first_opening_date": "02 Jun 2014",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.orchidsinternationalschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SANGITA GAJBHARE",
+    "gender": "Female",
+    "qualification": "Masters in Physical Chemistry and Education",
+    "administrative_experience": "14",
+    "teaching_experience": "10"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1130581",
+    "school_code": "30507",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "HANSALAXMI CHARITABLE TRUST"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1130581",
+      "listing_raw_columns": [
+        "40",
+        "Aff. No. : 1130581 Sch. Code: 30507",
+        "State : MAHARASHTRA District : MUMBAI",
+        "Senior Secondary Level",
+        "Name : ORCHIDS THE INTERNATIONAL SCHOOL Head/Principal Name: SANGITA GAJBHARE",
+        "Address : COSMOS ARCADE, AZAD NAGAR,OPPOSITE BRAHMAND PHASE 4,BESIDE TMC WATER TANK, KOLSHET,THANE (WEST), 400607. Website : www.orchidsinternationalschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130581",
+      "serial_number": "40",
+      "affiliation_and_school_code": "Aff. No. : 1130581 Sch. Code: 30507",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : ORCHIDS THE INTERNATIONAL SCHOOL Head/Principal Name: SANGITA GAJBHARE",
+      "address_and_website": "Address : COSMOS ARCADE, AZAD NAGAR,OPPOSITE BRAHMAND PHASE 4,BESIDE TMC WATER TANK, KOLSHET,THANE (WEST), 400607. Website : www.orchidsinternationalschool.com",
+      "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+      "Name of Institution": "ORCHIDS THE INTERNATIONAL SCHOOL",
+      "Affiliation Number": "1130581",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI",
+      "Postal Address": "COSMOS ARCADE, AZAD NAGAR,OPPOSITE BRAHMAND PHASE 4,BESIDE TMC WATER TANK, KOLSHET,THANE (WEST), 400607.",
+      "Pin Code": "400607",
+      "Website": "www.orchidsinternationalschool.com",
+      "Year of Foundation": "2014",
+      "Date of First Opening of School": "02 Jun 2014",
+      "Name of Principal/ Head of Institution": "SANGITA GAJBHARE",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "Masters in Physical Chemistry and Education",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "14",
+      "Teaching:": "10",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "HANSALAXMI CHARITABLE TRUST",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

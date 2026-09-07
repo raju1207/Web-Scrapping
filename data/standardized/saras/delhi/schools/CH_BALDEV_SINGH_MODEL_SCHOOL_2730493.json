@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730493",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\CH_BALDEV_SINGH_MODEL_SCHOOL_2730493.json"
+  },
+  "school_identity": {
+    "school_name": "CH BALDEV SINGH MODEL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730493",
+    "cbse_school_code": "25052"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "BALDEV PARK MAIN MUKANKIPUR ROAD KIRARI EXTN, DISTT NORTH WEST DELHI, DELHI",
+    "pincode": "110041"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1997",
+    "first_opening_date": "09 Jul 2003",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.cbsschool.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "USHA GREWAL",
+    "gender": "Female",
+    "qualification": "M.Sc. B.Ed.",
+    "administrative_experience": "9",
+    "teaching_experience": "10"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730493",
+    "school_code": "25052",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "ch baldev singh education society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730493",
+      "listing_raw_columns": [
+        "566",
+        "Aff. No. : 2730493 Sch. Code: 25052",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Secondary Level",
+        "Name : CH BALDEV SINGH MODEL SCHOOL Head/Principal Name: USHA GREWAL",
+        "Address : BALDEV PARK MAIN MUKANKIPUR ROAD KIRARI EXTN, DISTT NORTH WEST DELHI, DELHI Website : www.cbsschool.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730493",
+      "serial_number": "566",
+      "affiliation_and_school_code": "Aff. No. : 2730493 Sch. Code: 25052",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : CH BALDEV SINGH MODEL SCHOOL Head/Principal Name: USHA GREWAL",
+      "address_and_website": "Address : BALDEV PARK MAIN MUKANKIPUR ROAD KIRARI EXTN, DISTT NORTH WEST DELHI, DELHI Website : www.cbsschool.in"
+    },
+    "school_details": {
+      "Name of Institution": "CH BALDEV SINGH MODEL SCHOOL",
+      "Affiliation Number": "2730493",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "BALDEV PARK MAIN MUKANKIPUR ROAD KIRARI EXTN, DISTT NORTH WEST DELHI, DELHI",
+      "Pin Code": "110041",
+      "Website": "www.cbsschool.in",
+      "Year of Foundation": "1997",
+      "Date of First Opening of School": "09 Jul 2003",
+      "Name of Principal/ Head of Institution": "USHA GREWAL",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.Sc. B.Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "9",
+      "Teaching:": "10",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "ch baldev singh education society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

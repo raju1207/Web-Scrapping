@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730317",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\WEST_POINT_MODEL_SCHOOL_2730317.json"
+  },
+  "school_identity": {
+    "school_name": "WEST POINT MODEL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730317",
+    "cbse_school_code": "25403"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "OM VIHAR PHASE III UTTAM NAGAR, DISTT WEST DELHI, NEW DELHI",
+    "pincode": "110059"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1995",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://westpointmodelschool.com/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SANJEEV KUMAR",
+    "gender": "Male",
+    "qualification": "M.A ECO B.ED",
+    "administrative_experience": "6",
+    "teaching_experience": "14"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730317",
+    "school_code": "25403",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "BROTHER HOOD EDUCATION SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730317",
+      "listing_raw_columns": [
+        "400",
+        "Aff. No. : 2730317 Sch. Code: 25403",
+        "State : DELHI District : WEST DELHI",
+        "Senior Secondary Level",
+        "Name : WEST POINT MODEL SCHOOL Head/Principal Name: SANJEEV KUMAR",
+        "Address : OM VIHAR PHASE III UTTAM NAGAR, DISTT WEST DELHI, NEW DELHI Website : https://westpointmodelschool.com/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730317",
+      "serial_number": "400",
+      "affiliation_and_school_code": "Aff. No. : 2730317 Sch. Code: 25403",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : WEST POINT MODEL SCHOOL Head/Principal Name: SANJEEV KUMAR",
+      "address_and_website": "Address : OM VIHAR PHASE III UTTAM NAGAR, DISTT WEST DELHI, NEW DELHI Website : https://westpointmodelschool.com/"
+    },
+    "school_details": {
+      "Name of Institution": "WEST POINT MODEL SCHOOL",
+      "Affiliation Number": "2730317",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "OM VIHAR PHASE III UTTAM NAGAR, DISTT WEST DELHI, NEW DELHI",
+      "Pin Code": "110059",
+      "Website": "https://westpointmodelschool.com/",
+      "Year of Foundation": "1995",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "SANJEEV KUMAR",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.A ECO B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "6",
+      "Teaching:": "14",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "BROTHER HOOD EDUCATION SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

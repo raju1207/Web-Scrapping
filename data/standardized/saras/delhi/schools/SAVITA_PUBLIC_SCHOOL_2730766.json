@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730766",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SAVITA_PUBLIC_SCHOOL_2730766.json"
+  },
+  "school_identity": {
+    "school_name": "SAVITA PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730766",
+    "cbse_school_code": "85052"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH DELHI",
+    "block": null,
+    "address": "173, OPPOSITE STREET NO.3, VILLAGE WAZIRABAD, DELHI 110084",
+    "pincode": "110084"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2002",
+    "first_opening_date": "02 Apr 2001",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.savitapublicschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "UPMA SAXENA",
+    "gender": "Female",
+    "qualification": "M.SC, B.Ed",
+    "administrative_experience": "20",
+    "teaching_experience": "14"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730766",
+    "school_code": "85052",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2031",
+    "trust_society": "RAVI DUTT TYAGI MEMORIAL EDUCATION SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730766",
+      "listing_raw_columns": [
+        "830",
+        "Aff. No. : 2730766 Sch. Code: 85052",
+        "State : DELHI District : NORTH DELHI",
+        "Secondary Level",
+        "Name : SAVITA PUBLIC SCHOOL Head/Principal Name: UPMA SAXENA",
+        "Address : 173, OPPOSITE STREET NO.3, VILLAGE WAZIRABAD, DELHI 110084 Website : www.savitapublicschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730766",
+      "serial_number": "830",
+      "affiliation_and_school_code": "Aff. No. : 2730766 Sch. Code: 85052",
+      "state_and_district": "State : DELHI District : NORTH DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : SAVITA PUBLIC SCHOOL Head/Principal Name: UPMA SAXENA",
+      "address_and_website": "Address : 173, OPPOSITE STREET NO.3, VILLAGE WAZIRABAD, DELHI 110084 Website : www.savitapublicschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "SAVITA PUBLIC SCHOOL",
+      "Affiliation Number": "2730766",
+      "State": "DELHI",
+      "District": "NORTH DELHI",
+      "Postal Address": "173, OPPOSITE STREET NO.3, VILLAGE WAZIRABAD, DELHI 110084",
+      "Pin Code": "110084",
+      "Website": "www.savitapublicschool.com",
+      "Year of Foundation": "2002",
+      "Date of First Opening of School": "02 Apr 2001",
+      "Name of Principal/ Head of Institution": "UPMA SAXENA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.SC, B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "20",
+      "Teaching:": "14",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "RAVI DUTT TYAGI MEMORIAL EDUCATION SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

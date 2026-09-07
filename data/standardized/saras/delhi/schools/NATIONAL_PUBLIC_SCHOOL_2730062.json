@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730062",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\NATIONAL_PUBLIC_SCHOOL_2730062.json"
+  },
+  "school_identity": {
+    "school_name": "NATIONAL PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730062",
+    "cbse_school_code": null
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH DELHI",
+    "block": null,
+    "address": "7 BELA ROAD CIVIL LINES DELHI",
+    "pincode": "110054"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": null,
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": null,
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "MRS S BHATIA",
+    "gender": "Female",
+    "qualification": null,
+    "administrative_experience": null,
+    "teaching_experience": null
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730062",
+    "school_code": null,
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2003",
+    "affiliation_to": "31/03/2008",
+    "affiliation_period_raw": "From : 01/04/2003 To : 31/03/2008",
+    "trust_society": "MANAGING SOCIETY NATIONAL SCHOOL DL"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730062",
+      "listing_raw_columns": [
+        "151",
+        "Aff. No. : 2730062 Sch. Code:",
+        "State : DELHI District : NORTH DELHI",
+        "Senior Secondary Level",
+        "Name : NATIONAL PUBLIC SCHOOL Head/Principal Name: MRS S BHATIA",
+        "Address : 7 BELA ROAD CIVIL LINES DELHI Website :",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730062",
+      "serial_number": "151",
+      "affiliation_and_school_code": "Aff. No. : 2730062 Sch. Code:",
+      "state_and_district": "State : DELHI District : NORTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : NATIONAL PUBLIC SCHOOL Head/Principal Name: MRS S BHATIA",
+      "address_and_website": "Address : 7 BELA ROAD CIVIL LINES DELHI Website :"
+    },
+    "school_details": {
+      "Name of Institution": "NATIONAL PUBLIC SCHOOL",
+      "Affiliation Number": "2730062",
+      "State": "DELHI",
+      "District": "NORTH DELHI",
+      "Postal Address": "7 BELA ROAD CIVIL LINES DELHI",
+      "Pin Code": "110054",
+      "Website": null,
+      "Year of Foundation": null,
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "MRS S BHATIA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": null,
+      "No of Experience ( in Years ):": null,
+      "Administrative:": null,
+      "Teaching:": null,
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2003 To : 31/03/2008",
+      "Name of Trust/ Society/ Managing Committee": "MANAGING SOCIETY NATIONAL SCHOOL DL",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

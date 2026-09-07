@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730168",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\AHLCON_PUBLIC_SCHOOL_2730168.json"
+  },
+  "school_identity": {
+    "school_name": "AHLCON PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730168",
+    "cbse_school_code": "25020"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "EAST DELHI",
+    "block": null,
+    "address": "MAYUR VIHAR PHASE I, DISTT EAST DELHI, DELHI",
+    "pincode": "110091"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1988",
+    "first_opening_date": "09 Jul 2003",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.ahlconpublicschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "DEEPAK RAJ SINGH BISHT",
+    "gender": "Male",
+    "qualification": "PHD",
+    "administrative_experience": "19",
+    "teaching_experience": "30"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730168",
+    "school_code": "25020",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "SHANTI DEVI PROGRESSIVE EDUCATION SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730168",
+      "listing_raw_columns": [
+        "256",
+        "Aff. No. : 2730168 Sch. Code: 25020",
+        "State : DELHI District : EAST DELHI",
+        "Senior Secondary Level",
+        "Name : AHLCON PUBLIC SCHOOL Head/Principal Name: DEEPAK RAJ SINGH BISHT",
+        "Address : MAYUR VIHAR PHASE I, DISTT EAST DELHI, DELHI Website : www.ahlconpublicschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730168",
+      "serial_number": "256",
+      "affiliation_and_school_code": "Aff. No. : 2730168 Sch. Code: 25020",
+      "state_and_district": "State : DELHI District : EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : AHLCON PUBLIC SCHOOL Head/Principal Name: DEEPAK RAJ SINGH BISHT",
+      "address_and_website": "Address : MAYUR VIHAR PHASE I, DISTT EAST DELHI, DELHI Website : www.ahlconpublicschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "AHLCON PUBLIC SCHOOL",
+      "Affiliation Number": "2730168",
+      "State": "DELHI",
+      "District": "EAST DELHI",
+      "Postal Address": "MAYUR VIHAR PHASE I, DISTT EAST DELHI, DELHI",
+      "Pin Code": "110091",
+      "Website": "www.ahlconpublicschool.com",
+      "Year of Foundation": "1988",
+      "Date of First Opening of School": "09 Jul 2003",
+      "Name of Principal/ Head of Institution": "DEEPAK RAJ SINGH BISHT",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "PHD",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "19",
+      "Teaching:": "30",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "SHANTI DEVI PROGRESSIVE EDUCATION SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

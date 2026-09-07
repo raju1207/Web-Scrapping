@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1100006",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\PM_SHRI_KENDRIYA_VIDYALAYA_INS_HAMLA_1100006.json"
+  },
+  "school_identity": {
+    "school_name": "PM SHRI KENDRIYA VIDYALAYA INS HAMLA",
+    "udise_code": null,
+    "cbse_affiliation_number": "1100006",
+    "cbse_school_code": "34010"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "block": null,
+    "address": "I N S HAMLA MALAD WEST MUMBAI MAHARASHTRA",
+    "pincode": "400095"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "KV",
+    "foundation_year": "1972",
+    "first_opening_date": "25 Jan 2009",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.hamlains.kvs.ac.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Madhulika Mitra Misra",
+    "gender": "Female",
+    "qualification": "M SC B ED",
+    "administrative_experience": "2",
+    "teaching_experience": "15"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1100006",
+    "school_code": "34010",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2027",
+    "affiliation_to": "31/03/2032",
+    "affiliation_period_raw": "From : 01/04/2027 To : 31/03/2032",
+    "trust_society": "KENDRIYA VIDYALAYA SANGATHAN"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1100006",
+      "listing_raw_columns": [
+        "4",
+        "Aff. No. : 1100006 Sch. Code: 34010",
+        "State : MAHARASHTRA District : MUMBAI",
+        "Senior Secondary Level",
+        "Name : PM SHRI KENDRIYA VIDYALAYA INS HAMLA Head/Principal Name: Madhulika Mitra Misra",
+        "Address : I N S HAMLA MALAD WEST MUMBAI MAHARASHTRA Website : www.hamlains.kvs.ac.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1100006",
+      "serial_number": "4",
+      "affiliation_and_school_code": "Aff. No. : 1100006 Sch. Code: 34010",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : PM SHRI KENDRIYA VIDYALAYA INS HAMLA Head/Principal Name: Madhulika Mitra Misra",
+      "address_and_website": "Address : I N S HAMLA MALAD WEST MUMBAI MAHARASHTRA Website : www.hamlains.kvs.ac.in",
+      "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+      "Name of Institution": "PM SHRI KENDRIYA VIDYALAYA INS HAMLA",
+      "Affiliation Number": "1100006",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI",
+      "Postal Address": "I N S HAMLA MALAD WEST MUMBAI MAHARASHTRA",
+      "Pin Code": "400095",
+      "Website": "www.hamlains.kvs.ac.in",
+      "Year of Foundation": "1972",
+      "Date of First Opening of School": "25 Jan 2009",
+      "Name of Principal/ Head of Institution": "Madhulika Mitra Misra",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M SC B ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "2",
+      "Teaching:": "15",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "KV",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+      "Name of Trust/ Society/ Managing Committee": "KENDRIYA VIDYALAYA SANGATHAN",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

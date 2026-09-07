@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730092",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\ST_PAUL'S_SCHOOL_2730092.json"
+  },
+  "school_identity": {
+    "school_name": "ST PAUL'S SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730092",
+    "cbse_school_code": "25159"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "C-III SAFDARJUNG DEVELOPMENT AREA HAUZ KHAS NEW DELHI",
+    "pincode": "110016"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1968",
+    "first_opening_date": "02 Apr 2001",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.stpauls-delhi.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "REGI OOMMEN",
+    "gender": "Male",
+    "qualification": "M.Sc- Mathematics , B.Ed.",
+    "administrative_experience": "16",
+    "teaching_experience": "36"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730092",
+    "school_code": "25159",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "THE DELHI ORTHODOX SYRIAN CHURCH SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730092",
+      "listing_raw_columns": [
+        "180",
+        "Aff. No. : 2730092 Sch. Code: 25159",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : ST PAUL'S SCHOOL Head/Principal Name: REGI OOMMEN",
+        "Address : C-III SAFDARJUNG DEVELOPMENT AREA HAUZ KHAS NEW DELHI Website : www.stpauls-delhi.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730092",
+      "serial_number": "180",
+      "affiliation_and_school_code": "Aff. No. : 2730092 Sch. Code: 25159",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : ST PAUL'S SCHOOL Head/Principal Name: REGI OOMMEN",
+      "address_and_website": "Address : C-III SAFDARJUNG DEVELOPMENT AREA HAUZ KHAS NEW DELHI Website : www.stpauls-delhi.com"
+    },
+    "school_details": {
+      "Name of Institution": "ST PAUL'S SCHOOL",
+      "Affiliation Number": "2730092",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "C-III SAFDARJUNG DEVELOPMENT AREA HAUZ KHAS NEW DELHI",
+      "Pin Code": "110016",
+      "Website": "www.stpauls-delhi.com",
+      "Year of Foundation": "1968",
+      "Date of First Opening of School": "02 Apr 2001",
+      "Name of Principal/ Head of Institution": "REGI OOMMEN",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.Sc- Mathematics , B.Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "16",
+      "Teaching:": "36",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "THE DELHI ORTHODOX SYRIAN CHURCH SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

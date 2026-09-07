@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730293",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\BHARAT_MATA_SARASWATI_BAL_MANDIR_2730293.json"
+  },
+  "school_identity": {
+    "school_name": "BHARAT MATA SARASWATI BAL MANDIR",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730293",
+    "cbse_school_code": "85097"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "BAWANA ROAD NARELA DELHI",
+    "pincode": "110040"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1992",
+    "first_opening_date": "01 Apr 2004",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.bharatmataschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "NARESH KUMAR",
+    "gender": "Male",
+    "qualification": "M.A, B.ED",
+    "administrative_experience": "06",
+    "teaching_experience": "12"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730293",
+    "school_code": "85097",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "raja ram hari krishan dharmik trust"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730293",
+      "listing_raw_columns": [
+        "378",
+        "Aff. No. : 2730293 Sch. Code: 85097",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Secondary Level",
+        "Name : BHARAT MATA SARASWATI BAL MANDIR Head/Principal Name: NARESH KUMAR",
+        "Address : BAWANA ROAD NARELA DELHI Website : www.bharatmataschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730293",
+      "serial_number": "378",
+      "affiliation_and_school_code": "Aff. No. : 2730293 Sch. Code: 85097",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : BHARAT MATA SARASWATI BAL MANDIR Head/Principal Name: NARESH KUMAR",
+      "address_and_website": "Address : BAWANA ROAD NARELA DELHI Website : www.bharatmataschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "BHARAT MATA SARASWATI BAL MANDIR",
+      "Affiliation Number": "2730293",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "BAWANA ROAD NARELA DELHI",
+      "Pin Code": "110040",
+      "Website": "www.bharatmataschool.com",
+      "Year of Foundation": "1992",
+      "Date of First Opening of School": "01 Apr 2004",
+      "Name of Principal/ Head of Institution": "NARESH KUMAR",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.A, B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "06",
+      "Teaching:": "12",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "raja ram hari krishan dharmik trust",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

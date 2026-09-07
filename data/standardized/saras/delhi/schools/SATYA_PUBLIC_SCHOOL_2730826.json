@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730826",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SATYA_PUBLIC_SCHOOL_2730826.json"
+  },
+  "school_identity": {
+    "school_name": "SATYA PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730826",
+    "cbse_school_code": "25422"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "QUTAB VIHAR, MAIN ROAD, GOYLA DAIRY, NEAR SECTOR-19 DWARKA, NEW DELHI-110071",
+    "pincode": "110071"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2002",
+    "first_opening_date": "05 Apr 2001",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.satyapublicschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Kusum Lata",
+    "gender": "Female",
+    "qualification": "P.Hd",
+    "administrative_experience": "10",
+    "teaching_experience": "15"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730826",
+    "school_code": "25422",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "SHRI CHAND MEMORIAL EDUCATION SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730826",
+      "listing_raw_columns": [
+        "886",
+        "Aff. No. : 2730826 Sch. Code: 25422",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : SATYA PUBLIC SCHOOL Head/Principal Name: Kusum Lata",
+        "Address : QUTAB VIHAR, MAIN ROAD, GOYLA DAIRY, NEAR SECTOR-19 DWARKA, NEW DELHI-110071 Website : www.satyapublicschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730826",
+      "serial_number": "886",
+      "affiliation_and_school_code": "Aff. No. : 2730826 Sch. Code: 25422",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SATYA PUBLIC SCHOOL Head/Principal Name: Kusum Lata",
+      "address_and_website": "Address : QUTAB VIHAR, MAIN ROAD, GOYLA DAIRY, NEAR SECTOR-19 DWARKA, NEW DELHI-110071 Website : www.satyapublicschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "SATYA PUBLIC SCHOOL",
+      "Affiliation Number": "2730826",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "QUTAB VIHAR, MAIN ROAD, GOYLA DAIRY, NEAR SECTOR-19 DWARKA, NEW DELHI-110071",
+      "Pin Code": "110071",
+      "Website": "www.satyapublicschool.com",
+      "Year of Foundation": "2002",
+      "Date of First Opening of School": "05 Apr 2001",
+      "Name of Principal/ Head of Institution": "Kusum Lata",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "P.Hd",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "10",
+      "Teaching:": "15",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "SHRI CHAND MEMORIAL EDUCATION SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

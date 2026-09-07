@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720060",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SARVODAYA_BAL_VIDYALAYA_2720060.json"
+  },
+  "school_identity": {
+    "school_name": "SARVODAYA BAL VIDYALAYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2720060",
+    "cbse_school_code": "27708"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH EAST DELHI",
+    "block": null,
+    "address": "PHASE-III, NEW DELHI",
+    "pincode": "110076"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2022",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "http://edudel.nic.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "BHARAT LAL MEENA",
+    "gender": "Male",
+    "qualification": "M.A B.ed",
+    "administrative_experience": "10",
+    "teaching_experience": "31"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2720060",
+    "school_code": "27708",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "DIRECTOR OF EDUCATION"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2720060",
+      "listing_raw_columns": [
+        "57",
+        "Aff. No. : 2720060 Sch. Code: 27708",
+        "State : DELHI District : SOUTH EAST DELHI",
+        "Senior Secondary Level",
+        "Name : SARVODAYA BAL VIDYALAYA Head/Principal Name: BHARAT LAL MEENA",
+        "Address : PHASE-III, NEW DELHI Website : http://edudel.nic.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720060",
+      "serial_number": "57",
+      "affiliation_and_school_code": "Aff. No. : 2720060 Sch. Code: 27708",
+      "state_and_district": "State : DELHI District : SOUTH EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SARVODAYA BAL VIDYALAYA Head/Principal Name: BHARAT LAL MEENA",
+      "address_and_website": "Address : PHASE-III, NEW DELHI Website : http://edudel.nic.in/"
+    },
+    "school_details": {
+      "Name of Institution": "SARVODAYA BAL VIDYALAYA",
+      "Affiliation Number": "2720060",
+      "State": "DELHI",
+      "District": "SOUTH EAST DELHI",
+      "Postal Address": "PHASE-III, NEW DELHI",
+      "Pin Code": "110076",
+      "Website": "http://edudel.nic.in/",
+      "Year of Foundation": "2022",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "BHARAT LAL MEENA",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.A B.ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "10",
+      "Teaching:": "31",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "DIRECTOR OF EDUCATION",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

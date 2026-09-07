@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730549",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\MANVI_PUBLIC_SCHOOL_2730549.json"
+  },
+  "school_identity": {
+    "school_name": "MANVI PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730549",
+    "cbse_school_code": "85252"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "BLOCK - C , SECTOT - 7",
+    "pincode": "110085"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1993",
+    "first_opening_date": "06 Oct 2020",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://manvipschool.edu.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Off. Vice Principal Ms Leena Kapoor",
+    "gender": "Female",
+    "qualification": "MA ,MEd",
+    "administrative_experience": "0",
+    "teaching_experience": "3"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730549",
+    "school_code": "85252",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "MAHARISHI SHIKSHA SANSTHAN"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730549",
+      "listing_raw_columns": [
+        "620",
+        "Aff. No. : 2730549 Sch. Code: 85252",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Secondary Level",
+        "Name : MANVI PUBLIC SCHOOL Head/Principal Name: Off. Vice Principal Ms Leena Kapoor",
+        "Address : BLOCK - C , SECTOT - 7 Website : https://manvipschool.edu.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730549",
+      "serial_number": "620",
+      "affiliation_and_school_code": "Aff. No. : 2730549 Sch. Code: 85252",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : MANVI PUBLIC SCHOOL Head/Principal Name: Off. Vice Principal Ms Leena Kapoor",
+      "address_and_website": "Address : BLOCK - C , SECTOT - 7 Website : https://manvipschool.edu.in"
+    },
+    "school_details": {
+      "Name of Institution": "MANVI PUBLIC SCHOOL",
+      "Affiliation Number": "2730549",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "BLOCK - C , SECTOT - 7",
+      "Pin Code": "110085",
+      "Website": "https://manvipschool.edu.in",
+      "Year of Foundation": "1993",
+      "Date of First Opening of School": "06 Oct 2020",
+      "Name of Principal/ Head of Institution": "Off. Vice Principal Ms Leena Kapoor",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA ,MEd",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "0",
+      "Teaching:": "3",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "MAHARISHI SHIKSHA SANSTHAN",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

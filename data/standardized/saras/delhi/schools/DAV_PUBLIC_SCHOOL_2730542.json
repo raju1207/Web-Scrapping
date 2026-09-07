@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730542",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\DAV_PUBLIC_SCHOOL_2730542.json"
+  },
+  "school_identity": {
+    "school_name": "DAV PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730542",
+    "cbse_school_code": "85083"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "KHERA KHURD",
+    "pincode": "110082"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1995",
+    "first_opening_date": "01 Apr 2006",
+    "gender_type": null
+  },
+  "contact": {
+    "website": null,
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "DEVIKA DUTT",
+    "gender": "Male",
+    "qualification": "M.Sc. M.Ed. DRTM",
+    "administrative_experience": "8",
+    "teaching_experience": "11"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730542",
+    "school_code": "85083",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2020",
+    "affiliation_to": "31/03/2025",
+    "affiliation_period_raw": "From : 01/04/2020 To : 31/03/2025",
+    "trust_society": "RAVI BHARTI SHIKSH SAMITI DELHI"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730542",
+      "listing_raw_columns": [
+        "613",
+        "Aff. No. : 2730542 Sch. Code: 85083",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Secondary Level",
+        "Name : DAV PUBLIC SCHOOL Head/Principal Name: DEVIKA DUTT",
+        "Address : KHERA KHURD Website :",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730542",
+      "serial_number": "613",
+      "affiliation_and_school_code": "Aff. No. : 2730542 Sch. Code: 85083",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : DAV PUBLIC SCHOOL Head/Principal Name: DEVIKA DUTT",
+      "address_and_website": "Address : KHERA KHURD Website :"
+    },
+    "school_details": {
+      "Name of Institution": "DAV PUBLIC SCHOOL",
+      "Affiliation Number": "2730542",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "KHERA KHURD",
+      "Pin Code": "110082",
+      "Website": null,
+      "Year of Foundation": "1995",
+      "Date of First Opening of School": "01 Apr 2006",
+      "Name of Principal/ Head of Institution": "DEVIKA DUTT",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.Sc. M.Ed. DRTM",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "8",
+      "Teaching:": "11",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2020 To : 31/03/2025",
+      "Name of Trust/ Society/ Managing Committee": "RAVI BHARTI SHIKSH SAMITI DELHI",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

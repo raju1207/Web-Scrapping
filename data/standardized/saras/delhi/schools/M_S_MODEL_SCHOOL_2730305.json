@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730305",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\M_S_MODEL_SCHOOL_2730305.json"
+  },
+  "school_identity": {
+    "school_name": "M S MODEL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730305",
+    "cbse_school_code": "85192"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "MOHALLA-SATGHARA, VILLAGE-KARALA,DELHI",
+    "pincode": "110081"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1992",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "http://msmodelschool.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "MONIKA",
+    "gender": "Female",
+    "qualification": "M.A. B.ED.",
+    "administrative_experience": "1",
+    "teaching_experience": "10"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730305",
+    "school_code": "85192",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2030",
+    "trust_society": null
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730305",
+      "listing_raw_columns": [
+        "389",
+        "Aff. No. : 2730305 Sch. Code: 85192",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : M S MODEL SCHOOL Head/Principal Name: MONIKA",
+        "Address : MOHALLA-SATGHARA, VILLAGE-KARALA,DELHI Website : http://msmodelschool.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730305",
+      "serial_number": "389",
+      "affiliation_and_school_code": "Aff. No. : 2730305 Sch. Code: 85192",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : M S MODEL SCHOOL Head/Principal Name: MONIKA",
+      "address_and_website": "Address : MOHALLA-SATGHARA, VILLAGE-KARALA,DELHI Website : http://msmodelschool.in/"
+    },
+    "school_details": {
+      "Name of Institution": "M S MODEL SCHOOL",
+      "Affiliation Number": "2730305",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "MOHALLA-SATGHARA, VILLAGE-KARALA,DELHI",
+      "Pin Code": "110081",
+      "Website": "http://msmodelschool.in/",
+      "Year of Foundation": "1992",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "MONIKA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A. B.ED.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "1",
+      "Teaching:": "10",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": null,
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

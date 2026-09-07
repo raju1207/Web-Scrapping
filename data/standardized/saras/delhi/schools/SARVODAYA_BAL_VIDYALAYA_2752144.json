@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752144",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SARVODAYA_BAL_VIDYALAYA_2752144.json"
+  },
+  "school_identity": {
+    "school_name": "SARVODAYA BAL VIDYALAYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2752144",
+    "cbse_school_code": "27199"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH EAST DELHI",
+    "block": null,
+    "address": "OLD SEELAMPUR, DELHI-110031",
+    "pincode": "110031"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2013",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "xxxx@email.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "ABU TALIV",
+    "gender": "Male",
+    "qualification": "M.Com.",
+    "administrative_experience": "06",
+    "teaching_experience": "26"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2752144",
+    "school_code": "27199",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "dir. of education"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2752144",
+      "listing_raw_columns": [
+        "1261",
+        "Aff. No. : 2752144 Sch. Code: 27199",
+        "State : DELHI District : NORTH EAST DELHI",
+        "Senior Secondary Level",
+        "Name : SARVODAYA BAL VIDYALAYA Head/Principal Name: ABU TALIV",
+        "Address : OLD SEELAMPUR, DELHI-110031 Website : xxxx@email.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752144",
+      "serial_number": "1261",
+      "affiliation_and_school_code": "Aff. No. : 2752144 Sch. Code: 27199",
+      "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SARVODAYA BAL VIDYALAYA Head/Principal Name: ABU TALIV",
+      "address_and_website": "Address : OLD SEELAMPUR, DELHI-110031 Website : xxxx@email.com"
+    },
+    "school_details": {
+      "Name of Institution": "SARVODAYA BAL VIDYALAYA",
+      "Affiliation Number": "2752144",
+      "State": "DELHI",
+      "District": "NORTH EAST DELHI",
+      "Postal Address": "OLD SEELAMPUR, DELHI-110031",
+      "Pin Code": "110031",
+      "Website": "xxxx@email.com",
+      "Year of Foundation": "2013",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "ABU TALIV",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.Com.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "06",
+      "Teaching:": "26",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "dir. of education",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

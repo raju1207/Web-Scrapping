@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778045",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\ATAL_ADARSH_VIDYALYA_2778045.json"
+  },
+  "school_identity": {
+    "school_name": "ATAL ADARSH VIDYALYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2778045",
+    "cbse_school_code": "87004"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "TILAK MARG NEW DELHI",
+    "pincode": "110001"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1974",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://aavtilakmarg.gov.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SANJAY KUMAR SINGH",
+    "gender": "Male",
+    "qualification": "M.A. HISTORY, B.ED",
+    "administrative_experience": "2",
+    "teaching_experience": "30"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2778045",
+    "school_code": "87004",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "NEW DELHI MUNICIPAL COMMITTEE"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2778045",
+      "listing_raw_columns": [
+        "2162",
+        "Aff. No. : 2778045 Sch. Code: 87004",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : ATAL ADARSH VIDYALYA Head/Principal Name: SANJAY KUMAR SINGH",
+        "Address : TILAK MARG NEW DELHI Website : https://aavtilakmarg.gov.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778045",
+      "serial_number": "2162",
+      "affiliation_and_school_code": "Aff. No. : 2778045 Sch. Code: 87004",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : ATAL ADARSH VIDYALYA Head/Principal Name: SANJAY KUMAR SINGH",
+      "address_and_website": "Address : TILAK MARG NEW DELHI Website : https://aavtilakmarg.gov.in"
+    },
+    "school_details": {
+      "Name of Institution": "ATAL ADARSH VIDYALYA",
+      "Affiliation Number": "2778045",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "TILAK MARG NEW DELHI",
+      "Pin Code": "110001",
+      "Website": "https://aavtilakmarg.gov.in",
+      "Year of Foundation": "1974",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "SANJAY KUMAR SINGH",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.A. HISTORY, B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "2",
+      "Teaching:": "30",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "NEW DELHI MUNICIPAL COMMITTEE",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

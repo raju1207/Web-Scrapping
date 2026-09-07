@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700046",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\DR.RAJENDRA_PRASAD_KENDRIYA_VIDYALAYA_2700046.json"
+  },
+  "school_identity": {
+    "school_name": "DR.RAJENDRA PRASAD KENDRIYA VIDYALAYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2700046",
+    "cbse_school_code": "27110"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "PRESIDENT ESTATE, NEW DELHI-110004",
+    "pincode": "110004"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "KV",
+    "foundation_year": "2019",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://drrajendraprasadpe.kvs.ac.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "DR CHARU SHARMA",
+    "gender": "Female",
+    "qualification": "M.SC. ,M.ED. PH. D. IN EDUCATION",
+    "administrative_experience": "16",
+    "teaching_experience": "19"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2700046",
+    "school_code": "27110",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2021",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2021 To : 31/03/2031",
+    "trust_society": "kendriya vidyalaya sangathan"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2700046",
+      "listing_raw_columns": [
+        "45",
+        "Aff. No. : 2700046 Sch. Code: 27110",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : DR.RAJENDRA PRASAD KENDRIYA VIDYALAYA Head/Principal Name: DR CHARU SHARMA",
+        "Address : PRESIDENT ESTATE, NEW DELHI-110004 Website : https://drrajendraprasadpe.kvs.ac.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700046",
+      "serial_number": "45",
+      "affiliation_and_school_code": "Aff. No. : 2700046 Sch. Code: 27110",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : DR.RAJENDRA PRASAD KENDRIYA VIDYALAYA Head/Principal Name: DR CHARU SHARMA",
+      "address_and_website": "Address : PRESIDENT ESTATE, NEW DELHI-110004 Website : https://drrajendraprasadpe.kvs.ac.in/"
+    },
+    "school_details": {
+      "Name of Institution": "DR.RAJENDRA PRASAD KENDRIYA VIDYALAYA",
+      "Affiliation Number": "2700046",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "PRESIDENT ESTATE, NEW DELHI-110004",
+      "Pin Code": "110004",
+      "Website": "https://drrajendraprasadpe.kvs.ac.in/",
+      "Year of Foundation": "2019",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "DR CHARU SHARMA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.SC. ,M.ED. PH. D. IN EDUCATION",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "16",
+      "Teaching:": "19",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "KV",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2021 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "kendriya vidyalaya sangathan",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

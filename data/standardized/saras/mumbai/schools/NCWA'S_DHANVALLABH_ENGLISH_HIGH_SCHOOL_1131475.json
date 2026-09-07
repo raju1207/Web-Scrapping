@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131475",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\NCWA'S_DHANVALLABH_ENGLISH_HIGH_SCHOOL_1131475.json"
+  },
+  "school_identity": {
+    "school_name": "NCWA'S DHANVALLABH ENGLISH HIGH SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "1131475",
+    "cbse_school_code": "31464"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI SUBURBAN",
+    "block": null,
+    "address": "NCWA EDUCATIONAL COMPLEX , P.K. ROAD , MULUND WEST, MUMBAI",
+    "pincode": "400080"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2015",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.dhanvallabh.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "PARASHABHATHINI SHYAMALA VENKATESHWARRAO",
+    "gender": "Female",
+    "qualification": "D.Sc, M.Sc, M.Ed",
+    "administrative_experience": "13",
+    "teaching_experience": "30"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1131475",
+    "school_code": "31464",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "NAHUR CITIZENS WELFARE ASSOCIATION"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1131475",
+      "listing_raw_columns": [
+        "24",
+        "Aff. No. : 1131475 Sch. Code: 31464",
+        "State : MAHARASHTRA District : MUMBAI SUBURBAN",
+        "Secondary Level",
+        "Name : NCWA'S DHANVALLABH ENGLISH HIGH SCHOOL Head/Principal Name: PARASHABHATHINI SHYAMALA VENKATESHWARRAO",
+        "Address : NCWA EDUCATIONAL COMPLEX , P.K. ROAD , MULUND WEST, MUMBAI Website : www.dhanvallabh.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131475",
+      "serial_number": "24",
+      "affiliation_and_school_code": "Aff. No. : 1131475 Sch. Code: 31464",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI SUBURBAN",
+      "status": "Secondary Level",
+      "school_and_head": "Name : NCWA'S DHANVALLABH ENGLISH HIGH SCHOOL Head/Principal Name: PARASHABHATHINI SHYAMALA VENKATESHWARRAO",
+      "address_and_website": "Address : NCWA EDUCATIONAL COMPLEX , P.K. ROAD , MULUND WEST, MUMBAI Website : www.dhanvallabh.com",
+      "saras_selected_district": "MUMBAI SUBURBAN"
+    },
+    "school_details": {
+      "Name of Institution": "NCWA'S DHANVALLABH ENGLISH HIGH SCHOOL",
+      "Affiliation Number": "1131475",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI SUBURBAN",
+      "Postal Address": "NCWA EDUCATIONAL COMPLEX , P.K. ROAD , MULUND WEST, MUMBAI",
+      "Pin Code": "400080",
+      "Website": "www.dhanvallabh.com",
+      "Year of Foundation": "2015",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "PARASHABHATHINI SHYAMALA VENKATESHWARRAO",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "D.Sc, M.Sc, M.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "13",
+      "Teaching:": "30",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "NAHUR CITIZENS WELFARE ASSOCIATION",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720078",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_BOYS_SECONDARY_SCHOOL,_OLD_SEEMAPURI_2720078.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT BOYS SECONDARY SCHOOL, OLD SEEMAPURI",
+    "udise_code": null,
+    "cbse_affiliation_number": "2720078",
+    "cbse_school_code": "27719"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH EAST DELHI",
+    "block": null,
+    "address": "OLD SEEMAPURI, SEEMAPURI, DELHI",
+    "pincode": "110095"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2024",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Devender kumar",
+    "gender": "Male",
+    "qualification": "MCOM BED",
+    "administrative_experience": "8",
+    "teaching_experience": "16"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2720078",
+    "school_code": "27719",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "DIRECTORATE OF EDUCATION"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2720078",
+      "listing_raw_columns": [
+        "75",
+        "Aff. No. : 2720078 Sch. Code: 27719",
+        "State : DELHI District : NORTH EAST DELHI",
+        "Secondary Level",
+        "Name : GOVT BOYS SECONDARY SCHOOL, OLD SEEMAPURI Head/Principal Name: Devender kumar",
+        "Address : OLD SEEMAPURI, SEEMAPURI, DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720078",
+      "serial_number": "75",
+      "affiliation_and_school_code": "Aff. No. : 2720078 Sch. Code: 27719",
+      "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : GOVT BOYS SECONDARY SCHOOL, OLD SEEMAPURI Head/Principal Name: Devender kumar",
+      "address_and_website": "Address : OLD SEEMAPURI, SEEMAPURI, DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT BOYS SECONDARY SCHOOL, OLD SEEMAPURI",
+      "Affiliation Number": "2720078",
+      "State": "DELHI",
+      "District": "NORTH EAST DELHI",
+      "Postal Address": "OLD SEEMAPURI, SEEMAPURI, DELHI",
+      "Pin Code": "110095",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "2024",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "Devender kumar",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "MCOM BED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "8",
+      "Teaching:": "16",
+      "Status of The School": "Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "DIRECTORATE OF EDUCATION",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

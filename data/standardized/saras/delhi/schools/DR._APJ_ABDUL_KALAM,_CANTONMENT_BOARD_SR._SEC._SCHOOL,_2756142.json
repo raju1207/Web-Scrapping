@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756142",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\DR._APJ_ABDUL_KALAM,_CANTONMENT_BOARD_SR._SEC._SCHOOL,_2756142.json"
+  },
+  "school_identity": {
+    "school_name": "DR. APJ ABDUL KALAM, CANTONMENT BOARD SR. SEC. SCHOOL,",
+    "udise_code": null,
+    "cbse_affiliation_number": "2756142",
+    "cbse_school_code": "27118"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "SHASTRI BAZAR, DELHI CANTT.110 010",
+    "pincode": "110010"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1960",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": null,
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SUSHILA",
+    "gender": "Female",
+    "qualification": "MA B.Ed",
+    "administrative_experience": "2",
+    "teaching_experience": "32"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2756142",
+    "school_code": "27118",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "C.B. MINISTRY OF DEFENCE NEW DELHI"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2756142",
+      "listing_raw_columns": [
+        "1522",
+        "Aff. No. : 2756142 Sch. Code: 27118",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : DR. APJ ABDUL KALAM, CANTONMENT BOARD SR. SEC. SCHOOL, Head/Principal Name: SUSHILA",
+        "Address : SHASTRI BAZAR, DELHI CANTT.110 010 Website :",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756142",
+      "serial_number": "1522",
+      "affiliation_and_school_code": "Aff. No. : 2756142 Sch. Code: 27118",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : DR. APJ ABDUL KALAM, CANTONMENT BOARD SR. SEC. SCHOOL, Head/Principal Name: SUSHILA",
+      "address_and_website": "Address : SHASTRI BAZAR, DELHI CANTT.110 010 Website :"
+    },
+    "school_details": {
+      "Name of Institution": "DR. APJ ABDUL KALAM, CANTONMENT BOARD SR. SEC. SCHOOL,",
+      "Affiliation Number": "2756142",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "SHASTRI BAZAR, DELHI CANTT.110 010",
+      "Pin Code": "110010",
+      "Website": null,
+      "Year of Foundation": "1960",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "SUSHILA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "2",
+      "Teaching:": "32",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "C.B. MINISTRY OF DEFENCE NEW DELHI",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

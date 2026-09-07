@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730112",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\NAVIN_BHARTI_PUBLIC_SCHOOL_2730112.json"
+  },
+  "school_identity": {
+    "school_name": "NAVIN BHARTI PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730112",
+    "cbse_school_code": "25109"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SHAHDARA",
+    "block": null,
+    "address": "BALBIR NAGAR SHAHDARA, DISTT NORTH EAST DELHI, DELHI",
+    "pincode": "110032"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1971",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.navinbharti.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "L M ATREY",
+    "gender": "Male",
+    "qualification": "B.E.,A.M.I.E, LLB",
+    "administrative_experience": "22",
+    "teaching_experience": "27"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730112",
+    "school_code": "25109",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2031",
+    "trust_society": null
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730112",
+      "listing_raw_columns": [
+        "200",
+        "Aff. No. : 2730112 Sch. Code: 25109",
+        "State : DELHI District : SHAHDARA",
+        "Senior Secondary Level",
+        "Name : NAVIN BHARTI PUBLIC SCHOOL Head/Principal Name: L M ATREY",
+        "Address : BALBIR NAGAR SHAHDARA, DISTT NORTH EAST DELHI, DELHI Website : www.navinbharti.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730112",
+      "serial_number": "200",
+      "affiliation_and_school_code": "Aff. No. : 2730112 Sch. Code: 25109",
+      "state_and_district": "State : DELHI District : SHAHDARA",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : NAVIN BHARTI PUBLIC SCHOOL Head/Principal Name: L M ATREY",
+      "address_and_website": "Address : BALBIR NAGAR SHAHDARA, DISTT NORTH EAST DELHI, DELHI Website : www.navinbharti.com"
+    },
+    "school_details": {
+      "Name of Institution": "NAVIN BHARTI PUBLIC SCHOOL",
+      "Affiliation Number": "2730112",
+      "State": "DELHI",
+      "District": "SHAHDARA",
+      "Postal Address": "BALBIR NAGAR SHAHDARA, DISTT NORTH EAST DELHI, DELHI",
+      "Pin Code": "110032",
+      "Website": "www.navinbharti.com",
+      "Year of Foundation": "1971",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "L M ATREY",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "B.E.,A.M.I.E, LLB",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "22",
+      "Teaching:": "27",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": null,
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

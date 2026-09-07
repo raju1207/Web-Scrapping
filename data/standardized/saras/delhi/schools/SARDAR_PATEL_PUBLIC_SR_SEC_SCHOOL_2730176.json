@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730176",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SARDAR_PATEL_PUBLIC_SR_SEC_SCHOOL_2730176.json"
+  },
+  "school_identity": {
+    "school_name": "SARDAR PATEL PUBLIC SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730176",
+    "cbse_school_code": "85120"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "EAST DELHI",
+    "block": null,
+    "address": "KARAWAL NAGAR, DISTT EAST DELHI, DELHI",
+    "pincode": "110094"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1985",
+    "first_opening_date": "10 Jun 2007",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.sardarpatelschool.co.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Rajni Bala",
+    "gender": "Female",
+    "qualification": "M.A. B.Ed.",
+    "administrative_experience": "1",
+    "teaching_experience": "25"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730176",
+    "school_code": "85120",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "Geeta Educational Society, Shera"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730176",
+      "listing_raw_columns": [
+        "264",
+        "Aff. No. : 2730176 Sch. Code: 85120",
+        "State : DELHI District : EAST DELHI",
+        "Senior Secondary Level",
+        "Name : SARDAR PATEL PUBLIC SR SEC SCHOOL Head/Principal Name: Rajni Bala",
+        "Address : KARAWAL NAGAR, DISTT EAST DELHI, DELHI Website : www.sardarpatelschool.co.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730176",
+      "serial_number": "264",
+      "affiliation_and_school_code": "Aff. No. : 2730176 Sch. Code: 85120",
+      "state_and_district": "State : DELHI District : EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SARDAR PATEL PUBLIC SR SEC SCHOOL Head/Principal Name: Rajni Bala",
+      "address_and_website": "Address : KARAWAL NAGAR, DISTT EAST DELHI, DELHI Website : www.sardarpatelschool.co.in"
+    },
+    "school_details": {
+      "Name of Institution": "SARDAR PATEL PUBLIC SR SEC SCHOOL",
+      "Affiliation Number": "2730176",
+      "State": "DELHI",
+      "District": "EAST DELHI",
+      "Postal Address": "KARAWAL NAGAR, DISTT EAST DELHI, DELHI",
+      "Pin Code": "110094",
+      "Website": "www.sardarpatelschool.co.in",
+      "Year of Foundation": "1985",
+      "Date of First Opening of School": "10 Jun 2007",
+      "Name of Principal/ Head of Institution": "Rajni Bala",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A. B.Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "1",
+      "Teaching:": "25",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "Geeta Educational Society, Shera",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

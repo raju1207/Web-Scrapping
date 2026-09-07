@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752047",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_BOYS_SR._SEC._SCHOOL_2752047.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT BOYS SR. SEC. SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2752047",
+    "cbse_school_code": "27233"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH EAST DELHI",
+    "block": null,
+    "address": "DILSHAD GARDEN DELHI",
+    "pincode": "110095"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1983",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://1106002.home.blog/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "PREM KISHORE SHARMA",
+    "gender": "Male",
+    "qualification": "M.PHIL MATHEMATICS, Phd. ,",
+    "administrative_experience": "11",
+    "teaching_experience": "27"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2752047",
+    "school_code": "27233",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "DELHI ADMINISTRATION"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2752047",
+      "listing_raw_columns": [
+        "1169",
+        "Aff. No. : 2752047 Sch. Code: 27233",
+        "State : DELHI District : NORTH EAST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT BOYS SR. SEC. SCHOOL Head/Principal Name: PREM KISHORE SHARMA",
+        "Address : DILSHAD GARDEN DELHI Website : https://1106002.home.blog/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752047",
+      "serial_number": "1169",
+      "affiliation_and_school_code": "Aff. No. : 2752047 Sch. Code: 27233",
+      "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT BOYS SR. SEC. SCHOOL Head/Principal Name: PREM KISHORE SHARMA",
+      "address_and_website": "Address : DILSHAD GARDEN DELHI Website : https://1106002.home.blog/"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT BOYS SR. SEC. SCHOOL",
+      "Affiliation Number": "2752047",
+      "State": "DELHI",
+      "District": "NORTH EAST DELHI",
+      "Postal Address": "DILSHAD GARDEN DELHI",
+      "Pin Code": "110095",
+      "Website": "https://1106002.home.blog/",
+      "Year of Foundation": "1983",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "PREM KISHORE SHARMA",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.PHIL MATHEMATICS, Phd. ,",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "11",
+      "Teaching:": "27",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

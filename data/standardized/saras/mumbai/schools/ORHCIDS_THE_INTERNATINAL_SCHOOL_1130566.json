@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130566",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\ORHCIDS_THE_INTERNATINAL_SCHOOL_1130566.json"
+  },
+  "school_identity": {
+    "school_name": "ORHCIDS THE INTERNATINAL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "1130566",
+    "cbse_school_code": "30485"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "block": null,
+    "address": "C.V.O.D. JAIN PATHSHALA, SVP ROAD, # 84, SAMUEL STREET (PALAGALY),MASJID BUNDER, MUMBAI 400 009",
+    "pincode": "400009"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2013",
+    "first_opening_date": "01 Jul 2013",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://orchidsinternationalschoolmasjid.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Dr Sunita Rai",
+    "gender": "Male",
+    "qualification": "M.Sc. - Chemistry, PhD - Science, M.Ed.",
+    "administrative_experience": "16",
+    "teaching_experience": "8"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1130566",
+    "school_code": "30485",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "Shree Cutchhi Visa Oswal Derawasi Jain Pathshala Trust"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1130566",
+      "listing_raw_columns": [
+        "38",
+        "Aff. No. : 1130566 Sch. Code: 30485",
+        "State : MAHARASHTRA District : MUMBAI",
+        "Secondary Level",
+        "Name : ORHCIDS THE INTERNATINAL SCHOOL Head/Principal Name: Dr Sunita Rai",
+        "Address : C.V.O.D. JAIN PATHSHALA, SVP ROAD, # 84, SAMUEL STREET (PALAGALY),MASJID BUNDER, MUMBAI 400 009 Website : https://orchidsinternationalschoolmasjid.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130566",
+      "serial_number": "38",
+      "affiliation_and_school_code": "Aff. No. : 1130566 Sch. Code: 30485",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : ORHCIDS THE INTERNATINAL SCHOOL Head/Principal Name: Dr Sunita Rai",
+      "address_and_website": "Address : C.V.O.D. JAIN PATHSHALA, SVP ROAD, # 84, SAMUEL STREET (PALAGALY),MASJID BUNDER, MUMBAI 400 009 Website : https://orchidsinternationalschoolmasjid.com",
+      "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+      "Name of Institution": "ORHCIDS THE INTERNATINAL SCHOOL",
+      "Affiliation Number": "1130566",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI",
+      "Postal Address": "C.V.O.D. JAIN PATHSHALA, SVP ROAD, # 84, SAMUEL STREET (PALAGALY),MASJID BUNDER, MUMBAI 400 009",
+      "Pin Code": "400009",
+      "Website": "https://orchidsinternationalschoolmasjid.com",
+      "Year of Foundation": "2013",
+      "Date of First Opening of School": "01 Jul 2013",
+      "Name of Principal/ Head of Institution": "Dr Sunita Rai",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.Sc. - Chemistry, PhD - Science, M.Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "16",
+      "Teaching:": "8",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "Shree Cutchhi Visa Oswal Derawasi Jain Pathshala Trust",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

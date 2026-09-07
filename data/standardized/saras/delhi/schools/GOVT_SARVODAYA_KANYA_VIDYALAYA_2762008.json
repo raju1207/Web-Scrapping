@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762008",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_SARVODAYA_KANYA_VIDYALAYA_2762008.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT SARVODAYA KANYA VIDYALAYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2762008",
+    "cbse_school_code": "27269"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SHAHDARA",
+    "block": null,
+    "address": "G T ROAD SHAHDARA DELHI",
+    "pincode": "110032"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1965",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://edustud.nic.in/DirectorateOfEducation.htm",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "MAHESH KUMAR",
+    "gender": "Male",
+    "qualification": "M.A. B.ed",
+    "administrative_experience": "02",
+    "teaching_experience": "25"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2762008",
+    "school_code": "27269",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "DELHI ADMINISTRATION"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2762008",
+      "listing_raw_columns": [
+        "1730",
+        "Aff. No. : 2762008 Sch. Code: 27269",
+        "State : DELHI District : SHAHDARA",
+        "Senior Secondary Level",
+        "Name : GOVT SARVODAYA KANYA VIDYALAYA Head/Principal Name: MAHESH KUMAR",
+        "Address : G T ROAD SHAHDARA DELHI Website : https://edustud.nic.in/DirectorateOfEducation.htm",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762008",
+      "serial_number": "1730",
+      "affiliation_and_school_code": "Aff. No. : 2762008 Sch. Code: 27269",
+      "state_and_district": "State : DELHI District : SHAHDARA",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT SARVODAYA KANYA VIDYALAYA Head/Principal Name: MAHESH KUMAR",
+      "address_and_website": "Address : G T ROAD SHAHDARA DELHI Website : https://edustud.nic.in/DirectorateOfEducation.htm"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT SARVODAYA KANYA VIDYALAYA",
+      "Affiliation Number": "2762008",
+      "State": "DELHI",
+      "District": "SHAHDARA",
+      "Postal Address": "G T ROAD SHAHDARA DELHI",
+      "Pin Code": "110032",
+      "Website": "https://edustud.nic.in/DirectorateOfEducation.htm",
+      "Year of Foundation": "1965",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "MAHESH KUMAR",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.A. B.ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "02",
+      "Teaching:": "25",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

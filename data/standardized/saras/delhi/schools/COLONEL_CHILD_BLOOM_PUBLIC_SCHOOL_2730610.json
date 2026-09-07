@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730610",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\COLONEL_CHILD_BLOOM_PUBLIC_SCHOOL_2730610.json"
+  },
+  "school_identity": {
+    "school_name": "COLONEL CHILD BLOOM PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730610",
+    "cbse_school_code": "25351"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "KALI PIO, JHARODHA C.R.P.F. ROAD, NAJAFGARH, NEW DELHI-110072",
+    "pincode": "110072"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1993",
+    "first_opening_date": "01 Apr 1995",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.colonelchildbloomschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "AMITA SEHRAWAT",
+    "gender": "Female",
+    "qualification": "M.A. B.ED",
+    "administrative_experience": "32",
+    "teaching_experience": "32"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730610",
+    "school_code": "25351",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "Ex-Servicemen Child Bloom Educational Society (Regd.)"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730610",
+      "listing_raw_columns": [
+        "680",
+        "Aff. No. : 2730610 Sch. Code: 25351",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : COLONEL CHILD BLOOM PUBLIC SCHOOL Head/Principal Name: AMITA SEHRAWAT",
+        "Address : KALI PIO, JHARODHA C.R.P.F. ROAD, NAJAFGARH, NEW DELHI-110072 Website : www.colonelchildbloomschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730610",
+      "serial_number": "680",
+      "affiliation_and_school_code": "Aff. No. : 2730610 Sch. Code: 25351",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : COLONEL CHILD BLOOM PUBLIC SCHOOL Head/Principal Name: AMITA SEHRAWAT",
+      "address_and_website": "Address : KALI PIO, JHARODHA C.R.P.F. ROAD, NAJAFGARH, NEW DELHI-110072 Website : www.colonelchildbloomschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "COLONEL CHILD BLOOM PUBLIC SCHOOL",
+      "Affiliation Number": "2730610",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "KALI PIO, JHARODHA C.R.P.F. ROAD, NAJAFGARH, NEW DELHI-110072",
+      "Pin Code": "110072",
+      "Website": "www.colonelchildbloomschool.com",
+      "Year of Foundation": "1993",
+      "Date of First Opening of School": "01 Apr 1995",
+      "Name of Principal/ Head of Institution": "AMITA SEHRAWAT",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A. B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "32",
+      "Teaching:": "32",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "Ex-Servicemen Child Bloom Educational Society (Regd.)",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

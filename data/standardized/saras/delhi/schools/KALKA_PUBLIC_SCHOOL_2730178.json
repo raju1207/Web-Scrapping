@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730178",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\KALKA_PUBLIC_SCHOOL_2730178.json"
+  },
+  "school_identity": {
+    "school_name": "KALKA PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730178",
+    "cbse_school_code": "25229"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH DELHI",
+    "block": null,
+    "address": "ALAKNANDA KALKAJI, DISTT SOUTH DELHI, NEW DELHI",
+    "pincode": "110019"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1983",
+    "first_opening_date": "09 Jul 2003",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.kalkaeducationalsociety.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "DR ANJU MEHROTRA",
+    "gender": "Female",
+    "qualification": "M.A., M.ED. PH.D., MBA",
+    "administrative_experience": "30",
+    "teaching_experience": "36"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730178",
+    "school_code": "25229",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "kalka education society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730178",
+      "listing_raw_columns": [
+        "266",
+        "Aff. No. : 2730178 Sch. Code: 25229",
+        "State : DELHI District : SOUTH DELHI",
+        "Senior Secondary Level",
+        "Name : KALKA PUBLIC SCHOOL Head/Principal Name: DR ANJU MEHROTRA",
+        "Address : ALAKNANDA KALKAJI, DISTT SOUTH DELHI, NEW DELHI Website : www.kalkaeducationalsociety.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730178",
+      "serial_number": "266",
+      "affiliation_and_school_code": "Aff. No. : 2730178 Sch. Code: 25229",
+      "state_and_district": "State : DELHI District : SOUTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : KALKA PUBLIC SCHOOL Head/Principal Name: DR ANJU MEHROTRA",
+      "address_and_website": "Address : ALAKNANDA KALKAJI, DISTT SOUTH DELHI, NEW DELHI Website : www.kalkaeducationalsociety.com"
+    },
+    "school_details": {
+      "Name of Institution": "KALKA PUBLIC SCHOOL",
+      "Affiliation Number": "2730178",
+      "State": "DELHI",
+      "District": "SOUTH DELHI",
+      "Postal Address": "ALAKNANDA KALKAJI, DISTT SOUTH DELHI, NEW DELHI",
+      "Pin Code": "110019",
+      "Website": "www.kalkaeducationalsociety.com",
+      "Year of Foundation": "1983",
+      "Date of First Opening of School": "09 Jul 2003",
+      "Name of Principal/ Head of Institution": "DR ANJU MEHROTRA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A., M.ED. PH.D., MBA",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "30",
+      "Teaching:": "36",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "kalka education society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

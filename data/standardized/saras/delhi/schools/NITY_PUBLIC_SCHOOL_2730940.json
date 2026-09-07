@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730940",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\NITY_PUBLIC_SCHOOL_2730940.json"
+  },
+  "school_identity": {
+    "school_name": "NITY PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730940",
+    "cbse_school_code": "85585"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH EAST DELHI",
+    "block": null,
+    "address": "VILLAGE SABHAPUR, DELHI, DELHI",
+    "pincode": "110094"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1988",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "http://nitypublicschool.com/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "KAPIL KUMAR",
+    "gender": "Male",
+    "qualification": "M.A. , B.ED.",
+    "administrative_experience": "5",
+    "teaching_experience": "5"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730940",
+    "school_code": "85585",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "NEETY EDUCATIONAL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730940",
+      "listing_raw_columns": [
+        "955",
+        "Aff. No. : 2730940 Sch. Code: 85585",
+        "State : DELHI District : NORTH EAST DELHI",
+        "Secondary Level",
+        "Name : NITY PUBLIC SCHOOL Head/Principal Name: KAPIL KUMAR",
+        "Address : VILLAGE SABHAPUR, DELHI, DELHI Website : http://nitypublicschool.com/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730940",
+      "serial_number": "955",
+      "affiliation_and_school_code": "Aff. No. : 2730940 Sch. Code: 85585",
+      "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : NITY PUBLIC SCHOOL Head/Principal Name: KAPIL KUMAR",
+      "address_and_website": "Address : VILLAGE SABHAPUR, DELHI, DELHI Website : http://nitypublicschool.com/"
+    },
+    "school_details": {
+      "Name of Institution": "NITY PUBLIC SCHOOL",
+      "Affiliation Number": "2730940",
+      "State": "DELHI",
+      "District": "NORTH EAST DELHI",
+      "Postal Address": "VILLAGE SABHAPUR, DELHI, DELHI",
+      "Pin Code": "110094",
+      "Website": "http://nitypublicschool.com/",
+      "Year of Foundation": "1988",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "KAPIL KUMAR",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.A. , B.ED.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "5",
+      "Teaching:": "5",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "NEETY EDUCATIONAL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

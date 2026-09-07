@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750107",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SHAHEED_CAPTAIN_SANJEEV_DAHIYA_2750107.json"
+  },
+  "school_identity": {
+    "school_name": "SHAHEED CAPTAIN SANJEEV DAHIYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2750107",
+    "cbse_school_code": "87488"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "GOVT SARVODYA CO-ED SR SEC SCHOOL SEC-9 ROHINI DELHI",
+    "pincode": "110085"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1991",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SATISH KUMAR",
+    "gender": "Male",
+    "qualification": "M.COM M.ED and PGDSLM",
+    "administrative_experience": "10",
+    "teaching_experience": "12"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2750107",
+    "school_code": "87488",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "DIR. OF EDU."
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2750107",
+      "listing_raw_columns": [
+        "1055",
+        "Aff. No. : 2750107 Sch. Code: 87488",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : SHAHEED CAPTAIN SANJEEV DAHIYA Head/Principal Name: SATISH KUMAR",
+        "Address : GOVT SARVODYA CO-ED SR SEC SCHOOL SEC-9 ROHINI DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750107",
+      "serial_number": "1055",
+      "affiliation_and_school_code": "Aff. No. : 2750107 Sch. Code: 87488",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SHAHEED CAPTAIN SANJEEV DAHIYA Head/Principal Name: SATISH KUMAR",
+      "address_and_website": "Address : GOVT SARVODYA CO-ED SR SEC SCHOOL SEC-9 ROHINI DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "SHAHEED CAPTAIN SANJEEV DAHIYA",
+      "Affiliation Number": "2750107",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "GOVT SARVODYA CO-ED SR SEC SCHOOL SEC-9 ROHINI DELHI",
+      "Pin Code": "110085",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "1991",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "SATISH KUMAR",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.COM M.ED and PGDSLM",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "10",
+      "Teaching:": "12",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "DIR. OF EDU.",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730144",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\ST_COLUMBAS_SCHOOL_2730144.json"
+  },
+  "school_identity": {
+    "school_name": "ST COLUMBAS SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730144",
+    "cbse_school_code": "85003"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "ASHOK PLACE NEW DELHI",
+    "pincode": "110001"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1941",
+    "first_opening_date": "22 Feb 2018",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.stcolumbas.edu.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "ROBERT ANTHONY FERNANDES",
+    "gender": "Male",
+    "qualification": "M.Sc, B.Ed",
+    "administrative_experience": "10",
+    "teaching_experience": "15"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730144",
+    "school_code": "85003",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "CONG.OF CHRISTIAN BROTHERS IN INDIA"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730144",
+      "listing_raw_columns": [
+        "232",
+        "Aff. No. : 2730144 Sch. Code: 85003",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : ST COLUMBAS SCHOOL Head/Principal Name: ROBERT ANTHONY FERNANDES",
+        "Address : ASHOK PLACE NEW DELHI Website : www.stcolumbas.edu.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730144",
+      "serial_number": "232",
+      "affiliation_and_school_code": "Aff. No. : 2730144 Sch. Code: 85003",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : ST COLUMBAS SCHOOL Head/Principal Name: ROBERT ANTHONY FERNANDES",
+      "address_and_website": "Address : ASHOK PLACE NEW DELHI Website : www.stcolumbas.edu.in"
+    },
+    "school_details": {
+      "Name of Institution": "ST COLUMBAS SCHOOL",
+      "Affiliation Number": "2730144",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "ASHOK PLACE NEW DELHI",
+      "Pin Code": "110001",
+      "Website": "www.stcolumbas.edu.in",
+      "Year of Foundation": "1941",
+      "Date of First Opening of School": "22 Feb 2018",
+      "Name of Principal/ Head of Institution": "ROBERT ANTHONY FERNANDES",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.Sc, B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "10",
+      "Teaching:": "15",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "CONG.OF CHRISTIAN BROTHERS IN INDIA",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

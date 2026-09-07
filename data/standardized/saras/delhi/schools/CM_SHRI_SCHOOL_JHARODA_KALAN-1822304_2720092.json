@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720092",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\CM_SHRI_SCHOOL_JHARODA_KALAN-1822304_2720092.json"
+  },
+  "school_identity": {
+    "school_name": "CM SHRI SCHOOL JHARODA KALAN-1822304",
+    "udise_code": null,
+    "cbse_affiliation_number": "2720092",
+    "cbse_school_code": "27727"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "JHARODA KALAN, ADJOINING DELHI POLICE TRAINING COLLEGE, NAJAFGARH",
+    "pincode": "110072"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2025",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://www.edudel.nic.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "HARKESH",
+    "gender": "Male",
+    "qualification": "M.Com, B.Ed",
+    "administrative_experience": "11",
+    "teaching_experience": "12"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2720092",
+    "school_code": "27727",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "DIRECTORATE OF EDUCATION GNCTD DELHI"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2720092",
+      "listing_raw_columns": [
+        "89",
+        "Aff. No. : 2720092 Sch. Code: 27727",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : CM SHRI SCHOOL JHARODA KALAN-1822304 Head/Principal Name: HARKESH",
+        "Address : JHARODA KALAN, ADJOINING DELHI POLICE TRAINING COLLEGE, NAJAFGARH Website : https://www.edudel.nic.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720092",
+      "serial_number": "89",
+      "affiliation_and_school_code": "Aff. No. : 2720092 Sch. Code: 27727",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : CM SHRI SCHOOL JHARODA KALAN-1822304 Head/Principal Name: HARKESH",
+      "address_and_website": "Address : JHARODA KALAN, ADJOINING DELHI POLICE TRAINING COLLEGE, NAJAFGARH Website : https://www.edudel.nic.in/"
+    },
+    "school_details": {
+      "Name of Institution": "CM SHRI SCHOOL JHARODA KALAN-1822304",
+      "Affiliation Number": "2720092",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "JHARODA KALAN, ADJOINING DELHI POLICE TRAINING COLLEGE, NAJAFGARH",
+      "Pin Code": "110072",
+      "Website": "https://www.edudel.nic.in/",
+      "Year of Foundation": "2025",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "HARKESH",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.Com, B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "11",
+      "Teaching:": "12",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "DIRECTORATE OF EDUCATION GNCTD DELHI",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

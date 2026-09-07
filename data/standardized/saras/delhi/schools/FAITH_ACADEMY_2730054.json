@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730054",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\FAITH_ACADEMY_2730054.json"
+  },
+  "school_identity": {
+    "school_name": "FAITH ACADEMY",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730054",
+    "cbse_school_code": "85026"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "CENTRAL DELHI",
+    "block": null,
+    "address": "JOHN L, DORSEY ROAD, PRASAD NAGAR NEW DELHI",
+    "pincode": "110005"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1964",
+    "first_opening_date": "02 Jun 2008",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.faithacademy.co.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "M KANNAN",
+    "gender": "Male",
+    "qualification": "P hd M.Sc M Ed. D A P",
+    "administrative_experience": "34",
+    "teaching_experience": "30"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730054",
+    "school_code": "85026",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "CHRISTIAN EDU. SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730054",
+      "listing_raw_columns": [
+        "143",
+        "Aff. No. : 2730054 Sch. Code: 85026",
+        "State : DELHI District : CENTRAL DELHI",
+        "Senior Secondary Level",
+        "Name : FAITH ACADEMY Head/Principal Name: M KANNAN",
+        "Address : JOHN L, DORSEY ROAD, PRASAD NAGAR NEW DELHI Website : www.faithacademy.co.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730054",
+      "serial_number": "143",
+      "affiliation_and_school_code": "Aff. No. : 2730054 Sch. Code: 85026",
+      "state_and_district": "State : DELHI District : CENTRAL DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : FAITH ACADEMY Head/Principal Name: M KANNAN",
+      "address_and_website": "Address : JOHN L, DORSEY ROAD, PRASAD NAGAR NEW DELHI Website : www.faithacademy.co.in"
+    },
+    "school_details": {
+      "Name of Institution": "FAITH ACADEMY",
+      "Affiliation Number": "2730054",
+      "State": "DELHI",
+      "District": "CENTRAL DELHI",
+      "Postal Address": "JOHN L, DORSEY ROAD, PRASAD NAGAR NEW DELHI",
+      "Pin Code": "110005",
+      "Website": "www.faithacademy.co.in",
+      "Year of Foundation": "1964",
+      "Date of First Opening of School": "02 Jun 2008",
+      "Name of Principal/ Head of Institution": "M KANNAN",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "P hd M.Sc M Ed. D A P",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "34",
+      "Teaching:": "30",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "CHRISTIAN EDU. SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750102",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\CM_SHRI_SCHOOL,_SECTOR-_II,_ROHINI_2750102.json"
+  },
+  "school_identity": {
+    "school_name": "CM SHRI SCHOOL, SECTOR- II, ROHINI",
+    "udise_code": null,
+    "cbse_affiliation_number": "2750102",
+    "cbse_school_code": "87482"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "SECTOR II ROHINI DELHI",
+    "pincode": "110085"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1988",
+    "first_opening_date": "31 Mar 2011",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "VIRENDER KUMAR",
+    "gender": "Male",
+    "qualification": "M.Sc, Phd.",
+    "administrative_experience": "2",
+    "teaching_experience": "22"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2750102",
+    "school_code": "87482",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "DIRECTORATE OF EDUCATION"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2750102",
+      "listing_raw_columns": [
+        "1050",
+        "Aff. No. : 2750102 Sch. Code: 87482",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : CM SHRI SCHOOL, SECTOR- II, ROHINI Head/Principal Name: VIRENDER KUMAR",
+        "Address : SECTOR II ROHINI DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750102",
+      "serial_number": "1050",
+      "affiliation_and_school_code": "Aff. No. : 2750102 Sch. Code: 87482",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : CM SHRI SCHOOL, SECTOR- II, ROHINI Head/Principal Name: VIRENDER KUMAR",
+      "address_and_website": "Address : SECTOR II ROHINI DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "CM SHRI SCHOOL, SECTOR- II, ROHINI",
+      "Affiliation Number": "2750102",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "SECTOR II ROHINI DELHI",
+      "Pin Code": "110085",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "1988",
+      "Date of First Opening of School": "31 Mar 2011",
+      "Name of Principal/ Head of Institution": "VIRENDER KUMAR",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.Sc, Phd.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "2",
+      "Teaching:": "22",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "DIRECTORATE OF EDUCATION",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

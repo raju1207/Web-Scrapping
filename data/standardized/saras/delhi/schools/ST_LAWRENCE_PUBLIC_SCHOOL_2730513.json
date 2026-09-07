@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730513",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\ST_LAWRENCE_PUBLIC_SCHOOL_2730513.json"
+  },
+  "school_identity": {
+    "school_name": "ST LAWRENCE PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730513",
+    "cbse_school_code": "25150"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH EAST DELHI",
+    "block": null,
+    "address": "A K FACILITY CENTRE OPP LIC COLONY DILSHAD GARDEN, DISTT NORTH EAST DELHI, DELHI",
+    "pincode": "110095"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1988",
+    "first_opening_date": "25 Jun 2007",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://stlps.org",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SUNITA DHINGRA Vice Principal",
+    "gender": "Female",
+    "qualification": "MA B.ED",
+    "administrative_experience": "13",
+    "teaching_experience": "12"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730513",
+    "school_code": "25150",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "ST LAWRENCE EDUCATIONAL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730513",
+      "listing_raw_columns": [
+        "585",
+        "Aff. No. : 2730513 Sch. Code: 25150",
+        "State : DELHI District : NORTH EAST DELHI",
+        "Senior Secondary Level",
+        "Name : ST LAWRENCE PUBLIC SCHOOL Head/Principal Name: SUNITA DHINGRA Vice Principal",
+        "Address : A K FACILITY CENTRE OPP LIC COLONY DILSHAD GARDEN, DISTT NORTH EAST DELHI, DELHI Website : https://stlps.org",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730513",
+      "serial_number": "585",
+      "affiliation_and_school_code": "Aff. No. : 2730513 Sch. Code: 25150",
+      "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : ST LAWRENCE PUBLIC SCHOOL Head/Principal Name: SUNITA DHINGRA Vice Principal",
+      "address_and_website": "Address : A K FACILITY CENTRE OPP LIC COLONY DILSHAD GARDEN, DISTT NORTH EAST DELHI, DELHI Website : https://stlps.org"
+    },
+    "school_details": {
+      "Name of Institution": "ST LAWRENCE PUBLIC SCHOOL",
+      "Affiliation Number": "2730513",
+      "State": "DELHI",
+      "District": "NORTH EAST DELHI",
+      "Postal Address": "A K FACILITY CENTRE OPP LIC COLONY DILSHAD GARDEN, DISTT NORTH EAST DELHI, DELHI",
+      "Pin Code": "110095",
+      "Website": "https://stlps.org",
+      "Year of Foundation": "1988",
+      "Date of First Opening of School": "25 Jun 2007",
+      "Name of Principal/ Head of Institution": "SUNITA DHINGRA Vice Principal",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "13",
+      "Teaching:": "12",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "ST LAWRENCE EDUCATIONAL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

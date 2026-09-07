@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131445",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\D_G_KHETAN_INTERNATIONAL_SCHOOL_1131445.json"
+  },
+  "school_identity": {
+    "school_name": "D G KHETAN INTERNATIONAL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "1131445",
+    "cbse_school_code": "31434"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI SUBURBAN",
+    "block": null,
+    "address": "210 SNEHAL,, BEHIND SUNDAR NAGAR, MALAD WEST",
+    "pincode": "400064"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2019",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://dgkismalad.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Aditee Manoj Saigal",
+    "gender": "Female",
+    "qualification": "M.Sc., B.Ed., Masters in Education Management",
+    "administrative_experience": "14",
+    "teaching_experience": "11"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1131445",
+    "school_code": "31434",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "Nav chetana Charitable Trust"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1131445",
+      "listing_raw_columns": [
+        "21",
+        "Aff. No. : 1131445 Sch. Code: 31434",
+        "State : MAHARASHTRA District : MUMBAI SUBURBAN",
+        "Senior Secondary Level",
+        "Name : D G KHETAN INTERNATIONAL SCHOOL Head/Principal Name: Aditee Manoj Saigal",
+        "Address : 210 SNEHAL,, BEHIND SUNDAR NAGAR, MALAD WEST Website : https://dgkismalad.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131445",
+      "serial_number": "21",
+      "affiliation_and_school_code": "Aff. No. : 1131445 Sch. Code: 31434",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI SUBURBAN",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : D G KHETAN INTERNATIONAL SCHOOL Head/Principal Name: Aditee Manoj Saigal",
+      "address_and_website": "Address : 210 SNEHAL,, BEHIND SUNDAR NAGAR, MALAD WEST Website : https://dgkismalad.in/",
+      "saras_selected_district": "MUMBAI SUBURBAN"
+    },
+    "school_details": {
+      "Name of Institution": "D G KHETAN INTERNATIONAL SCHOOL",
+      "Affiliation Number": "1131445",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI SUBURBAN",
+      "Postal Address": "210 SNEHAL,, BEHIND SUNDAR NAGAR, MALAD WEST",
+      "Pin Code": "400064",
+      "Website": "https://dgkismalad.in/",
+      "Year of Foundation": "2019",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "Aditee Manoj Saigal",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.Sc., B.Ed., Masters in Education Management",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "14",
+      "Teaching:": "11",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "Nav chetana Charitable Trust",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

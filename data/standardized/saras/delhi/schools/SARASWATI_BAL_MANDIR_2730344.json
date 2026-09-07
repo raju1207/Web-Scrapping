@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730344",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SARASWATI_BAL_MANDIR_2730344.json"
+  },
+  "school_identity": {
+    "school_name": "SARASWATI BAL MANDIR",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730344",
+    "cbse_school_code": "85413"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "A-2 PASCHIM VIHAR, DISTT WEST DELHI, NEW DELHI",
+    "pincode": "110063"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1990",
+    "first_opening_date": "04 Apr 2005",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.sbmpv.org",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "PRIYADARSHAN TRIPATHI",
+    "gender": "Male",
+    "qualification": "M.A., M.PED, B.ED,",
+    "administrative_experience": "0",
+    "teaching_experience": "29"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730344",
+    "school_code": "85413",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "SAMARTH SHIKSHA SAMITI"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730344",
+      "listing_raw_columns": [
+        "425",
+        "Aff. No. : 2730344 Sch. Code: 85413",
+        "State : DELHI District : WEST DELHI",
+        "Senior Secondary Level",
+        "Name : SARASWATI BAL MANDIR Head/Principal Name: PRIYADARSHAN TRIPATHI",
+        "Address : A-2 PASCHIM VIHAR, DISTT WEST DELHI, NEW DELHI Website : www.sbmpv.org",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730344",
+      "serial_number": "425",
+      "affiliation_and_school_code": "Aff. No. : 2730344 Sch. Code: 85413",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SARASWATI BAL MANDIR Head/Principal Name: PRIYADARSHAN TRIPATHI",
+      "address_and_website": "Address : A-2 PASCHIM VIHAR, DISTT WEST DELHI, NEW DELHI Website : www.sbmpv.org"
+    },
+    "school_details": {
+      "Name of Institution": "SARASWATI BAL MANDIR",
+      "Affiliation Number": "2730344",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "A-2 PASCHIM VIHAR, DISTT WEST DELHI, NEW DELHI",
+      "Pin Code": "110063",
+      "Website": "www.sbmpv.org",
+      "Year of Foundation": "1990",
+      "Date of First Opening of School": "04 Apr 2005",
+      "Name of Principal/ Head of Institution": "PRIYADARSHAN TRIPATHI",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.A., M.PED, B.ED,",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "0",
+      "Teaching:": "29",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "SAMARTH SHIKSHA SAMITI",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

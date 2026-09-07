@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730906",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\D.V.S_PUBLIC_SCHOOL_2730906.json"
+  },
+  "school_identity": {
+    "school_name": "D.V.S PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730906",
+    "cbse_school_code": "85567"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH DELHI",
+    "block": null,
+    "address": "BURARI, DELHI",
+    "pincode": "110084"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2000",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.dvspublicschoolburari.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SAROJ BALA",
+    "gender": "Female",
+    "qualification": "M.COM, B.Ed",
+    "administrative_experience": "11",
+    "teaching_experience": "8"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730906",
+    "school_code": "85567",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "D.V.S SHIKSHA SAMITI"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730906",
+      "listing_raw_columns": [
+        "921",
+        "Aff. No. : 2730906 Sch. Code: 85567",
+        "State : DELHI District : NORTH DELHI",
+        "Secondary Level",
+        "Name : D.V.S PUBLIC SCHOOL Head/Principal Name: SAROJ BALA",
+        "Address : BURARI, DELHI Website : www.dvspublicschoolburari.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730906",
+      "serial_number": "921",
+      "affiliation_and_school_code": "Aff. No. : 2730906 Sch. Code: 85567",
+      "state_and_district": "State : DELHI District : NORTH DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : D.V.S PUBLIC SCHOOL Head/Principal Name: SAROJ BALA",
+      "address_and_website": "Address : BURARI, DELHI Website : www.dvspublicschoolburari.com"
+    },
+    "school_details": {
+      "Name of Institution": "D.V.S PUBLIC SCHOOL",
+      "Affiliation Number": "2730906",
+      "State": "DELHI",
+      "District": "NORTH DELHI",
+      "Postal Address": "BURARI, DELHI",
+      "Pin Code": "110084",
+      "Website": "www.dvspublicschoolburari.com",
+      "Year of Foundation": "2000",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "SAROJ BALA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.COM, B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "11",
+      "Teaching:": "8",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "D.V.S SHIKSHA SAMITI",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

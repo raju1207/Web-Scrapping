@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130977",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\THE_MODERN_SCHOOL_1130977.json"
+  },
+  "school_identity": {
+    "school_name": "THE MODERN SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "1130977",
+    "cbse_school_code": "30922"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "block": null,
+    "address": "THE MODERN SCHOOL, SICKA NAGAR, V.P. ROAD, GIRGAUM,",
+    "pincode": "400004"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1936",
+    "first_opening_date": "10 Jun 1936",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.themodernschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SWATI VINAYAK SHIRALKAR",
+    "gender": "Female",
+    "qualification": "M.Sc. Chemistry M.Ed, P.hD. DSM MA Education PET",
+    "administrative_experience": "21",
+    "teaching_experience": "27"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1130977",
+    "school_code": "30922",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "Samskar Shikshan Sangh"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1130977",
+      "listing_raw_columns": [
+        "50",
+        "Aff. No. : 1130977 Sch. Code: 30922",
+        "State : MAHARASHTRA District : MUMBAI",
+        "Secondary Level",
+        "Name : THE MODERN SCHOOL Head/Principal Name: SWATI VINAYAK SHIRALKAR",
+        "Address : THE MODERN SCHOOL, SICKA NAGAR, V.P. ROAD, GIRGAUM, Website : www.themodernschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130977",
+      "serial_number": "50",
+      "affiliation_and_school_code": "Aff. No. : 1130977 Sch. Code: 30922",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : THE MODERN SCHOOL Head/Principal Name: SWATI VINAYAK SHIRALKAR",
+      "address_and_website": "Address : THE MODERN SCHOOL, SICKA NAGAR, V.P. ROAD, GIRGAUM, Website : www.themodernschool.com",
+      "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+      "Name of Institution": "THE MODERN SCHOOL",
+      "Affiliation Number": "1130977",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI",
+      "Postal Address": "THE MODERN SCHOOL, SICKA NAGAR, V.P. ROAD, GIRGAUM,",
+      "Pin Code": "400004",
+      "Website": "www.themodernschool.com",
+      "Year of Foundation": "1936",
+      "Date of First Opening of School": "10 Jun 1936",
+      "Name of Principal/ Head of Institution": "SWATI VINAYAK SHIRALKAR",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.Sc. Chemistry M.Ed, P.hD. DSM MA Education PET",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "21",
+      "Teaching:": "27",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "Samskar Shikshan Sangh",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

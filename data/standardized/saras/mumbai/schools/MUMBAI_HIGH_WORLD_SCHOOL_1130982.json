@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130982",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\MUMBAI_HIGH_WORLD_SCHOOL_1130982.json"
+  },
+  "school_identity": {
+    "school_name": "MUMBAI HIGH WORLD SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "1130982",
+    "cbse_school_code": "30940"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "block": null,
+    "address": "SAIBABA NAGAR,BORIVALI WEST.",
+    "pincode": "400092"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2010",
+    "first_opening_date": "10 Jun 2010",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.jayainternationalschool.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Asha Kumari",
+    "gender": "Female",
+    "qualification": "MA Eng, M.A Education B.Ed, E.C.C.E",
+    "administrative_experience": "14",
+    "teaching_experience": "24"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1130982",
+    "school_code": "30940",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "SWATI EDUCATION TRUST"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1130982",
+      "listing_raw_columns": [
+        "51",
+        "Aff. No. : 1130982 Sch. Code: 30940",
+        "State : MAHARASHTRA District : MUMBAI",
+        "Secondary Level",
+        "Name : MUMBAI HIGH WORLD SCHOOL Head/Principal Name: Asha Kumari",
+        "Address : SAIBABA NAGAR,BORIVALI WEST. Website : www.jayainternationalschool.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130982",
+      "serial_number": "51",
+      "affiliation_and_school_code": "Aff. No. : 1130982 Sch. Code: 30940",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : MUMBAI HIGH WORLD SCHOOL Head/Principal Name: Asha Kumari",
+      "address_and_website": "Address : SAIBABA NAGAR,BORIVALI WEST. Website : www.jayainternationalschool.in",
+      "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+      "Name of Institution": "MUMBAI HIGH WORLD SCHOOL",
+      "Affiliation Number": "1130982",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI",
+      "Postal Address": "SAIBABA NAGAR,BORIVALI WEST.",
+      "Pin Code": "400092",
+      "Website": "www.jayainternationalschool.in",
+      "Year of Foundation": "2010",
+      "Date of First Opening of School": "10 Jun 2010",
+      "Name of Principal/ Head of Institution": "Asha Kumari",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA Eng, M.A Education B.Ed, E.C.C.E",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "14",
+      "Teaching:": "24",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "SWATI EDUCATION TRUST",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

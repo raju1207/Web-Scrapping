@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752068",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\RAJKIYA_SARVODAYA_BAL_VIDYALAYA_2752068.json"
+  },
+  "school_identity": {
+    "school_name": "RAJKIYA SARVODAYA BAL VIDYALAYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2752068",
+    "cbse_school_code": "27087"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "EAST DELHI",
+    "block": null,
+    "address": "SURAJ MAL VIHAR DELHI",
+    "pincode": "110092"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1991",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "DIGPAL SINGH",
+    "gender": "Male",
+    "qualification": "MA B ED",
+    "administrative_experience": "10",
+    "teaching_experience": "20"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2752068",
+    "school_code": "27087",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "directate of education"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2752068",
+      "listing_raw_columns": [
+        "1187",
+        "Aff. No. : 2752068 Sch. Code: 27087",
+        "State : DELHI District : EAST DELHI",
+        "Senior Secondary Level",
+        "Name : RAJKIYA SARVODAYA BAL VIDYALAYA Head/Principal Name: DIGPAL SINGH",
+        "Address : SURAJ MAL VIHAR DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752068",
+      "serial_number": "1187",
+      "affiliation_and_school_code": "Aff. No. : 2752068 Sch. Code: 27087",
+      "state_and_district": "State : DELHI District : EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : RAJKIYA SARVODAYA BAL VIDYALAYA Head/Principal Name: DIGPAL SINGH",
+      "address_and_website": "Address : SURAJ MAL VIHAR DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "RAJKIYA SARVODAYA BAL VIDYALAYA",
+      "Affiliation Number": "2752068",
+      "State": "DELHI",
+      "District": "EAST DELHI",
+      "Postal Address": "SURAJ MAL VIHAR DELHI",
+      "Pin Code": "110092",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "1991",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "DIGPAL SINGH",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "MA B ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "10",
+      "Teaching:": "20",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "directate of education",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

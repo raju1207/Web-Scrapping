@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730267",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\G_D_GOENKA_PUBLIC_SCHOOL_2730267.json"
+  },
+  "school_identity": {
+    "school_name": "G D GOENKA PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730267",
+    "cbse_school_code": "85408"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "A-2 PASCHIM VIHAR, DISTT WEST DELHI, NEW DELHI",
+    "pincode": "110063"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1979",
+    "first_opening_date": "02 Jun 2008",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "http://www.gdgoenkapaschimvihar.com/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "INDERJIT KAUR BATRA",
+    "gender": "Female",
+    "qualification": "M.A. B.ED",
+    "administrative_experience": "22",
+    "teaching_experience": "15"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730267",
+    "school_code": "85408",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "St. Martins Educational Society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730267",
+      "listing_raw_columns": [
+        "353",
+        "Aff. No. : 2730267 Sch. Code: 85408",
+        "State : DELHI District : WEST DELHI",
+        "Senior Secondary Level",
+        "Name : G D GOENKA PUBLIC SCHOOL Head/Principal Name: INDERJIT KAUR BATRA",
+        "Address : A-2 PASCHIM VIHAR, DISTT WEST DELHI, NEW DELHI Website : http://www.gdgoenkapaschimvihar.com/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730267",
+      "serial_number": "353",
+      "affiliation_and_school_code": "Aff. No. : 2730267 Sch. Code: 85408",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : G D GOENKA PUBLIC SCHOOL Head/Principal Name: INDERJIT KAUR BATRA",
+      "address_and_website": "Address : A-2 PASCHIM VIHAR, DISTT WEST DELHI, NEW DELHI Website : http://www.gdgoenkapaschimvihar.com/"
+    },
+    "school_details": {
+      "Name of Institution": "G D GOENKA PUBLIC SCHOOL",
+      "Affiliation Number": "2730267",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "A-2 PASCHIM VIHAR, DISTT WEST DELHI, NEW DELHI",
+      "Pin Code": "110063",
+      "Website": "http://www.gdgoenkapaschimvihar.com/",
+      "Year of Foundation": "1979",
+      "Date of First Opening of School": "02 Jun 2008",
+      "Name of Principal/ Head of Institution": "INDERJIT KAUR BATRA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A. B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "22",
+      "Teaching:": "15",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "St. Martins Educational Society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

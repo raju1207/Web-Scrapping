@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754124",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT._CO_EDUCATION_S.V._DR_2754124.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT. CO EDUCATION S.V. DR",
+    "udise_code": null,
+    "cbse_affiliation_number": "2754124",
+    "cbse_school_code": "27307"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH DELHI",
+    "block": null,
+    "address": "AMBEDKAR NAGAR, SECT - V, DAKSHIN PURI EXT.",
+    "pincode": "110062"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2011",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Bechan Pandit",
+    "gender": "Male",
+    "qualification": "MA, B. Ed",
+    "administrative_experience": "6",
+    "teaching_experience": "23"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2754124",
+    "school_code": "27307",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2027",
+    "affiliation_to": "31/03/2032",
+    "affiliation_period_raw": "From : 01/04/2027 To : 31/03/2032",
+    "trust_society": "dir of education"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2754124",
+      "listing_raw_columns": [
+        "1373",
+        "Aff. No. : 2754124 Sch. Code: 27307",
+        "State : DELHI District : SOUTH DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT. CO EDUCATION S.V. DR Head/Principal Name: Bechan Pandit",
+        "Address : AMBEDKAR NAGAR, SECT - V, DAKSHIN PURI EXT. Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754124",
+      "serial_number": "1373",
+      "affiliation_and_school_code": "Aff. No. : 2754124 Sch. Code: 27307",
+      "state_and_district": "State : DELHI District : SOUTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT. CO EDUCATION S.V. DR Head/Principal Name: Bechan Pandit",
+      "address_and_website": "Address : AMBEDKAR NAGAR, SECT - V, DAKSHIN PURI EXT. Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT. CO EDUCATION S.V. DR",
+      "Affiliation Number": "2754124",
+      "State": "DELHI",
+      "District": "SOUTH DELHI",
+      "Postal Address": "AMBEDKAR NAGAR, SECT - V, DAKSHIN PURI EXT.",
+      "Pin Code": "110062",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "2011",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "Bechan Pandit",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "MA, B. Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "6",
+      "Teaching:": "23",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+      "Name of Trust/ Society/ Managing Committee": "dir of education",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

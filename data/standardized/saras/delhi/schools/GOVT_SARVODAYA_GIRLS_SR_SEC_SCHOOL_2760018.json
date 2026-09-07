@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2760018",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_SARVODAYA_GIRLS_SR_SEC_SCHOOL_2760018.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT SARVODAYA GIRLS SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2760018",
+    "cbse_school_code": "87503"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "RANI KHERA DELHI",
+    "pincode": "110041"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1962",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://www.edudel.nic.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "KARAMVEER SINGH",
+    "gender": "Male",
+    "qualification": "MA, BED",
+    "administrative_experience": "2",
+    "teaching_experience": "20"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2760018",
+    "school_code": "87503",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "directate of education delhi"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2760018",
+      "listing_raw_columns": [
+        "1638",
+        "Aff. No. : 2760018 Sch. Code: 87503",
+        "State : DELHI District : WEST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT SARVODAYA GIRLS SR SEC SCHOOL Head/Principal Name: KARAMVEER SINGH",
+        "Address : RANI KHERA DELHI Website : https://www.edudel.nic.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2760018",
+      "serial_number": "1638",
+      "affiliation_and_school_code": "Aff. No. : 2760018 Sch. Code: 87503",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT SARVODAYA GIRLS SR SEC SCHOOL Head/Principal Name: KARAMVEER SINGH",
+      "address_and_website": "Address : RANI KHERA DELHI Website : https://www.edudel.nic.in/"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT SARVODAYA GIRLS SR SEC SCHOOL",
+      "Affiliation Number": "2760018",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "RANI KHERA DELHI",
+      "Pin Code": "110041",
+      "Website": "https://www.edudel.nic.in/",
+      "Year of Foundation": "1962",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "KARAMVEER SINGH",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "MA, BED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "2",
+      "Teaching:": "20",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "directate of education delhi",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

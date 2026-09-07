@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730687",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\VENKATESHWAR_GLOBAL_SCHOOL_2730687.json"
+  },
+  "school_identity": {
+    "school_name": "VENKATESHWAR GLOBAL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730687",
+    "cbse_school_code": "85277"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "SECT-13, ROHINI",
+    "pincode": "110089"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2008",
+    "first_opening_date": "01 Apr 2008",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.vgs.co.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "NAMITA SINGHAL",
+    "gender": "Female",
+    "qualification": "PHD MED BED MA ENG",
+    "administrative_experience": "18",
+    "teaching_experience": "27"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730687",
+    "school_code": "85277",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "ashoka education & welfare society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730687",
+      "listing_raw_columns": [
+        "755",
+        "Aff. No. : 2730687 Sch. Code: 85277",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : VENKATESHWAR GLOBAL SCHOOL Head/Principal Name: NAMITA SINGHAL",
+        "Address : SECT-13, ROHINI Website : www.vgs.co.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730687",
+      "serial_number": "755",
+      "affiliation_and_school_code": "Aff. No. : 2730687 Sch. Code: 85277",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : VENKATESHWAR GLOBAL SCHOOL Head/Principal Name: NAMITA SINGHAL",
+      "address_and_website": "Address : SECT-13, ROHINI Website : www.vgs.co.in"
+    },
+    "school_details": {
+      "Name of Institution": "VENKATESHWAR GLOBAL SCHOOL",
+      "Affiliation Number": "2730687",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "SECT-13, ROHINI",
+      "Pin Code": "110089",
+      "Website": "www.vgs.co.in",
+      "Year of Foundation": "2008",
+      "Date of First Opening of School": "01 Apr 2008",
+      "Name of Principal/ Head of Institution": "NAMITA SINGHAL",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "PHD MED BED MA ENG",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "18",
+      "Teaching:": "27",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "ashoka education & welfare society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

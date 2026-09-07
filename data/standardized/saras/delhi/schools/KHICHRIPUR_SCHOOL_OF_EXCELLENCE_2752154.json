@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752154",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\KHICHRIPUR_SCHOOL_OF_EXCELLENCE_2752154.json"
+  },
+  "school_identity": {
+    "school_name": "KHICHRIPUR SCHOOL OF EXCELLENCE",
+    "udise_code": null,
+    "cbse_affiliation_number": "2752154",
+    "cbse_school_code": "27033"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "EAST DELHI",
+    "block": null,
+    "address": "KHICHRIPUR , DELHI-110 091",
+    "pincode": null
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2018",
+    "first_opening_date": "27 Sep 2018",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Sanjay Kumar",
+    "gender": "Male",
+    "qualification": "Post Graduation",
+    "administrative_experience": "3",
+    "teaching_experience": "25"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2752154",
+    "school_code": "27033",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2027",
+    "affiliation_to": "31/03/2032",
+    "affiliation_period_raw": "From : 01/04/2027 To : 31/03/2032",
+    "trust_society": null
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2752154",
+      "listing_raw_columns": [
+        "1271",
+        "Aff. No. : 2752154 Sch. Code: 27033",
+        "State : DELHI District : EAST DELHI",
+        "Senior Secondary Level",
+        "Name : KHICHRIPUR SCHOOL OF EXCELLENCE Head/Principal Name: Sanjay Kumar",
+        "Address : KHICHRIPUR , DELHI-110 091 Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752154",
+      "serial_number": "1271",
+      "affiliation_and_school_code": "Aff. No. : 2752154 Sch. Code: 27033",
+      "state_and_district": "State : DELHI District : EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : KHICHRIPUR SCHOOL OF EXCELLENCE Head/Principal Name: Sanjay Kumar",
+      "address_and_website": "Address : KHICHRIPUR , DELHI-110 091 Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "KHICHRIPUR SCHOOL OF EXCELLENCE",
+      "Affiliation Number": "2752154",
+      "State": "DELHI",
+      "District": "EAST DELHI",
+      "Postal Address": "KHICHRIPUR , DELHI-110 091",
+      "Pin Code": null,
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "2018",
+      "Date of First Opening of School": "27 Sep 2018",
+      "Name of Principal/ Head of Institution": "Sanjay Kumar",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "Post Graduation",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "3",
+      "Teaching:": "25",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+      "Name of Trust/ Society/ Managing Committee": null,
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

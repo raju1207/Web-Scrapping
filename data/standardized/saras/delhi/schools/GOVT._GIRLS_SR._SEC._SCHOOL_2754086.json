@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754086",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT._GIRLS_SR._SEC._SCHOOL_2754086.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT. GIRLS SR. SEC. SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2754086",
+    "cbse_school_code": "27111"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "SECT B-I VASANT KUNJ NEW DELHI",
+    "pincode": "110070"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2012",
+    "first_opening_date": "01 Sep 2008",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://www.edudel.nic.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "PARVEEN KUMARI",
+    "gender": "Female",
+    "qualification": "M.A Mphill",
+    "administrative_experience": "5",
+    "teaching_experience": "24"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2754086",
+    "school_code": "27111",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "directate of education"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2754086",
+      "listing_raw_columns": [
+        "1336",
+        "Aff. No. : 2754086 Sch. Code: 27111",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT. GIRLS SR. SEC. SCHOOL Head/Principal Name: PARVEEN KUMARI",
+        "Address : SECT B-I VASANT KUNJ NEW DELHI Website : https://www.edudel.nic.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754086",
+      "serial_number": "1336",
+      "affiliation_and_school_code": "Aff. No. : 2754086 Sch. Code: 27111",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT. GIRLS SR. SEC. SCHOOL Head/Principal Name: PARVEEN KUMARI",
+      "address_and_website": "Address : SECT B-I VASANT KUNJ NEW DELHI Website : https://www.edudel.nic.in/"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT. GIRLS SR. SEC. SCHOOL",
+      "Affiliation Number": "2754086",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "SECT B-I VASANT KUNJ NEW DELHI",
+      "Pin Code": "110070",
+      "Website": "https://www.edudel.nic.in/",
+      "Year of Foundation": "2012",
+      "Date of First Opening of School": "01 Sep 2008",
+      "Name of Principal/ Head of Institution": "PARVEEN KUMARI",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A Mphill",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "5",
+      "Teaching:": "24",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "directate of education",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

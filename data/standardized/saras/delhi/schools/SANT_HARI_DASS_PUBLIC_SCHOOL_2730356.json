@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730356",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SANT_HARI_DASS_PUBLIC_SCHOOL_2730356.json"
+  },
+  "school_identity": {
+    "school_name": "SANT HARI DASS PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730356",
+    "cbse_school_code": "25329"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "OPP AIR FCE STATION BANI CAMP NAJAFGARH, DISTT SOUTH WEST DELHI, DELHI",
+    "pincode": "110043"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1988",
+    "first_opening_date": "11 Apr 2013",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "santharidassschool@com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "KAMLESH",
+    "gender": "Female",
+    "qualification": "M.A.B.ED.",
+    "administrative_experience": "15",
+    "teaching_experience": "24"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730356",
+    "school_code": "25329",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "sant hari dass edu society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730356",
+      "listing_raw_columns": [
+        "437",
+        "Aff. No. : 2730356 Sch. Code: 25329",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : SANT HARI DASS PUBLIC SCHOOL Head/Principal Name: KAMLESH",
+        "Address : OPP AIR FCE STATION BANI CAMP NAJAFGARH, DISTT SOUTH WEST DELHI, DELHI Website : santharidassschool@com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730356",
+      "serial_number": "437",
+      "affiliation_and_school_code": "Aff. No. : 2730356 Sch. Code: 25329",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SANT HARI DASS PUBLIC SCHOOL Head/Principal Name: KAMLESH",
+      "address_and_website": "Address : OPP AIR FCE STATION BANI CAMP NAJAFGARH, DISTT SOUTH WEST DELHI, DELHI Website : santharidassschool@com"
+    },
+    "school_details": {
+      "Name of Institution": "SANT HARI DASS PUBLIC SCHOOL",
+      "Affiliation Number": "2730356",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "OPP AIR FCE STATION BANI CAMP NAJAFGARH, DISTT SOUTH WEST DELHI, DELHI",
+      "Pin Code": "110043",
+      "Website": "santharidassschool@com",
+      "Year of Foundation": "1988",
+      "Date of First Opening of School": "11 Apr 2013",
+      "Name of Principal/ Head of Institution": "KAMLESH",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A.B.ED.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "15",
+      "Teaching:": "24",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "sant hari dass edu society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

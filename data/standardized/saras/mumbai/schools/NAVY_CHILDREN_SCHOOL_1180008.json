@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1180008",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\NAVY_CHILDREN_SCHOOL_1180008.json"
+  },
+  "school_identity": {
+    "school_name": "NAVY CHILDREN SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "1180008",
+    "cbse_school_code": "34076"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "block": null,
+    "address": "BLOCK VII AREA BEHIND KV II NEW NAVY NAGAR COLABA MUMBAI MAHARASHTRA",
+    "pincode": "400005"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1989",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://ncsmumbai.nesnavy.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Dr.Nandana Khare",
+    "gender": "Female",
+    "qualification": "B.Sc, M.Sc, Ph.D, B.Ed, NET",
+    "administrative_experience": "2",
+    "teaching_experience": "20"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1180008",
+    "school_code": "34076",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2031",
+    "trust_society": null
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1180008",
+      "listing_raw_columns": [
+        "66",
+        "Aff. No. : 1180008 Sch. Code: 34076",
+        "State : MAHARASHTRA District : MUMBAI",
+        "Senior Secondary Level",
+        "Name : NAVY CHILDREN SCHOOL Head/Principal Name: Dr.Nandana Khare",
+        "Address : BLOCK VII AREA BEHIND KV II NEW NAVY NAGAR COLABA MUMBAI MAHARASHTRA Website : https://ncsmumbai.nesnavy.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1180008",
+      "serial_number": "66",
+      "affiliation_and_school_code": "Aff. No. : 1180008 Sch. Code: 34076",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : NAVY CHILDREN SCHOOL Head/Principal Name: Dr.Nandana Khare",
+      "address_and_website": "Address : BLOCK VII AREA BEHIND KV II NEW NAVY NAGAR COLABA MUMBAI MAHARASHTRA Website : https://ncsmumbai.nesnavy.in/",
+      "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+      "Name of Institution": "NAVY CHILDREN SCHOOL",
+      "Affiliation Number": "1180008",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI",
+      "Postal Address": "BLOCK VII AREA BEHIND KV II NEW NAVY NAGAR COLABA MUMBAI MAHARASHTRA",
+      "Pin Code": "400005",
+      "Website": "https://ncsmumbai.nesnavy.in/",
+      "Year of Foundation": "1989",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "Dr.Nandana Khare",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "B.Sc, M.Sc, Ph.D, B.Ed, NET",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "2",
+      "Teaching:": "20",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": null,
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

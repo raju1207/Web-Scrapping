@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750058",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_BOYS_SR_SEC_SCHOOL_2750058.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT BOYS SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2750058",
+    "cbse_school_code": null
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "SHASTRI NAGAR DELHI",
+    "pincode": "110052"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT AIDED",
+    "foundation_year": null,
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": null,
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "R.L. SOOD",
+    "gender": "Male",
+    "qualification": null,
+    "administrative_experience": null,
+    "teaching_experience": null
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2750058",
+    "school_code": null,
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2003",
+    "affiliation_to": "31/03/2008",
+    "affiliation_period_raw": "From : 01/04/2003 To : 31/03/2008",
+    "trust_society": "DIRECTORATE OF EDUCATION"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2750058",
+      "listing_raw_columns": [
+        "1012",
+        "Aff. No. : 2750058 Sch. Code:",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: R.L. SOOD",
+        "Address : SHASTRI NAGAR DELHI Website :",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750058",
+      "serial_number": "1012",
+      "affiliation_and_school_code": "Aff. No. : 2750058 Sch. Code:",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: R.L. SOOD",
+      "address_and_website": "Address : SHASTRI NAGAR DELHI Website :"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT BOYS SR SEC SCHOOL",
+      "Affiliation Number": "2750058",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "SHASTRI NAGAR DELHI",
+      "Pin Code": "110052",
+      "Website": null,
+      "Year of Foundation": null,
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "R.L. SOOD",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": null,
+      "No of Experience ( in Years ):": null,
+      "Administrative:": null,
+      "Teaching:": null,
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT AIDED",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2003 To : 31/03/2008",
+      "Name of Trust/ Society/ Managing Committee": "DIRECTORATE OF EDUCATION",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

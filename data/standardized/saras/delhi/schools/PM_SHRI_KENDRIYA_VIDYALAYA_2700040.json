@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700040",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\PM_SHRI_KENDRIYA_VIDYALAYA_2700040.json"
+  },
+  "school_identity": {
+    "school_name": "PM SHRI KENDRIYA VIDYALAYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2700040",
+    "cbse_school_code": "89003"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH DELHI",
+    "block": null,
+    "address": "SEC A-5, POCKET - 11, NARELA, DELHI",
+    "pincode": "110040"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "KV",
+    "foundation_year": "2003",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://narela.kvs.ac.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "NEERAJ KUMAR TYAGI",
+    "gender": "Male",
+    "qualification": "M.Sc. Physics B.Ed.",
+    "administrative_experience": "5",
+    "teaching_experience": "21"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2700040",
+    "school_code": "89003",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "kendriya vidyalaya sangathan n.d."
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2700040",
+      "listing_raw_columns": [
+        "39",
+        "Aff. No. : 2700040 Sch. Code: 89003",
+        "State : DELHI District : NORTH DELHI",
+        "Senior Secondary Level",
+        "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: NEERAJ KUMAR TYAGI",
+        "Address : SEC A-5, POCKET - 11, NARELA, DELHI Website : https://narela.kvs.ac.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700040",
+      "serial_number": "39",
+      "affiliation_and_school_code": "Aff. No. : 2700040 Sch. Code: 89003",
+      "state_and_district": "State : DELHI District : NORTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: NEERAJ KUMAR TYAGI",
+      "address_and_website": "Address : SEC A-5, POCKET - 11, NARELA, DELHI Website : https://narela.kvs.ac.in/"
+    },
+    "school_details": {
+      "Name of Institution": "PM SHRI KENDRIYA VIDYALAYA",
+      "Affiliation Number": "2700040",
+      "State": "DELHI",
+      "District": "NORTH DELHI",
+      "Postal Address": "SEC A-5, POCKET - 11, NARELA, DELHI",
+      "Pin Code": "110040",
+      "Website": "https://narela.kvs.ac.in/",
+      "Year of Foundation": "2003",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "NEERAJ KUMAR TYAGI",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.Sc. Physics B.Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "5",
+      "Teaching:": "21",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "KV",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "kendriya vidyalaya sangathan n.d.",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

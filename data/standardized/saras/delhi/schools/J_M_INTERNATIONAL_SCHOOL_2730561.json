@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730561",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\J_M_INTERNATIONAL_SCHOOL_2730561.json"
+  },
+  "school_identity": {
+    "school_name": "J M INTERNATIONAL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730561",
+    "cbse_school_code": "25289"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "SECTOR-6, DWARKA, NEW DELHI",
+    "pincode": "110075"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2006",
+    "first_opening_date": "03 Apr 2006",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.jminternationalschool.com/dwarka",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "AMITA SAXENA",
+    "gender": "Female",
+    "qualification": "P.hd., M.Sc., B.Ed.",
+    "administrative_experience": "31",
+    "teaching_experience": "26"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730561",
+    "school_code": "25289",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "Ferry Educational Society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730561",
+      "listing_raw_columns": [
+        "632",
+        "Aff. No. : 2730561 Sch. Code: 25289",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : J M INTERNATIONAL SCHOOL Head/Principal Name: AMITA SAXENA",
+        "Address : SECTOR-6, DWARKA, NEW DELHI Website : www.jminternationalschool.com/dwarka",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730561",
+      "serial_number": "632",
+      "affiliation_and_school_code": "Aff. No. : 2730561 Sch. Code: 25289",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : J M INTERNATIONAL SCHOOL Head/Principal Name: AMITA SAXENA",
+      "address_and_website": "Address : SECTOR-6, DWARKA, NEW DELHI Website : www.jminternationalschool.com/dwarka"
+    },
+    "school_details": {
+      "Name of Institution": "J M INTERNATIONAL SCHOOL",
+      "Affiliation Number": "2730561",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "SECTOR-6, DWARKA, NEW DELHI",
+      "Pin Code": "110075",
+      "Website": "www.jminternationalschool.com/dwarka",
+      "Year of Foundation": "2006",
+      "Date of First Opening of School": "03 Apr 2006",
+      "Name of Principal/ Head of Institution": "AMITA SAXENA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "P.hd., M.Sc., B.Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "31",
+      "Teaching:": "26",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "Ferry Educational Society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

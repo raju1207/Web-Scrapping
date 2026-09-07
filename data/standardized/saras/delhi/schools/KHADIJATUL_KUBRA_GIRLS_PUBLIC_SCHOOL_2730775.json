@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730775",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\KHADIJATUL_KUBRA_GIRLS_PUBLIC_SCHOOL_2730775.json"
+  },
+  "school_identity": {
+    "school_name": "KHADIJATUL KUBRA GIRLS PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730775",
+    "cbse_school_code": "25244"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH DELHI",
+    "block": null,
+    "address": "8/1,JOGA BAI,NEW DELHI",
+    "pincode": "110025"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1985",
+    "first_opening_date": "01 Apr 1985",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.kkgps.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "UZRA JAMAL",
+    "gender": "Female",
+    "qualification": "M.A , M.Ed",
+    "administrative_experience": "20",
+    "teaching_experience": "25"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730775",
+    "school_code": "25244",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "Abul Kalam Azad Islamic Awakening Center"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730775",
+      "listing_raw_columns": [
+        "839",
+        "Aff. No. : 2730775 Sch. Code: 25244",
+        "State : DELHI District : SOUTH DELHI",
+        "Senior Secondary Level",
+        "Name : KHADIJATUL KUBRA GIRLS PUBLIC SCHOOL Head/Principal Name: UZRA JAMAL",
+        "Address : 8/1,JOGA BAI,NEW DELHI Website : www.kkgps.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730775",
+      "serial_number": "839",
+      "affiliation_and_school_code": "Aff. No. : 2730775 Sch. Code: 25244",
+      "state_and_district": "State : DELHI District : SOUTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : KHADIJATUL KUBRA GIRLS PUBLIC SCHOOL Head/Principal Name: UZRA JAMAL",
+      "address_and_website": "Address : 8/1,JOGA BAI,NEW DELHI Website : www.kkgps.in"
+    },
+    "school_details": {
+      "Name of Institution": "KHADIJATUL KUBRA GIRLS PUBLIC SCHOOL",
+      "Affiliation Number": "2730775",
+      "State": "DELHI",
+      "District": "SOUTH DELHI",
+      "Postal Address": "8/1,JOGA BAI,NEW DELHI",
+      "Pin Code": "110025",
+      "Website": "www.kkgps.in",
+      "Year of Foundation": "1985",
+      "Date of First Opening of School": "01 Apr 1985",
+      "Name of Principal/ Head of Institution": "UZRA JAMAL",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A , M.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "20",
+      "Teaching:": "25",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "Abul Kalam Azad Islamic Awakening Center",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

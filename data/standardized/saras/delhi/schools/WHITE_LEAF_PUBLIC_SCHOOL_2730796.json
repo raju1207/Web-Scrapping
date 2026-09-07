@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730796",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\WHITE_LEAF_PUBLIC_SCHOOL_2730796.json"
+  },
+  "school_identity": {
+    "school_name": "WHITE LEAF PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730796",
+    "cbse_school_code": "85286"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "PLOT NO-89, GALI NO.2 AND 3 POOTH KHURD, DELHI-39",
+    "pincode": "110039"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2006",
+    "first_opening_date": "01 Jan 2006",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.wlpspooth.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SUNIL SHARMA",
+    "gender": "Male",
+    "qualification": "M.com, B.ED",
+    "administrative_experience": "11",
+    "teaching_experience": "3"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730796",
+    "school_code": "85286",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "Sai Mehar Murt Educational Society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730796",
+      "listing_raw_columns": [
+        "860",
+        "Aff. No. : 2730796 Sch. Code: 85286",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : WHITE LEAF PUBLIC SCHOOL Head/Principal Name: SUNIL SHARMA",
+        "Address : PLOT NO-89, GALI NO.2 AND 3 POOTH KHURD, DELHI-39 Website : www.wlpspooth.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730796",
+      "serial_number": "860",
+      "affiliation_and_school_code": "Aff. No. : 2730796 Sch. Code: 85286",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : WHITE LEAF PUBLIC SCHOOL Head/Principal Name: SUNIL SHARMA",
+      "address_and_website": "Address : PLOT NO-89, GALI NO.2 AND 3 POOTH KHURD, DELHI-39 Website : www.wlpspooth.in"
+    },
+    "school_details": {
+      "Name of Institution": "WHITE LEAF PUBLIC SCHOOL",
+      "Affiliation Number": "2730796",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "PLOT NO-89, GALI NO.2 AND 3 POOTH KHURD, DELHI-39",
+      "Pin Code": "110039",
+      "Website": "www.wlpspooth.in",
+      "Year of Foundation": "2006",
+      "Date of First Opening of School": "01 Jan 2006",
+      "Name of Principal/ Head of Institution": "SUNIL SHARMA",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.com, B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "11",
+      "Teaching:": "3",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "Sai Mehar Murt Educational Society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

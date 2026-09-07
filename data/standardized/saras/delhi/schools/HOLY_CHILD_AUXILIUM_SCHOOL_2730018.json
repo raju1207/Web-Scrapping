@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730018",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\HOLY_CHILD_AUXILIUM_SCHOOL_2730018.json"
+  },
+  "school_identity": {
+    "school_name": "HOLY CHILD AUXILIUM SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730018",
+    "cbse_school_code": "25088"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "POORVI MARG VASANT VIHAR NEW DELHI",
+    "pincode": "110057"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1970",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.hcauxilium.co.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "DR SR MINIMOL THOMAS",
+    "gender": "Female",
+    "qualification": "PHD MA B.ED",
+    "administrative_experience": "20",
+    "teaching_experience": "15"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730018",
+    "school_code": "25088",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/05/1979",
+    "affiliation_to": "31/03/2019",
+    "affiliation_period_raw": "From : 01/05/1979 To : 31/03/2019",
+    "trust_society": "THE SOCIETY OF SALESIAN SISTERS"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730018",
+      "listing_raw_columns": [
+        "108",
+        "Aff. No. : 2730018 Sch. Code: 25088",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : HOLY CHILD AUXILIUM SCHOOL Head/Principal Name: DR SR MINIMOL THOMAS",
+        "Address : POORVI MARG VASANT VIHAR NEW DELHI Website : www.hcauxilium.co.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730018",
+      "serial_number": "108",
+      "affiliation_and_school_code": "Aff. No. : 2730018 Sch. Code: 25088",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : HOLY CHILD AUXILIUM SCHOOL Head/Principal Name: DR SR MINIMOL THOMAS",
+      "address_and_website": "Address : POORVI MARG VASANT VIHAR NEW DELHI Website : www.hcauxilium.co.in"
+    },
+    "school_details": {
+      "Name of Institution": "HOLY CHILD AUXILIUM SCHOOL",
+      "Affiliation Number": "2730018",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "POORVI MARG VASANT VIHAR NEW DELHI",
+      "Pin Code": "110057",
+      "Website": "www.hcauxilium.co.in",
+      "Year of Foundation": "1970",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "DR SR MINIMOL THOMAS",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "PHD MA B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "20",
+      "Teaching:": "15",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/05/1979 To : 31/03/2019",
+      "Name of Trust/ Society/ Managing Committee": "THE SOCIETY OF SALESIAN SISTERS",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

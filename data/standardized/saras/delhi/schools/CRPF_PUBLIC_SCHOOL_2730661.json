@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730661",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\CRPF_PUBLIC_SCHOOL_2730661.json"
+  },
+  "school_identity": {
+    "school_name": "CRPF PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730661",
+    "cbse_school_code": "25302"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "SEC-16B DWARKA",
+    "pincode": "110075"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2006",
+    "first_opening_date": "27 Nov 2006",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.crpfpsdwarka.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "MEENU TIWARI",
+    "gender": "Female",
+    "qualification": "M Sc Physics B.Ed",
+    "administrative_experience": "30",
+    "teaching_experience": "32"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730661",
+    "school_code": "25302",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "CRPF Employees Educational Society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730661",
+      "listing_raw_columns": [
+        "729",
+        "Aff. No. : 2730661 Sch. Code: 25302",
+        "State : DELHI District : WEST DELHI",
+        "Senior Secondary Level",
+        "Name : CRPF PUBLIC SCHOOL Head/Principal Name: MEENU TIWARI",
+        "Address : SEC-16B DWARKA Website : www.crpfpsdwarka.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730661",
+      "serial_number": "729",
+      "affiliation_and_school_code": "Aff. No. : 2730661 Sch. Code: 25302",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : CRPF PUBLIC SCHOOL Head/Principal Name: MEENU TIWARI",
+      "address_and_website": "Address : SEC-16B DWARKA Website : www.crpfpsdwarka.in"
+    },
+    "school_details": {
+      "Name of Institution": "CRPF PUBLIC SCHOOL",
+      "Affiliation Number": "2730661",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "SEC-16B DWARKA",
+      "Pin Code": "110075",
+      "Website": "www.crpfpsdwarka.in",
+      "Year of Foundation": "2006",
+      "Date of First Opening of School": "27 Nov 2006",
+      "Name of Principal/ Head of Institution": "MEENU TIWARI",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M Sc Physics B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "30",
+      "Teaching:": "32",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "CRPF Employees Educational Society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131603",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\BUNTS_SANGHA'S_S_M_SHETTY_HIGH_SCHOOL_&_JUNIOR_COLLEGE_1131603.json"
+  },
+  "school_identity": {
+    "school_name": "BUNTS SANGHA'S S M SHETTY HIGH SCHOOL & JUNIOR COLLEGE",
+    "udise_code": null,
+    "cbse_affiliation_number": "1131603",
+    "cbse_school_code": "31601"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "block": null,
+    "address": "OPPOSITE JALVAYU VIHAR, HIRANANDANI GARDENS, POWAI, MUMBAI",
+    "pincode": "400076"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1998",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://bssmsstateboard.org/bs_highschool",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "RESHMA BHAGWANDAS RAO",
+    "gender": "Female",
+    "qualification": "BSc BEd MA PGDME",
+    "administrative_experience": "25",
+    "teaching_experience": "28"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1131603",
+    "school_code": "31601",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "BUNTS SANGHA MUMBAI"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1131603",
+      "listing_raw_columns": [
+        "63",
+        "Aff. No. : 1131603 Sch. Code: 31601",
+        "State : MAHARASHTRA District : MUMBAI",
+        "Secondary Level",
+        "Name : BUNTS SANGHA'S S M SHETTY HIGH SCHOOL & JUNIOR COLLEGE Head/Principal Name: RESHMA BHAGWANDAS RAO",
+        "Address : OPPOSITE JALVAYU VIHAR, HIRANANDANI GARDENS, POWAI, MUMBAI Website : https://bssmsstateboard.org/bs_highschool",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131603",
+      "serial_number": "63",
+      "affiliation_and_school_code": "Aff. No. : 1131603 Sch. Code: 31601",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : BUNTS SANGHA'S S M SHETTY HIGH SCHOOL & JUNIOR COLLEGE Head/Principal Name: RESHMA BHAGWANDAS RAO",
+      "address_and_website": "Address : OPPOSITE JALVAYU VIHAR, HIRANANDANI GARDENS, POWAI, MUMBAI Website : https://bssmsstateboard.org/bs_highschool",
+      "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+      "Name of Institution": "BUNTS SANGHA'S S M SHETTY HIGH SCHOOL & JUNIOR COLLEGE",
+      "Affiliation Number": "1131603",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI",
+      "Postal Address": "OPPOSITE JALVAYU VIHAR, HIRANANDANI GARDENS, POWAI, MUMBAI",
+      "Pin Code": "400076",
+      "Website": "https://bssmsstateboard.org/bs_highschool",
+      "Year of Foundation": "1998",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "RESHMA BHAGWANDAS RAO",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "BSc BEd MA PGDME",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "25",
+      "Teaching:": "28",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "BUNTS SANGHA MUMBAI",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

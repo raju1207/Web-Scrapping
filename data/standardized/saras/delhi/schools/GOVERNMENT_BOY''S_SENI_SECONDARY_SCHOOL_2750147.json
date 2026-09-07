@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750147",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVERNMENT_BOY''S_SENI_SECONDARY_SCHOOL_2750147.json"
+  },
+  "school_identity": {
+    "school_name": "GOVERNMENT BOY''S SENI SECONDARY SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2750147",
+    "cbse_school_code": "87463"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "VILL. NITHARI, DELHI-110086",
+    "pincode": "110086"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2000",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://www.edudel.nic.in/mis/MisAdmin/frmMisLogin.aspx",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "DR RAJIV SHEDHA",
+    "gender": "Male",
+    "qualification": "MA.,B.ED,PHD",
+    "administrative_experience": "6",
+    "teaching_experience": "12"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2750147",
+    "school_code": "87463",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "dir. of education"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2750147",
+      "listing_raw_columns": [
+        "1095",
+        "Aff. No. : 2750147 Sch. Code: 87463",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVERNMENT BOY''S SENI SECONDARY SCHOOL Head/Principal Name: DR RAJIV SHEDHA",
+        "Address : VILL. NITHARI, DELHI-110086 Website : https://www.edudel.nic.in/mis/MisAdmin/frmMisLogin.aspx",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750147",
+      "serial_number": "1095",
+      "affiliation_and_school_code": "Aff. No. : 2750147 Sch. Code: 87463",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVERNMENT BOY''S SENI SECONDARY SCHOOL Head/Principal Name: DR RAJIV SHEDHA",
+      "address_and_website": "Address : VILL. NITHARI, DELHI-110086 Website : https://www.edudel.nic.in/mis/MisAdmin/frmMisLogin.aspx"
+    },
+    "school_details": {
+      "Name of Institution": "GOVERNMENT BOY''S SENI SECONDARY SCHOOL",
+      "Affiliation Number": "2750147",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "VILL. NITHARI, DELHI-110086",
+      "Pin Code": "110086",
+      "Website": "https://www.edudel.nic.in/mis/MisAdmin/frmMisLogin.aspx",
+      "Year of Foundation": "2000",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "DR RAJIV SHEDHA",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "MA.,B.ED,PHD",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "6",
+      "Teaching:": "12",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "dir. of education",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

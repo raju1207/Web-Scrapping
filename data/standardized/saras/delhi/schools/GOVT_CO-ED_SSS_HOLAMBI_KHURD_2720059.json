@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720059",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_CO-ED_SSS_HOLAMBI_KHURD_2720059.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT CO-ED SSS HOLAMBI KHURD",
+    "udise_code": null,
+    "cbse_affiliation_number": "2720059",
+    "cbse_school_code": "87754"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "HOLAMBI KHURD, LAL BUILDING HOLAMBI KHURD",
+    "pincode": "110082"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2022",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "PRADEEP KUMAR",
+    "gender": "Male",
+    "qualification": "MSC BED",
+    "administrative_experience": "5",
+    "teaching_experience": "17"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2720059",
+    "school_code": "87754",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": null
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2720059",
+      "listing_raw_columns": [
+        "56",
+        "Aff. No. : 2720059 Sch. Code: 87754",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT CO-ED SSS HOLAMBI KHURD Head/Principal Name: PRADEEP KUMAR",
+        "Address : HOLAMBI KHURD, LAL BUILDING HOLAMBI KHURD Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720059",
+      "serial_number": "56",
+      "affiliation_and_school_code": "Aff. No. : 2720059 Sch. Code: 87754",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT CO-ED SSS HOLAMBI KHURD Head/Principal Name: PRADEEP KUMAR",
+      "address_and_website": "Address : HOLAMBI KHURD, LAL BUILDING HOLAMBI KHURD Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT CO-ED SSS HOLAMBI KHURD",
+      "Affiliation Number": "2720059",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "HOLAMBI KHURD, LAL BUILDING HOLAMBI KHURD",
+      "Pin Code": "110082",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "2022",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "PRADEEP KUMAR",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "MSC BED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "5",
+      "Teaching:": "17",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "na",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

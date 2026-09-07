@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730442",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\ABHINAV_PUBLIC_SCHOOL_2730442.json"
+  },
+  "school_identity": {
+    "school_name": "ABHINAV PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730442",
+    "cbse_school_code": "85222"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "CU-BLOCK PITAMPURA, DISTT NORTH WEST DELHI, DELHI",
+    "pincode": "110088"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2003",
+    "first_opening_date": "01 Sep 1997",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.abhinavpublicschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "VICE PRINCPAL MAMTA JAIN HOS",
+    "gender": "Female",
+    "qualification": "M.COM., B.Ed.",
+    "administrative_experience": "16",
+    "teaching_experience": "16"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730442",
+    "school_code": "85222",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2027",
+    "affiliation_to": "31/03/2032",
+    "affiliation_period_raw": "From : 01/04/2027 To : 31/03/2032",
+    "trust_society": "MEHTA INSTITUTE OF EDUCATION"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730442",
+      "listing_raw_columns": [
+        "516",
+        "Aff. No. : 2730442 Sch. Code: 85222",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : ABHINAV PUBLIC SCHOOL Head/Principal Name: VICE PRINCPAL MAMTA JAIN HOS",
+        "Address : CU-BLOCK PITAMPURA, DISTT NORTH WEST DELHI, DELHI Website : www.abhinavpublicschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730442",
+      "serial_number": "516",
+      "affiliation_and_school_code": "Aff. No. : 2730442 Sch. Code: 85222",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : ABHINAV PUBLIC SCHOOL Head/Principal Name: VICE PRINCPAL MAMTA JAIN HOS",
+      "address_and_website": "Address : CU-BLOCK PITAMPURA, DISTT NORTH WEST DELHI, DELHI Website : www.abhinavpublicschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "ABHINAV PUBLIC SCHOOL",
+      "Affiliation Number": "2730442",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "CU-BLOCK PITAMPURA, DISTT NORTH WEST DELHI, DELHI",
+      "Pin Code": "110088",
+      "Website": "www.abhinavpublicschool.com",
+      "Year of Foundation": "2003",
+      "Date of First Opening of School": "01 Sep 1997",
+      "Name of Principal/ Head of Institution": "VICE PRINCPAL MAMTA JAIN HOS",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.COM., B.Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "16",
+      "Teaching:": "16",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+      "Name of Trust/ Society/ Managing Committee": "MEHTA INSTITUTE OF EDUCATION",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

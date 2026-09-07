@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730361",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SEVTI_DEVI_MEMORIAL_VIDYA_MANDIR_2730361.json"
+  },
+  "school_identity": {
+    "school_name": "SEVTI DEVI MEMORIAL VIDYA MANDIR",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730361",
+    "cbse_school_code": "25265"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "MAHAVIR ENCLAVE, DISTT SOUTH WEST DELHI, NEW DELHI",
+    "pincode": "110045"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1990",
+    "first_opening_date": "12 Jul 2018",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.sevtidevischool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Tushita Vats",
+    "gender": "Female",
+    "qualification": "MA BEd MBA",
+    "administrative_experience": "6",
+    "teaching_experience": "10"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730361",
+    "school_code": "25265",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "SEVTI DEVI EDU WEL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730361",
+      "listing_raw_columns": [
+        "442",
+        "Aff. No. : 2730361 Sch. Code: 25265",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : SEVTI DEVI MEMORIAL VIDYA MANDIR Head/Principal Name: Tushita Vats",
+        "Address : MAHAVIR ENCLAVE, DISTT SOUTH WEST DELHI, NEW DELHI Website : www.sevtidevischool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730361",
+      "serial_number": "442",
+      "affiliation_and_school_code": "Aff. No. : 2730361 Sch. Code: 25265",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SEVTI DEVI MEMORIAL VIDYA MANDIR Head/Principal Name: Tushita Vats",
+      "address_and_website": "Address : MAHAVIR ENCLAVE, DISTT SOUTH WEST DELHI, NEW DELHI Website : www.sevtidevischool.com"
+    },
+    "school_details": {
+      "Name of Institution": "SEVTI DEVI MEMORIAL VIDYA MANDIR",
+      "Affiliation Number": "2730361",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "MAHAVIR ENCLAVE, DISTT SOUTH WEST DELHI, NEW DELHI",
+      "Pin Code": "110045",
+      "Website": "www.sevtidevischool.com",
+      "Year of Foundation": "1990",
+      "Date of First Opening of School": "12 Jul 2018",
+      "Name of Principal/ Head of Institution": "Tushita Vats",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA BEd MBA",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "6",
+      "Teaching:": "10",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "SEVTI DEVI EDU WEL SOCIETY",
+      "Remarks, if any": "Subject to outcome of writ petition(c) No. 4717/2025"
+    },
+    "links": []
+  }
+}

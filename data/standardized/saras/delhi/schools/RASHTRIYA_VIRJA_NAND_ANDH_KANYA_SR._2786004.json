@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2786004",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\RASHTRIYA_VIRJA_NAND_ANDH_KANYA_SR._2786004.json"
+  },
+  "school_identity": {
+    "school_name": "RASHTRIYA VIRJA NAND ANDH KANYA SR.",
+    "udise_code": null,
+    "cbse_affiliation_number": "2786004",
+    "cbse_school_code": "87663"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "SEC.SCHOOL J-BLOCK VIKAS PURI NEW DELHI",
+    "pincode": "110018"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT AIDED",
+    "foundation_year": "1966",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "PRATIBHA SRIVASTAVA",
+    "gender": "Female",
+    "qualification": "MA B Ed Special training for Visually Impaired",
+    "administrative_experience": "0",
+    "teaching_experience": "30"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2786004",
+    "school_code": "87663",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "AIRFORCE PALAM"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2786004",
+      "listing_raw_columns": [
+        "2210",
+        "Aff. No. : 2786004 Sch. Code: 87663",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : RASHTRIYA VIRJA NAND ANDH KANYA SR. Head/Principal Name: PRATIBHA SRIVASTAVA",
+        "Address : SEC.SCHOOL J-BLOCK VIKAS PURI NEW DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2786004",
+      "serial_number": "2210",
+      "affiliation_and_school_code": "Aff. No. : 2786004 Sch. Code: 87663",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : RASHTRIYA VIRJA NAND ANDH KANYA SR. Head/Principal Name: PRATIBHA SRIVASTAVA",
+      "address_and_website": "Address : SEC.SCHOOL J-BLOCK VIKAS PURI NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "RASHTRIYA VIRJA NAND ANDH KANYA SR.",
+      "Affiliation Number": "2786004",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "SEC.SCHOOL J-BLOCK VIKAS PURI NEW DELHI",
+      "Pin Code": "110018",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "1966",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "PRATIBHA SRIVASTAVA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA B Ed Special training for Visually Impaired",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "0",
+      "Teaching:": "30",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT AIDED",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "AIRFORCE PALAM",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

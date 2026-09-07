@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750148",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVERNMENT_BOYS_SECONDARY_SCHOOL_2750148.json"
+  },
+  "school_identity": {
+    "school_name": "GOVERNMENT BOYS SECONDARY SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2750148",
+    "cbse_school_code": "87118"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH DELHI",
+    "block": null,
+    "address": "BURARI, DELHI-110084",
+    "pincode": "110084"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2002",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "http://edudel.nic.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Kapil Kumar Mittal",
+    "gender": "Male",
+    "qualification": "MA Pol Sc BEd",
+    "administrative_experience": "0",
+    "teaching_experience": "16"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2750148",
+    "school_code": "87118",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "dir of education"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2750148",
+      "listing_raw_columns": [
+        "1096",
+        "Aff. No. : 2750148 Sch. Code: 87118",
+        "State : DELHI District : NORTH DELHI",
+        "Senior Secondary Level",
+        "Name : GOVERNMENT BOYS SECONDARY SCHOOL Head/Principal Name: Kapil Kumar Mittal",
+        "Address : BURARI, DELHI-110084 Website : http://edudel.nic.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750148",
+      "serial_number": "1096",
+      "affiliation_and_school_code": "Aff. No. : 2750148 Sch. Code: 87118",
+      "state_and_district": "State : DELHI District : NORTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVERNMENT BOYS SECONDARY SCHOOL Head/Principal Name: Kapil Kumar Mittal",
+      "address_and_website": "Address : BURARI, DELHI-110084 Website : http://edudel.nic.in/"
+    },
+    "school_details": {
+      "Name of Institution": "GOVERNMENT BOYS SECONDARY SCHOOL",
+      "Affiliation Number": "2750148",
+      "State": "DELHI",
+      "District": "NORTH DELHI",
+      "Postal Address": "BURARI, DELHI-110084",
+      "Pin Code": "110084",
+      "Website": "http://edudel.nic.in/",
+      "Year of Foundation": "2002",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "Kapil Kumar Mittal",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "MA Pol Sc BEd",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "0",
+      "Teaching:": "16",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "dir of education",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

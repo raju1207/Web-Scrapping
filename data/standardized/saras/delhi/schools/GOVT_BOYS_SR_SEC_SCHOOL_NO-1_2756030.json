@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756030",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_BOYS_SR_SEC_SCHOOL_NO-1_2756030.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT BOYS SR SEC SCHOOL NO-1",
+    "udise_code": null,
+    "cbse_affiliation_number": "2756030",
+    "cbse_school_code": null
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "B-BLOCK JANAKPURI NEW DELHI",
+    "pincode": "110058"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT AIDED",
+    "foundation_year": null,
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": null,
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "R P SINGH",
+    "gender": "Male",
+    "qualification": null,
+    "administrative_experience": null,
+    "teaching_experience": null
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2756030",
+    "school_code": null,
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2003",
+    "affiliation_to": "31/03/2008",
+    "affiliation_period_raw": "From : 01/04/2003 To : 31/03/2008",
+    "trust_society": "DIRECTORATE OF EDUCATION"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2756030",
+      "listing_raw_columns": [
+        "1424",
+        "Aff. No. : 2756030 Sch. Code:",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT BOYS SR SEC SCHOOL NO-1 Head/Principal Name: R P SINGH",
+        "Address : B-BLOCK JANAKPURI NEW DELHI Website :",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756030",
+      "serial_number": "1424",
+      "affiliation_and_school_code": "Aff. No. : 2756030 Sch. Code:",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT BOYS SR SEC SCHOOL NO-1 Head/Principal Name: R P SINGH",
+      "address_and_website": "Address : B-BLOCK JANAKPURI NEW DELHI Website :"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT BOYS SR SEC SCHOOL NO-1",
+      "Affiliation Number": "2756030",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "B-BLOCK JANAKPURI NEW DELHI",
+      "Pin Code": "110058",
+      "Website": null,
+      "Year of Foundation": null,
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "R P SINGH",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": null,
+      "No of Experience ( in Years ):": null,
+      "Administrative:": null,
+      "Teaching:": null,
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT AIDED",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2003 To : 31/03/2008",
+      "Name of Trust/ Society/ Managing Committee": "DIRECTORATE OF EDUCATION",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

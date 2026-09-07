@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730332",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SARASWATI_VIDYALAYA_FOR_GIRLS_2730332.json"
+  },
+  "school_identity": {
+    "school_name": "SARASWATI VIDYALAYA FOR GIRLS",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730332",
+    "cbse_school_code": "85010"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "CENTRAL DELHI",
+    "block": null,
+    "address": "SARASWATI BHAWAN 17 ANSARI ROAD DARYA GANJ, DISTT CENTRAL DELHI, NEW DELHI",
+    "pincode": "110002"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1943",
+    "first_opening_date": "15 Apr 2002",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.saraswatividyalaya.ac.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Shashi Bidawat Garg",
+    "gender": "Female",
+    "qualification": "MA , B.ED.",
+    "administrative_experience": "11",
+    "teaching_experience": "29"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730332",
+    "school_code": "85010",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "ISTRI SHIKSHA PRACHARINI SABHA"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730332",
+      "listing_raw_columns": [
+        "415",
+        "Aff. No. : 2730332 Sch. Code: 85010",
+        "State : DELHI District : CENTRAL DELHI",
+        "Senior Secondary Level",
+        "Name : SARASWATI VIDYALAYA FOR GIRLS Head/Principal Name: Shashi Bidawat Garg",
+        "Address : SARASWATI BHAWAN 17 ANSARI ROAD DARYA GANJ, DISTT CENTRAL DELHI, NEW DELHI Website : www.saraswatividyalaya.ac.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730332",
+      "serial_number": "415",
+      "affiliation_and_school_code": "Aff. No. : 2730332 Sch. Code: 85010",
+      "state_and_district": "State : DELHI District : CENTRAL DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SARASWATI VIDYALAYA FOR GIRLS Head/Principal Name: Shashi Bidawat Garg",
+      "address_and_website": "Address : SARASWATI BHAWAN 17 ANSARI ROAD DARYA GANJ, DISTT CENTRAL DELHI, NEW DELHI Website : www.saraswatividyalaya.ac.in"
+    },
+    "school_details": {
+      "Name of Institution": "SARASWATI VIDYALAYA FOR GIRLS",
+      "Affiliation Number": "2730332",
+      "State": "DELHI",
+      "District": "CENTRAL DELHI",
+      "Postal Address": "SARASWATI BHAWAN 17 ANSARI ROAD DARYA GANJ, DISTT CENTRAL DELHI, NEW DELHI",
+      "Pin Code": "110002",
+      "Website": "www.saraswatividyalaya.ac.in",
+      "Year of Foundation": "1943",
+      "Date of First Opening of School": "15 Apr 2002",
+      "Name of Principal/ Head of Institution": "Shashi Bidawat Garg",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA , B.ED.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "11",
+      "Teaching:": "29",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "ISTRI SHIKSHA PRACHARINI SABHA",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

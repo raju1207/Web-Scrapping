@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730594",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SRI_RAM_INTERNATIONAL_SCHOOL_2730594.json"
+  },
+  "school_identity": {
+    "school_name": "SRI RAM INTERNATIONAL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730594",
+    "cbse_school_code": "25349"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "PREM NURSERY, PRE NURSERY, GOPAL NAGAR, NAJAFGARH, NEW DELHI",
+    "pincode": "110043"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2001",
+    "first_opening_date": "01 Apr 2001",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.sris.ac.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Sunita",
+    "gender": "Female",
+    "qualification": "M.COM, B.ED",
+    "administrative_experience": "14",
+    "teaching_experience": "18"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730594",
+    "school_code": "25349",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "SHRI RAM CHANDER GAHLOT CHARITABLE TRUST"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730594",
+      "listing_raw_columns": [
+        "664",
+        "Aff. No. : 2730594 Sch. Code: 25349",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : SRI RAM INTERNATIONAL SCHOOL Head/Principal Name: Sunita",
+        "Address : PREM NURSERY, PRE NURSERY, GOPAL NAGAR, NAJAFGARH, NEW DELHI Website : www.sris.ac.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730594",
+      "serial_number": "664",
+      "affiliation_and_school_code": "Aff. No. : 2730594 Sch. Code: 25349",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SRI RAM INTERNATIONAL SCHOOL Head/Principal Name: Sunita",
+      "address_and_website": "Address : PREM NURSERY, PRE NURSERY, GOPAL NAGAR, NAJAFGARH, NEW DELHI Website : www.sris.ac.in"
+    },
+    "school_details": {
+      "Name of Institution": "SRI RAM INTERNATIONAL SCHOOL",
+      "Affiliation Number": "2730594",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "PREM NURSERY, PRE NURSERY, GOPAL NAGAR, NAJAFGARH, NEW DELHI",
+      "Pin Code": "110043",
+      "Website": "www.sris.ac.in",
+      "Year of Foundation": "2001",
+      "Date of First Opening of School": "01 Apr 2001",
+      "Name of Principal/ Head of Institution": "Sunita",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.COM, B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "14",
+      "Teaching:": "18",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "SHRI RAM CHANDER GAHLOT CHARITABLE TRUST",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

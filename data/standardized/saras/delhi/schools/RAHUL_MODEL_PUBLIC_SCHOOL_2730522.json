@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730522",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\RAHUL_MODEL_PUBLIC_SCHOOL_2730522.json"
+  },
+  "school_identity": {
+    "school_name": "RAHUL MODEL PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730522",
+    "cbse_school_code": "25388"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "SADH NAGAR II RAILWAY ROAD PALAM COLONY NEW DELHI",
+    "pincode": "110045"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1987",
+    "first_opening_date": "16 Aug 1987",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.rmpsindia.org",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "ALKA SHARMA",
+    "gender": "Female",
+    "qualification": "MA, B.Ed.",
+    "administrative_experience": "20",
+    "teaching_experience": "26"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730522",
+    "school_code": "25388",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "RAHUL EDUCATIONAL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730522",
+      "listing_raw_columns": [
+        "593",
+        "Aff. No. : 2730522 Sch. Code: 25388",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : RAHUL MODEL PUBLIC SCHOOL Head/Principal Name: ALKA SHARMA",
+        "Address : SADH NAGAR II RAILWAY ROAD PALAM COLONY NEW DELHI Website : www.rmpsindia.org",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730522",
+      "serial_number": "593",
+      "affiliation_and_school_code": "Aff. No. : 2730522 Sch. Code: 25388",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : RAHUL MODEL PUBLIC SCHOOL Head/Principal Name: ALKA SHARMA",
+      "address_and_website": "Address : SADH NAGAR II RAILWAY ROAD PALAM COLONY NEW DELHI Website : www.rmpsindia.org"
+    },
+    "school_details": {
+      "Name of Institution": "RAHUL MODEL PUBLIC SCHOOL",
+      "Affiliation Number": "2730522",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "SADH NAGAR II RAILWAY ROAD PALAM COLONY NEW DELHI",
+      "Pin Code": "110045",
+      "Website": "www.rmpsindia.org",
+      "Year of Foundation": "1987",
+      "Date of First Opening of School": "16 Aug 1987",
+      "Name of Principal/ Head of Institution": "ALKA SHARMA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA, B.Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "20",
+      "Teaching:": "26",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "RAHUL EDUCATIONAL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

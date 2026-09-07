@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730417",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SHRI_DAULAT_RAM_PUBLIC_SCHOOL_2730417.json"
+  },
+  "school_identity": {
+    "school_name": "SHRI DAULAT RAM PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730417",
+    "cbse_school_code": "85342"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "KAMARUDIN NAGAR, DISTT WEST DELHI, DELHI",
+    "pincode": "110041"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1978",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.shridaulatrampublicschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SHASHI",
+    "gender": "Female",
+    "qualification": "M.A. , B.ED.",
+    "administrative_experience": "7",
+    "teaching_experience": "30"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730417",
+    "school_code": "85342",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2027",
+    "affiliation_to": "31/03/2032",
+    "affiliation_period_raw": "From : 01/04/2027 To : 31/03/2032",
+    "trust_society": "LOCAL WELFARE AND EDU SOC"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730417",
+      "listing_raw_columns": [
+        "492",
+        "Aff. No. : 2730417 Sch. Code: 85342",
+        "State : DELHI District : WEST DELHI",
+        "Senior Secondary Level",
+        "Name : SHRI DAULAT RAM PUBLIC SCHOOL Head/Principal Name: SHASHI",
+        "Address : KAMARUDIN NAGAR, DISTT WEST DELHI, DELHI Website : www.shridaulatrampublicschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730417",
+      "serial_number": "492",
+      "affiliation_and_school_code": "Aff. No. : 2730417 Sch. Code: 85342",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SHRI DAULAT RAM PUBLIC SCHOOL Head/Principal Name: SHASHI",
+      "address_and_website": "Address : KAMARUDIN NAGAR, DISTT WEST DELHI, DELHI Website : www.shridaulatrampublicschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "SHRI DAULAT RAM PUBLIC SCHOOL",
+      "Affiliation Number": "2730417",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "KAMARUDIN NAGAR, DISTT WEST DELHI, DELHI",
+      "Pin Code": "110041",
+      "Website": "www.shridaulatrampublicschool.com",
+      "Year of Foundation": "1978",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "SHASHI",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A. , B.ED.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "7",
+      "Teaching:": "30",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+      "Name of Trust/ Society/ Managing Committee": "LOCAL WELFARE AND EDU SOC",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

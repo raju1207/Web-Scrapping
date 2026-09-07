@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700011",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\PM_SHRI_KENDRIYA_VIDYALAYA_JHARODA_KALAN_2700011.json"
+  },
+  "school_identity": {
+    "school_name": "PM SHRI KENDRIYA VIDYALAYA JHARODA KALAN",
+    "udise_code": null,
+    "cbse_affiliation_number": "2700011",
+    "cbse_school_code": "29031"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "C R P F CAMP JHARODAKALAN NEW DELHI",
+    "pincode": "110072"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "KV",
+    "foundation_year": "1975",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://jharodakalan.kvs.ac.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SATISH KUMAR",
+    "gender": "Male",
+    "qualification": "PHD",
+    "administrative_experience": "16",
+    "teaching_experience": "25"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2700011",
+    "school_code": "29031",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "KENDRIYA VIDYALAYA SANGATHAN"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2700011",
+      "listing_raw_columns": [
+        "10",
+        "Aff. No. : 2700011 Sch. Code: 29031",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : PM SHRI KENDRIYA VIDYALAYA JHARODA KALAN Head/Principal Name: SATISH KUMAR",
+        "Address : C R P F CAMP JHARODAKALAN NEW DELHI Website : https://jharodakalan.kvs.ac.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700011",
+      "serial_number": "10",
+      "affiliation_and_school_code": "Aff. No. : 2700011 Sch. Code: 29031",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : PM SHRI KENDRIYA VIDYALAYA JHARODA KALAN Head/Principal Name: SATISH KUMAR",
+      "address_and_website": "Address : C R P F CAMP JHARODAKALAN NEW DELHI Website : https://jharodakalan.kvs.ac.in"
+    },
+    "school_details": {
+      "Name of Institution": "PM SHRI KENDRIYA VIDYALAYA JHARODA KALAN",
+      "Affiliation Number": "2700011",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "C R P F CAMP JHARODAKALAN NEW DELHI",
+      "Pin Code": "110072",
+      "Website": "https://jharodakalan.kvs.ac.in",
+      "Year of Foundation": "1975",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "SATISH KUMAR",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "PHD",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "16",
+      "Teaching:": "25",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "KV",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "KENDRIYA VIDYALAYA SANGATHAN",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

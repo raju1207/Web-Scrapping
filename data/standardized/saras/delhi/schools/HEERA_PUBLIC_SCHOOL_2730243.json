@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730243",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\HEERA_PUBLIC_SCHOOL_2730243.json"
+  },
+  "school_identity": {
+    "school_name": "HEERA PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730243",
+    "cbse_school_code": "25255"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "SAMALKHA GURGAON ROAD NEW DELHI",
+    "pincode": "110037"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1992",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.heerapublicschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "PAWAN KUMAR VATS",
+    "gender": "Male",
+    "qualification": "M.A., B. Ed.",
+    "administrative_experience": "28",
+    "teaching_experience": "6"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730243",
+    "school_code": "25255",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": null
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730243",
+      "listing_raw_columns": [
+        "329",
+        "Aff. No. : 2730243 Sch. Code: 25255",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : HEERA PUBLIC SCHOOL Head/Principal Name: PAWAN KUMAR VATS",
+        "Address : SAMALKHA GURGAON ROAD NEW DELHI Website : www.heerapublicschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730243",
+      "serial_number": "329",
+      "affiliation_and_school_code": "Aff. No. : 2730243 Sch. Code: 25255",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : HEERA PUBLIC SCHOOL Head/Principal Name: PAWAN KUMAR VATS",
+      "address_and_website": "Address : SAMALKHA GURGAON ROAD NEW DELHI Website : www.heerapublicschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "HEERA PUBLIC SCHOOL",
+      "Affiliation Number": "2730243",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "SAMALKHA GURGAON ROAD NEW DELHI",
+      "Pin Code": "110037",
+      "Website": "www.heerapublicschool.com",
+      "Year of Foundation": "1992",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "PAWAN KUMAR VATS",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.A., B. Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "28",
+      "Teaching:": "6",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": null,
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

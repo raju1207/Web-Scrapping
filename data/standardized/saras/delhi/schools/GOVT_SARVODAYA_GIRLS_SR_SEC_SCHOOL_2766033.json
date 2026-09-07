@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2766033",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_SARVODAYA_GIRLS_SR_SEC_SCHOOL_2766033.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT SARVODAYA GIRLS SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2766033",
+    "cbse_school_code": "87540"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "BASAI DARAPUR NEW DELHI",
+    "pincode": "110015"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1965",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.skvbasaidarapur.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "RAMINDER KAUR SHAH",
+    "gender": "Female",
+    "qualification": "MSc BEd",
+    "administrative_experience": "7",
+    "teaching_experience": "18"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2766033",
+    "school_code": "87540",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "DIRECTORATE OF EDUCATION"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2766033",
+      "listing_raw_columns": [
+        "1932",
+        "Aff. No. : 2766033 Sch. Code: 87540",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT SARVODAYA GIRLS SR SEC SCHOOL Head/Principal Name: RAMINDER KAUR SHAH",
+        "Address : BASAI DARAPUR NEW DELHI Website : www.skvbasaidarapur.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2766033",
+      "serial_number": "1932",
+      "affiliation_and_school_code": "Aff. No. : 2766033 Sch. Code: 87540",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT SARVODAYA GIRLS SR SEC SCHOOL Head/Principal Name: RAMINDER KAUR SHAH",
+      "address_and_website": "Address : BASAI DARAPUR NEW DELHI Website : www.skvbasaidarapur.com"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT SARVODAYA GIRLS SR SEC SCHOOL",
+      "Affiliation Number": "2766033",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "BASAI DARAPUR NEW DELHI",
+      "Pin Code": "110015",
+      "Website": "www.skvbasaidarapur.com",
+      "Year of Foundation": "1965",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "RAMINDER KAUR SHAH",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MSc BEd",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "7",
+      "Teaching:": "18",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "DIRECTORATE OF EDUCATION",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

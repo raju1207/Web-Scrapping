@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130055",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\R.N._PODAR_SCHOOL_1130055.json"
+  },
+  "school_identity": {
+    "school_name": "R.N. PODAR SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "1130055",
+    "cbse_school_code": "30031"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "block": null,
+    "address": "JAIN DERASER ROAD SANTACRUZ(WEST) MUMBAI MAHARASHTRA",
+    "pincode": "400054"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1998",
+    "first_opening_date": "15 Jun 1998",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.rnpodarschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Avnita Bir",
+    "gender": "Female",
+    "qualification": "MA,B.Ed",
+    "administrative_experience": "23",
+    "teaching_experience": "20"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1130055",
+    "school_code": "30031",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "ANANDILAL AND GANESH PODAR SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1130055",
+      "listing_raw_columns": [
+        "17",
+        "Aff. No. : 1130055 Sch. Code: 30031",
+        "State : MAHARASHTRA District : MUMBAI",
+        "Senior Secondary Level",
+        "Name : R.N. PODAR SCHOOL Head/Principal Name: Avnita Bir",
+        "Address : JAIN DERASER ROAD SANTACRUZ(WEST) MUMBAI MAHARASHTRA Website : www.rnpodarschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130055",
+      "serial_number": "17",
+      "affiliation_and_school_code": "Aff. No. : 1130055 Sch. Code: 30031",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : R.N. PODAR SCHOOL Head/Principal Name: Avnita Bir",
+      "address_and_website": "Address : JAIN DERASER ROAD SANTACRUZ(WEST) MUMBAI MAHARASHTRA Website : www.rnpodarschool.com",
+      "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+      "Name of Institution": "R.N. PODAR SCHOOL",
+      "Affiliation Number": "1130055",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI",
+      "Postal Address": "JAIN DERASER ROAD SANTACRUZ(WEST) MUMBAI MAHARASHTRA",
+      "Pin Code": "400054",
+      "Website": "www.rnpodarschool.com",
+      "Year of Foundation": "1998",
+      "Date of First Opening of School": "15 Jun 1998",
+      "Name of Principal/ Head of Institution": "Avnita Bir",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA,B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "23",
+      "Teaching:": "20",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "ANANDILAL AND GANESH PODAR SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

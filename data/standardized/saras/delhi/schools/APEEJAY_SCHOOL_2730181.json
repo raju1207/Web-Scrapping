@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730181",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\APEEJAY_SCHOOL_2730181.json"
+  },
+  "school_identity": {
+    "school_name": "APEEJAY SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730181",
+    "cbse_school_code": "25174"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "GURUDWARA ROAD J-BLOCK SAKET NEW DELHI",
+    "pincode": "110017"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1987",
+    "first_opening_date": "01 Apr 2009",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.apeejay.edu/saket",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SUJEET ERIC MASIH",
+    "gender": "Male",
+    "qualification": "M.Sc ,B. ED.,PH.D,PGDHRM",
+    "administrative_experience": "16",
+    "teaching_experience": "16"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730181",
+    "school_code": "25174",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "APEEJAY EDUN SOCITY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730181",
+      "listing_raw_columns": [
+        "268",
+        "Aff. No. : 2730181 Sch. Code: 25174",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : APEEJAY SCHOOL Head/Principal Name: SUJEET ERIC MASIH",
+        "Address : GURUDWARA ROAD J-BLOCK SAKET NEW DELHI Website : www.apeejay.edu/saket",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730181",
+      "serial_number": "268",
+      "affiliation_and_school_code": "Aff. No. : 2730181 Sch. Code: 25174",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : APEEJAY SCHOOL Head/Principal Name: SUJEET ERIC MASIH",
+      "address_and_website": "Address : GURUDWARA ROAD J-BLOCK SAKET NEW DELHI Website : www.apeejay.edu/saket"
+    },
+    "school_details": {
+      "Name of Institution": "APEEJAY SCHOOL",
+      "Affiliation Number": "2730181",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "GURUDWARA ROAD J-BLOCK SAKET NEW DELHI",
+      "Pin Code": "110017",
+      "Website": "www.apeejay.edu/saket",
+      "Year of Foundation": "1987",
+      "Date of First Opening of School": "01 Apr 2009",
+      "Name of Principal/ Head of Institution": "SUJEET ERIC MASIH",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.Sc ,B. ED.,PH.D,PGDHRM",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "16",
+      "Teaching:": "16",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "APEEJAY EDUN SOCITY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

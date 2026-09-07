@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730571",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\ST._JOHN'S_ACADEMY_2730571.json"
+  },
+  "school_identity": {
+    "school_name": "ST. JOHN'S ACADEMY",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730571",
+    "cbse_school_code": "25120"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SHAHDARA",
+    "block": null,
+    "address": "54/VIII, JWALANAGAR, SHAHDARA",
+    "pincode": "110032"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2004",
+    "first_opening_date": "01 Apr 2004",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.sanjohn.org",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Bibin T R",
+    "gender": "Male",
+    "qualification": "M.A.M.Ed",
+    "administrative_experience": "3",
+    "teaching_experience": "5"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730571",
+    "school_code": "25120",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "St. Francis Christian Educational & Charitable Society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730571",
+      "listing_raw_columns": [
+        "642",
+        "Aff. No. : 2730571 Sch. Code: 25120",
+        "State : DELHI District : SHAHDARA",
+        "Senior Secondary Level",
+        "Name : ST. JOHN'S ACADEMY Head/Principal Name: Bibin T R",
+        "Address : 54/VIII, JWALANAGAR, SHAHDARA Website : www.sanjohn.org",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730571",
+      "serial_number": "642",
+      "affiliation_and_school_code": "Aff. No. : 2730571 Sch. Code: 25120",
+      "state_and_district": "State : DELHI District : SHAHDARA",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : ST. JOHN'S ACADEMY Head/Principal Name: Bibin T R",
+      "address_and_website": "Address : 54/VIII, JWALANAGAR, SHAHDARA Website : www.sanjohn.org"
+    },
+    "school_details": {
+      "Name of Institution": "ST. JOHN'S ACADEMY",
+      "Affiliation Number": "2730571",
+      "State": "DELHI",
+      "District": "SHAHDARA",
+      "Postal Address": "54/VIII, JWALANAGAR, SHAHDARA",
+      "Pin Code": "110032",
+      "Website": "www.sanjohn.org",
+      "Year of Foundation": "2004",
+      "Date of First Opening of School": "01 Apr 2004",
+      "Name of Principal/ Head of Institution": "Bibin T R",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.A.M.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "3",
+      "Teaching:": "5",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "St. Francis Christian Educational & Charitable Society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

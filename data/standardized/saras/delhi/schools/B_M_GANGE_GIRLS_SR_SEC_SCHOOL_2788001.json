@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2788001",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\B_M_GANGE_GIRLS_SR_SEC_SCHOOL_2788001.json"
+  },
+  "school_identity": {
+    "school_name": "B M GANGE GIRLS SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2788001",
+    "cbse_school_code": "87156"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH DELHI",
+    "block": null,
+    "address": "21 RAJ NIWAS MARG DELHI",
+    "pincode": "110054"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT AIDED",
+    "foundation_year": "1915",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.bmgangesss.school",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Neha Issac",
+    "gender": "Female",
+    "qualification": "MA B ed",
+    "administrative_experience": "0",
+    "teaching_experience": "17"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2788001",
+    "school_code": "87156",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2030",
+    "trust_society": "baptist union of nth india regd"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2788001",
+      "listing_raw_columns": [
+        "2211",
+        "Aff. No. : 2788001 Sch. Code: 87156",
+        "State : DELHI District : NORTH DELHI",
+        "Senior Secondary Level",
+        "Name : B M GANGE GIRLS SR SEC SCHOOL Head/Principal Name: Neha Issac",
+        "Address : 21 RAJ NIWAS MARG DELHI Website : www.bmgangesss.school",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2788001",
+      "serial_number": "2211",
+      "affiliation_and_school_code": "Aff. No. : 2788001 Sch. Code: 87156",
+      "state_and_district": "State : DELHI District : NORTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : B M GANGE GIRLS SR SEC SCHOOL Head/Principal Name: Neha Issac",
+      "address_and_website": "Address : 21 RAJ NIWAS MARG DELHI Website : www.bmgangesss.school"
+    },
+    "school_details": {
+      "Name of Institution": "B M GANGE GIRLS SR SEC SCHOOL",
+      "Affiliation Number": "2788001",
+      "State": "DELHI",
+      "District": "NORTH DELHI",
+      "Postal Address": "21 RAJ NIWAS MARG DELHI",
+      "Pin Code": "110054",
+      "Website": "www.bmgangesss.school",
+      "Year of Foundation": "1915",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "Neha Issac",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA B ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "0",
+      "Teaching:": "17",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT AIDED",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "baptist union of nth india regd",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

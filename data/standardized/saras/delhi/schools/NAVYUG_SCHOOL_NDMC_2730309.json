@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730309",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\NAVYUG_SCHOOL_NDMC_2730309.json"
+  },
+  "school_identity": {
+    "school_name": "NAVYUG SCHOOL NDMC",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730309",
+    "cbse_school_code": "85015"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "CENTRAL DELHI",
+    "block": null,
+    "address": "PESHWA MARG GOLE MARKET NEW DELHI",
+    "pincode": "110001"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1982",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "http://nvpeshwaroad.ndmc.gov.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "MEENAKSHI KAUSHIK",
+    "gender": "Female",
+    "qualification": "MA BED",
+    "administrative_experience": "2",
+    "teaching_experience": "22"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730309",
+    "school_code": "85015",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2008",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2008 To : 31/03/2029",
+    "trust_society": "NAVYUG SCHOOL EDUCATIONAL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730309",
+      "listing_raw_columns": [
+        "392",
+        "Aff. No. : 2730309 Sch. Code: 85015",
+        "State : DELHI District : CENTRAL DELHI",
+        "Senior Secondary Level",
+        "Name : NAVYUG SCHOOL NDMC Head/Principal Name: MEENAKSHI KAUSHIK",
+        "Address : PESHWA MARG GOLE MARKET NEW DELHI Website : http://nvpeshwaroad.ndmc.gov.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730309",
+      "serial_number": "392",
+      "affiliation_and_school_code": "Aff. No. : 2730309 Sch. Code: 85015",
+      "state_and_district": "State : DELHI District : CENTRAL DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : NAVYUG SCHOOL NDMC Head/Principal Name: MEENAKSHI KAUSHIK",
+      "address_and_website": "Address : PESHWA MARG GOLE MARKET NEW DELHI Website : http://nvpeshwaroad.ndmc.gov.in/"
+    },
+    "school_details": {
+      "Name of Institution": "NAVYUG SCHOOL NDMC",
+      "Affiliation Number": "2730309",
+      "State": "DELHI",
+      "District": "CENTRAL DELHI",
+      "Postal Address": "PESHWA MARG GOLE MARKET NEW DELHI",
+      "Pin Code": "110001",
+      "Website": "http://nvpeshwaroad.ndmc.gov.in/",
+      "Year of Foundation": "1982",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "MEENAKSHI KAUSHIK",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA BED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "2",
+      "Teaching:": "22",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2008 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "NAVYUG SCHOOL EDUCATIONAL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

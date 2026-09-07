@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730786",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\QUEEN_GLOBAL_INTERNATIONAL_SCHOOL_2730786.json"
+  },
+  "school_identity": {
+    "school_name": "QUEEN GLOBAL INTERNATIONAL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730786",
+    "cbse_school_code": "25153"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH EAST DELHI",
+    "block": null,
+    "address": "C-BLOCK, MAIN ROAD, DILSHAD GARDEN, OPP-GTB HOSPITAL,GATE NO.-2, DELHI",
+    "pincode": "110095"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2015",
+    "first_opening_date": "01 Apr 2015",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "http://www.queenglobalinternationalschool.com/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "DR JYOTSANA",
+    "gender": "Unknown",
+    "qualification": "M.A, M.ED, PHD",
+    "administrative_experience": "10",
+    "teaching_experience": "25"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730786",
+    "school_code": "25153",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "Chandan Shiksha Samiti"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730786",
+      "listing_raw_columns": [
+        "850",
+        "Aff. No. : 2730786 Sch. Code: 25153",
+        "State : DELHI District : NORTH EAST DELHI",
+        "Senior Secondary Level",
+        "Name : QUEEN GLOBAL INTERNATIONAL SCHOOL Head/Principal Name: DR JYOTSANA",
+        "Address : C-BLOCK, MAIN ROAD, DILSHAD GARDEN, OPP-GTB HOSPITAL,GATE NO.-2, DELHI Website : http://www.queenglobalinternationalschool.com/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730786",
+      "serial_number": "850",
+      "affiliation_and_school_code": "Aff. No. : 2730786 Sch. Code: 25153",
+      "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : QUEEN GLOBAL INTERNATIONAL SCHOOL Head/Principal Name: DR JYOTSANA",
+      "address_and_website": "Address : C-BLOCK, MAIN ROAD, DILSHAD GARDEN, OPP-GTB HOSPITAL,GATE NO.-2, DELHI Website : http://www.queenglobalinternationalschool.com/"
+    },
+    "school_details": {
+      "Name of Institution": "QUEEN GLOBAL INTERNATIONAL SCHOOL",
+      "Affiliation Number": "2730786",
+      "State": "DELHI",
+      "District": "NORTH EAST DELHI",
+      "Postal Address": "C-BLOCK, MAIN ROAD, DILSHAD GARDEN, OPP-GTB HOSPITAL,GATE NO.-2, DELHI",
+      "Pin Code": "110095",
+      "Website": "http://www.queenglobalinternationalschool.com/",
+      "Year of Foundation": "2015",
+      "Date of First Opening of School": "01 Apr 2015",
+      "Name of Principal/ Head of Institution": "DR JYOTSANA",
+      "Gender": "Unknown",
+      "Principal's Educational/Professional Qualifications:": "M.A, M.ED, PHD",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "10",
+      "Teaching:": "25",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "Chandan Shiksha Samiti",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

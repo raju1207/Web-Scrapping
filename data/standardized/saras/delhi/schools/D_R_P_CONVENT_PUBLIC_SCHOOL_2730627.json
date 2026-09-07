@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730627",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\D_R_P_CONVENT_PUBLIC_SCHOOL_2730627.json"
+  },
+  "school_identity": {
+    "school_name": "D R P CONVENT PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730627",
+    "cbse_school_code": "85125"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH EAST DELHI",
+    "block": null,
+    "address": "SHIV VIHAR TIRAHA, BABU NAGAR, DELHI-94",
+    "pincode": "110094"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2000",
+    "first_opening_date": "14 Jul 2004",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.drprcs.com/drp",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "INDU SHARMA",
+    "gender": "Female",
+    "qualification": "M.A., B.ED.",
+    "administrative_experience": "14",
+    "teaching_experience": "7"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730627",
+    "school_code": "85125",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2030",
+    "trust_society": "DAYANAND ANGLO VEDIC COLLEGE TRUST"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730627",
+      "listing_raw_columns": [
+        "697",
+        "Aff. No. : 2730627 Sch. Code: 85125",
+        "State : DELHI District : NORTH EAST DELHI",
+        "Secondary Level",
+        "Name : D R P CONVENT PUBLIC SCHOOL Head/Principal Name: INDU SHARMA",
+        "Address : SHIV VIHAR TIRAHA, BABU NAGAR, DELHI-94 Website : www.drprcs.com/drp",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730627",
+      "serial_number": "697",
+      "affiliation_and_school_code": "Aff. No. : 2730627 Sch. Code: 85125",
+      "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : D R P CONVENT PUBLIC SCHOOL Head/Principal Name: INDU SHARMA",
+      "address_and_website": "Address : SHIV VIHAR TIRAHA, BABU NAGAR, DELHI-94 Website : www.drprcs.com/drp"
+    },
+    "school_details": {
+      "Name of Institution": "D R P CONVENT PUBLIC SCHOOL",
+      "Affiliation Number": "2730627",
+      "State": "DELHI",
+      "District": "NORTH EAST DELHI",
+      "Postal Address": "SHIV VIHAR TIRAHA, BABU NAGAR, DELHI-94",
+      "Pin Code": "110094",
+      "Website": "www.drprcs.com/drp",
+      "Year of Foundation": "2000",
+      "Date of First Opening of School": "14 Jul 2004",
+      "Name of Principal/ Head of Institution": "INDU SHARMA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A., B.ED.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "14",
+      "Teaching:": "7",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "DAYANAND ANGLO VEDIC COLLEGE TRUST",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

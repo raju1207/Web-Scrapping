@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2758028",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_BOYS_SR_SEC_SCHOOL_2758028.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT BOYS SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2758028",
+    "cbse_school_code": "87077"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "DEV NAGAR NEW DELHI",
+    "pincode": "110005"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1957",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "hos2128007@gmail.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "RAJ MAN GUPTA",
+    "gender": "Male",
+    "qualification": "M.COM, B.ED",
+    "administrative_experience": "5",
+    "teaching_experience": "18"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2758028",
+    "school_code": "87077",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2030",
+    "trust_society": "directoirate of education delhi"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2758028",
+      "listing_raw_columns": [
+        "1600",
+        "Aff. No. : 2758028 Sch. Code: 87077",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: RAJ MAN GUPTA",
+        "Address : DEV NAGAR NEW DELHI Website : hos2128007@gmail.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2758028",
+      "serial_number": "1600",
+      "affiliation_and_school_code": "Aff. No. : 2758028 Sch. Code: 87077",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: RAJ MAN GUPTA",
+      "address_and_website": "Address : DEV NAGAR NEW DELHI Website : hos2128007@gmail.com"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT BOYS SR SEC SCHOOL",
+      "Affiliation Number": "2758028",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "DEV NAGAR NEW DELHI",
+      "Pin Code": "110005",
+      "Website": "hos2128007@gmail.com",
+      "Year of Foundation": "1957",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "RAJ MAN GUPTA",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.COM, B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "5",
+      "Teaching:": "18",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "directoirate of education delhi",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

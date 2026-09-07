@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730584",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SHRI_RAM_SHIKSHA_MANDIR_2730584.json"
+  },
+  "school_identity": {
+    "school_name": "SHRI RAM SHIKSHA MANDIR",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730584",
+    "cbse_school_code": "85111"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "SRI RAM COLONY, JINDPUR,",
+    "pincode": "110036"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2005",
+    "first_opening_date": "04 Jan 2005",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.srsm.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Neetu Munjal",
+    "gender": "Female",
+    "qualification": "M.A. B.Ed",
+    "administrative_experience": "2",
+    "teaching_experience": "15"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730584",
+    "school_code": "85111",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "RISHABH NAV NIRMAN SAMITI"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730584",
+      "listing_raw_columns": [
+        "654",
+        "Aff. No. : 2730584 Sch. Code: 85111",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : SHRI RAM SHIKSHA MANDIR Head/Principal Name: Neetu Munjal",
+        "Address : SRI RAM COLONY, JINDPUR, Website : www.srsm.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730584",
+      "serial_number": "654",
+      "affiliation_and_school_code": "Aff. No. : 2730584 Sch. Code: 85111",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SHRI RAM SHIKSHA MANDIR Head/Principal Name: Neetu Munjal",
+      "address_and_website": "Address : SRI RAM COLONY, JINDPUR, Website : www.srsm.in"
+    },
+    "school_details": {
+      "Name of Institution": "SHRI RAM SHIKSHA MANDIR",
+      "Affiliation Number": "2730584",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "SRI RAM COLONY, JINDPUR,",
+      "Pin Code": "110036",
+      "Website": "www.srsm.in",
+      "Year of Foundation": "2005",
+      "Date of First Opening of School": "04 Jan 2005",
+      "Name of Principal/ Head of Institution": "Neetu Munjal",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A. B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "2",
+      "Teaching:": "15",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "RISHABH NAV NIRMAN SAMITI",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

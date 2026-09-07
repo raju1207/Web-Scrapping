@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730171",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\RAINBOW_ENGLISH_SCHOOL_2730171.json"
+  },
+  "school_identity": {
+    "school_name": "RAINBOW ENGLISH SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730171",
+    "cbse_school_code": "85308"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "C-3 JANAKPURI NEW DELHI",
+    "pincode": "110058"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1988",
+    "first_opening_date": "09 Jul 2003",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.rainbowschooljp.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SOURABH RAJ KASHYAP",
+    "gender": "Male",
+    "qualification": "B.TECH, M.A, B.ED",
+    "administrative_experience": "22",
+    "teaching_experience": "22"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730171",
+    "school_code": "85308",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "DIWAN CHAND MEMORIAL EDU. SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730171",
+      "listing_raw_columns": [
+        "259",
+        "Aff. No. : 2730171 Sch. Code: 85308",
+        "State : DELHI District : WEST DELHI",
+        "Senior Secondary Level",
+        "Name : RAINBOW ENGLISH SCHOOL Head/Principal Name: SOURABH RAJ KASHYAP",
+        "Address : C-3 JANAKPURI NEW DELHI Website : www.rainbowschooljp.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730171",
+      "serial_number": "259",
+      "affiliation_and_school_code": "Aff. No. : 2730171 Sch. Code: 85308",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : RAINBOW ENGLISH SCHOOL Head/Principal Name: SOURABH RAJ KASHYAP",
+      "address_and_website": "Address : C-3 JANAKPURI NEW DELHI Website : www.rainbowschooljp.com"
+    },
+    "school_details": {
+      "Name of Institution": "RAINBOW ENGLISH SCHOOL",
+      "Affiliation Number": "2730171",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "C-3 JANAKPURI NEW DELHI",
+      "Pin Code": "110058",
+      "Website": "www.rainbowschooljp.com",
+      "Year of Foundation": "1988",
+      "Date of First Opening of School": "09 Jul 2003",
+      "Name of Principal/ Head of Institution": "SOURABH RAJ KASHYAP",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "B.TECH, M.A, B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "22",
+      "Teaching:": "22",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "DIWAN CHAND MEMORIAL EDU. SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

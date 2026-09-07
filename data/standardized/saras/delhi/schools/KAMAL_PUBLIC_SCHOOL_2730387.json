@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730387",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\KAMAL_PUBLIC_SCHOOL_2730387.json"
+  },
+  "school_identity": {
+    "school_name": "KAMAL PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730387",
+    "cbse_school_code": "85434"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "D BLOCK VIKAS PURI NEW DELHI",
+    "pincode": null
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1986",
+    "first_opening_date": "02 Apr 2012",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.kamalpublicschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "REEMA TANDON",
+    "gender": "Female",
+    "qualification": "MSC., B.ED",
+    "administrative_experience": "15",
+    "teaching_experience": "14"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730387",
+    "school_code": "85434",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "KAMAL EDUCATIONAL AND WELFARE SOC"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730387",
+      "listing_raw_columns": [
+        "464",
+        "Aff. No. : 2730387 Sch. Code: 85434",
+        "State : DELHI District : WEST DELHI",
+        "Senior Secondary Level",
+        "Name : KAMAL PUBLIC SCHOOL Head/Principal Name: REEMA TANDON",
+        "Address : D BLOCK VIKAS PURI NEW DELHI Website : www.kamalpublicschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730387",
+      "serial_number": "464",
+      "affiliation_and_school_code": "Aff. No. : 2730387 Sch. Code: 85434",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : KAMAL PUBLIC SCHOOL Head/Principal Name: REEMA TANDON",
+      "address_and_website": "Address : D BLOCK VIKAS PURI NEW DELHI Website : www.kamalpublicschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "KAMAL PUBLIC SCHOOL",
+      "Affiliation Number": "2730387",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "D BLOCK VIKAS PURI NEW DELHI",
+      "Pin Code": null,
+      "Website": "www.kamalpublicschool.com",
+      "Year of Foundation": "1986",
+      "Date of First Opening of School": "02 Apr 2012",
+      "Name of Principal/ Head of Institution": "REEMA TANDON",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MSC., B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "15",
+      "Teaching:": "14",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "KAMAL EDUCATIONAL AND WELFARE SOC",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

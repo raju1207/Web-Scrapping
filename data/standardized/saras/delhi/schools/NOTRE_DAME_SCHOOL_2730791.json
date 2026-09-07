@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730791",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\NOTRE_DAME_SCHOOL_2730791.json"
+  },
+  "school_identity": {
+    "school_name": "NOTRE DAME SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730791",
+    "cbse_school_code": "25373"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "NOTRE DAME SCHOOL, V.P.O. KAIR, NAJAFGARH, NEW DELHI - 110043",
+    "pincode": "110043"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2007",
+    "first_opening_date": "02 Apr 2007",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "http://www.notredamedelhi.org",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SISTER TANYA",
+    "gender": "Female",
+    "qualification": "MA, B.ed",
+    "administrative_experience": "13",
+    "teaching_experience": "12"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730791",
+    "school_code": "25373",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "PATNA NOTRE DAME SISTERS SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730791",
+      "listing_raw_columns": [
+        "855",
+        "Aff. No. : 2730791 Sch. Code: 25373",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : NOTRE DAME SCHOOL Head/Principal Name: SISTER TANYA",
+        "Address : NOTRE DAME SCHOOL, V.P.O. KAIR, NAJAFGARH, NEW DELHI - 110043 Website : http://www.notredamedelhi.org",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730791",
+      "serial_number": "855",
+      "affiliation_and_school_code": "Aff. No. : 2730791 Sch. Code: 25373",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : NOTRE DAME SCHOOL Head/Principal Name: SISTER TANYA",
+      "address_and_website": "Address : NOTRE DAME SCHOOL, V.P.O. KAIR, NAJAFGARH, NEW DELHI - 110043 Website : http://www.notredamedelhi.org"
+    },
+    "school_details": {
+      "Name of Institution": "NOTRE DAME SCHOOL",
+      "Affiliation Number": "2730791",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "NOTRE DAME SCHOOL, V.P.O. KAIR, NAJAFGARH, NEW DELHI - 110043",
+      "Pin Code": "110043",
+      "Website": "http://www.notredamedelhi.org",
+      "Year of Foundation": "2007",
+      "Date of First Opening of School": "02 Apr 2007",
+      "Name of Principal/ Head of Institution": "SISTER TANYA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA, B.ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "13",
+      "Teaching:": "12",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "PATNA NOTRE DAME SISTERS SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

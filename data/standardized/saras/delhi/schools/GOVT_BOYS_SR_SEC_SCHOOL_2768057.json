@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2768057",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_BOYS_SR_SEC_SCHOOL_2768057.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT BOYS SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2768057",
+    "cbse_school_code": "87532"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "P-BLOCK, SULTANPURI, DELHI",
+    "pincode": "110086"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2015",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "AVADH RAJ",
+    "gender": "Male",
+    "qualification": "POST GRADUATE",
+    "administrative_experience": "7",
+    "teaching_experience": "20"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2768057",
+    "school_code": "87532",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2027",
+    "affiliation_to": "31/03/2032",
+    "affiliation_period_raw": "From : 01/04/2027 To : 31/03/2032",
+    "trust_society": null
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2768057",
+      "listing_raw_columns": [
+        "2040",
+        "Aff. No. : 2768057 Sch. Code: 87532",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: AVADH RAJ",
+        "Address : P-BLOCK, SULTANPURI, DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2768057",
+      "serial_number": "2040",
+      "affiliation_and_school_code": "Aff. No. : 2768057 Sch. Code: 87532",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: AVADH RAJ",
+      "address_and_website": "Address : P-BLOCK, SULTANPURI, DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT BOYS SR SEC SCHOOL",
+      "Affiliation Number": "2768057",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "P-BLOCK, SULTANPURI, DELHI",
+      "Pin Code": "110086",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "2015",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "AVADH RAJ",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "POST GRADUATE",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "7",
+      "Teaching:": "20",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+      "Name of Trust/ Society/ Managing Committee": null,
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

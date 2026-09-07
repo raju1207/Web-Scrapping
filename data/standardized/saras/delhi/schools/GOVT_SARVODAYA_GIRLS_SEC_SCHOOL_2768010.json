@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2768010",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_SARVODAYA_GIRLS_SEC_SCHOOL_2768010.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT SARVODAYA GIRLS SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2768010",
+    "cbse_school_code": null
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH DELHI",
+    "block": null,
+    "address": "GALI JOGIDHIAN DIWAN HALL CHANDNI CHOWK DELHI",
+    "pincode": "110006"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "GOVT AIDED",
+    "foundation_year": null,
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": null,
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "MRS KANWALJEET KAUR",
+    "gender": "Female",
+    "qualification": null,
+    "administrative_experience": null,
+    "teaching_experience": null
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2768010",
+    "school_code": null,
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2003",
+    "affiliation_to": "31/03/2008",
+    "affiliation_period_raw": "From : 01/04/2003 To : 31/03/2008",
+    "trust_society": "DELHI ADMINISTRATION"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2768010",
+      "listing_raw_columns": [
+        "1997",
+        "Aff. No. : 2768010 Sch. Code:",
+        "State : DELHI District : NORTH DELHI",
+        "Secondary Level",
+        "Name : GOVT SARVODAYA GIRLS SEC SCHOOL Head/Principal Name: MRS KANWALJEET KAUR",
+        "Address : GALI JOGIDHIAN DIWAN HALL CHANDNI CHOWK DELHI Website :",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2768010",
+      "serial_number": "1997",
+      "affiliation_and_school_code": "Aff. No. : 2768010 Sch. Code:",
+      "state_and_district": "State : DELHI District : NORTH DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : GOVT SARVODAYA GIRLS SEC SCHOOL Head/Principal Name: MRS KANWALJEET KAUR",
+      "address_and_website": "Address : GALI JOGIDHIAN DIWAN HALL CHANDNI CHOWK DELHI Website :"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT SARVODAYA GIRLS SEC SCHOOL",
+      "Affiliation Number": "2768010",
+      "State": "DELHI",
+      "District": "NORTH DELHI",
+      "Postal Address": "GALI JOGIDHIAN DIWAN HALL CHANDNI CHOWK DELHI",
+      "Pin Code": "110006",
+      "Website": null,
+      "Year of Foundation": null,
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "MRS KANWALJEET KAUR",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": null,
+      "No of Experience ( in Years ):": null,
+      "Administrative:": null,
+      "Teaching:": null,
+      "Status of The School": "Secondary Level",
+      "School Type": "GOVT AIDED",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2003 To : 31/03/2008",
+      "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

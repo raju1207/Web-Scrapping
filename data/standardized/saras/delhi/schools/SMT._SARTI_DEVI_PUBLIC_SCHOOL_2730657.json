@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730657",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SMT._SARTI_DEVI_PUBLIC_SCHOOL_2730657.json"
+  },
+  "school_identity": {
+    "school_name": "SMT. SARTI DEVI PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730657",
+    "cbse_school_code": "25359"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "VILL:TAJPUR KHURD,NEAR NAJAFGARH.",
+    "pincode": "110071"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2000",
+    "first_opening_date": "01 Jul 2000",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.sdpschool.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "RENU BALA",
+    "gender": "Female",
+    "qualification": "M.A., BED.",
+    "administrative_experience": "12",
+    "teaching_experience": "20"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730657",
+    "school_code": "25359",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "GAUR CHARITABLE EDUCATIONAL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730657",
+      "listing_raw_columns": [
+        "725",
+        "Aff. No. : 2730657 Sch. Code: 25359",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : SMT. SARTI DEVI PUBLIC SCHOOL Head/Principal Name: RENU BALA",
+        "Address : VILL:TAJPUR KHURD,NEAR NAJAFGARH. Website : www.sdpschool.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730657",
+      "serial_number": "725",
+      "affiliation_and_school_code": "Aff. No. : 2730657 Sch. Code: 25359",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SMT. SARTI DEVI PUBLIC SCHOOL Head/Principal Name: RENU BALA",
+      "address_and_website": "Address : VILL:TAJPUR KHURD,NEAR NAJAFGARH. Website : www.sdpschool.in"
+    },
+    "school_details": {
+      "Name of Institution": "SMT. SARTI DEVI PUBLIC SCHOOL",
+      "Affiliation Number": "2730657",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "VILL:TAJPUR KHURD,NEAR NAJAFGARH.",
+      "Pin Code": "110071",
+      "Website": "www.sdpschool.in",
+      "Year of Foundation": "2000",
+      "Date of First Opening of School": "01 Jul 2000",
+      "Name of Principal/ Head of Institution": "RENU BALA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A., BED.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "12",
+      "Teaching:": "20",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "GAUR CHARITABLE EDUCATIONAL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

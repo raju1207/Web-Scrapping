@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750173",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\DELHI_POLICE_PUBLIC_SCHOOL_2750173.json"
+  },
+  "school_identity": {
+    "school_name": "DELHI POLICE PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2750173",
+    "cbse_school_code": "85064"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "NEW POLICE LINES, KINGSWAY CAMP, DELHI- 110 009",
+    "pincode": null
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT AIDED",
+    "foundation_year": "2005",
+    "first_opening_date": "12 Apr 2018",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.delhipolicepublicschool.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Tarunima Roy",
+    "gender": "Female",
+    "qualification": "M.A / B.Ed",
+    "administrative_experience": "20",
+    "teaching_experience": "20"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2750173",
+    "school_code": "85064",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2020",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2020 To : 31/03/2030",
+    "trust_society": null
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2750173",
+      "listing_raw_columns": [
+        "1120",
+        "Aff. No. : 2750173 Sch. Code: 85064",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : DELHI POLICE PUBLIC SCHOOL Head/Principal Name: Tarunima Roy",
+        "Address : NEW POLICE LINES, KINGSWAY CAMP, DELHI- 110 009 Website : www.delhipolicepublicschool.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750173",
+      "serial_number": "1120",
+      "affiliation_and_school_code": "Aff. No. : 2750173 Sch. Code: 85064",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : DELHI POLICE PUBLIC SCHOOL Head/Principal Name: Tarunima Roy",
+      "address_and_website": "Address : NEW POLICE LINES, KINGSWAY CAMP, DELHI- 110 009 Website : www.delhipolicepublicschool.in"
+    },
+    "school_details": {
+      "Name of Institution": "DELHI POLICE PUBLIC SCHOOL",
+      "Affiliation Number": "2750173",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "NEW POLICE LINES, KINGSWAY CAMP, DELHI- 110 009",
+      "Pin Code": null,
+      "Website": "www.delhipolicepublicschool.in",
+      "Year of Foundation": "2005",
+      "Date of First Opening of School": "12 Apr 2018",
+      "Name of Principal/ Head of Institution": "Tarunima Roy",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A / B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "20",
+      "Teaching:": "20",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT AIDED",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2020 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": null,
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

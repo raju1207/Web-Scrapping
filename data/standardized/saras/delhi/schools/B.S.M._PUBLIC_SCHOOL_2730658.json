@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730658",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\B.S.M._PUBLIC_SCHOOL_2730658.json"
+  },
+  "school_identity": {
+    "school_name": "B.S.M. PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730658",
+    "cbse_school_code": "85386"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "BALJIT VIHAR, NITHARI EXTN., NANGLOI,",
+    "pincode": "110041"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2001",
+    "first_opening_date": "01 Apr 2001",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "bsmes98@gmail.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "NEETU CHOUDHARY",
+    "gender": "Female",
+    "qualification": "MA B.ED",
+    "administrative_experience": "16",
+    "teaching_experience": "16"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730658",
+    "school_code": "85386",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "Ch. Baljit Singh Memorial Education Society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730658",
+      "listing_raw_columns": [
+        "726",
+        "Aff. No. : 2730658 Sch. Code: 85386",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : B.S.M. PUBLIC SCHOOL Head/Principal Name: NEETU CHOUDHARY",
+        "Address : BALJIT VIHAR, NITHARI EXTN., NANGLOI, Website : bsmes98@gmail.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730658",
+      "serial_number": "726",
+      "affiliation_and_school_code": "Aff. No. : 2730658 Sch. Code: 85386",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : B.S.M. PUBLIC SCHOOL Head/Principal Name: NEETU CHOUDHARY",
+      "address_and_website": "Address : BALJIT VIHAR, NITHARI EXTN., NANGLOI, Website : bsmes98@gmail.com"
+    },
+    "school_details": {
+      "Name of Institution": "B.S.M. PUBLIC SCHOOL",
+      "Affiliation Number": "2730658",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "BALJIT VIHAR, NITHARI EXTN., NANGLOI,",
+      "Pin Code": "110041",
+      "Website": "bsmes98@gmail.com",
+      "Year of Foundation": "2001",
+      "Date of First Opening of School": "01 Apr 2001",
+      "Name of Principal/ Head of Institution": "NEETU CHOUDHARY",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "16",
+      "Teaching:": "16",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "Ch. Baljit Singh Memorial Education Society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

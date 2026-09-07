@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730117",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\DARBARI_LAL_D_A_V_MODEL_SCHOOL_2730117.json"
+  },
+  "school_identity": {
+    "school_name": "DARBARI LAL D A V MODEL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730117",
+    "cbse_school_code": "85148"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "BN BLOCK SHALIMAR BAGH DELHI",
+    "pincode": "110052"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1981",
+    "first_opening_date": "02 Apr 2007",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.dldavsb.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "NISHA SHARMA",
+    "gender": "Female",
+    "qualification": "M.COM, B.ED",
+    "administrative_experience": "10",
+    "teaching_experience": "25"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730117",
+    "school_code": "85148",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "Rajputana Shiksha Samiti"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730117",
+      "listing_raw_columns": [
+        "205",
+        "Aff. No. : 2730117 Sch. Code: 85148",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : DARBARI LAL D A V MODEL SCHOOL Head/Principal Name: NISHA SHARMA",
+        "Address : BN BLOCK SHALIMAR BAGH DELHI Website : www.dldavsb.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730117",
+      "serial_number": "205",
+      "affiliation_and_school_code": "Aff. No. : 2730117 Sch. Code: 85148",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : DARBARI LAL D A V MODEL SCHOOL Head/Principal Name: NISHA SHARMA",
+      "address_and_website": "Address : BN BLOCK SHALIMAR BAGH DELHI Website : www.dldavsb.in"
+    },
+    "school_details": {
+      "Name of Institution": "DARBARI LAL D A V MODEL SCHOOL",
+      "Affiliation Number": "2730117",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "BN BLOCK SHALIMAR BAGH DELHI",
+      "Pin Code": "110052",
+      "Website": "www.dldavsb.in",
+      "Year of Foundation": "1981",
+      "Date of First Opening of School": "02 Apr 2007",
+      "Name of Principal/ Head of Institution": "NISHA SHARMA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.COM, B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "10",
+      "Teaching:": "25",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "Rajputana Shiksha Samiti",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

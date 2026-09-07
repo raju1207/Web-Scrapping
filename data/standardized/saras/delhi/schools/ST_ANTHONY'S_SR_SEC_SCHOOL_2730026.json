@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730026",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\ST_ANTHONY'S_SR_SEC_SCHOOL_2730026.json"
+  },
+  "school_identity": {
+    "school_name": "ST ANTHONY'S SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730026",
+    "cbse_school_code": "25162"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH DELHI",
+    "block": null,
+    "address": "C/6 SDA HAUZ KHAS NEW DELHI",
+    "pincode": "110016"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1970",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "http://www.stanthonyschool.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SR DAISY DEVASSY",
+    "gender": "Female",
+    "qualification": "M.A/B.Ed",
+    "administrative_experience": "20",
+    "teaching_experience": "29"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730026",
+    "school_code": "25162",
+    "affiliation_status": null,
+    "affiliation_type": "Permanant",
+    "affiliation_from": null,
+    "affiliation_to": null,
+    "affiliation_period_raw": "Permanent (Subject to final outcome of WPC-8308/19 pending before Honourable High court of Delhi)",
+    "trust_society": "FRANCISCAN SISTERS TRUST"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730026",
+      "listing_raw_columns": [
+        "115",
+        "Aff. No. : 2730026 Sch. Code: 25162",
+        "State : DELHI District : SOUTH DELHI",
+        "Senior Secondary Level",
+        "Name : ST ANTHONY'S SR SEC SCHOOL Head/Principal Name: SR DAISY DEVASSY",
+        "Address : C/6 SDA HAUZ KHAS NEW DELHI Website : http://www.stanthonyschool.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730026",
+      "serial_number": "115",
+      "affiliation_and_school_code": "Aff. No. : 2730026 Sch. Code: 25162",
+      "state_and_district": "State : DELHI District : SOUTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : ST ANTHONY'S SR SEC SCHOOL Head/Principal Name: SR DAISY DEVASSY",
+      "address_and_website": "Address : C/6 SDA HAUZ KHAS NEW DELHI Website : http://www.stanthonyschool.in"
+    },
+    "school_details": {
+      "Name of Institution": "ST ANTHONY'S SR SEC SCHOOL",
+      "Affiliation Number": "2730026",
+      "State": "DELHI",
+      "District": "SOUTH DELHI",
+      "Postal Address": "C/6 SDA HAUZ KHAS NEW DELHI",
+      "Pin Code": "110016",
+      "Website": "http://www.stanthonyschool.in",
+      "Year of Foundation": "1970",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "SR DAISY DEVASSY",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A/B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "20",
+      "Teaching:": "29",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": "Permanant",
+      "Affiliation Period": "Permanent (Subject to final outcome of WPC-8308/19 pending before Honourable High court of Delhi)",
+      "Name of Trust/ Society/ Managing Committee": "FRANCISCAN SISTERS TRUST",
+      "Remarks, if any": "Permanent (Subject to final outcome of WPC-8308/19 pending before Honourable High court of Delhi)"
+    },
+    "links": []
+  }
+}

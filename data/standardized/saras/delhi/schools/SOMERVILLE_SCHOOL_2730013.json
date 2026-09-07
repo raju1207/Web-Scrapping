@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730013",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SOMERVILLE_SCHOOL_2730013.json"
+  },
+  "school_identity": {
+    "school_name": "SOMERVILLE SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730013",
+    "cbse_school_code": "25044"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "EAST DELHI",
+    "block": null,
+    "address": "VASUNDHARA ENCLAVE DELHI",
+    "pincode": "110096"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1974",
+    "first_opening_date": "04 Apr 2006",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://somervillevasundhara.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "ESTHER MANI",
+    "gender": "Female",
+    "qualification": "M.A., M.ED.",
+    "administrative_experience": "14",
+    "teaching_experience": "26"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730013",
+    "school_code": "25044",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "LOTT CAREY BAPTIST MISSION IN INDIA"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730013",
+      "listing_raw_columns": [
+        "103",
+        "Aff. No. : 2730013 Sch. Code: 25044",
+        "State : DELHI District : EAST DELHI",
+        "Senior Secondary Level",
+        "Name : SOMERVILLE SCHOOL Head/Principal Name: ESTHER MANI",
+        "Address : VASUNDHARA ENCLAVE DELHI Website : https://somervillevasundhara.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730013",
+      "serial_number": "103",
+      "affiliation_and_school_code": "Aff. No. : 2730013 Sch. Code: 25044",
+      "state_and_district": "State : DELHI District : EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SOMERVILLE SCHOOL Head/Principal Name: ESTHER MANI",
+      "address_and_website": "Address : VASUNDHARA ENCLAVE DELHI Website : https://somervillevasundhara.in/"
+    },
+    "school_details": {
+      "Name of Institution": "SOMERVILLE SCHOOL",
+      "Affiliation Number": "2730013",
+      "State": "DELHI",
+      "District": "EAST DELHI",
+      "Postal Address": "VASUNDHARA ENCLAVE DELHI",
+      "Pin Code": "110096",
+      "Website": "https://somervillevasundhara.in/",
+      "Year of Foundation": "1974",
+      "Date of First Opening of School": "04 Apr 2006",
+      "Name of Principal/ Head of Institution": "ESTHER MANI",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A., M.ED.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "14",
+      "Teaching:": "26",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "LOTT CAREY BAPTIST MISSION IN INDIA",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

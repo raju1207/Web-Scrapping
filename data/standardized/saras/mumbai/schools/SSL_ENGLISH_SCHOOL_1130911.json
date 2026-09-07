@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130911",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\SSL_ENGLISH_SCHOOL_1130911.json"
+  },
+  "school_identity": {
+    "school_name": "SSL ENGLISH SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "1130911",
+    "cbse_school_code": "30874"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "block": null,
+    "address": "N.M. JOSHI VIDYA SANKUL, MAFATLAL BUILDING, 1ST FLOOR, DAMODAR NATYA GRIHA PARISAR, DR. AMBEDKAR MARG, PAREL, MUMBAI-400012.",
+    "pincode": "400012"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2010",
+    "first_opening_date": "01 Jan 2010",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.sslschool.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "APEKSHA PARAG CHAUDHARI",
+    "gender": "Female",
+    "qualification": "M.SC,B.ED,MA.ED",
+    "administrative_experience": "10",
+    "teaching_experience": "23"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1130911",
+    "school_code": "30874",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "THE SOCIAL SERVICE LEAGUE"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1130911",
+      "listing_raw_columns": [
+        "48",
+        "Aff. No. : 1130911 Sch. Code: 30874",
+        "State : MAHARASHTRA District : MUMBAI",
+        "Secondary Level",
+        "Name : SSL ENGLISH SCHOOL Head/Principal Name: APEKSHA PARAG CHAUDHARI",
+        "Address : N.M. JOSHI VIDYA SANKUL, MAFATLAL BUILDING, 1ST FLOOR, DAMODAR NATYA GRIHA PARISAR, DR. AMBEDKAR MARG, PAREL, MUMBAI-400012. Website : www.sslschool.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130911",
+      "serial_number": "48",
+      "affiliation_and_school_code": "Aff. No. : 1130911 Sch. Code: 30874",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : SSL ENGLISH SCHOOL Head/Principal Name: APEKSHA PARAG CHAUDHARI",
+      "address_and_website": "Address : N.M. JOSHI VIDYA SANKUL, MAFATLAL BUILDING, 1ST FLOOR, DAMODAR NATYA GRIHA PARISAR, DR. AMBEDKAR MARG, PAREL, MUMBAI-400012. Website : www.sslschool.in",
+      "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+      "Name of Institution": "SSL ENGLISH SCHOOL",
+      "Affiliation Number": "1130911",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI",
+      "Postal Address": "N.M. JOSHI VIDYA SANKUL, MAFATLAL BUILDING, 1ST FLOOR, DAMODAR NATYA GRIHA PARISAR, DR. AMBEDKAR MARG, PAREL, MUMBAI-400012.",
+      "Pin Code": "400012",
+      "Website": "www.sslschool.in",
+      "Year of Foundation": "2010",
+      "Date of First Opening of School": "01 Jan 2010",
+      "Name of Principal/ Head of Institution": "APEKSHA PARAG CHAUDHARI",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.SC,B.ED,MA.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "10",
+      "Teaching:": "23",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "THE SOCIAL SERVICE LEAGUE",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

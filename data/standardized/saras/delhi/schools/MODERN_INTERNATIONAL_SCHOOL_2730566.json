@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730566",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\MODERN_INTERNATIONAL_SCHOOL_2730566.json"
+  },
+  "school_identity": {
+    "school_name": "MODERN INTERNATIONAL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730566",
+    "cbse_school_code": "25288"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "SECTOR-19, DWARKA, PHASE-I, NEW DELHI",
+    "pincode": "110075"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2005",
+    "first_opening_date": "16 Mar 2005",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.moderninternationalschool",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SIMA J SINGH",
+    "gender": "Female",
+    "qualification": "MA. B.ED",
+    "administrative_experience": "20",
+    "teaching_experience": "19"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730566",
+    "school_code": "25288",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "Kailash Memorials"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730566",
+      "listing_raw_columns": [
+        "637",
+        "Aff. No. : 2730566 Sch. Code: 25288",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : MODERN INTERNATIONAL SCHOOL Head/Principal Name: SIMA J SINGH",
+        "Address : SECTOR-19, DWARKA, PHASE-I, NEW DELHI Website : www.moderninternationalschool",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730566",
+      "serial_number": "637",
+      "affiliation_and_school_code": "Aff. No. : 2730566 Sch. Code: 25288",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : MODERN INTERNATIONAL SCHOOL Head/Principal Name: SIMA J SINGH",
+      "address_and_website": "Address : SECTOR-19, DWARKA, PHASE-I, NEW DELHI Website : www.moderninternationalschool"
+    },
+    "school_details": {
+      "Name of Institution": "MODERN INTERNATIONAL SCHOOL",
+      "Affiliation Number": "2730566",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "SECTOR-19, DWARKA, PHASE-I, NEW DELHI",
+      "Pin Code": "110075",
+      "Website": "www.moderninternationalschool",
+      "Year of Foundation": "2005",
+      "Date of First Opening of School": "16 Mar 2005",
+      "Name of Principal/ Head of Institution": "SIMA J SINGH",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA. B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "20",
+      "Teaching:": "19",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "Kailash Memorials",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730376",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SRI_KRISHNA_PUBLIC_SCHOOL_2730376.json"
+  },
+  "school_identity": {
+    "school_name": "SRI KRISHNA PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730376",
+    "cbse_school_code": "25340"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "ROSHAN PURA NAJAFGARJH NEW DELHI",
+    "pincode": "110043"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2002",
+    "first_opening_date": "01 Sep 1986",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://srikrishnapublicschool.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "KAPIL YADAV",
+    "gender": "Male",
+    "qualification": "M.SC., B.ED",
+    "administrative_experience": "6",
+    "teaching_experience": "9"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730376",
+    "school_code": "25340",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "SHRI KRISHNA EDN SOC"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730376",
+      "listing_raw_columns": [
+        "455",
+        "Aff. No. : 2730376 Sch. Code: 25340",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : SRI KRISHNA PUBLIC SCHOOL Head/Principal Name: KAPIL YADAV",
+        "Address : ROSHAN PURA NAJAFGARJH NEW DELHI Website : https://srikrishnapublicschool.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730376",
+      "serial_number": "455",
+      "affiliation_and_school_code": "Aff. No. : 2730376 Sch. Code: 25340",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SRI KRISHNA PUBLIC SCHOOL Head/Principal Name: KAPIL YADAV",
+      "address_and_website": "Address : ROSHAN PURA NAJAFGARJH NEW DELHI Website : https://srikrishnapublicschool.in/"
+    },
+    "school_details": {
+      "Name of Institution": "SRI KRISHNA PUBLIC SCHOOL",
+      "Affiliation Number": "2730376",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "ROSHAN PURA NAJAFGARJH NEW DELHI",
+      "Pin Code": "110043",
+      "Website": "https://srikrishnapublicschool.in/",
+      "Year of Foundation": "2002",
+      "Date of First Opening of School": "01 Sep 1986",
+      "Name of Principal/ Head of Institution": "KAPIL YADAV",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.SC., B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "6",
+      "Teaching:": "9",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "SHRI KRISHNA EDN SOC",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

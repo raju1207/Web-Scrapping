@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730457",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SHIV_MODERN_SCHOOL_2730457.json"
+  },
+  "school_identity": {
+    "school_name": "SHIV MODERN SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730457",
+    "cbse_school_code": "85397"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "A-3, PASCHIM VIHAR NEW DELHI",
+    "pincode": "110063"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1981",
+    "first_opening_date": "23 Mar 2005",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.shivmodernschool.org",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "MONINDERPAL KAUR",
+    "gender": "Female",
+    "qualification": "M.SC./ B.ED/ PGDSLM",
+    "administrative_experience": "27",
+    "teaching_experience": "28"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730457",
+    "school_code": "85397",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2027",
+    "affiliation_to": "31/03/2032",
+    "affiliation_period_raw": "From : 01/04/2027 To : 31/03/2032",
+    "trust_society": "shiv modern educational society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730457",
+      "listing_raw_columns": [
+        "531",
+        "Aff. No. : 2730457 Sch. Code: 85397",
+        "State : DELHI District : WEST DELHI",
+        "Senior Secondary Level",
+        "Name : SHIV MODERN SCHOOL Head/Principal Name: MONINDERPAL KAUR",
+        "Address : A-3, PASCHIM VIHAR NEW DELHI Website : www.shivmodernschool.org",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730457",
+      "serial_number": "531",
+      "affiliation_and_school_code": "Aff. No. : 2730457 Sch. Code: 85397",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SHIV MODERN SCHOOL Head/Principal Name: MONINDERPAL KAUR",
+      "address_and_website": "Address : A-3, PASCHIM VIHAR NEW DELHI Website : www.shivmodernschool.org"
+    },
+    "school_details": {
+      "Name of Institution": "SHIV MODERN SCHOOL",
+      "Affiliation Number": "2730457",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "A-3, PASCHIM VIHAR NEW DELHI",
+      "Pin Code": "110063",
+      "Website": "www.shivmodernschool.org",
+      "Year of Foundation": "1981",
+      "Date of First Opening of School": "23 Mar 2005",
+      "Name of Principal/ Head of Institution": "MONINDERPAL KAUR",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.SC./ B.ED/ PGDSLM",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "27",
+      "Teaching:": "28",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+      "Name of Trust/ Society/ Managing Committee": "shiv modern educational society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

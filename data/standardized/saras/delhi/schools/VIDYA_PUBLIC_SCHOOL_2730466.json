@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730466",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\VIDYA_PUBLIC_SCHOOL_2730466.json"
+  },
+  "school_identity": {
+    "school_name": "VIDYA PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730466",
+    "cbse_school_code": "85009"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "VIDYA BHAWAN BANGLA SAHIB ROAD OPP KALI MANDIR NEW DELHI",
+    "pincode": "110001"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1992",
+    "first_opening_date": "25 Jun 2007",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.vidyapublicschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "PAPRI ROY",
+    "gender": "Female",
+    "qualification": "M.SC, B.ED",
+    "administrative_experience": "12",
+    "teaching_experience": "19"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730466",
+    "school_code": "85009",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "VIDYA EDUCATIONAL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730466",
+      "listing_raw_columns": [
+        "540",
+        "Aff. No. : 2730466 Sch. Code: 85009",
+        "State : DELHI District : NEW DELHI",
+        "Secondary Level",
+        "Name : VIDYA PUBLIC SCHOOL Head/Principal Name: PAPRI ROY",
+        "Address : VIDYA BHAWAN BANGLA SAHIB ROAD OPP KALI MANDIR NEW DELHI Website : www.vidyapublicschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730466",
+      "serial_number": "540",
+      "affiliation_and_school_code": "Aff. No. : 2730466 Sch. Code: 85009",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : VIDYA PUBLIC SCHOOL Head/Principal Name: PAPRI ROY",
+      "address_and_website": "Address : VIDYA BHAWAN BANGLA SAHIB ROAD OPP KALI MANDIR NEW DELHI Website : www.vidyapublicschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "VIDYA PUBLIC SCHOOL",
+      "Affiliation Number": "2730466",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "VIDYA BHAWAN BANGLA SAHIB ROAD OPP KALI MANDIR NEW DELHI",
+      "Pin Code": "110001",
+      "Website": "www.vidyapublicschool.com",
+      "Year of Foundation": "1992",
+      "Date of First Opening of School": "25 Jun 2007",
+      "Name of Principal/ Head of Institution": "PAPRI ROY",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.SC, B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "12",
+      "Teaching:": "19",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "VIDYA EDUCATIONAL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

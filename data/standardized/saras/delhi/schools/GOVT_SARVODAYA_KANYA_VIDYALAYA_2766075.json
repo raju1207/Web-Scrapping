@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2766075",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_SARVODAYA_KANYA_VIDYALAYA_2766075.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT SARVODAYA KANYA VIDYALAYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2766075",
+    "cbse_school_code": "87606"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "HASTSAL VILLAGE NEW DELHI",
+    "pincode": "110059"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1993",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "RAVINDER KAUR",
+    "gender": "Female",
+    "qualification": "M.Sc.",
+    "administrative_experience": "5",
+    "teaching_experience": "18"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2766075",
+    "school_code": "87606",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "delhi admn"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2766075",
+      "listing_raw_columns": [
+        "1973",
+        "Aff. No. : 2766075 Sch. Code: 87606",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT SARVODAYA KANYA VIDYALAYA Head/Principal Name: RAVINDER KAUR",
+        "Address : HASTSAL VILLAGE NEW DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2766075",
+      "serial_number": "1973",
+      "affiliation_and_school_code": "Aff. No. : 2766075 Sch. Code: 87606",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT SARVODAYA KANYA VIDYALAYA Head/Principal Name: RAVINDER KAUR",
+      "address_and_website": "Address : HASTSAL VILLAGE NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT SARVODAYA KANYA VIDYALAYA",
+      "Affiliation Number": "2766075",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "HASTSAL VILLAGE NEW DELHI",
+      "Pin Code": "110059",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "1993",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "RAVINDER KAUR",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.Sc.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "5",
+      "Teaching:": "18",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "delhi admn",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

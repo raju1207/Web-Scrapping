@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764091",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SARVODAYA_KANYA_VIDYALAYA_2764091.json"
+  },
+  "school_identity": {
+    "school_name": "SARVODAYA KANYA VIDYALAYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2764091",
+    "cbse_school_code": "27446"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH DELHI",
+    "block": null,
+    "address": "J BLOCK SANGAM VIHAR NEW DELHI-110062",
+    "pincode": "110019"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2008",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://www.edudel.nic.in/DirectorateOfEducation.htm",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "INDER KUMAR",
+    "gender": "Male",
+    "qualification": "B.Ed M.Ed",
+    "administrative_experience": "13",
+    "teaching_experience": "20"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2764091",
+    "school_code": "27446",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "DIR. OF EDUCATION"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2764091",
+      "listing_raw_columns": [
+        "1894",
+        "Aff. No. : 2764091 Sch. Code: 27446",
+        "State : DELHI District : SOUTH DELHI",
+        "Secondary Level",
+        "Name : SARVODAYA KANYA VIDYALAYA Head/Principal Name: INDER KUMAR",
+        "Address : J BLOCK SANGAM VIHAR NEW DELHI-110062 Website : https://www.edudel.nic.in/DirectorateOfEducation.htm",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764091",
+      "serial_number": "1894",
+      "affiliation_and_school_code": "Aff. No. : 2764091 Sch. Code: 27446",
+      "state_and_district": "State : DELHI District : SOUTH DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : SARVODAYA KANYA VIDYALAYA Head/Principal Name: INDER KUMAR",
+      "address_and_website": "Address : J BLOCK SANGAM VIHAR NEW DELHI-110062 Website : https://www.edudel.nic.in/DirectorateOfEducation.htm"
+    },
+    "school_details": {
+      "Name of Institution": "SARVODAYA KANYA VIDYALAYA",
+      "Affiliation Number": "2764091",
+      "State": "DELHI",
+      "District": "SOUTH DELHI",
+      "Postal Address": "J BLOCK SANGAM VIHAR NEW DELHI-110062",
+      "Pin Code": "110019",
+      "Website": "https://www.edudel.nic.in/DirectorateOfEducation.htm",
+      "Year of Foundation": "2008",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "INDER KUMAR",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "B.Ed M.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "13",
+      "Teaching:": "20",
+      "Status of The School": "Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "DIR. OF EDUCATION",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

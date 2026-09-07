@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774031",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\AIR_FORCE_SR_SEC_SCHOOL_2774031.json"
+  },
+  "school_identity": {
+    "school_name": "AIR FORCE SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2774031",
+    "cbse_school_code": "27402"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "OLD WELLINGDON CAMP RACE COURSE NEW DELHI",
+    "pincode": "110003"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1947",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.racecourseschools.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Deepanka Arora",
+    "gender": "Female",
+    "qualification": "M.Sc.,B.Ed.",
+    "administrative_experience": "0",
+    "teaching_experience": "31"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2774031",
+    "school_code": "27402",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2030",
+    "trust_society": "delhi tamil edu assn (r)"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2774031",
+      "listing_raw_columns": [
+        "2095",
+        "Aff. No. : 2774031 Sch. Code: 27402",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : AIR FORCE SR SEC SCHOOL Head/Principal Name: Deepanka Arora",
+        "Address : OLD WELLINGDON CAMP RACE COURSE NEW DELHI Website : www.racecourseschools.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774031",
+      "serial_number": "2095",
+      "affiliation_and_school_code": "Aff. No. : 2774031 Sch. Code: 27402",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : AIR FORCE SR SEC SCHOOL Head/Principal Name: Deepanka Arora",
+      "address_and_website": "Address : OLD WELLINGDON CAMP RACE COURSE NEW DELHI Website : www.racecourseschools.in"
+    },
+    "school_details": {
+      "Name of Institution": "AIR FORCE SR SEC SCHOOL",
+      "Affiliation Number": "2774031",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "OLD WELLINGDON CAMP RACE COURSE NEW DELHI",
+      "Pin Code": "110003",
+      "Website": "www.racecourseschools.in",
+      "Year of Foundation": "1947",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "Deepanka Arora",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.Sc.,B.Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "0",
+      "Teaching:": "31",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "delhi tamil edu assn (r)",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

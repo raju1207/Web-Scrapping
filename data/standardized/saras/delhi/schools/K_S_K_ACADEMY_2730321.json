@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730321",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\K_S_K_ACADEMY_2730321.json"
+  },
+  "school_identity": {
+    "school_name": "K S K ACADEMY",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730321",
+    "cbse_school_code": "25183"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH DELHI",
+    "block": null,
+    "address": "H 117 SANGAM VIHAR, DISTT SOUTH DELHI, NEW DELHI",
+    "pincode": "110062"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1994",
+    "first_opening_date": "24 Aug 1972",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.kskacademy.ac.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "KAVITHA K S",
+    "gender": "Female",
+    "qualification": "M. Com., B. Ed.",
+    "administrative_experience": "5",
+    "teaching_experience": "17"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730321",
+    "school_code": "25183",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "KHARAG SINGH KHALSA EDUCATION SOC"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730321",
+      "listing_raw_columns": [
+        "404",
+        "Aff. No. : 2730321 Sch. Code: 25183",
+        "State : DELHI District : SOUTH DELHI",
+        "Senior Secondary Level",
+        "Name : K S K ACADEMY Head/Principal Name: KAVITHA K S",
+        "Address : H 117 SANGAM VIHAR, DISTT SOUTH DELHI, NEW DELHI Website : www.kskacademy.ac.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730321",
+      "serial_number": "404",
+      "affiliation_and_school_code": "Aff. No. : 2730321 Sch. Code: 25183",
+      "state_and_district": "State : DELHI District : SOUTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : K S K ACADEMY Head/Principal Name: KAVITHA K S",
+      "address_and_website": "Address : H 117 SANGAM VIHAR, DISTT SOUTH DELHI, NEW DELHI Website : www.kskacademy.ac.in"
+    },
+    "school_details": {
+      "Name of Institution": "K S K ACADEMY",
+      "Affiliation Number": "2730321",
+      "State": "DELHI",
+      "District": "SOUTH DELHI",
+      "Postal Address": "H 117 SANGAM VIHAR, DISTT SOUTH DELHI, NEW DELHI",
+      "Pin Code": "110062",
+      "Website": "www.kskacademy.ac.in",
+      "Year of Foundation": "1994",
+      "Date of First Opening of School": "24 Aug 1972",
+      "Name of Principal/ Head of Institution": "KAVITHA K S",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M. Com., B. Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "5",
+      "Teaching:": "17",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "KHARAG SINGH KHALSA EDUCATION SOC",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

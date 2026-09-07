@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730046",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\J_D_TYTLER_SCHOOL_2730046.json"
+  },
+  "school_identity": {
+    "school_name": "J D TYTLER SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730046",
+    "cbse_school_code": "85032"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "NEW RAJINDER NAGAR BEHIND R BLOCK NEW DELHI",
+    "pincode": "110060"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1954",
+    "first_opening_date": "04 Jan 2008",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.jdtytlerschooldelhi.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "AZHAR ASLAM KHAN",
+    "gender": "Male",
+    "qualification": "MSC M.Ed PHD",
+    "administrative_experience": "6",
+    "teaching_experience": "30"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730046",
+    "school_code": "85032",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "J D TYTLER SCHOOL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730046",
+      "listing_raw_columns": [
+        "135",
+        "Aff. No. : 2730046 Sch. Code: 85032",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : J D TYTLER SCHOOL Head/Principal Name: AZHAR ASLAM KHAN",
+        "Address : NEW RAJINDER NAGAR BEHIND R BLOCK NEW DELHI Website : www.jdtytlerschooldelhi.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730046",
+      "serial_number": "135",
+      "affiliation_and_school_code": "Aff. No. : 2730046 Sch. Code: 85032",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : J D TYTLER SCHOOL Head/Principal Name: AZHAR ASLAM KHAN",
+      "address_and_website": "Address : NEW RAJINDER NAGAR BEHIND R BLOCK NEW DELHI Website : www.jdtytlerschooldelhi.com"
+    },
+    "school_details": {
+      "Name of Institution": "J D TYTLER SCHOOL",
+      "Affiliation Number": "2730046",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "NEW RAJINDER NAGAR BEHIND R BLOCK NEW DELHI",
+      "Pin Code": "110060",
+      "Website": "www.jdtytlerschooldelhi.com",
+      "Year of Foundation": "1954",
+      "Date of First Opening of School": "04 Jan 2008",
+      "Name of Principal/ Head of Institution": "AZHAR ASLAM KHAN",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "MSC M.Ed PHD",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "6",
+      "Teaching:": "30",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "J D TYTLER SCHOOL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

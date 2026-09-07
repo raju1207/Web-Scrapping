@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778007",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\HAPPY_SR_SEC_SCHOOL_2778007.json"
+  },
+  "school_identity": {
+    "school_name": "HAPPY SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2778007",
+    "cbse_school_code": "87139"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH DELHI",
+    "block": null,
+    "address": "KASHMIRI GATE DELHI",
+    "pincode": "110006"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT AIDED",
+    "foundation_year": "1937",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "http://happyschoolkashmeregate.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Vandana",
+    "gender": "Female",
+    "qualification": "M.A. B.ed.",
+    "administrative_experience": "8",
+    "teaching_experience": "8"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2778007",
+    "school_code": "87139",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2021",
+    "affiliation_to": "31/03/2026",
+    "affiliation_period_raw": "From : 01/04/2021 To : 31/03/2026",
+    "trust_society": "managing committee"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2778007",
+      "listing_raw_columns": [
+        "2126",
+        "Aff. No. : 2778007 Sch. Code: 87139",
+        "State : DELHI District : NORTH DELHI",
+        "Senior Secondary Level",
+        "Name : HAPPY SR SEC SCHOOL Head/Principal Name: Vandana",
+        "Address : KASHMIRI GATE DELHI Website : http://happyschoolkashmeregate.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778007",
+      "serial_number": "2126",
+      "affiliation_and_school_code": "Aff. No. : 2778007 Sch. Code: 87139",
+      "state_and_district": "State : DELHI District : NORTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : HAPPY SR SEC SCHOOL Head/Principal Name: Vandana",
+      "address_and_website": "Address : KASHMIRI GATE DELHI Website : http://happyschoolkashmeregate.in"
+    },
+    "school_details": {
+      "Name of Institution": "HAPPY SR SEC SCHOOL",
+      "Affiliation Number": "2778007",
+      "State": "DELHI",
+      "District": "NORTH DELHI",
+      "Postal Address": "KASHMIRI GATE DELHI",
+      "Pin Code": "110006",
+      "Website": "http://happyschoolkashmeregate.in",
+      "Year of Foundation": "1937",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "Vandana",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A. B.ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "8",
+      "Teaching:": "8",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT AIDED",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2021 To : 31/03/2026",
+      "Name of Trust/ Society/ Managing Committee": "managing committee",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

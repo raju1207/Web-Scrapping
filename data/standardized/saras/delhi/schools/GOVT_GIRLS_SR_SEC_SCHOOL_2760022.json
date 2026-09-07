@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2760022",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_GIRLS_SR_SEC_SCHOOL_2760022.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT GIRLS SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2760022",
+    "cbse_school_code": "87634"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "J J COLONY NANGLOI II DELHI",
+    "pincode": "110041"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1979",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "1617035@GMAIL.COM",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SWEETY SHARMA",
+    "gender": "Female",
+    "qualification": "M.A., B.ED, PGDSLM",
+    "administrative_experience": "2",
+    "teaching_experience": "8"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2760022",
+    "school_code": "87634",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "directate of education"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2760022",
+      "listing_raw_columns": [
+        "1642",
+        "Aff. No. : 2760022 Sch. Code: 87634",
+        "State : DELHI District : WEST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT GIRLS SR SEC SCHOOL Head/Principal Name: SWEETY SHARMA",
+        "Address : J J COLONY NANGLOI II DELHI Website : 1617035@GMAIL.COM",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2760022",
+      "serial_number": "1642",
+      "affiliation_and_school_code": "Aff. No. : 2760022 Sch. Code: 87634",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT GIRLS SR SEC SCHOOL Head/Principal Name: SWEETY SHARMA",
+      "address_and_website": "Address : J J COLONY NANGLOI II DELHI Website : 1617035@GMAIL.COM"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT GIRLS SR SEC SCHOOL",
+      "Affiliation Number": "2760022",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "J J COLONY NANGLOI II DELHI",
+      "Pin Code": "110041",
+      "Website": "1617035@GMAIL.COM",
+      "Year of Foundation": "1979",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "SWEETY SHARMA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A., B.ED, PGDSLM",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "2",
+      "Teaching:": "8",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "directate of education",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

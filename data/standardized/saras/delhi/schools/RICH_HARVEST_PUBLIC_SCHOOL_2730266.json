@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730266",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\RICH_HARVEST_PUBLIC_SCHOOL_2730266.json"
+  },
+  "school_identity": {
+    "school_name": "RICH HARVEST PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730266",
+    "cbse_school_code": "85302"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "A/1/253 JANAKPURI, DISTT WEST DELHI, NEW DELHI",
+    "pincode": "110058"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1991",
+    "first_opening_date": "05 Apr 2005",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.richharvestschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "NEHA GANDHI",
+    "gender": "Female",
+    "qualification": "M.COM,B.ED",
+    "administrative_experience": "12",
+    "teaching_experience": "12"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730266",
+    "school_code": "85302",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "bhartiya shikchha samiti u.p."
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730266",
+      "listing_raw_columns": [
+        "352",
+        "Aff. No. : 2730266 Sch. Code: 85302",
+        "State : DELHI District : WEST DELHI",
+        "Senior Secondary Level",
+        "Name : RICH HARVEST PUBLIC SCHOOL Head/Principal Name: NEHA GANDHI",
+        "Address : A/1/253 JANAKPURI, DISTT WEST DELHI, NEW DELHI Website : www.richharvestschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730266",
+      "serial_number": "352",
+      "affiliation_and_school_code": "Aff. No. : 2730266 Sch. Code: 85302",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : RICH HARVEST PUBLIC SCHOOL Head/Principal Name: NEHA GANDHI",
+      "address_and_website": "Address : A/1/253 JANAKPURI, DISTT WEST DELHI, NEW DELHI Website : www.richharvestschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "RICH HARVEST PUBLIC SCHOOL",
+      "Affiliation Number": "2730266",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "A/1/253 JANAKPURI, DISTT WEST DELHI, NEW DELHI",
+      "Pin Code": "110058",
+      "Website": "www.richharvestschool.com",
+      "Year of Foundation": "1991",
+      "Date of First Opening of School": "05 Apr 2005",
+      "Name of Principal/ Head of Institution": "NEHA GANDHI",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.COM,B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "12",
+      "Teaching:": "12",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "bhartiya shikchha samiti u.p.",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

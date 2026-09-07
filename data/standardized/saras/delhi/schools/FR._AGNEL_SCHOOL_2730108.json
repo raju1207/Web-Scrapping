@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730108",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\FR._AGNEL_SCHOOL_2730108.json"
+  },
+  "school_identity": {
+    "school_name": "FR. AGNEL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730108",
+    "cbse_school_code": "25201"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH DELHI",
+    "block": null,
+    "address": "GAUTAM NAGAR NEW DELHI",
+    "pincode": "110049"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1979",
+    "first_opening_date": "01 May 2003",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.agnel.org",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "FR ROY DSA",
+    "gender": "Male",
+    "qualification": "MA BEd",
+    "administrative_experience": "13",
+    "teaching_experience": "13"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730108",
+    "school_code": "25201",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "AGNEL CHARITIES"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730108",
+      "listing_raw_columns": [
+        "196",
+        "Aff. No. : 2730108 Sch. Code: 25201",
+        "State : DELHI District : SOUTH DELHI",
+        "Senior Secondary Level",
+        "Name : FR. AGNEL SCHOOL Head/Principal Name: FR ROY DSA",
+        "Address : GAUTAM NAGAR NEW DELHI Website : www.agnel.org",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730108",
+      "serial_number": "196",
+      "affiliation_and_school_code": "Aff. No. : 2730108 Sch. Code: 25201",
+      "state_and_district": "State : DELHI District : SOUTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : FR. AGNEL SCHOOL Head/Principal Name: FR ROY DSA",
+      "address_and_website": "Address : GAUTAM NAGAR NEW DELHI Website : www.agnel.org"
+    },
+    "school_details": {
+      "Name of Institution": "FR. AGNEL SCHOOL",
+      "Affiliation Number": "2730108",
+      "State": "DELHI",
+      "District": "SOUTH DELHI",
+      "Postal Address": "GAUTAM NAGAR NEW DELHI",
+      "Pin Code": "110049",
+      "Website": "www.agnel.org",
+      "Year of Foundation": "1979",
+      "Date of First Opening of School": "01 May 2003",
+      "Name of Principal/ Head of Institution": "FR ROY DSA",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "MA BEd",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "13",
+      "Teaching:": "13",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "AGNEL CHARITIES",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

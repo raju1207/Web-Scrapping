@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730716",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\UPADHYAY_CONVENT_SCHOOL_2730716.json"
+  },
+  "school_identity": {
+    "school_name": "UPADHYAY CONVENT SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730716",
+    "cbse_school_code": "85044"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "D BLOCK MAIN ROAD KADI VIHAR , NEAR NATHUPURA , BURARI , DELHI",
+    "pincode": "110036"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2005",
+    "first_opening_date": "01 Apr 2005",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.upadhyayshool.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "NIDHI SHARMA",
+    "gender": "Female",
+    "qualification": "M.SC B.Ed",
+    "administrative_experience": "4",
+    "teaching_experience": "8"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730716",
+    "school_code": "85044",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "chiranjeev eduaction society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730716",
+      "listing_raw_columns": [
+        "782",
+        "Aff. No. : 2730716 Sch. Code: 85044",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : UPADHYAY CONVENT SCHOOL Head/Principal Name: NIDHI SHARMA",
+        "Address : D BLOCK MAIN ROAD KADI VIHAR , NEAR NATHUPURA , BURARI , DELHI Website : www.upadhyayshool.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730716",
+      "serial_number": "782",
+      "affiliation_and_school_code": "Aff. No. : 2730716 Sch. Code: 85044",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : UPADHYAY CONVENT SCHOOL Head/Principal Name: NIDHI SHARMA",
+      "address_and_website": "Address : D BLOCK MAIN ROAD KADI VIHAR , NEAR NATHUPURA , BURARI , DELHI Website : www.upadhyayshool.in"
+    },
+    "school_details": {
+      "Name of Institution": "UPADHYAY CONVENT SCHOOL",
+      "Affiliation Number": "2730716",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "D BLOCK MAIN ROAD KADI VIHAR , NEAR NATHUPURA , BURARI , DELHI",
+      "Pin Code": "110036",
+      "Website": "www.upadhyayshool.in",
+      "Year of Foundation": "2005",
+      "Date of First Opening of School": "01 Apr 2005",
+      "Name of Principal/ Head of Institution": "NIDHI SHARMA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.SC B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "4",
+      "Teaching:": "8",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "chiranjeev eduaction society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

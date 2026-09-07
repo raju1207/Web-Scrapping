@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130493",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\MANAV_MANDIRS_SMT._NANDKUMAR_RASIKLAL_P._SETH_MULTIPURPOSE_HIGH_SCHOOL_1130493.json"
+  },
+  "school_identity": {
+    "school_name": "MANAV MANDIRS SMT. NANDKUMAR RASIKLAL P. SETH MULTIPURPOSE HIGH SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "1130493",
+    "cbse_school_code": "30429"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "block": null,
+    "address": "10 MANAV MANDIR ROAD, MALABAR HILL",
+    "pincode": "400006"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1963",
+    "first_opening_date": "12 Dec 1963",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.manavmandirhighschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "ANURADHA SINHA",
+    "gender": "Female",
+    "qualification": "M.Sc, B.Ed",
+    "administrative_experience": "7",
+    "teaching_experience": "17"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1130493",
+    "school_code": "30429",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2027",
+    "affiliation_to": "31/03/2032",
+    "affiliation_period_raw": "From : 01/04/2027 To : 31/03/2032",
+    "trust_society": "MANAV MANDIR TRUST"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1130493",
+      "listing_raw_columns": [
+        "35",
+        "Aff. No. : 1130493 Sch. Code: 30429",
+        "State : MAHARASHTRA District : MUMBAI",
+        "Secondary Level",
+        "Name : MANAV MANDIRS SMT. NANDKUMAR RASIKLAL P. SETH MULTIPURPOSE HIGH SCHOOL Head/Principal Name: ANURADHA SINHA",
+        "Address : 10 MANAV MANDIR ROAD, MALABAR HILL Website : www.manavmandirhighschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130493",
+      "serial_number": "35",
+      "affiliation_and_school_code": "Aff. No. : 1130493 Sch. Code: 30429",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : MANAV MANDIRS SMT. NANDKUMAR RASIKLAL P. SETH MULTIPURPOSE HIGH SCHOOL Head/Principal Name: ANURADHA SINHA",
+      "address_and_website": "Address : 10 MANAV MANDIR ROAD, MALABAR HILL Website : www.manavmandirhighschool.com",
+      "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+      "Name of Institution": "MANAV MANDIRS SMT. NANDKUMAR RASIKLAL P. SETH MULTIPURPOSE HIGH SCHOOL",
+      "Affiliation Number": "1130493",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI",
+      "Postal Address": "10 MANAV MANDIR ROAD, MALABAR HILL",
+      "Pin Code": "400006",
+      "Website": "www.manavmandirhighschool.com",
+      "Year of Foundation": "1963",
+      "Date of First Opening of School": "12 Dec 1963",
+      "Name of Principal/ Head of Institution": "ANURADHA SINHA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.Sc, B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "7",
+      "Teaching:": "17",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+      "Name of Trust/ Society/ Managing Committee": "MANAV MANDIR TRUST",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

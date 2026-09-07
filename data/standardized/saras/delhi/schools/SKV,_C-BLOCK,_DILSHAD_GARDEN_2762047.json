@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762047",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SKV,_C-BLOCK,_DILSHAD_GARDEN_2762047.json"
+  },
+  "school_identity": {
+    "school_name": "SKV, C-BLOCK, DILSHAD GARDEN",
+    "udise_code": null,
+    "cbse_affiliation_number": "2762047",
+    "cbse_school_code": "27232"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "EAST DELHI",
+    "block": null,
+    "address": "DILSHAD GARDEN C- BLOCK DELHI",
+    "pincode": "110095"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1988",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://www.edudel.nic.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Freda J Baxla",
+    "gender": "Female",
+    "qualification": "M.A B.Ed",
+    "administrative_experience": "13",
+    "teaching_experience": "28"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2762047",
+    "school_code": "27232",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2030",
+    "trust_society": "delhi admn directate of edu"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2762047",
+      "listing_raw_columns": [
+        "1768",
+        "Aff. No. : 2762047 Sch. Code: 27232",
+        "State : DELHI District : EAST DELHI",
+        "Senior Secondary Level",
+        "Name : SKV, C-BLOCK, DILSHAD GARDEN Head/Principal Name: Freda J Baxla",
+        "Address : DILSHAD GARDEN C- BLOCK DELHI Website : https://www.edudel.nic.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762047",
+      "serial_number": "1768",
+      "affiliation_and_school_code": "Aff. No. : 2762047 Sch. Code: 27232",
+      "state_and_district": "State : DELHI District : EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SKV, C-BLOCK, DILSHAD GARDEN Head/Principal Name: Freda J Baxla",
+      "address_and_website": "Address : DILSHAD GARDEN C- BLOCK DELHI Website : https://www.edudel.nic.in/"
+    },
+    "school_details": {
+      "Name of Institution": "SKV, C-BLOCK, DILSHAD GARDEN",
+      "Affiliation Number": "2762047",
+      "State": "DELHI",
+      "District": "EAST DELHI",
+      "Postal Address": "DILSHAD GARDEN C- BLOCK DELHI",
+      "Pin Code": "110095",
+      "Website": "https://www.edudel.nic.in/",
+      "Year of Foundation": "1988",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "Freda J Baxla",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "13",
+      "Teaching:": "28",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "delhi admn directate of edu",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

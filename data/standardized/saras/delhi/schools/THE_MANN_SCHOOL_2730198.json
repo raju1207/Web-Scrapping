@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730198",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\THE_MANN_SCHOOL_2730198.json"
+  },
+  "school_identity": {
+    "school_name": "THE MANN SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730198",
+    "cbse_school_code": "85080"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH DELHI",
+    "block": null,
+    "address": "HOLAMBI KHURD VILLAGE, DISTT NORTH DELHI, DELHI",
+    "pincode": "110082"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1989",
+    "first_opening_date": "09 Jul 2003",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.themannschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Srinivasan Sriram",
+    "gender": "Male",
+    "qualification": "M.Sc., B.ED",
+    "administrative_experience": "5",
+    "teaching_experience": "30"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730198",
+    "school_code": "85080",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "UNIVERSAL EDUCATIONAL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730198",
+      "listing_raw_columns": [
+        "285",
+        "Aff. No. : 2730198 Sch. Code: 85080",
+        "State : DELHI District : NORTH DELHI",
+        "Senior Secondary Level",
+        "Name : THE MANN SCHOOL Head/Principal Name: Srinivasan Sriram",
+        "Address : HOLAMBI KHURD VILLAGE, DISTT NORTH DELHI, DELHI Website : www.themannschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730198",
+      "serial_number": "285",
+      "affiliation_and_school_code": "Aff. No. : 2730198 Sch. Code: 85080",
+      "state_and_district": "State : DELHI District : NORTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : THE MANN SCHOOL Head/Principal Name: Srinivasan Sriram",
+      "address_and_website": "Address : HOLAMBI KHURD VILLAGE, DISTT NORTH DELHI, DELHI Website : www.themannschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "THE MANN SCHOOL",
+      "Affiliation Number": "2730198",
+      "State": "DELHI",
+      "District": "NORTH DELHI",
+      "Postal Address": "HOLAMBI KHURD VILLAGE, DISTT NORTH DELHI, DELHI",
+      "Pin Code": "110082",
+      "Website": "www.themannschool.com",
+      "Year of Foundation": "1989",
+      "Date of First Opening of School": "09 Jul 2003",
+      "Name of Principal/ Head of Institution": "Srinivasan Sriram",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.Sc., B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "5",
+      "Teaching:": "30",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "UNIVERSAL EDUCATIONAL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

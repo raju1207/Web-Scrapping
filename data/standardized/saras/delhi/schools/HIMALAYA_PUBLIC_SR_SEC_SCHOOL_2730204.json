@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730204",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\HIMALAYA_PUBLIC_SR_SEC_SCHOOL_2730204.json"
+  },
+  "school_identity": {
+    "school_name": "HIMALAYA PUBLIC SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730204",
+    "cbse_school_code": "85236"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "D-12 SECTOR 7 ROHINI DELHI",
+    "pincode": "110085"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1991",
+    "first_opening_date": "02 Apr 2012",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.himalayapubllicschool",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "ARUNA SIVARAJ",
+    "gender": "Female",
+    "qualification": "M.SC.B.ED",
+    "administrative_experience": "5",
+    "teaching_experience": "26"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730204",
+    "school_code": "85236",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "TANDON EDUCATION SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730204",
+      "listing_raw_columns": [
+        "291",
+        "Aff. No. : 2730204 Sch. Code: 85236",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : HIMALAYA PUBLIC SR SEC SCHOOL Head/Principal Name: ARUNA SIVARAJ",
+        "Address : D-12 SECTOR 7 ROHINI DELHI Website : www.himalayapubllicschool",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730204",
+      "serial_number": "291",
+      "affiliation_and_school_code": "Aff. No. : 2730204 Sch. Code: 85236",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : HIMALAYA PUBLIC SR SEC SCHOOL Head/Principal Name: ARUNA SIVARAJ",
+      "address_and_website": "Address : D-12 SECTOR 7 ROHINI DELHI Website : www.himalayapubllicschool"
+    },
+    "school_details": {
+      "Name of Institution": "HIMALAYA PUBLIC SR SEC SCHOOL",
+      "Affiliation Number": "2730204",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "D-12 SECTOR 7 ROHINI DELHI",
+      "Pin Code": "110085",
+      "Website": "www.himalayapubllicschool",
+      "Year of Foundation": "1991",
+      "Date of First Opening of School": "02 Apr 2012",
+      "Name of Principal/ Head of Institution": "ARUNA SIVARAJ",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.SC.B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "5",
+      "Teaching:": "26",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "TANDON EDUCATION SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

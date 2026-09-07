@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762005",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\BIPIN_CHANDRA_PAL_GOVT.SARVODAYA_2762005.json"
+  },
+  "school_identity": {
+    "school_name": "BIPIN CHANDRA PAL GOVT.SARVODAYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2762005",
+    "cbse_school_code": "27263"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SHAHDARA",
+    "block": null,
+    "address": "KANYA VIDYALAYA BABAR PUR SHAHDARA DELHI",
+    "pincode": "110032"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1973",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://www.edudel.nic.in/DirectorateOfEducation.htm",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "ANIL KUMAR MALIK",
+    "gender": "Male",
+    "qualification": "MA,MATH",
+    "administrative_experience": "7",
+    "teaching_experience": "20"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2762005",
+    "school_code": "27263",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "DIRECTORATE OF EDU DELHI ADMN"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2762005",
+      "listing_raw_columns": [
+        "1727",
+        "Aff. No. : 2762005 Sch. Code: 27263",
+        "State : DELHI District : SHAHDARA",
+        "Senior Secondary Level",
+        "Name : BIPIN CHANDRA PAL GOVT.SARVODAYA Head/Principal Name: ANIL KUMAR MALIK",
+        "Address : KANYA VIDYALAYA BABAR PUR SHAHDARA DELHI Website : https://www.edudel.nic.in/DirectorateOfEducation.htm",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762005",
+      "serial_number": "1727",
+      "affiliation_and_school_code": "Aff. No. : 2762005 Sch. Code: 27263",
+      "state_and_district": "State : DELHI District : SHAHDARA",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : BIPIN CHANDRA PAL GOVT.SARVODAYA Head/Principal Name: ANIL KUMAR MALIK",
+      "address_and_website": "Address : KANYA VIDYALAYA BABAR PUR SHAHDARA DELHI Website : https://www.edudel.nic.in/DirectorateOfEducation.htm"
+    },
+    "school_details": {
+      "Name of Institution": "BIPIN CHANDRA PAL GOVT.SARVODAYA",
+      "Affiliation Number": "2762005",
+      "State": "DELHI",
+      "District": "SHAHDARA",
+      "Postal Address": "KANYA VIDYALAYA BABAR PUR SHAHDARA DELHI",
+      "Pin Code": "110032",
+      "Website": "https://www.edudel.nic.in/DirectorateOfEducation.htm",
+      "Year of Foundation": "1973",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "ANIL KUMAR MALIK",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "MA,MATH",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "7",
+      "Teaching:": "20",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "DIRECTORATE OF EDU DELHI ADMN",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730256",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\POORNA_PRAJNA_PUBLIC_SCHOOL_2730256.json"
+  },
+  "school_identity": {
+    "school_name": "POORNA PRAJNA PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730256",
+    "cbse_school_code": "25084"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH DELHI",
+    "block": null,
+    "address": "D III VASANT KUNJ, DISTT SOUTH DELHI, NEW DELHI",
+    "pincode": "110070"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1989",
+    "first_opening_date": "01 Sep 1986",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.poornaprajnaschooldelhi.org",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "ANJU SINGH Incharge Principal",
+    "gender": "Female",
+    "qualification": "M.SC.-CS, B.ED., Ph.D.",
+    "administrative_experience": "1",
+    "teaching_experience": "25"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730256",
+    "school_code": "25084",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "UDUPI SRI ADMAR MUTT EDUCATION COUNCIL"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730256",
+      "listing_raw_columns": [
+        "342",
+        "Aff. No. : 2730256 Sch. Code: 25084",
+        "State : DELHI District : SOUTH DELHI",
+        "Senior Secondary Level",
+        "Name : POORNA PRAJNA PUBLIC SCHOOL Head/Principal Name: ANJU SINGH Incharge Principal",
+        "Address : D III VASANT KUNJ, DISTT SOUTH DELHI, NEW DELHI Website : www.poornaprajnaschooldelhi.org",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730256",
+      "serial_number": "342",
+      "affiliation_and_school_code": "Aff. No. : 2730256 Sch. Code: 25084",
+      "state_and_district": "State : DELHI District : SOUTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : POORNA PRAJNA PUBLIC SCHOOL Head/Principal Name: ANJU SINGH Incharge Principal",
+      "address_and_website": "Address : D III VASANT KUNJ, DISTT SOUTH DELHI, NEW DELHI Website : www.poornaprajnaschooldelhi.org"
+    },
+    "school_details": {
+      "Name of Institution": "POORNA PRAJNA PUBLIC SCHOOL",
+      "Affiliation Number": "2730256",
+      "State": "DELHI",
+      "District": "SOUTH DELHI",
+      "Postal Address": "D III VASANT KUNJ, DISTT SOUTH DELHI, NEW DELHI",
+      "Pin Code": "110070",
+      "Website": "www.poornaprajnaschooldelhi.org",
+      "Year of Foundation": "1989",
+      "Date of First Opening of School": "01 Sep 1986",
+      "Name of Principal/ Head of Institution": "ANJU SINGH Incharge Principal",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.SC.-CS, B.ED., Ph.D.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "1",
+      "Teaching:": "25",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "UDUPI SRI ADMAR MUTT EDUCATION COUNCIL",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

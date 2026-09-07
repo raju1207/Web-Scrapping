@@ -1,0 +1,74 @@
+{
+  "status": "PASS",
+  "schema_name": "canonical_school_schema_v1",
+  "message": "UDISE and SARAS standardized records use the same top-level and fixed nested schema.",
+  "canonical_schema": {
+    "metadata": {
+      "source": null,
+      "source_type": null,
+      "source_url": null,
+      "academic_year": null,
+      "location": null,
+      "raw_file": null
+    },
+    "school_identity": {
+      "school_name": null,
+      "udise_code": null,
+      "cbse_affiliation_number": null,
+      "cbse_school_code": null
+    },
+    "location": {
+      "state": null,
+      "district": null,
+      "block": null,
+      "address": null,
+      "pincode": null
+    },
+    "school_information": {
+      "board": null,
+      "management_type": null,
+      "school_category": null,
+      "school_level": null,
+      "school_type": null,
+      "foundation_year": null,
+      "first_opening_date": null,
+      "gender_type": null
+    },
+    "contact": {
+      "website": null,
+      "phone": null,
+      "email": null
+    },
+    "principal": {
+      "name": null,
+      "gender": null,
+      "qualification": null,
+      "administrative_experience": null,
+      "teaching_experience": null
+    },
+    "affiliation": {
+      "board": null,
+      "affiliation_number": null,
+      "school_code": null,
+      "affiliation_status": null,
+      "affiliation_type": null,
+      "affiliation_from": null,
+      "affiliation_to": null,
+      "affiliation_period_raw": null,
+      "trust_society": null
+    },
+    "student_statistics": {},
+    "teacher_statistics": {},
+    "infrastructure": {},
+    "report_card": {},
+    "school_history": {},
+    "source_payload": {
+      "school_summary": {},
+      "school_profile": {},
+      "listing_data": {},
+      "school_details": {},
+      "links": []
+    }
+  },
+  "raw_files_modified": false
+}

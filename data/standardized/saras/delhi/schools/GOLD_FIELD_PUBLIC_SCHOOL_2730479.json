@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730479",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOLD_FIELD_PUBLIC_SCHOOL_2730479.json"
+  },
+  "school_identity": {
+    "school_name": "GOLD FIELD PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730479",
+    "cbse_school_code": "85359"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "WE-2-5 RANE PARK ROAD MOHAN GARDEN DELHI",
+    "pincode": "110059"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1994",
+    "first_opening_date": "07 Jun 1999",
+    "gender_type": null
+  },
+  "contact": {
+    "website": null,
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Vijaya Chowdhary",
+    "gender": "Unknown",
+    "qualification": "MA B Ed",
+    "administrative_experience": "25",
+    "teaching_experience": "29"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730479",
+    "school_code": "85359",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "SUDIKSHA ASSOCATION FOR EDUCATIONAL ADVANCEMENT"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730479",
+      "listing_raw_columns": [
+        "552",
+        "Aff. No. : 2730479 Sch. Code: 85359",
+        "State : DELHI District : WEST DELHI",
+        "Secondary Level",
+        "Name : GOLD FIELD PUBLIC SCHOOL Head/Principal Name: Vijaya Chowdhary",
+        "Address : WE-2-5 RANE PARK ROAD MOHAN GARDEN DELHI Website :",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730479",
+      "serial_number": "552",
+      "affiliation_and_school_code": "Aff. No. : 2730479 Sch. Code: 85359",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : GOLD FIELD PUBLIC SCHOOL Head/Principal Name: Vijaya Chowdhary",
+      "address_and_website": "Address : WE-2-5 RANE PARK ROAD MOHAN GARDEN DELHI Website :"
+    },
+    "school_details": {
+      "Name of Institution": "GOLD FIELD PUBLIC SCHOOL",
+      "Affiliation Number": "2730479",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "WE-2-5 RANE PARK ROAD MOHAN GARDEN DELHI",
+      "Pin Code": "110059",
+      "Website": null,
+      "Year of Foundation": "1994",
+      "Date of First Opening of School": "07 Jun 1999",
+      "Name of Principal/ Head of Institution": "Vijaya Chowdhary",
+      "Gender": "Unknown",
+      "Principal's Educational/Professional Qualifications:": "MA B Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "25",
+      "Teaching:": "29",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "SUDIKSHA ASSOCATION FOR EDUCATIONAL ADVANCEMENT",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

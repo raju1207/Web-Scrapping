@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700009",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\PM_SHRI_KENDRIYA_VIDYALAYA_2700009.json"
+  },
+  "school_identity": {
+    "school_name": "PM SHRI KENDRIYA VIDYALAYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2700009",
+    "cbse_school_code": "89001"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "ROBERT SQUARE GOLE MARKET NEW DELHI",
+    "pincode": "110001"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "KV",
+    "foundation_year": "1972",
+    "first_opening_date": "08 Dec 1984",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.kvcrpfdurgapur.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SHUCHITA KAUSHAL",
+    "gender": "Female",
+    "qualification": "M.ED",
+    "administrative_experience": "9",
+    "teaching_experience": "22"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2700009",
+    "school_code": "89001",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "KENDRIYA VIDYALAYA SANGATHAN"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2700009",
+      "listing_raw_columns": [
+        "9",
+        "Aff. No. : 2700009 Sch. Code: 89001",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: SHUCHITA KAUSHAL",
+        "Address : ROBERT SQUARE GOLE MARKET NEW DELHI Website : www.kvcrpfdurgapur.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700009",
+      "serial_number": "9",
+      "affiliation_and_school_code": "Aff. No. : 2700009 Sch. Code: 89001",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: SHUCHITA KAUSHAL",
+      "address_and_website": "Address : ROBERT SQUARE GOLE MARKET NEW DELHI Website : www.kvcrpfdurgapur.com"
+    },
+    "school_details": {
+      "Name of Institution": "PM SHRI KENDRIYA VIDYALAYA",
+      "Affiliation Number": "2700009",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "ROBERT SQUARE GOLE MARKET NEW DELHI",
+      "Pin Code": "110001",
+      "Website": "www.kvcrpfdurgapur.com",
+      "Year of Foundation": "1972",
+      "Date of First Opening of School": "08 Dec 1984",
+      "Name of Principal/ Head of Institution": "SHUCHITA KAUSHAL",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "9",
+      "Teaching:": "22",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "KV",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "KENDRIYA VIDYALAYA SANGATHAN",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

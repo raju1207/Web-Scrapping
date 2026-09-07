@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2780005",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\AIR_FCE_GYAN_JYOTI_SCHOOL_2780005.json"
+  },
+  "school_identity": {
+    "school_name": "AIR FCE GYAN JYOTI SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2780005",
+    "cbse_school_code": "27134"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "AIR FORCE STATION PALAM DELHI CANTT",
+    "pincode": "110010"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "GOVT AIDED",
+    "foundation_year": "1969",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": null,
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "KANCHAN LATA RAI",
+    "gender": "Female",
+    "qualification": "MA BEd",
+    "administrative_experience": "4",
+    "teaching_experience": "23"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2780005",
+    "school_code": "27134",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2020",
+    "affiliation_to": "31/03/2025",
+    "affiliation_period_raw": "From : 01/04/2020 To : 31/03/2025",
+    "trust_society": "air fce childern foundation soc"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2780005",
+      "listing_raw_columns": [
+        "2193",
+        "Aff. No. : 2780005 Sch. Code: 27134",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Secondary Level",
+        "Name : AIR FCE GYAN JYOTI SCHOOL Head/Principal Name: KANCHAN LATA RAI",
+        "Address : AIR FORCE STATION PALAM DELHI CANTT Website :",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2780005",
+      "serial_number": "2193",
+      "affiliation_and_school_code": "Aff. No. : 2780005 Sch. Code: 27134",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : AIR FCE GYAN JYOTI SCHOOL Head/Principal Name: KANCHAN LATA RAI",
+      "address_and_website": "Address : AIR FORCE STATION PALAM DELHI CANTT Website :"
+    },
+    "school_details": {
+      "Name of Institution": "AIR FCE GYAN JYOTI SCHOOL",
+      "Affiliation Number": "2780005",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "AIR FORCE STATION PALAM DELHI CANTT",
+      "Pin Code": "110010",
+      "Website": null,
+      "Year of Foundation": "1969",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "KANCHAN LATA RAI",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA BEd",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "4",
+      "Teaching:": "23",
+      "Status of The School": "Secondary Level",
+      "School Type": "GOVT AIDED",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2020 To : 31/03/2025",
+      "Name of Trust/ Society/ Managing Committee": "air fce childern foundation soc",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

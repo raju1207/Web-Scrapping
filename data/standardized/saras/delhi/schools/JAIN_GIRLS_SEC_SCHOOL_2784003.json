@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2784003",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\JAIN_GIRLS_SEC_SCHOOL_2784003.json"
+  },
+  "school_identity": {
+    "school_name": "JAIN GIRLS SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2784003",
+    "cbse_school_code": "27347"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "GREEN PARK EXTN. NEW DELHI",
+    "pincode": "110016"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "GOVT AIDED",
+    "foundation_year": "1959",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Manju Varshney",
+    "gender": "Female",
+    "qualification": "M.A.B.Ed",
+    "administrative_experience": "0",
+    "teaching_experience": "32"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2784003",
+    "school_code": "27347",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2030",
+    "trust_society": "jain shiksha samiti new delhi"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2784003",
+      "listing_raw_columns": [
+        "2206",
+        "Aff. No. : 2784003 Sch. Code: 27347",
+        "State : DELHI District : NEW DELHI",
+        "Secondary Level",
+        "Name : JAIN GIRLS SEC SCHOOL Head/Principal Name: Manju Varshney",
+        "Address : GREEN PARK EXTN. NEW DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2784003",
+      "serial_number": "2206",
+      "affiliation_and_school_code": "Aff. No. : 2784003 Sch. Code: 27347",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : JAIN GIRLS SEC SCHOOL Head/Principal Name: Manju Varshney",
+      "address_and_website": "Address : GREEN PARK EXTN. NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "JAIN GIRLS SEC SCHOOL",
+      "Affiliation Number": "2784003",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "GREEN PARK EXTN. NEW DELHI",
+      "Pin Code": "110016",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "1959",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "Manju Varshney",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A.B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "0",
+      "Teaching:": "32",
+      "Status of The School": "Secondary Level",
+      "School Type": "GOVT AIDED",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "jain shiksha samiti new delhi",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

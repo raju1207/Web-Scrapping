@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774012",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\D_C_ARYA_SR_SEC_SCHOOL_2774012.json"
+  },
+  "school_identity": {
+    "school_name": "D C ARYA SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2774012",
+    "cbse_school_code": "27184"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "LODHI COLONY NEW DELHI",
+    "pincode": "110003"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT AIDED",
+    "foundation_year": "1952",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.diwanchandaryaschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "NEELAM BATRA",
+    "gender": "Female",
+    "qualification": "M.Sc, B.Ed, M.Ed",
+    "administrative_experience": "1",
+    "teaching_experience": "32"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2774012",
+    "school_code": "27184",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "diwan chand trust"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2774012",
+      "listing_raw_columns": [
+        "2077",
+        "Aff. No. : 2774012 Sch. Code: 27184",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : D C ARYA SR SEC SCHOOL Head/Principal Name: NEELAM BATRA",
+        "Address : LODHI COLONY NEW DELHI Website : www.diwanchandaryaschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774012",
+      "serial_number": "2077",
+      "affiliation_and_school_code": "Aff. No. : 2774012 Sch. Code: 27184",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : D C ARYA SR SEC SCHOOL Head/Principal Name: NEELAM BATRA",
+      "address_and_website": "Address : LODHI COLONY NEW DELHI Website : www.diwanchandaryaschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "D C ARYA SR SEC SCHOOL",
+      "Affiliation Number": "2774012",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "LODHI COLONY NEW DELHI",
+      "Pin Code": "110003",
+      "Website": "www.diwanchandaryaschool.com",
+      "Year of Foundation": "1952",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "NEELAM BATRA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.Sc, B.Ed, M.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "1",
+      "Teaching:": "32",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT AIDED",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "diwan chand trust",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

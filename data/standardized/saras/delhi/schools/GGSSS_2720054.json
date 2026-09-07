@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720054",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GGSSS_2720054.json"
+  },
+  "school_identity": {
+    "school_name": "GGSSS",
+    "udise_code": null,
+    "cbse_affiliation_number": "2720054",
+    "cbse_school_code": "27702"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH EAST DELHI",
+    "block": null,
+    "address": "VEER SAVARKAR COMPLEX, DELHI",
+    "pincode": "110094"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2022",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SUCHI SINGH NIRWAN",
+    "gender": "Female",
+    "qualification": "MA BED",
+    "administrative_experience": "0",
+    "teaching_experience": "7"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2720054",
+    "school_code": "27702",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "DOE"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2720054",
+      "listing_raw_columns": [
+        "51",
+        "Aff. No. : 2720054 Sch. Code: 27702",
+        "State : DELHI District : NORTH EAST DELHI",
+        "Senior Secondary Level",
+        "Name : GGSSS Head/Principal Name: SUCHI SINGH NIRWAN",
+        "Address : VEER SAVARKAR COMPLEX, DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720054",
+      "serial_number": "51",
+      "affiliation_and_school_code": "Aff. No. : 2720054 Sch. Code: 27702",
+      "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GGSSS Head/Principal Name: SUCHI SINGH NIRWAN",
+      "address_and_website": "Address : VEER SAVARKAR COMPLEX, DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "GGSSS",
+      "Affiliation Number": "2720054",
+      "State": "DELHI",
+      "District": "NORTH EAST DELHI",
+      "Postal Address": "VEER SAVARKAR COMPLEX, DELHI",
+      "Pin Code": "110094",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "2022",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "SUCHI SINGH NIRWAN",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA BED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "0",
+      "Teaching:": "7",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "DOE",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

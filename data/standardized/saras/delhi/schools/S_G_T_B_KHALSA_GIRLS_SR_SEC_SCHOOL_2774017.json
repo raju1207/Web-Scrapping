@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774017",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\S_G_T_B_KHALSA_GIRLS_SR_SEC_SCHOOL_2774017.json"
+  },
+  "school_identity": {
+    "school_name": "S G T B KHALSA GIRLS SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2774017",
+    "cbse_school_code": "27182"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "ALI GANJ LODHI COLONY NEW DELHI",
+    "pincode": "110003"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT AIDED",
+    "foundation_year": "1949",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "info@sgtbkhalsaschool.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "POONAM MALIK",
+    "gender": "Female",
+    "qualification": "MA ,M.ED",
+    "administrative_experience": "4",
+    "teaching_experience": "17"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2774017",
+    "school_code": "27182",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "the skih educational society regd"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2774017",
+      "listing_raw_columns": [
+        "2082",
+        "Aff. No. : 2774017 Sch. Code: 27182",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : S G T B KHALSA GIRLS SR SEC SCHOOL Head/Principal Name: POONAM MALIK",
+        "Address : ALI GANJ LODHI COLONY NEW DELHI Website : info@sgtbkhalsaschool.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774017",
+      "serial_number": "2082",
+      "affiliation_and_school_code": "Aff. No. : 2774017 Sch. Code: 27182",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : S G T B KHALSA GIRLS SR SEC SCHOOL Head/Principal Name: POONAM MALIK",
+      "address_and_website": "Address : ALI GANJ LODHI COLONY NEW DELHI Website : info@sgtbkhalsaschool.in"
+    },
+    "school_details": {
+      "Name of Institution": "S G T B KHALSA GIRLS SR SEC SCHOOL",
+      "Affiliation Number": "2774017",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "ALI GANJ LODHI COLONY NEW DELHI",
+      "Pin Code": "110003",
+      "Website": "info@sgtbkhalsaschool.in",
+      "Year of Foundation": "1949",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "POONAM MALIK",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA ,M.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "4",
+      "Teaching:": "17",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT AIDED",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "the skih educational society regd",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

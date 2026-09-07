@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730194",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\RED_ROSES_PUBLIC_SCHOOL_2730194.json"
+  },
+  "school_identity": {
+    "school_name": "RED ROSES PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730194",
+    "cbse_school_code": "25175"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH DELHI",
+    "block": null,
+    "address": "D BLOCK SAKET NEW DELHI",
+    "pincode": "110017"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1980",
+    "first_opening_date": "09 Jul 2003",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.redrosessaket.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "ANURADHA MEHTA",
+    "gender": "Female",
+    "qualification": "MA Eco Edu B.Ed, Ph.D",
+    "administrative_experience": "30",
+    "teaching_experience": "37"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730194",
+    "school_code": "25175",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "SHRI R R MEHTA EDUCATION TRUST"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730194",
+      "listing_raw_columns": [
+        "281",
+        "Aff. No. : 2730194 Sch. Code: 25175",
+        "State : DELHI District : SOUTH DELHI",
+        "Senior Secondary Level",
+        "Name : RED ROSES PUBLIC SCHOOL Head/Principal Name: ANURADHA MEHTA",
+        "Address : D BLOCK SAKET NEW DELHI Website : www.redrosessaket.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730194",
+      "serial_number": "281",
+      "affiliation_and_school_code": "Aff. No. : 2730194 Sch. Code: 25175",
+      "state_and_district": "State : DELHI District : SOUTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : RED ROSES PUBLIC SCHOOL Head/Principal Name: ANURADHA MEHTA",
+      "address_and_website": "Address : D BLOCK SAKET NEW DELHI Website : www.redrosessaket.in"
+    },
+    "school_details": {
+      "Name of Institution": "RED ROSES PUBLIC SCHOOL",
+      "Affiliation Number": "2730194",
+      "State": "DELHI",
+      "District": "SOUTH DELHI",
+      "Postal Address": "D BLOCK SAKET NEW DELHI",
+      "Pin Code": "110017",
+      "Website": "www.redrosessaket.in",
+      "Year of Foundation": "1980",
+      "Date of First Opening of School": "09 Jul 2003",
+      "Name of Principal/ Head of Institution": "ANURADHA MEHTA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA Eco Edu B.Ed, Ph.D",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "30",
+      "Teaching:": "37",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "SHRI R R MEHTA EDUCATION TRUST",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754122",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SARVODAYA_CO-EDUCATION_SR._SECONDARY_SCHOOL_2754122.json"
+  },
+  "school_identity": {
+    "school_name": "SARVODAYA CO-EDUCATION SR. SECONDARY SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2754122",
+    "cbse_school_code": "27152"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "MUNIRKA VILLAGE, NEW DELHI-110067",
+    "pincode": "110067"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2006",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SUMAN KAIN",
+    "gender": "Female",
+    "qualification": "M.A, B.Ed",
+    "administrative_experience": "1",
+    "teaching_experience": "22"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2754122",
+    "school_code": "27152",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "DIRECTORATE OF EDUCATION"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2754122",
+      "listing_raw_columns": [
+        "1371",
+        "Aff. No. : 2754122 Sch. Code: 27152",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : SARVODAYA CO-EDUCATION SR. SECONDARY SCHOOL Head/Principal Name: SUMAN KAIN",
+        "Address : MUNIRKA VILLAGE, NEW DELHI-110067 Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754122",
+      "serial_number": "1371",
+      "affiliation_and_school_code": "Aff. No. : 2754122 Sch. Code: 27152",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SARVODAYA CO-EDUCATION SR. SECONDARY SCHOOL Head/Principal Name: SUMAN KAIN",
+      "address_and_website": "Address : MUNIRKA VILLAGE, NEW DELHI-110067 Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "SARVODAYA CO-EDUCATION SR. SECONDARY SCHOOL",
+      "Affiliation Number": "2754122",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "MUNIRKA VILLAGE, NEW DELHI-110067",
+      "Pin Code": "110067",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "2006",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "SUMAN KAIN",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A, B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "1",
+      "Teaching:": "22",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "DIRECTORATE OF EDUCATION",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

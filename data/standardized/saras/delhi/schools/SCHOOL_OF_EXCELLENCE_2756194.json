@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756194",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SCHOOL_OF_EXCELLENCE_2756194.json"
+  },
+  "school_identity": {
+    "school_name": "SCHOOL OF EXCELLENCE",
+    "udise_code": null,
+    "cbse_affiliation_number": "2756194",
+    "cbse_school_code": "27488"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "SECT-22, DWARKA, NEW DELHI-110 075",
+    "pincode": null
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2018",
+    "first_opening_date": "25 Oct 2018",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "JAYASHREE",
+    "gender": "Female",
+    "qualification": "MA, M.Ed",
+    "administrative_experience": "2",
+    "teaching_experience": "14"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2756194",
+    "school_code": "27488",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "kendriya vidyalaya sangathan"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2756194",
+      "listing_raw_columns": [
+        "1574",
+        "Aff. No. : 2756194 Sch. Code: 27488",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : SCHOOL OF EXCELLENCE Head/Principal Name: JAYASHREE",
+        "Address : SECT-22, DWARKA, NEW DELHI-110 075 Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756194",
+      "serial_number": "1574",
+      "affiliation_and_school_code": "Aff. No. : 2756194 Sch. Code: 27488",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SCHOOL OF EXCELLENCE Head/Principal Name: JAYASHREE",
+      "address_and_website": "Address : SECT-22, DWARKA, NEW DELHI-110 075 Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "SCHOOL OF EXCELLENCE",
+      "Affiliation Number": "2756194",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "SECT-22, DWARKA, NEW DELHI-110 075",
+      "Pin Code": null,
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "2018",
+      "Date of First Opening of School": "25 Oct 2018",
+      "Name of Principal/ Head of Institution": "JAYASHREE",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA, M.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "2",
+      "Teaching:": "14",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "kendriya vidyalaya sangathan",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

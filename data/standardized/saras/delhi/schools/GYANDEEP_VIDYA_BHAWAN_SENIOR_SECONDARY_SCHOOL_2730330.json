@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730330",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GYANDEEP_VIDYA_BHAWAN_SENIOR_SECONDARY_SCHOOL_2730330.json"
+  },
+  "school_identity": {
+    "school_name": "GYANDEEP VIDYA BHAWAN SENIOR SECONDARY SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730330",
+    "cbse_school_code": "85113"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH EAST DELHI",
+    "block": null,
+    "address": "BLOCK C-10 YAMUNA VIHAR, DISTT NORTH EAST DELHI, DELHI",
+    "pincode": "110053"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1990",
+    "first_opening_date": "01 Jul 2011",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.gvbonline.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SEEMA GUPTA",
+    "gender": "Female",
+    "qualification": "M.A. B.ED.",
+    "administrative_experience": "2",
+    "teaching_experience": "10"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730330",
+    "school_code": "85113",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "GYANDEEP EDUCATION SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730330",
+      "listing_raw_columns": [
+        "413",
+        "Aff. No. : 2730330 Sch. Code: 85113",
+        "State : DELHI District : NORTH EAST DELHI",
+        "Senior Secondary Level",
+        "Name : GYANDEEP VIDYA BHAWAN SENIOR SECONDARY SCHOOL Head/Principal Name: SEEMA GUPTA",
+        "Address : BLOCK C-10 YAMUNA VIHAR, DISTT NORTH EAST DELHI, DELHI Website : www.gvbonline.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730330",
+      "serial_number": "413",
+      "affiliation_and_school_code": "Aff. No. : 2730330 Sch. Code: 85113",
+      "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GYANDEEP VIDYA BHAWAN SENIOR SECONDARY SCHOOL Head/Principal Name: SEEMA GUPTA",
+      "address_and_website": "Address : BLOCK C-10 YAMUNA VIHAR, DISTT NORTH EAST DELHI, DELHI Website : www.gvbonline.com"
+    },
+    "school_details": {
+      "Name of Institution": "GYANDEEP VIDYA BHAWAN SENIOR SECONDARY SCHOOL",
+      "Affiliation Number": "2730330",
+      "State": "DELHI",
+      "District": "NORTH EAST DELHI",
+      "Postal Address": "BLOCK C-10 YAMUNA VIHAR, DISTT NORTH EAST DELHI, DELHI",
+      "Pin Code": "110053",
+      "Website": "www.gvbonline.com",
+      "Year of Foundation": "1990",
+      "Date of First Opening of School": "01 Jul 2011",
+      "Name of Principal/ Head of Institution": "SEEMA GUPTA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A. B.ED.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "2",
+      "Teaching:": "10",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "GYANDEEP EDUCATION SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131429",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\SREE_NARAYANA_GURU_CENTRAL_SCHOOL_1131429.json"
+  },
+  "school_identity": {
+    "school_name": "SREE NARAYANA GURU CENTRAL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "1131429",
+    "cbse_school_code": "31418"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI SUBURBAN",
+    "block": null,
+    "address": "SREE NARAYANA NAGAR P L LOKHANDE MARG, CHEMBUR WEST, MUMBAI",
+    "pincode": "400089"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2016",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.sngcentralschool.org",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "DEEPA JAYAROY",
+    "gender": "Female",
+    "qualification": "M. A., M.Ed.",
+    "administrative_experience": "10",
+    "teaching_experience": "22"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1131429",
+    "school_code": "31418",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "SREE NARAYANA MANDIRA SAMITI"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1131429",
+      "listing_raw_columns": [
+        "20",
+        "Aff. No. : 1131429 Sch. Code: 31418",
+        "State : MAHARASHTRA District : MUMBAI SUBURBAN",
+        "Secondary Level",
+        "Name : SREE NARAYANA GURU CENTRAL SCHOOL Head/Principal Name: DEEPA JAYAROY",
+        "Address : SREE NARAYANA NAGAR P L LOKHANDE MARG, CHEMBUR WEST, MUMBAI Website : www.sngcentralschool.org",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131429",
+      "serial_number": "20",
+      "affiliation_and_school_code": "Aff. No. : 1131429 Sch. Code: 31418",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI SUBURBAN",
+      "status": "Secondary Level",
+      "school_and_head": "Name : SREE NARAYANA GURU CENTRAL SCHOOL Head/Principal Name: DEEPA JAYAROY",
+      "address_and_website": "Address : SREE NARAYANA NAGAR P L LOKHANDE MARG, CHEMBUR WEST, MUMBAI Website : www.sngcentralschool.org",
+      "saras_selected_district": "MUMBAI SUBURBAN"
+    },
+    "school_details": {
+      "Name of Institution": "SREE NARAYANA GURU CENTRAL SCHOOL",
+      "Affiliation Number": "1131429",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI SUBURBAN",
+      "Postal Address": "SREE NARAYANA NAGAR P L LOKHANDE MARG, CHEMBUR WEST, MUMBAI",
+      "Pin Code": "400089",
+      "Website": "www.sngcentralschool.org",
+      "Year of Foundation": "2016",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "DEEPA JAYAROY",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M. A., M.Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "10",
+      "Teaching:": "22",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "SREE NARAYANA MANDIRA SAMITI",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

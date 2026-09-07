@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730830",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\PAUL_GEORGE_GLOBAL_SCHOOL_2730830.json"
+  },
+  "school_identity": {
+    "school_name": "PAUL GEORGE GLOBAL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730830",
+    "cbse_school_code": "25425"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH DELHI",
+    "block": null,
+    "address": "ALAKNANDA",
+    "pincode": "110019"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2015",
+    "first_opening_date": "01 Apr 2015",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "http://www.pggs.edu.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Rosemary Gaikwad",
+    "gender": "Female",
+    "qualification": "MA, B.Ed",
+    "administrative_experience": "12",
+    "teaching_experience": "35"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730830",
+    "school_code": "25425",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "St. Georges Education Society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730830",
+      "listing_raw_columns": [
+        "890",
+        "Aff. No. : 2730830 Sch. Code: 25425",
+        "State : DELHI District : SOUTH DELHI",
+        "Senior Secondary Level",
+        "Name : PAUL GEORGE GLOBAL SCHOOL Head/Principal Name: Rosemary Gaikwad",
+        "Address : ALAKNANDA Website : http://www.pggs.edu.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730830",
+      "serial_number": "890",
+      "affiliation_and_school_code": "Aff. No. : 2730830 Sch. Code: 25425",
+      "state_and_district": "State : DELHI District : SOUTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : PAUL GEORGE GLOBAL SCHOOL Head/Principal Name: Rosemary Gaikwad",
+      "address_and_website": "Address : ALAKNANDA Website : http://www.pggs.edu.in"
+    },
+    "school_details": {
+      "Name of Institution": "PAUL GEORGE GLOBAL SCHOOL",
+      "Affiliation Number": "2730830",
+      "State": "DELHI",
+      "District": "SOUTH DELHI",
+      "Postal Address": "ALAKNANDA",
+      "Pin Code": "110019",
+      "Website": "http://www.pggs.edu.in",
+      "Year of Foundation": "2015",
+      "Date of First Opening of School": "01 Apr 2015",
+      "Name of Principal/ Head of Institution": "Rosemary Gaikwad",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA, B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "12",
+      "Teaching:": "35",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "St. Georges Education Society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

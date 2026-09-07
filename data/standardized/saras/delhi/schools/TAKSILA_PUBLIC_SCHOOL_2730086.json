@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730086",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\TAKSILA_PUBLIC_SCHOOL_2730086.json"
+  },
+  "school_identity": {
+    "school_name": "TAKSILA PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730086",
+    "cbse_school_code": "25108"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SHAHDARA",
+    "block": null,
+    "address": "JYOTI COLONY EXTN SHAHDARA DELHI",
+    "pincode": "110094"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1980",
+    "first_opening_date": "01 Jul 2003",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "http://www.taksilapublicschool.com/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "MEERA SRIVASTAVA",
+    "gender": "Female",
+    "qualification": "MSC BED",
+    "administrative_experience": "11",
+    "teaching_experience": "15"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730086",
+    "school_code": "25108",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2020",
+    "affiliation_to": "31/03/2025",
+    "affiliation_period_raw": "From : 01/04/2020 To : 31/03/2025",
+    "trust_society": "T.P.S.EDUCATION SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730086",
+      "listing_raw_columns": [
+        "174",
+        "Aff. No. : 2730086 Sch. Code: 25108",
+        "State : DELHI District : SHAHDARA",
+        "Senior Secondary Level",
+        "Name : TAKSILA PUBLIC SCHOOL Head/Principal Name: MEERA SRIVASTAVA",
+        "Address : JYOTI COLONY EXTN SHAHDARA DELHI Website : http://www.taksilapublicschool.com/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730086",
+      "serial_number": "174",
+      "affiliation_and_school_code": "Aff. No. : 2730086 Sch. Code: 25108",
+      "state_and_district": "State : DELHI District : SHAHDARA",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : TAKSILA PUBLIC SCHOOL Head/Principal Name: MEERA SRIVASTAVA",
+      "address_and_website": "Address : JYOTI COLONY EXTN SHAHDARA DELHI Website : http://www.taksilapublicschool.com/"
+    },
+    "school_details": {
+      "Name of Institution": "TAKSILA PUBLIC SCHOOL",
+      "Affiliation Number": "2730086",
+      "State": "DELHI",
+      "District": "SHAHDARA",
+      "Postal Address": "JYOTI COLONY EXTN SHAHDARA DELHI",
+      "Pin Code": "110094",
+      "Website": "http://www.taksilapublicschool.com/",
+      "Year of Foundation": "1980",
+      "Date of First Opening of School": "01 Jul 2003",
+      "Name of Principal/ Head of Institution": "MEERA SRIVASTAVA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MSC BED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "11",
+      "Teaching:": "15",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2020 To : 31/03/2025",
+      "Name of Trust/ Society/ Managing Committee": "T.P.S.EDUCATION SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

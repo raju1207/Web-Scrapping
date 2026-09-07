@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730734",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\NEW_HOLY_FAITH_PUBLIC_SCHOOL_2730734.json"
+  },
+  "school_identity": {
+    "school_name": "NEW HOLY FAITH PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730734",
+    "cbse_school_code": "25365"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "RZ-50, KRISHNA NAGAR, SURAKH PUR ROAD, NAJAFGARH, NEW DELHI-43",
+    "pincode": "110043"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2005",
+    "first_opening_date": "01 Apr 2005",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.newholyfaithpublicschool.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "MANISH KUMAR TEHLAN",
+    "gender": "Male",
+    "qualification": "M.A English M.A History M.Ed, Bsc Natural Science",
+    "administrative_experience": "14",
+    "teaching_experience": "10"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730734",
+    "school_code": "25365",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "CH. DIGH RAM MEMORIAL & EDUCATIONAL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730734",
+      "listing_raw_columns": [
+        "798",
+        "Aff. No. : 2730734 Sch. Code: 25365",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : NEW HOLY FAITH PUBLIC SCHOOL Head/Principal Name: MANISH KUMAR TEHLAN",
+        "Address : RZ-50, KRISHNA NAGAR, SURAKH PUR ROAD, NAJAFGARH, NEW DELHI-43 Website : www.newholyfaithpublicschool.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730734",
+      "serial_number": "798",
+      "affiliation_and_school_code": "Aff. No. : 2730734 Sch. Code: 25365",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : NEW HOLY FAITH PUBLIC SCHOOL Head/Principal Name: MANISH KUMAR TEHLAN",
+      "address_and_website": "Address : RZ-50, KRISHNA NAGAR, SURAKH PUR ROAD, NAJAFGARH, NEW DELHI-43 Website : www.newholyfaithpublicschool.in"
+    },
+    "school_details": {
+      "Name of Institution": "NEW HOLY FAITH PUBLIC SCHOOL",
+      "Affiliation Number": "2730734",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "RZ-50, KRISHNA NAGAR, SURAKH PUR ROAD, NAJAFGARH, NEW DELHI-43",
+      "Pin Code": "110043",
+      "Website": "www.newholyfaithpublicschool.in",
+      "Year of Foundation": "2005",
+      "Date of First Opening of School": "01 Apr 2005",
+      "Name of Principal/ Head of Institution": "MANISH KUMAR TEHLAN",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.A English M.A History M.Ed, Bsc Natural Science",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "14",
+      "Teaching:": "10",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "CH. DIGH RAM MEMORIAL & EDUCATIONAL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

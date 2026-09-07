@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730418",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\BAL_VIDYA_MANDIR_MODEL_SCHOOL_2730418.json"
+  },
+  "school_identity": {
+    "school_name": "BAL VIDYA MANDIR MODEL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730418",
+    "cbse_school_code": "85231"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "POOTH KALAN NEAR ROHINI SECTOR 20 DELHI",
+    "pincode": "110041"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1998",
+    "first_opening_date": "01 Apr 2011",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "http://bvmmodelschool.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "VEER BHAN SOLANKI",
+    "gender": "Male",
+    "qualification": "MA. B.Ed.",
+    "administrative_experience": "5",
+    "teaching_experience": "10"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730418",
+    "school_code": "85231",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "MUKHTIYAR SINGH SAMRITI SHIKSHA SAM"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730418",
+      "listing_raw_columns": [
+        "493",
+        "Aff. No. : 2730418 Sch. Code: 85231",
+        "State : DELHI District : WEST DELHI",
+        "Secondary Level",
+        "Name : BAL VIDYA MANDIR MODEL SCHOOL Head/Principal Name: VEER BHAN SOLANKI",
+        "Address : POOTH KALAN NEAR ROHINI SECTOR 20 DELHI Website : http://bvmmodelschool.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730418",
+      "serial_number": "493",
+      "affiliation_and_school_code": "Aff. No. : 2730418 Sch. Code: 85231",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : BAL VIDYA MANDIR MODEL SCHOOL Head/Principal Name: VEER BHAN SOLANKI",
+      "address_and_website": "Address : POOTH KALAN NEAR ROHINI SECTOR 20 DELHI Website : http://bvmmodelschool.in/"
+    },
+    "school_details": {
+      "Name of Institution": "BAL VIDYA MANDIR MODEL SCHOOL",
+      "Affiliation Number": "2730418",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "POOTH KALAN NEAR ROHINI SECTOR 20 DELHI",
+      "Pin Code": "110041",
+      "Website": "http://bvmmodelschool.in/",
+      "Year of Foundation": "1998",
+      "Date of First Opening of School": "01 Apr 2011",
+      "Name of Principal/ Head of Institution": "VEER BHAN SOLANKI",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "MA. B.Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "5",
+      "Teaching:": "10",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "MUKHTIYAR SINGH SAMRITI SHIKSHA SAM",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

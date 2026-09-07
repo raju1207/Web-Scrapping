@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730452",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\NAV_GIAN_DEEP_PUBLIC_SCHOOL_2730452.json"
+  },
+  "school_identity": {
+    "school_name": "NAV GIAN DEEP PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730452",
+    "cbse_school_code": "25263"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "VIJAY ENCLAVE NEW DELHI",
+    "pincode": "110045"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1993",
+    "first_opening_date": "23 Jun 2004",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "http://WWW.navgiandeeppublicschool.com/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "REEMA SHARMA",
+    "gender": "Female",
+    "qualification": "M.A., B.Ed.",
+    "administrative_experience": "28",
+    "teaching_experience": "25"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730452",
+    "school_code": "25263",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "GIANDEEP EDU & WEL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730452",
+      "listing_raw_columns": [
+        "526",
+        "Aff. No. : 2730452 Sch. Code: 25263",
+        "State : DELHI District : NEW DELHI",
+        "Secondary Level",
+        "Name : NAV GIAN DEEP PUBLIC SCHOOL Head/Principal Name: REEMA SHARMA",
+        "Address : VIJAY ENCLAVE NEW DELHI Website : http://WWW.navgiandeeppublicschool.com/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730452",
+      "serial_number": "526",
+      "affiliation_and_school_code": "Aff. No. : 2730452 Sch. Code: 25263",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : NAV GIAN DEEP PUBLIC SCHOOL Head/Principal Name: REEMA SHARMA",
+      "address_and_website": "Address : VIJAY ENCLAVE NEW DELHI Website : http://WWW.navgiandeeppublicschool.com/"
+    },
+    "school_details": {
+      "Name of Institution": "NAV GIAN DEEP PUBLIC SCHOOL",
+      "Affiliation Number": "2730452",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "VIJAY ENCLAVE NEW DELHI",
+      "Pin Code": "110045",
+      "Website": "http://WWW.navgiandeeppublicschool.com/",
+      "Year of Foundation": "1993",
+      "Date of First Opening of School": "23 Jun 2004",
+      "Name of Principal/ Head of Institution": "REEMA SHARMA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A., B.Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "28",
+      "Teaching:": "25",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "GIANDEEP EDU & WEL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750031",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\R_P_GOVT_BOYS_SR_SEC_SCHOOL_2750031.json"
+  },
+  "school_identity": {
+    "school_name": "R P GOVT BOYS SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2750031",
+    "cbse_school_code": "87478"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "RITHALA DELHI",
+    "pincode": "110085"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1991",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "DR. BHASKARA NAND BIDALIYA",
+    "gender": "Male",
+    "qualification": "M A , B. Ed. , Ph. D.",
+    "administrative_experience": "11",
+    "teaching_experience": "20"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2750031",
+    "school_code": "87478",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "DELHI ADMN DIRECTORATE OF EDUCATION"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2750031",
+      "listing_raw_columns": [
+        "989",
+        "Aff. No. : 2750031 Sch. Code: 87478",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : R P GOVT BOYS SR SEC SCHOOL Head/Principal Name: DR. BHASKARA NAND BIDALIYA",
+        "Address : RITHALA DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750031",
+      "serial_number": "989",
+      "affiliation_and_school_code": "Aff. No. : 2750031 Sch. Code: 87478",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : R P GOVT BOYS SR SEC SCHOOL Head/Principal Name: DR. BHASKARA NAND BIDALIYA",
+      "address_and_website": "Address : RITHALA DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "R P GOVT BOYS SR SEC SCHOOL",
+      "Affiliation Number": "2750031",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "RITHALA DELHI",
+      "Pin Code": "110085",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "1991",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "DR. BHASKARA NAND BIDALIYA",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M A , B. Ed. , Ph. D.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "11",
+      "Teaching:": "20",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "DELHI ADMN DIRECTORATE OF EDUCATION",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

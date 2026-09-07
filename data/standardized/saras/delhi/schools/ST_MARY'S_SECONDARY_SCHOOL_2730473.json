@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730473",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\ST_MARY'S_SECONDARY_SCHOOL_2730473.json"
+  },
+  "school_identity": {
+    "school_name": "ST MARY'S SECONDARY SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730473",
+    "cbse_school_code": "25023"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "EAST DELHI",
+    "block": null,
+    "address": "POCKET A-2 MAYUR VIHAR PHASE III, DISTT EAST DELHI, DELHI",
+    "pincode": "110096"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1996",
+    "first_opening_date": "12 Aug 2007",
+    "gender_type": null
+  },
+  "contact": {
+    "website": null,
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Beena K Y",
+    "gender": "Male",
+    "qualification": "MA MEd",
+    "administrative_experience": "3",
+    "teaching_experience": "13"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730473",
+    "school_code": "25023",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "DELHI CATHOTIC ARCHDIOCESE DELHI"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730473",
+      "listing_raw_columns": [
+        "546",
+        "Aff. No. : 2730473 Sch. Code: 25023",
+        "State : DELHI District : EAST DELHI",
+        "Senior Secondary Level",
+        "Name : ST MARY'S SECONDARY SCHOOL Head/Principal Name: Beena K Y",
+        "Address : POCKET A-2 MAYUR VIHAR PHASE III, DISTT EAST DELHI, DELHI Website :",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730473",
+      "serial_number": "546",
+      "affiliation_and_school_code": "Aff. No. : 2730473 Sch. Code: 25023",
+      "state_and_district": "State : DELHI District : EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : ST MARY'S SECONDARY SCHOOL Head/Principal Name: Beena K Y",
+      "address_and_website": "Address : POCKET A-2 MAYUR VIHAR PHASE III, DISTT EAST DELHI, DELHI Website :"
+    },
+    "school_details": {
+      "Name of Institution": "ST MARY'S SECONDARY SCHOOL",
+      "Affiliation Number": "2730473",
+      "State": "DELHI",
+      "District": "EAST DELHI",
+      "Postal Address": "POCKET A-2 MAYUR VIHAR PHASE III, DISTT EAST DELHI, DELHI",
+      "Pin Code": "110096",
+      "Website": null,
+      "Year of Foundation": "1996",
+      "Date of First Opening of School": "12 Aug 2007",
+      "Name of Principal/ Head of Institution": "Beena K Y",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "MA MEd",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "3",
+      "Teaching:": "13",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "DELHI CATHOTIC ARCHDIOCESE DELHI",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2788033",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\S_G_T_B_KHALSA_GIRLS_SR_SEC_2788033.json"
+  },
+  "school_identity": {
+    "school_name": "S G T B KHALSA GIRLS SR SEC",
+    "udise_code": null,
+    "cbse_affiliation_number": "2788033",
+    "cbse_school_code": "87078"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "SCHOOL DEV NAGAR NEW DELHI",
+    "pincode": "110005"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT AIDED",
+    "foundation_year": "1934",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "sgtbkgd1953@gmail.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "HARJEET KAUR",
+    "gender": "Female",
+    "qualification": "M PHIL B ed PUNJABI",
+    "administrative_experience": "1",
+    "teaching_experience": "18"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2788033",
+    "school_code": "87078",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2032",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2032",
+    "trust_society": "DELHI SIKHGURDWARA MANAGEMENT COMM"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2788033",
+      "listing_raw_columns": [
+        "2240",
+        "Aff. No. : 2788033 Sch. Code: 87078",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : S G T B KHALSA GIRLS SR SEC Head/Principal Name: HARJEET KAUR",
+        "Address : SCHOOL DEV NAGAR NEW DELHI Website : sgtbkgd1953@gmail.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2788033",
+      "serial_number": "2240",
+      "affiliation_and_school_code": "Aff. No. : 2788033 Sch. Code: 87078",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : S G T B KHALSA GIRLS SR SEC Head/Principal Name: HARJEET KAUR",
+      "address_and_website": "Address : SCHOOL DEV NAGAR NEW DELHI Website : sgtbkgd1953@gmail.com"
+    },
+    "school_details": {
+      "Name of Institution": "S G T B KHALSA GIRLS SR SEC",
+      "Affiliation Number": "2788033",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "SCHOOL DEV NAGAR NEW DELHI",
+      "Pin Code": "110005",
+      "Website": "sgtbkgd1953@gmail.com",
+      "Year of Foundation": "1934",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "HARJEET KAUR",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M PHIL B ed PUNJABI",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "1",
+      "Teaching:": "18",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT AIDED",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2032",
+      "Name of Trust/ Society/ Managing Committee": "DELHI SIKHGURDWARA MANAGEMENT COMM",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

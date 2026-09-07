@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730751",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\LAVI_PUBLIC_SCHOOL_2730751.json"
+  },
+  "school_identity": {
+    "school_name": "LAVI PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730751",
+    "cbse_school_code": "85187"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "141, VILLAGE GHEVRA, NEW DELHI -110081",
+    "pincode": "110081"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2000",
+    "first_opening_date": "01 Apr 2000",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.lavipublicschool.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Pravesh Kumari",
+    "gender": "Female",
+    "qualification": "M.A., B.Ed.",
+    "administrative_experience": "10",
+    "teaching_experience": "22"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730751",
+    "school_code": "85187",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "B.K. RANA EDUCATION AND WELFARE SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730751",
+      "listing_raw_columns": [
+        "815",
+        "Aff. No. : 2730751 Sch. Code: 85187",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : LAVI PUBLIC SCHOOL Head/Principal Name: Pravesh Kumari",
+        "Address : 141, VILLAGE GHEVRA, NEW DELHI -110081 Website : www.lavipublicschool.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730751",
+      "serial_number": "815",
+      "affiliation_and_school_code": "Aff. No. : 2730751 Sch. Code: 85187",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : LAVI PUBLIC SCHOOL Head/Principal Name: Pravesh Kumari",
+      "address_and_website": "Address : 141, VILLAGE GHEVRA, NEW DELHI -110081 Website : www.lavipublicschool.in"
+    },
+    "school_details": {
+      "Name of Institution": "LAVI PUBLIC SCHOOL",
+      "Affiliation Number": "2730751",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "141, VILLAGE GHEVRA, NEW DELHI -110081",
+      "Pin Code": "110081",
+      "Website": "www.lavipublicschool.in",
+      "Year of Foundation": "2000",
+      "Date of First Opening of School": "01 Apr 2000",
+      "Name of Principal/ Head of Institution": "Pravesh Kumari",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A., B.Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "10",
+      "Teaching:": "22",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "B.K. RANA EDUCATION AND WELFARE SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

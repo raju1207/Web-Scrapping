@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730666",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\C.R.OASIS_CONVENT_SCHOOL_2730666.json"
+  },
+  "school_identity": {
+    "school_name": "C.R.OASIS CONVENT SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730666",
+    "cbse_school_code": "25360"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "POLE NEW LINE , VILL. & POST OFFICE PAPRWAT, NEW DELHI-110043",
+    "pincode": "110043"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2006",
+    "first_opening_date": "02 Apr 2006",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://croasisconventschool.com/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "POONAM YADAV",
+    "gender": "Female",
+    "qualification": "M.A. B.ED",
+    "administrative_experience": "1",
+    "teaching_experience": "1"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730666",
+    "school_code": "25360",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2032",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2032",
+    "trust_society": "B.L. EDUCATIONAL & SOCIAL WELFARE SOCEITY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730666",
+      "listing_raw_columns": [
+        "734",
+        "Aff. No. : 2730666 Sch. Code: 25360",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Secondary Level",
+        "Name : C.R.OASIS CONVENT SCHOOL Head/Principal Name: POONAM YADAV",
+        "Address : POLE NEW LINE , VILL. & POST OFFICE PAPRWAT, NEW DELHI-110043 Website : https://croasisconventschool.com/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730666",
+      "serial_number": "734",
+      "affiliation_and_school_code": "Aff. No. : 2730666 Sch. Code: 25360",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : C.R.OASIS CONVENT SCHOOL Head/Principal Name: POONAM YADAV",
+      "address_and_website": "Address : POLE NEW LINE , VILL. & POST OFFICE PAPRWAT, NEW DELHI-110043 Website : https://croasisconventschool.com/"
+    },
+    "school_details": {
+      "Name of Institution": "C.R.OASIS CONVENT SCHOOL",
+      "Affiliation Number": "2730666",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "POLE NEW LINE , VILL. & POST OFFICE PAPRWAT, NEW DELHI-110043",
+      "Pin Code": "110043",
+      "Website": "https://croasisconventschool.com/",
+      "Year of Foundation": "2006",
+      "Date of First Opening of School": "02 Apr 2006",
+      "Name of Principal/ Head of Institution": "POONAM YADAV",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A. B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "1",
+      "Teaching:": "1",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2032",
+      "Name of Trust/ Society/ Managing Committee": "B.L. EDUCATIONAL & SOCIAL WELFARE SOCEITY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

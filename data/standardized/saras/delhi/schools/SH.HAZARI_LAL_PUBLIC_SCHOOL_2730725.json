@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730725",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SH.HAZARI_LAL_PUBLIC_SCHOOL_2730725.json"
+  },
+  "school_identity": {
+    "school_name": "SH.HAZARI LAL PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730725",
+    "cbse_school_code": "85082"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "PLOT NO 106/405-406/1, V.P.O. KHERA KALAN, DELHI - 110082",
+    "pincode": "110082"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2005",
+    "first_opening_date": "01 Jul 2005",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.hazarilalschool.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "BIPIN KUMAR SINGH VATS",
+    "gender": "Male",
+    "qualification": "B.SC., B.ED., M.A. In Education",
+    "administrative_experience": "5",
+    "teaching_experience": "20"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730725",
+    "school_code": "85082",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "Shree Hazarilal Educational & cultural society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730725",
+      "listing_raw_columns": [
+        "790",
+        "Aff. No. : 2730725 Sch. Code: 85082",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Secondary Level",
+        "Name : SH.HAZARI LAL PUBLIC SCHOOL Head/Principal Name: BIPIN KUMAR SINGH VATS",
+        "Address : PLOT NO 106/405-406/1, V.P.O. KHERA KALAN, DELHI - 110082 Website : www.hazarilalschool.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730725",
+      "serial_number": "790",
+      "affiliation_and_school_code": "Aff. No. : 2730725 Sch. Code: 85082",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : SH.HAZARI LAL PUBLIC SCHOOL Head/Principal Name: BIPIN KUMAR SINGH VATS",
+      "address_and_website": "Address : PLOT NO 106/405-406/1, V.P.O. KHERA KALAN, DELHI - 110082 Website : www.hazarilalschool.in"
+    },
+    "school_details": {
+      "Name of Institution": "SH.HAZARI LAL PUBLIC SCHOOL",
+      "Affiliation Number": "2730725",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "PLOT NO 106/405-406/1, V.P.O. KHERA KALAN, DELHI - 110082",
+      "Pin Code": "110082",
+      "Website": "www.hazarilalschool.in",
+      "Year of Foundation": "2005",
+      "Date of First Opening of School": "01 Jul 2005",
+      "Name of Principal/ Head of Institution": "BIPIN KUMAR SINGH VATS",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "B.SC., B.ED., M.A. In Education",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "5",
+      "Teaching:": "20",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "Shree Hazarilal Educational & cultural society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

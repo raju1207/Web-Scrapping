@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131008",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\VIBGYOR_HIGH_SCHOOL_1131008.json"
+  },
+  "school_identity": {
+    "school_name": "VIBGYOR HIGH SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "1131008",
+    "cbse_school_code": "30978"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "block": null,
+    "address": "HOLY CROSS ROAD, I.C.COLONY, BORIVALI WEST.",
+    "pincode": "400103"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2015",
+    "first_opening_date": "08 Jun 2015",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://www.vibgyorhigh.com/mumbai-borivali.php",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Shijitha Trivedi",
+    "gender": "Female",
+    "qualification": "M.Com, M.Ed",
+    "administrative_experience": "10",
+    "teaching_experience": "20"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1131008",
+    "school_code": "30978",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "Empire Foundation"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1131008",
+      "listing_raw_columns": [
+        "53",
+        "Aff. No. : 1131008 Sch. Code: 30978",
+        "State : MAHARASHTRA District : MUMBAI",
+        "Senior Secondary Level",
+        "Name : VIBGYOR HIGH SCHOOL Head/Principal Name: Shijitha Trivedi",
+        "Address : HOLY CROSS ROAD, I.C.COLONY, BORIVALI WEST. Website : https://www.vibgyorhigh.com/mumbai-borivali.php",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131008",
+      "serial_number": "53",
+      "affiliation_and_school_code": "Aff. No. : 1131008 Sch. Code: 30978",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : VIBGYOR HIGH SCHOOL Head/Principal Name: Shijitha Trivedi",
+      "address_and_website": "Address : HOLY CROSS ROAD, I.C.COLONY, BORIVALI WEST. Website : https://www.vibgyorhigh.com/mumbai-borivali.php",
+      "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+      "Name of Institution": "VIBGYOR HIGH SCHOOL",
+      "Affiliation Number": "1131008",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI",
+      "Postal Address": "HOLY CROSS ROAD, I.C.COLONY, BORIVALI WEST.",
+      "Pin Code": "400103",
+      "Website": "https://www.vibgyorhigh.com/mumbai-borivali.php",
+      "Year of Foundation": "2015",
+      "Date of First Opening of School": "08 Jun 2015",
+      "Name of Principal/ Head of Institution": "Shijitha Trivedi",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.Com, M.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "10",
+      "Teaching:": "20",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "Empire Foundation",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

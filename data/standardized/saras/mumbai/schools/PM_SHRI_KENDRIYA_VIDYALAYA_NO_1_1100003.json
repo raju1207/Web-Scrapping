@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1100003",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\PM_SHRI_KENDRIYA_VIDYALAYA_NO_1_1100003.json"
+  },
+  "school_identity": {
+    "school_name": "PM SHRI KENDRIYA VIDYALAYA NO 1",
+    "udise_code": null,
+    "cbse_affiliation_number": "1100003",
+    "cbse_school_code": "34006"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "block": null,
+    "address": "NAVY NAGAR COLOBA MUMBAI MAHARASHTRA",
+    "pincode": "400005"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "KV",
+    "foundation_year": "1963",
+    "first_opening_date": "25 Jan 2009",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://no1colaba.kvs.ac.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "VIVEK SHRIVASTAVA",
+    "gender": "Male",
+    "qualification": "BE Comp science",
+    "administrative_experience": "2",
+    "teaching_experience": "16"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1100003",
+    "school_code": "34006",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "KENDRIYA VIDYALAYA SANGATHAN"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1100003",
+      "listing_raw_columns": [
+        "1",
+        "Aff. No. : 1100003 Sch. Code: 34006",
+        "State : MAHARASHTRA District : MUMBAI",
+        "Senior Secondary Level",
+        "Name : PM SHRI KENDRIYA VIDYALAYA NO 1 Head/Principal Name: VIVEK SHRIVASTAVA",
+        "Address : NAVY NAGAR COLOBA MUMBAI MAHARASHTRA Website : https://no1colaba.kvs.ac.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1100003",
+      "serial_number": "1",
+      "affiliation_and_school_code": "Aff. No. : 1100003 Sch. Code: 34006",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : PM SHRI KENDRIYA VIDYALAYA NO 1 Head/Principal Name: VIVEK SHRIVASTAVA",
+      "address_and_website": "Address : NAVY NAGAR COLOBA MUMBAI MAHARASHTRA Website : https://no1colaba.kvs.ac.in",
+      "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+      "Name of Institution": "PM SHRI KENDRIYA VIDYALAYA NO 1",
+      "Affiliation Number": "1100003",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI",
+      "Postal Address": "NAVY NAGAR COLOBA MUMBAI MAHARASHTRA",
+      "Pin Code": "400005",
+      "Website": "https://no1colaba.kvs.ac.in",
+      "Year of Foundation": "1963",
+      "Date of First Opening of School": "25 Jan 2009",
+      "Name of Principal/ Head of Institution": "VIVEK SHRIVASTAVA",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "BE Comp science",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "2",
+      "Teaching:": "16",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "KV",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "KENDRIYA VIDYALAYA SANGATHAN",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

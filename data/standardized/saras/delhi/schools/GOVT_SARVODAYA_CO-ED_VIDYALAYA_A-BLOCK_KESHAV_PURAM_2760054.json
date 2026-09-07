@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2760054",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_SARVODAYA_CO-ED_VIDYALAYA_A-BLOCK_KESHAV_PURAM_2760054.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT SARVODAYA CO-ED VIDYALAYA A-BLOCK KESHAV PURAM",
+    "udise_code": null,
+    "cbse_affiliation_number": "2760054",
+    "cbse_school_code": "87434"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "A- BLOCK, KESHAVPURAM, DELHI-110 035",
+    "pincode": "110035"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1984",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "http://www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "AJEET SINGH MALIK",
+    "gender": "Male",
+    "qualification": "M.SC./M.ED",
+    "administrative_experience": "2",
+    "teaching_experience": "30"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2760054",
+    "school_code": "87434",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "delhi administration"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2760054",
+      "listing_raw_columns": [
+        "1672",
+        "Aff. No. : 2760054 Sch. Code: 87434",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT SARVODAYA CO-ED VIDYALAYA A-BLOCK KESHAV PURAM Head/Principal Name: AJEET SINGH MALIK",
+        "Address : A- BLOCK, KESHAVPURAM, DELHI-110 035 Website : http://www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2760054",
+      "serial_number": "1672",
+      "affiliation_and_school_code": "Aff. No. : 2760054 Sch. Code: 87434",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT SARVODAYA CO-ED VIDYALAYA A-BLOCK KESHAV PURAM Head/Principal Name: AJEET SINGH MALIK",
+      "address_and_website": "Address : A- BLOCK, KESHAVPURAM, DELHI-110 035 Website : http://www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT SARVODAYA CO-ED VIDYALAYA A-BLOCK KESHAV PURAM",
+      "Affiliation Number": "2760054",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "A- BLOCK, KESHAVPURAM, DELHI-110 035",
+      "Pin Code": "110035",
+      "Website": "http://www.edudel.nic.in",
+      "Year of Foundation": "1984",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "AJEET SINGH MALIK",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.SC./M.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "2",
+      "Teaching:": "30",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "delhi administration",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

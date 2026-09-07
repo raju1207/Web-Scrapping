@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730597",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\B.V.M._PUBLIC_SCHOOL_2730597.json"
+  },
+  "school_identity": {
+    "school_name": "B.V.M. PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730597",
+    "cbse_school_code": "25350"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "AJAY PARK, NAYA BAZAR, NAJAFGARH",
+    "pincode": "110043"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2005",
+    "first_opening_date": "01 Apr 2005",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.bvmpublicschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "PRAVEEN SHARMA",
+    "gender": "Male",
+    "qualification": "M.SC COMPUTER SCIENCE",
+    "administrative_experience": "14",
+    "teaching_experience": "5"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730597",
+    "school_code": "25350",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "DHARMA EDUCATION SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730597",
+      "listing_raw_columns": [
+        "667",
+        "Aff. No. : 2730597 Sch. Code: 25350",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : B.V.M. PUBLIC SCHOOL Head/Principal Name: PRAVEEN SHARMA",
+        "Address : AJAY PARK, NAYA BAZAR, NAJAFGARH Website : www.bvmpublicschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730597",
+      "serial_number": "667",
+      "affiliation_and_school_code": "Aff. No. : 2730597 Sch. Code: 25350",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : B.V.M. PUBLIC SCHOOL Head/Principal Name: PRAVEEN SHARMA",
+      "address_and_website": "Address : AJAY PARK, NAYA BAZAR, NAJAFGARH Website : www.bvmpublicschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "B.V.M. PUBLIC SCHOOL",
+      "Affiliation Number": "2730597",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "AJAY PARK, NAYA BAZAR, NAJAFGARH",
+      "Pin Code": "110043",
+      "Website": "www.bvmpublicschool.com",
+      "Year of Foundation": "2005",
+      "Date of First Opening of School": "01 Apr 2005",
+      "Name of Principal/ Head of Institution": "PRAVEEN SHARMA",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.SC COMPUTER SCIENCE",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "14",
+      "Teaching:": "5",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "DHARMA EDUCATION SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

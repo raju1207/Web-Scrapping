@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730937",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GREEN_MEADOWS_PUBLIC_SCHOOL_2730937.json"
+  },
+  "school_identity": {
+    "school_name": "GREEN MEADOWS PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730937",
+    "cbse_school_code": "25563"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH EAST DELHI",
+    "block": null,
+    "address": "A-1,LAL BAHADUR SHASTRI MARG, KARAWAL NAGAR, DELHI-110090",
+    "pincode": "110090"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2005",
+    "first_opening_date": "01 Apr 2005",
+    "gender_type": null
+  },
+  "contact": {
+    "website": null,
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Rajvir Singh",
+    "gender": null,
+    "qualification": "M. A. B. Ed",
+    "administrative_experience": "2",
+    "teaching_experience": "5"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730937",
+    "school_code": "25563",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "BABU RAM PARIHAR EDUCATIONAL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730937",
+      "listing_raw_columns": [
+        "952",
+        "Aff. No. : 2730937 Sch. Code: 25563",
+        "State : DELHI District : NORTH EAST DELHI",
+        "Secondary Level",
+        "Name : GREEN MEADOWS PUBLIC SCHOOL Head/Principal Name: Rajvir Singh",
+        "Address : A-1,LAL BAHADUR SHASTRI MARG, KARAWAL NAGAR, DELHI-110090 Website :",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730937",
+      "serial_number": "952",
+      "affiliation_and_school_code": "Aff. No. : 2730937 Sch. Code: 25563",
+      "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : GREEN MEADOWS PUBLIC SCHOOL Head/Principal Name: Rajvir Singh",
+      "address_and_website": "Address : A-1,LAL BAHADUR SHASTRI MARG, KARAWAL NAGAR, DELHI-110090 Website :"
+    },
+    "school_details": {
+      "Name of Institution": "GREEN MEADOWS PUBLIC SCHOOL",
+      "Affiliation Number": "2730937",
+      "State": "DELHI",
+      "District": "NORTH EAST DELHI",
+      "Postal Address": "A-1,LAL BAHADUR SHASTRI MARG, KARAWAL NAGAR, DELHI-110090",
+      "Pin Code": "110090",
+      "Website": null,
+      "Year of Foundation": "2005",
+      "Date of First Opening of School": "01 Apr 2005",
+      "Name of Principal/ Head of Institution": "Rajvir Singh",
+      "Gender": null,
+      "Principal's Educational/Professional Qualifications:": "M. A. B. Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "2",
+      "Teaching:": "5",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "BABU RAM PARIHAR EDUCATIONAL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

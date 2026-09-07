@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730738",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\RAO_BALRAM_PUBLIC_SCHOOL_2730738.json"
+  },
+  "school_identity": {
+    "school_name": "RAO BALRAM PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730738",
+    "cbse_school_code": "25366"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "SARASWATI ENCLAVE GOPAL NAGAR NAJAFGARH NEW DELHI",
+    "pincode": "110043"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2003",
+    "first_opening_date": "01 Apr 2002",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://raobalrampublicschool.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "KOKINDRA BAI",
+    "gender": "Female",
+    "qualification": "M.A. , B.ED.",
+    "administrative_experience": "12",
+    "teaching_experience": "15"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730738",
+    "school_code": "25366",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2029",
+    "trust_society": "kharkhari nahar vivekanand shiksha samiti"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730738",
+      "listing_raw_columns": [
+        "802",
+        "Aff. No. : 2730738 Sch. Code: 25366",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Secondary Level",
+        "Name : RAO BALRAM PUBLIC SCHOOL Head/Principal Name: KOKINDRA BAI",
+        "Address : SARASWATI ENCLAVE GOPAL NAGAR NAJAFGARH NEW DELHI Website : https://raobalrampublicschool.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730738",
+      "serial_number": "802",
+      "affiliation_and_school_code": "Aff. No. : 2730738 Sch. Code: 25366",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : RAO BALRAM PUBLIC SCHOOL Head/Principal Name: KOKINDRA BAI",
+      "address_and_website": "Address : SARASWATI ENCLAVE GOPAL NAGAR NAJAFGARH NEW DELHI Website : https://raobalrampublicschool.in/"
+    },
+    "school_details": {
+      "Name of Institution": "RAO BALRAM PUBLIC SCHOOL",
+      "Affiliation Number": "2730738",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "SARASWATI ENCLAVE GOPAL NAGAR NAJAFGARH NEW DELHI",
+      "Pin Code": "110043",
+      "Website": "https://raobalrampublicschool.in/",
+      "Year of Foundation": "2003",
+      "Date of First Opening of School": "01 Apr 2002",
+      "Name of Principal/ Head of Institution": "KOKINDRA BAI",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A. , B.ED.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "12",
+      "Teaching:": "15",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "kharkhari nahar vivekanand shiksha samiti",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

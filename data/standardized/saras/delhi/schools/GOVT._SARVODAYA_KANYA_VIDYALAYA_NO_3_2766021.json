@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2766021",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT._SARVODAYA_KANYA_VIDYALAYA_NO_3_2766021.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT. SARVODAYA KANYA VIDYALAYA NO 3",
+    "udise_code": null,
+    "cbse_affiliation_number": "2766021",
+    "cbse_school_code": "87597"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "TILAK NAGAR NEW DELHI",
+    "pincode": "110018"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1974",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "HTTPS://WWW.EDUDEL.NIC.IN",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "RENU SETHI",
+    "gender": "Female",
+    "qualification": "M.SC, B.ED",
+    "administrative_experience": "02",
+    "teaching_experience": "12"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2766021",
+    "school_code": "87597",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "directate of education"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2766021",
+      "listing_raw_columns": [
+        "1920",
+        "Aff. No. : 2766021 Sch. Code: 87597",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT. SARVODAYA KANYA VIDYALAYA NO 3 Head/Principal Name: RENU SETHI",
+        "Address : TILAK NAGAR NEW DELHI Website : HTTPS://WWW.EDUDEL.NIC.IN",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2766021",
+      "serial_number": "1920",
+      "affiliation_and_school_code": "Aff. No. : 2766021 Sch. Code: 87597",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT. SARVODAYA KANYA VIDYALAYA NO 3 Head/Principal Name: RENU SETHI",
+      "address_and_website": "Address : TILAK NAGAR NEW DELHI Website : HTTPS://WWW.EDUDEL.NIC.IN"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT. SARVODAYA KANYA VIDYALAYA NO 3",
+      "Affiliation Number": "2766021",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "TILAK NAGAR NEW DELHI",
+      "Pin Code": "110018",
+      "Website": "HTTPS://WWW.EDUDEL.NIC.IN",
+      "Year of Foundation": "1974",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "RENU SETHI",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.SC, B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "02",
+      "Teaching:": "12",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "directate of education",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

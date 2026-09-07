@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730713",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\NEW_AGE_PUBLIC_SCHOOL_2730713.json"
+  },
+  "school_identity": {
+    "school_name": "NEW AGE PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730713",
+    "cbse_school_code": "25412"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "PLOT NO. 12, GUPTA ENCLAVE, RANHOLLA ROAD, VIKAS NAGAR, NEW DELHI-110059",
+    "pincode": "110059"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1990",
+    "first_opening_date": "01 Apr 1990",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.napsdelhi.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Khushboo Tyagi",
+    "gender": "Female",
+    "qualification": "M. S.C, B.ed",
+    "administrative_experience": "6",
+    "teaching_experience": "10"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730713",
+    "school_code": "25412",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "aho ram tyagi memial educational society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730713",
+      "listing_raw_columns": [
+        "779",
+        "Aff. No. : 2730713 Sch. Code: 25412",
+        "State : DELHI District : WEST DELHI",
+        "Secondary Level",
+        "Name : NEW AGE PUBLIC SCHOOL Head/Principal Name: Khushboo Tyagi",
+        "Address : PLOT NO. 12, GUPTA ENCLAVE, RANHOLLA ROAD, VIKAS NAGAR, NEW DELHI-110059 Website : www.napsdelhi.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730713",
+      "serial_number": "779",
+      "affiliation_and_school_code": "Aff. No. : 2730713 Sch. Code: 25412",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : NEW AGE PUBLIC SCHOOL Head/Principal Name: Khushboo Tyagi",
+      "address_and_website": "Address : PLOT NO. 12, GUPTA ENCLAVE, RANHOLLA ROAD, VIKAS NAGAR, NEW DELHI-110059 Website : www.napsdelhi.in"
+    },
+    "school_details": {
+      "Name of Institution": "NEW AGE PUBLIC SCHOOL",
+      "Affiliation Number": "2730713",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "PLOT NO. 12, GUPTA ENCLAVE, RANHOLLA ROAD, VIKAS NAGAR, NEW DELHI-110059",
+      "Pin Code": "110059",
+      "Website": "www.napsdelhi.in",
+      "Year of Foundation": "1990",
+      "Date of First Opening of School": "01 Apr 1990",
+      "Name of Principal/ Head of Institution": "Khushboo Tyagi",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M. S.C, B.ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "6",
+      "Teaching:": "10",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "aho ram tyagi memial educational society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

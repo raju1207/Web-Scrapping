@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730750",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\JESUS_GRACE_MODERN_SCHOOL_2730750.json"
+  },
+  "school_identity": {
+    "school_name": "JESUS GRACE MODERN SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730750",
+    "cbse_school_code": "85047"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH DELHI",
+    "block": null,
+    "address": "ST NO.-13B, A-BLOCK BABA COLONY BURARI",
+    "pincode": "110084"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2006",
+    "first_opening_date": "27 Mar 2008",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://jesusgracemodernschool.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SHILPE",
+    "gender": "Female",
+    "qualification": "MA BED",
+    "administrative_experience": "10",
+    "teaching_experience": "5"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730750",
+    "school_code": "85047",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "DHARMVEER SINGH EDUCATIONAL AND WELFARESOCITY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730750",
+      "listing_raw_columns": [
+        "814",
+        "Aff. No. : 2730750 Sch. Code: 85047",
+        "State : DELHI District : NORTH DELHI",
+        "Senior Secondary Level",
+        "Name : JESUS GRACE MODERN SCHOOL Head/Principal Name: SHILPE",
+        "Address : ST NO.-13B, A-BLOCK BABA COLONY BURARI Website : https://jesusgracemodernschool.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730750",
+      "serial_number": "814",
+      "affiliation_and_school_code": "Aff. No. : 2730750 Sch. Code: 85047",
+      "state_and_district": "State : DELHI District : NORTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : JESUS GRACE MODERN SCHOOL Head/Principal Name: SHILPE",
+      "address_and_website": "Address : ST NO.-13B, A-BLOCK BABA COLONY BURARI Website : https://jesusgracemodernschool.in/"
+    },
+    "school_details": {
+      "Name of Institution": "JESUS GRACE MODERN SCHOOL",
+      "Affiliation Number": "2730750",
+      "State": "DELHI",
+      "District": "NORTH DELHI",
+      "Postal Address": "ST NO.-13B, A-BLOCK BABA COLONY BURARI",
+      "Pin Code": "110084",
+      "Website": "https://jesusgracemodernschool.in/",
+      "Year of Foundation": "2006",
+      "Date of First Opening of School": "27 Mar 2008",
+      "Name of Principal/ Head of Institution": "SHILPE",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA BED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "10",
+      "Teaching:": "5",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "DHARMVEER SINGH EDUCATIONAL AND WELFARESOCITY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

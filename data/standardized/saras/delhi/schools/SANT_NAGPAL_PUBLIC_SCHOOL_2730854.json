@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730854",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SANT_NAGPAL_PUBLIC_SCHOOL_2730854.json"
+  },
+  "school_identity": {
+    "school_name": "SANT NAGPAL PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730854",
+    "cbse_school_code": "25507"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH DELHI",
+    "block": null,
+    "address": "GOLE BUILDING, CHHATTARPUR MANDIR COMPLEX, CHHATTAR PUR, NEW DELHI - 110074",
+    "pincode": "110074"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2014",
+    "first_opening_date": "07 Jul 2009",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.santnagpalpublicschool.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "MANJU SINGH",
+    "gender": "Female",
+    "qualification": "M.Sc. B Ed",
+    "administrative_experience": "07",
+    "teaching_experience": "17"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730854",
+    "school_code": "25507",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "SHRI ADYA KATYAYANI SHAKTIPEETH MANDIR TRUST"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730854",
+      "listing_raw_columns": [
+        "913",
+        "Aff. No. : 2730854 Sch. Code: 25507",
+        "State : DELHI District : SOUTH DELHI",
+        "Senior Secondary Level",
+        "Name : SANT NAGPAL PUBLIC SCHOOL Head/Principal Name: MANJU SINGH",
+        "Address : GOLE BUILDING, CHHATTARPUR MANDIR COMPLEX, CHHATTAR PUR, NEW DELHI - 110074 Website : www.santnagpalpublicschool.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730854",
+      "serial_number": "913",
+      "affiliation_and_school_code": "Aff. No. : 2730854 Sch. Code: 25507",
+      "state_and_district": "State : DELHI District : SOUTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SANT NAGPAL PUBLIC SCHOOL Head/Principal Name: MANJU SINGH",
+      "address_and_website": "Address : GOLE BUILDING, CHHATTARPUR MANDIR COMPLEX, CHHATTAR PUR, NEW DELHI - 110074 Website : www.santnagpalpublicschool.in"
+    },
+    "school_details": {
+      "Name of Institution": "SANT NAGPAL PUBLIC SCHOOL",
+      "Affiliation Number": "2730854",
+      "State": "DELHI",
+      "District": "SOUTH DELHI",
+      "Postal Address": "GOLE BUILDING, CHHATTARPUR MANDIR COMPLEX, CHHATTAR PUR, NEW DELHI - 110074",
+      "Pin Code": "110074",
+      "Website": "www.santnagpalpublicschool.in",
+      "Year of Foundation": "2014",
+      "Date of First Opening of School": "07 Jul 2009",
+      "Name of Principal/ Head of Institution": "MANJU SINGH",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.Sc. B Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "07",
+      "Teaching:": "17",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "SHRI ADYA KATYAYANI SHAKTIPEETH MANDIR TRUST",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

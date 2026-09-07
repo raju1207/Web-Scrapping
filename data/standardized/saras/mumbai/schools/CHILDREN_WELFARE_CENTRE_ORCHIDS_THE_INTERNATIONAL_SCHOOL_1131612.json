@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131612",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\CHILDREN_WELFARE_CENTRE_ORCHIDS_THE_INTERNATIONAL_SCHOOL_1131612.json"
+  },
+  "school_identity": {
+    "school_name": "CHILDREN WELFARE CENTRE ORCHIDS THE INTERNATIONAL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "1131612",
+    "cbse_school_code": "31611"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "block": null,
+    "address": "SURVEY NO. 1121/A, VERSOVA, ANDHERI, MUMBAI",
+    "pincode": "400061"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2025",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://orchidsinternationalschoolyariroad.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Anuradha Premnath",
+    "gender": "Female",
+    "qualification": "MA B.Ed",
+    "administrative_experience": "11",
+    "teaching_experience": "21"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1131612",
+    "school_code": "31611",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "Children welfare centre"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1131612",
+      "listing_raw_columns": [
+        "64",
+        "Aff. No. : 1131612 Sch. Code: 31611",
+        "State : MAHARASHTRA District : MUMBAI",
+        "Secondary Level",
+        "Name : CHILDREN WELFARE CENTRE ORCHIDS THE INTERNATIONAL SCHOOL Head/Principal Name: Anuradha Premnath",
+        "Address : SURVEY NO. 1121/A, VERSOVA, ANDHERI, MUMBAI Website : https://orchidsinternationalschoolyariroad.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131612",
+      "serial_number": "64",
+      "affiliation_and_school_code": "Aff. No. : 1131612 Sch. Code: 31611",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : CHILDREN WELFARE CENTRE ORCHIDS THE INTERNATIONAL SCHOOL Head/Principal Name: Anuradha Premnath",
+      "address_and_website": "Address : SURVEY NO. 1121/A, VERSOVA, ANDHERI, MUMBAI Website : https://orchidsinternationalschoolyariroad.com",
+      "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+      "Name of Institution": "CHILDREN WELFARE CENTRE ORCHIDS THE INTERNATIONAL SCHOOL",
+      "Affiliation Number": "1131612",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI",
+      "Postal Address": "SURVEY NO. 1121/A, VERSOVA, ANDHERI, MUMBAI",
+      "Pin Code": "400061",
+      "Website": "https://orchidsinternationalschoolyariroad.com",
+      "Year of Foundation": "2025",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "Anuradha Premnath",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "11",
+      "Teaching:": "21",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "Children welfare centre",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

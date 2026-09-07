@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1120116",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\MUMBAI_PUBLIC_SCHOOL_CHIKUWADI_CBSE_SCHOOL_1120116.json"
+  },
+  "school_identity": {
+    "school_name": "MUMBAI PUBLIC SCHOOL CHIKUWADI CBSE SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "1120116",
+    "cbse_school_code": "32116"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI SUBURBAN",
+    "block": null,
+    "address": "PADMA NAGAR, CHIKUWADI, BORIVALI WEST",
+    "pincode": "400092"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2021",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.mcgm.gov.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Aasunta Vikas Kastya",
+    "gender": "Female",
+    "qualification": "MA BED",
+    "administrative_experience": "4",
+    "teaching_experience": "17"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1120116",
+    "school_code": "32116",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "MCGM Head Office Opposite Azad Maidan CSMT Area next to Killa Court Fort Mumbai Maharashtra"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1120116",
+      "listing_raw_columns": [
+        "7",
+        "Aff. No. : 1120116 Sch. Code: 32116",
+        "State : MAHARASHTRA District : MUMBAI SUBURBAN",
+        "Secondary Level",
+        "Name : MUMBAI PUBLIC SCHOOL CHIKUWADI CBSE SCHOOL Head/Principal Name: Aasunta Vikas Kastya",
+        "Address : PADMA NAGAR, CHIKUWADI, BORIVALI WEST Website : www.mcgm.gov.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1120116",
+      "serial_number": "7",
+      "affiliation_and_school_code": "Aff. No. : 1120116 Sch. Code: 32116",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI SUBURBAN",
+      "status": "Secondary Level",
+      "school_and_head": "Name : MUMBAI PUBLIC SCHOOL CHIKUWADI CBSE SCHOOL Head/Principal Name: Aasunta Vikas Kastya",
+      "address_and_website": "Address : PADMA NAGAR, CHIKUWADI, BORIVALI WEST Website : www.mcgm.gov.in",
+      "saras_selected_district": "MUMBAI SUBURBAN"
+    },
+    "school_details": {
+      "Name of Institution": "MUMBAI PUBLIC SCHOOL CHIKUWADI CBSE SCHOOL",
+      "Affiliation Number": "1120116",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI SUBURBAN",
+      "Postal Address": "PADMA NAGAR, CHIKUWADI, BORIVALI WEST",
+      "Pin Code": "400092",
+      "Website": "www.mcgm.gov.in",
+      "Year of Foundation": "2021",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "Aasunta Vikas Kastya",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA BED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "4",
+      "Teaching:": "17",
+      "Status of The School": "Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "MCGM Head Office Opposite Azad Maidan CSMT Area next to Killa Court Fort Mumbai Maharashtra",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

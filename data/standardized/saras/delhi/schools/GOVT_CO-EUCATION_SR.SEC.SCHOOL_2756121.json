@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756121",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_CO-EUCATION_SR.SEC.SCHOOL_2756121.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT CO-EUCATION SR.SEC.SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2756121",
+    "cbse_school_code": "87311"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "SHAHBAD DAIRY DELHI.",
+    "pincode": "110042"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1993",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://www.edudel.nic.in//",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SARITA SAROIWAL",
+    "gender": "Female",
+    "qualification": "Post Graduation",
+    "administrative_experience": "2",
+    "teaching_experience": "10"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2756121",
+    "school_code": "87311",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "DIR OF EDU"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2756121",
+      "listing_raw_columns": [
+        "1501",
+        "Aff. No. : 2756121 Sch. Code: 87311",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT CO-EUCATION SR.SEC.SCHOOL Head/Principal Name: SARITA SAROIWAL",
+        "Address : SHAHBAD DAIRY DELHI. Website : https://www.edudel.nic.in//",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756121",
+      "serial_number": "1501",
+      "affiliation_and_school_code": "Aff. No. : 2756121 Sch. Code: 87311",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT CO-EUCATION SR.SEC.SCHOOL Head/Principal Name: SARITA SAROIWAL",
+      "address_and_website": "Address : SHAHBAD DAIRY DELHI. Website : https://www.edudel.nic.in//"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT CO-EUCATION SR.SEC.SCHOOL",
+      "Affiliation Number": "2756121",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "SHAHBAD DAIRY DELHI.",
+      "Pin Code": "110042",
+      "Website": "https://www.edudel.nic.in//",
+      "Year of Foundation": "1993",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "SARITA SAROIWAL",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "Post Graduation",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "2",
+      "Teaching:": "10",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "DIR OF EDU",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

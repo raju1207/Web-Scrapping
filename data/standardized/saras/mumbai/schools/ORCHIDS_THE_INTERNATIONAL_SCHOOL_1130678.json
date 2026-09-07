@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130678",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\ORCHIDS_THE_INTERNATIONAL_SCHOOL_1130678.json"
+  },
+  "school_identity": {
+    "school_name": "ORCHIDS THE INTERNATIONAL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "1130678",
+    "cbse_school_code": "30695"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "block": null,
+    "address": "PLOT NO. 23, SECTOR 1, KOPARKHAIRANE NAVI MUMBAI – 400709",
+    "pincode": "400709"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2015",
+    "first_opening_date": "15 Jun 2015",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.oiskkh.edu.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Dr. Aanchal Shanbhag",
+    "gender": "Female",
+    "qualification": "BHSc, MBA, BEd",
+    "administrative_experience": "12",
+    "teaching_experience": "22"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1130678",
+    "school_code": "30695",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "TERNA PUBLIC CHAIRTABLE TRUST"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1130678",
+      "listing_raw_columns": [
+        "44",
+        "Aff. No. : 1130678 Sch. Code: 30695",
+        "State : MAHARASHTRA District : MUMBAI",
+        "Secondary Level",
+        "Name : ORCHIDS THE INTERNATIONAL SCHOOL Head/Principal Name: Dr. Aanchal Shanbhag",
+        "Address : PLOT NO. 23, SECTOR 1, KOPARKHAIRANE NAVI MUMBAI – 400709 Website : www.oiskkh.edu.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130678",
+      "serial_number": "44",
+      "affiliation_and_school_code": "Aff. No. : 1130678 Sch. Code: 30695",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : ORCHIDS THE INTERNATIONAL SCHOOL Head/Principal Name: Dr. Aanchal Shanbhag",
+      "address_and_website": "Address : PLOT NO. 23, SECTOR 1, KOPARKHAIRANE NAVI MUMBAI – 400709 Website : www.oiskkh.edu.in",
+      "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+      "Name of Institution": "ORCHIDS THE INTERNATIONAL SCHOOL",
+      "Affiliation Number": "1130678",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI",
+      "Postal Address": "PLOT NO. 23, SECTOR 1, KOPARKHAIRANE NAVI MUMBAI – 400709",
+      "Pin Code": "400709",
+      "Website": "www.oiskkh.edu.in",
+      "Year of Foundation": "2015",
+      "Date of First Opening of School": "15 Jun 2015",
+      "Name of Principal/ Head of Institution": "Dr. Aanchal Shanbhag",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "BHSc, MBA, BEd",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "12",
+      "Teaching:": "22",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "TERNA PUBLIC CHAIRTABLE TRUST",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

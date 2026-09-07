@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756141",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\MAHATAMA_JYOTIBA_PHULE_CANTONMENT_BOARD_SR._SEC_SCHOOL_2756141.json"
+  },
+  "school_identity": {
+    "school_name": "MAHATAMA JYOTIBA PHULE CANTONMENT BOARD SR. SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2756141",
+    "cbse_school_code": "27126"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "JHARERA DELHI CANTT- 110 010",
+    "pincode": "110010"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1963",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.cbjharera.ac.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "OM PRAKASH BHASKAR",
+    "gender": "Male",
+    "qualification": "M.A., B.ED",
+    "administrative_experience": "0",
+    "teaching_experience": "33"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2756141",
+    "school_code": "27126",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "C.B. MINISTRY OF DEFENCE NEW DELHI"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2756141",
+      "listing_raw_columns": [
+        "1521",
+        "Aff. No. : 2756141 Sch. Code: 27126",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : MAHATAMA JYOTIBA PHULE CANTONMENT BOARD SR. SEC SCHOOL Head/Principal Name: OM PRAKASH BHASKAR",
+        "Address : JHARERA DELHI CANTT- 110 010 Website : www.cbjharera.ac.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756141",
+      "serial_number": "1521",
+      "affiliation_and_school_code": "Aff. No. : 2756141 Sch. Code: 27126",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : MAHATAMA JYOTIBA PHULE CANTONMENT BOARD SR. SEC SCHOOL Head/Principal Name: OM PRAKASH BHASKAR",
+      "address_and_website": "Address : JHARERA DELHI CANTT- 110 010 Website : www.cbjharera.ac.in"
+    },
+    "school_details": {
+      "Name of Institution": "MAHATAMA JYOTIBA PHULE CANTONMENT BOARD SR. SEC SCHOOL",
+      "Affiliation Number": "2756141",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "JHARERA DELHI CANTT- 110 010",
+      "Pin Code": "110010",
+      "Website": "www.cbjharera.ac.in",
+      "Year of Foundation": "1963",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "OM PRAKASH BHASKAR",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.A., B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "0",
+      "Teaching:": "33",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "C.B. MINISTRY OF DEFENCE NEW DELHI",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

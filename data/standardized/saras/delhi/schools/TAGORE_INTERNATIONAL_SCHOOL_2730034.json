@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730034",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\TAGORE_INTERNATIONAL_SCHOOL_2730034.json"
+  },
+  "school_identity": {
+    "school_name": "TAGORE INTERNATIONAL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730034",
+    "cbse_school_code": "25091"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "B-PASCHIMI MARG VASANT VIHAR NEW DELHI",
+    "pincode": "110057"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1972",
+    "first_opening_date": "12 Jun 2013",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://www.vv.tagoreint.com/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "JYOTIKA JAKHAR",
+    "gender": "Female",
+    "qualification": "PH.D",
+    "administrative_experience": "9",
+    "teaching_experience": "22"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730034",
+    "school_code": "25091",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "tage education society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730034",
+      "listing_raw_columns": [
+        "123",
+        "Aff. No. : 2730034 Sch. Code: 25091",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : TAGORE INTERNATIONAL SCHOOL Head/Principal Name: JYOTIKA JAKHAR",
+        "Address : B-PASCHIMI MARG VASANT VIHAR NEW DELHI Website : https://www.vv.tagoreint.com/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730034",
+      "serial_number": "123",
+      "affiliation_and_school_code": "Aff. No. : 2730034 Sch. Code: 25091",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : TAGORE INTERNATIONAL SCHOOL Head/Principal Name: JYOTIKA JAKHAR",
+      "address_and_website": "Address : B-PASCHIMI MARG VASANT VIHAR NEW DELHI Website : https://www.vv.tagoreint.com/"
+    },
+    "school_details": {
+      "Name of Institution": "TAGORE INTERNATIONAL SCHOOL",
+      "Affiliation Number": "2730034",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "B-PASCHIMI MARG VASANT VIHAR NEW DELHI",
+      "Pin Code": "110057",
+      "Website": "https://www.vv.tagoreint.com/",
+      "Year of Foundation": "1972",
+      "Date of First Opening of School": "12 Jun 2013",
+      "Name of Principal/ Head of Institution": "JYOTIKA JAKHAR",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "PH.D",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "9",
+      "Teaching:": "22",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "tage education society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

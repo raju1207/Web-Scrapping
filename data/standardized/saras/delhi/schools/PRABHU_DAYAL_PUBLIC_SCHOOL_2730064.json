@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730064",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\PRABHU_DAYAL_PUBLIC_SCHOOL_2730064.json"
+  },
+  "school_identity": {
+    "school_name": "PRABHU DAYAL PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730064",
+    "cbse_school_code": "85150"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "BLOCK-A DAKSHINI SHALIMAR BAGH DELHI",
+    "pincode": "110052"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1959",
+    "first_opening_date": "08 Apr 2004",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://www.pdpschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Ms.Vineeta Mendiratta",
+    "gender": "Female",
+    "qualification": "M.COM. B.ED.",
+    "administrative_experience": "2",
+    "teaching_experience": "19"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730064",
+    "school_code": "85150",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "ROOPNAGAR PUBLIC SCHOOL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730064",
+      "listing_raw_columns": [
+        "153",
+        "Aff. No. : 2730064 Sch. Code: 85150",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : PRABHU DAYAL PUBLIC SCHOOL Head/Principal Name: Ms.Vineeta Mendiratta",
+        "Address : BLOCK-A DAKSHINI SHALIMAR BAGH DELHI Website : https://www.pdpschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730064",
+      "serial_number": "153",
+      "affiliation_and_school_code": "Aff. No. : 2730064 Sch. Code: 85150",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : PRABHU DAYAL PUBLIC SCHOOL Head/Principal Name: Ms.Vineeta Mendiratta",
+      "address_and_website": "Address : BLOCK-A DAKSHINI SHALIMAR BAGH DELHI Website : https://www.pdpschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "PRABHU DAYAL PUBLIC SCHOOL",
+      "Affiliation Number": "2730064",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "BLOCK-A DAKSHINI SHALIMAR BAGH DELHI",
+      "Pin Code": "110052",
+      "Website": "https://www.pdpschool.com",
+      "Year of Foundation": "1959",
+      "Date of First Opening of School": "08 Apr 2004",
+      "Name of Principal/ Head of Institution": "Ms.Vineeta Mendiratta",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.COM. B.ED.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "2",
+      "Teaching:": "19",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "ROOPNAGAR PUBLIC SCHOOL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

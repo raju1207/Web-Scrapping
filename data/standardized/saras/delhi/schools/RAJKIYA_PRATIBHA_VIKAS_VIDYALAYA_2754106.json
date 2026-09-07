@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754106",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\RAJKIYA_PRATIBHA_VIKAS_VIDYALAYA_2754106.json"
+  },
+  "school_identity": {
+    "school_name": "RAJKIYA PRATIBHA VIKAS VIDYALAYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2754106",
+    "cbse_school_code": "27112"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "B-1 VASANT KUNJ NEW DELHI",
+    "pincode": "110070"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2001",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Ravinder Kumar",
+    "gender": "Male",
+    "qualification": "M.A., M.Ed",
+    "administrative_experience": "4",
+    "teaching_experience": "15"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2754106",
+    "school_code": "27112",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "DIR OF EDUCATION"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2754106",
+      "listing_raw_columns": [
+        "1356",
+        "Aff. No. : 2754106 Sch. Code: 27112",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : RAJKIYA PRATIBHA VIKAS VIDYALAYA Head/Principal Name: Ravinder Kumar",
+        "Address : B-1 VASANT KUNJ NEW DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754106",
+      "serial_number": "1356",
+      "affiliation_and_school_code": "Aff. No. : 2754106 Sch. Code: 27112",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : RAJKIYA PRATIBHA VIKAS VIDYALAYA Head/Principal Name: Ravinder Kumar",
+      "address_and_website": "Address : B-1 VASANT KUNJ NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "RAJKIYA PRATIBHA VIKAS VIDYALAYA",
+      "Affiliation Number": "2754106",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "B-1 VASANT KUNJ NEW DELHI",
+      "Pin Code": "110070",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "2001",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "Ravinder Kumar",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.A., M.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "4",
+      "Teaching:": "15",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "DIR OF EDUCATION",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

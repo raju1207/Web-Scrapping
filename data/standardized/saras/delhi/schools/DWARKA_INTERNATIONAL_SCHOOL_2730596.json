@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730596",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\DWARKA_INTERNATIONAL_SCHOOL_2730596.json"
+  },
+  "school_identity": {
+    "school_name": "DWARKA INTERNATIONAL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730596",
+    "cbse_school_code": "25293"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "SECTOR-12, DWARKA, NEW DELHI",
+    "pincode": "110078"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2006",
+    "first_opening_date": "01 Apr 2006",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.dwarkainternationalschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SHWETA OBEROI",
+    "gender": "Female",
+    "qualification": "M.A. B.ED",
+    "administrative_experience": "10",
+    "teaching_experience": "7"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730596",
+    "school_code": "25293",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "Radient Educational Society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730596",
+      "listing_raw_columns": [
+        "666",
+        "Aff. No. : 2730596 Sch. Code: 25293",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : DWARKA INTERNATIONAL SCHOOL Head/Principal Name: SHWETA OBEROI",
+        "Address : SECTOR-12, DWARKA, NEW DELHI Website : www.dwarkainternationalschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730596",
+      "serial_number": "666",
+      "affiliation_and_school_code": "Aff. No. : 2730596 Sch. Code: 25293",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : DWARKA INTERNATIONAL SCHOOL Head/Principal Name: SHWETA OBEROI",
+      "address_and_website": "Address : SECTOR-12, DWARKA, NEW DELHI Website : www.dwarkainternationalschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "DWARKA INTERNATIONAL SCHOOL",
+      "Affiliation Number": "2730596",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "SECTOR-12, DWARKA, NEW DELHI",
+      "Pin Code": "110078",
+      "Website": "www.dwarkainternationalschool.com",
+      "Year of Foundation": "2006",
+      "Date of First Opening of School": "01 Apr 2006",
+      "Name of Principal/ Head of Institution": "SHWETA OBEROI",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A. B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "10",
+      "Teaching:": "7",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "Radient Educational Society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

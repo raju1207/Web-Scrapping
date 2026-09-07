@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730132",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\DOON_PUBLIC_SCHOOL_2730132.json"
+  },
+  "school_identity": {
+    "school_name": "DOON PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730132",
+    "cbse_school_code": "85404"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "B-2 PASCHIM VIHAR NEW DELHI",
+    "pincode": "110063"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1978",
+    "first_opening_date": "01 Apr 2004",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.doonpublicschool.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Dr. VIDHU VIJAYAN",
+    "gender": "Female",
+    "qualification": "M.SC., M.ED., PhD",
+    "administrative_experience": "12",
+    "teaching_experience": "21"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730132",
+    "school_code": "85404",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "ABHINAV SHIKSHA SANSTHAN"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730132",
+      "listing_raw_columns": [
+        "220",
+        "Aff. No. : 2730132 Sch. Code: 85404",
+        "State : DELHI District : WEST DELHI",
+        "Senior Secondary Level",
+        "Name : DOON PUBLIC SCHOOL Head/Principal Name: Dr. VIDHU VIJAYAN",
+        "Address : B-2 PASCHIM VIHAR NEW DELHI Website : www.doonpublicschool.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730132",
+      "serial_number": "220",
+      "affiliation_and_school_code": "Aff. No. : 2730132 Sch. Code: 85404",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : DOON PUBLIC SCHOOL Head/Principal Name: Dr. VIDHU VIJAYAN",
+      "address_and_website": "Address : B-2 PASCHIM VIHAR NEW DELHI Website : www.doonpublicschool.in"
+    },
+    "school_details": {
+      "Name of Institution": "DOON PUBLIC SCHOOL",
+      "Affiliation Number": "2730132",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "B-2 PASCHIM VIHAR NEW DELHI",
+      "Pin Code": "110063",
+      "Website": "www.doonpublicschool.in",
+      "Year of Foundation": "1978",
+      "Date of First Opening of School": "01 Apr 2004",
+      "Name of Principal/ Head of Institution": "Dr. VIDHU VIJAYAN",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.SC., M.ED., PhD",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "12",
+      "Teaching:": "21",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "ABHINAV SHIKSHA SANSTHAN",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

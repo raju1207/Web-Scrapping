@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720068",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT._CO-ED_SECONDARY_SCHOOL_2720068.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT. CO-ED SECONDARY SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2720068",
+    "cbse_school_code": "27712"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "VASANT VIHAR, NEW DELHI",
+    "pincode": "110057"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2013",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "RUCHI TONDON",
+    "gender": "Female",
+    "qualification": "M.SC B.ED",
+    "administrative_experience": "06",
+    "teaching_experience": "26"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2720068",
+    "school_code": "27712",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "DIRECTORATE OF EDUCATION"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2720068",
+      "listing_raw_columns": [
+        "65",
+        "Aff. No. : 2720068 Sch. Code: 27712",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Secondary Level",
+        "Name : GOVT. CO-ED SECONDARY SCHOOL Head/Principal Name: RUCHI TONDON",
+        "Address : VASANT VIHAR, NEW DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720068",
+      "serial_number": "65",
+      "affiliation_and_school_code": "Aff. No. : 2720068 Sch. Code: 27712",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : GOVT. CO-ED SECONDARY SCHOOL Head/Principal Name: RUCHI TONDON",
+      "address_and_website": "Address : VASANT VIHAR, NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT. CO-ED SECONDARY SCHOOL",
+      "Affiliation Number": "2720068",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "VASANT VIHAR, NEW DELHI",
+      "Pin Code": "110057",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "2013",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "RUCHI TONDON",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.SC B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "06",
+      "Teaching:": "26",
+      "Status of The School": "Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "DIRECTORATE OF EDUCATION",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730397",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\MOUNT_ABU_PUBLIC_SCHOOL_2730397.json"
+  },
+  "school_identity": {
+    "school_name": "MOUNT ABU PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730397",
+    "cbse_school_code": "85264"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "SECTOR 5 POCKET B-8, ROHINI DELHI",
+    "pincode": "110085"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1998",
+    "first_opening_date": "09 Jul 2002",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.mountabuschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "JYOTI ARORA",
+    "gender": "Female",
+    "qualification": "Ph.D, M.Phil, B.ed",
+    "administrative_experience": "24",
+    "teaching_experience": "21"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730397",
+    "school_code": "85264",
+    "affiliation_status": null,
+    "affiliation_type": "Permanant",
+    "affiliation_from": null,
+    "affiliation_to": null,
+    "affiliation_period_raw": "Permanent (Subject to final outcome of WPC-6115/19 pending before Honourable High court of Delhi)",
+    "trust_society": "MOUNT ABU EDUCATION SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730397",
+      "listing_raw_columns": [
+        "473",
+        "Aff. No. : 2730397 Sch. Code: 85264",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : MOUNT ABU PUBLIC SCHOOL Head/Principal Name: JYOTI ARORA",
+        "Address : SECTOR 5 POCKET B-8, ROHINI DELHI Website : www.mountabuschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730397",
+      "serial_number": "473",
+      "affiliation_and_school_code": "Aff. No. : 2730397 Sch. Code: 85264",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : MOUNT ABU PUBLIC SCHOOL Head/Principal Name: JYOTI ARORA",
+      "address_and_website": "Address : SECTOR 5 POCKET B-8, ROHINI DELHI Website : www.mountabuschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "MOUNT ABU PUBLIC SCHOOL",
+      "Affiliation Number": "2730397",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "SECTOR 5 POCKET B-8, ROHINI DELHI",
+      "Pin Code": "110085",
+      "Website": "www.mountabuschool.com",
+      "Year of Foundation": "1998",
+      "Date of First Opening of School": "09 Jul 2002",
+      "Name of Principal/ Head of Institution": "JYOTI ARORA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "Ph.D, M.Phil, B.ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "24",
+      "Teaching:": "21",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": "Permanant",
+      "Affiliation Period": "Permanent (Subject to final outcome of WPC-6115/19 pending before Honourable High court of Delhi)",
+      "Name of Trust/ Society/ Managing Committee": "MOUNT ABU EDUCATION SOCIETY",
+      "Remarks, if any": "Permanent (Subject to final outcome of WPC-6115/19 pending before Honourable High court of Delhi)"
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730236",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\S_D_PUBLIC_SCHOOL_2730236.json"
+  },
+  "school_identity": {
+    "school_name": "S D PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730236",
+    "cbse_school_code": "85314"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "NEAR POLICE STATION KIRTI NAGAR NEW DELHI",
+    "pincode": "110015"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1994",
+    "first_opening_date": "03 Jul 2000",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.sdpskirtinagar.org",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "DIPTI MALHOTRA",
+    "gender": "Female",
+    "qualification": "B.Sc B.Ed M.A",
+    "administrative_experience": "23",
+    "teaching_experience": "23"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730236",
+    "school_code": "85314",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": null
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730236",
+      "listing_raw_columns": [
+        "322",
+        "Aff. No. : 2730236 Sch. Code: 85314",
+        "State : DELHI District : WEST DELHI",
+        "Secondary Level",
+        "Name : S D PUBLIC SCHOOL Head/Principal Name: DIPTI MALHOTRA",
+        "Address : NEAR POLICE STATION KIRTI NAGAR NEW DELHI Website : www.sdpskirtinagar.org",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730236",
+      "serial_number": "322",
+      "affiliation_and_school_code": "Aff. No. : 2730236 Sch. Code: 85314",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : S D PUBLIC SCHOOL Head/Principal Name: DIPTI MALHOTRA",
+      "address_and_website": "Address : NEAR POLICE STATION KIRTI NAGAR NEW DELHI Website : www.sdpskirtinagar.org"
+    },
+    "school_details": {
+      "Name of Institution": "S D PUBLIC SCHOOL",
+      "Affiliation Number": "2730236",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "NEAR POLICE STATION KIRTI NAGAR NEW DELHI",
+      "Pin Code": "110015",
+      "Website": "www.sdpskirtinagar.org",
+      "Year of Foundation": "1994",
+      "Date of First Opening of School": "03 Jul 2000",
+      "Name of Principal/ Head of Institution": "DIPTI MALHOTRA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "B.Sc B.Ed M.A",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "23",
+      "Teaching:": "23",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": null,
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

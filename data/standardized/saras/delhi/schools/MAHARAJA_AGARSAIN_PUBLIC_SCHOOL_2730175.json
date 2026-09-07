@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730175",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\MAHARAJA_AGARSAIN_PUBLIC_SCHOOL_2730175.json"
+  },
+  "school_identity": {
+    "school_name": "MAHARAJA AGARSAIN PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730175",
+    "cbse_school_code": "85164"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "PHASE IV ASHOK VIHAR, DISTT NORTH WEST DELHI, DELHI",
+    "pincode": "110052"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1978",
+    "first_opening_date": "01 Apr 2005",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.mapsashokvihar.net",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "ALKA SAHNI",
+    "gender": "Female",
+    "qualification": "MA MED PHD",
+    "administrative_experience": "15",
+    "teaching_experience": "22"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730175",
+    "school_code": "85164",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "AGARWAL WELFARE SOCIETY ASHOK VIHAR"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730175",
+      "listing_raw_columns": [
+        "263",
+        "Aff. No. : 2730175 Sch. Code: 85164",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : MAHARAJA AGARSAIN PUBLIC SCHOOL Head/Principal Name: ALKA SAHNI",
+        "Address : PHASE IV ASHOK VIHAR, DISTT NORTH WEST DELHI, DELHI Website : www.mapsashokvihar.net",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730175",
+      "serial_number": "263",
+      "affiliation_and_school_code": "Aff. No. : 2730175 Sch. Code: 85164",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : MAHARAJA AGARSAIN PUBLIC SCHOOL Head/Principal Name: ALKA SAHNI",
+      "address_and_website": "Address : PHASE IV ASHOK VIHAR, DISTT NORTH WEST DELHI, DELHI Website : www.mapsashokvihar.net"
+    },
+    "school_details": {
+      "Name of Institution": "MAHARAJA AGARSAIN PUBLIC SCHOOL",
+      "Affiliation Number": "2730175",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "PHASE IV ASHOK VIHAR, DISTT NORTH WEST DELHI, DELHI",
+      "Pin Code": "110052",
+      "Website": "www.mapsashokvihar.net",
+      "Year of Foundation": "1978",
+      "Date of First Opening of School": "01 Apr 2005",
+      "Name of Principal/ Head of Institution": "ALKA SAHNI",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA MED PHD",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "15",
+      "Teaching:": "22",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "AGARWAL WELFARE SOCIETY ASHOK VIHAR",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

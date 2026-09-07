@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778071",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\ATAL_ADARSH_VIDYALYA_2778071.json"
+  },
+  "school_identity": {
+    "school_name": "ATAL ADARSH VIDYALYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2778071",
+    "cbse_school_code": "27420"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH DELHI",
+    "block": null,
+    "address": "ALIGANJ NEW DELHI",
+    "pincode": "110035"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1974",
+    "first_opening_date": "16 Jan 2019",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "http://aavaliganj.ndmc.gov.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "KAMINI KAUSHAL",
+    "gender": "Female",
+    "qualification": "M.A.",
+    "administrative_experience": "0",
+    "teaching_experience": "12"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2778071",
+    "school_code": "27420",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2032",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2032",
+    "trust_society": "delhi administration delhi"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2778071",
+      "listing_raw_columns": [
+        "2187",
+        "Aff. No. : 2778071 Sch. Code: 27420",
+        "State : DELHI District : SOUTH DELHI",
+        "Secondary Level",
+        "Name : ATAL ADARSH VIDYALYA Head/Principal Name: KAMINI KAUSHAL",
+        "Address : ALIGANJ NEW DELHI Website : http://aavaliganj.ndmc.gov.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778071",
+      "serial_number": "2187",
+      "affiliation_and_school_code": "Aff. No. : 2778071 Sch. Code: 27420",
+      "state_and_district": "State : DELHI District : SOUTH DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : ATAL ADARSH VIDYALYA Head/Principal Name: KAMINI KAUSHAL",
+      "address_and_website": "Address : ALIGANJ NEW DELHI Website : http://aavaliganj.ndmc.gov.in/"
+    },
+    "school_details": {
+      "Name of Institution": "ATAL ADARSH VIDYALYA",
+      "Affiliation Number": "2778071",
+      "State": "DELHI",
+      "District": "SOUTH DELHI",
+      "Postal Address": "ALIGANJ NEW DELHI",
+      "Pin Code": "110035",
+      "Website": "http://aavaliganj.ndmc.gov.in/",
+      "Year of Foundation": "1974",
+      "Date of First Opening of School": "16 Jan 2019",
+      "Name of Principal/ Head of Institution": "KAMINI KAUSHAL",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "0",
+      "Teaching:": "12",
+      "Status of The School": "Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2032",
+      "Name of Trust/ Society/ Managing Committee": "delhi administration delhi",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

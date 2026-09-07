@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730429",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\ARWACHIN_SHIKSHA_SADAN_SCHOOL_2730429.json"
+  },
+  "school_identity": {
+    "school_name": "ARWACHIN SHIKSHA SADAN SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730429",
+    "cbse_school_code": "25118"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH EAST DELHI",
+    "block": null,
+    "address": "B 51 SHANTI NAGAR KARAWAL NAGAR EXTN DELHI",
+    "pincode": "110094"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1993",
+    "first_opening_date": "01 Jul 2009",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://arwachinshikshasadan.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SANJEEV KUMAR SHARMA",
+    "gender": "Male",
+    "qualification": "MSC MA BED",
+    "administrative_experience": "3",
+    "teaching_experience": "25"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730429",
+    "school_code": "25118",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2027",
+    "affiliation_to": "31/03/2032",
+    "affiliation_period_raw": "From : 01/04/2027 To : 31/03/2032",
+    "trust_society": "DEEPAK SHIKSHA SAMITI"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730429",
+      "listing_raw_columns": [
+        "504",
+        "Aff. No. : 2730429 Sch. Code: 25118",
+        "State : DELHI District : NORTH EAST DELHI",
+        "Secondary Level",
+        "Name : ARWACHIN SHIKSHA SADAN SCHOOL Head/Principal Name: SANJEEV KUMAR SHARMA",
+        "Address : B 51 SHANTI NAGAR KARAWAL NAGAR EXTN DELHI Website : https://arwachinshikshasadan.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730429",
+      "serial_number": "504",
+      "affiliation_and_school_code": "Aff. No. : 2730429 Sch. Code: 25118",
+      "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : ARWACHIN SHIKSHA SADAN SCHOOL Head/Principal Name: SANJEEV KUMAR SHARMA",
+      "address_and_website": "Address : B 51 SHANTI NAGAR KARAWAL NAGAR EXTN DELHI Website : https://arwachinshikshasadan.com"
+    },
+    "school_details": {
+      "Name of Institution": "ARWACHIN SHIKSHA SADAN SCHOOL",
+      "Affiliation Number": "2730429",
+      "State": "DELHI",
+      "District": "NORTH EAST DELHI",
+      "Postal Address": "B 51 SHANTI NAGAR KARAWAL NAGAR EXTN DELHI",
+      "Pin Code": "110094",
+      "Website": "https://arwachinshikshasadan.com",
+      "Year of Foundation": "1993",
+      "Date of First Opening of School": "01 Jul 2009",
+      "Name of Principal/ Head of Institution": "SANJEEV KUMAR SHARMA",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "MSC MA BED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "3",
+      "Teaching:": "25",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+      "Name of Trust/ Society/ Managing Committee": "DEEPAK SHIKSHA SAMITI",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

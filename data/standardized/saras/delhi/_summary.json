@@ -1,0 +1,9 @@
+{
+  "source": "CBSE SARAS",
+  "location": "Delhi",
+  "raw_files_found": 2252,
+  "standardized_records": 2252,
+  "failed_records": 0,
+  "schema": "canonical_school_schema_v1",
+  "output_folder": "data\\standardized\\saras\\delhi"
+}

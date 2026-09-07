@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130112",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\ATOMIC_ENERGY_CENTRAL_SCHOOL_-_5_1130112.json"
+  },
+  "school_identity": {
+    "school_name": "ATOMIC ENERGY CENTRAL SCHOOL - 5",
+    "udise_code": null,
+    "cbse_affiliation_number": "1130112",
+    "cbse_school_code": "34095"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "block": null,
+    "address": "NEW MANDALA MUMBAI MAHARASHTRA",
+    "pincode": "400094"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1996",
+    "first_opening_date": "01 Apr 2002",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://www.aecsmum5.ac.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SANJIB GHOSH",
+    "gender": "Male",
+    "qualification": "MCA B.Ed",
+    "administrative_experience": "12",
+    "teaching_experience": "15"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1130112",
+    "school_code": "34095",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "ATOMIC ENERGY EDU SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1130112",
+      "listing_raw_columns": [
+        "20",
+        "Aff. No. : 1130112 Sch. Code: 34095",
+        "State : MAHARASHTRA District : MUMBAI",
+        "Secondary Level",
+        "Name : ATOMIC ENERGY CENTRAL SCHOOL - 5 Head/Principal Name: SANJIB GHOSH",
+        "Address : NEW MANDALA MUMBAI MAHARASHTRA Website : https://www.aecsmum5.ac.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130112",
+      "serial_number": "20",
+      "affiliation_and_school_code": "Aff. No. : 1130112 Sch. Code: 34095",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : ATOMIC ENERGY CENTRAL SCHOOL - 5 Head/Principal Name: SANJIB GHOSH",
+      "address_and_website": "Address : NEW MANDALA MUMBAI MAHARASHTRA Website : https://www.aecsmum5.ac.in/",
+      "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+      "Name of Institution": "ATOMIC ENERGY CENTRAL SCHOOL - 5",
+      "Affiliation Number": "1130112",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI",
+      "Postal Address": "NEW MANDALA MUMBAI MAHARASHTRA",
+      "Pin Code": "400094",
+      "Website": "https://www.aecsmum5.ac.in/",
+      "Year of Foundation": "1996",
+      "Date of First Opening of School": "01 Apr 2002",
+      "Name of Principal/ Head of Institution": "SANJIB GHOSH",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "MCA B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "12",
+      "Teaching:": "15",
+      "Status of The School": "Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "ATOMIC ENERGY EDU SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730844",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\RAMA_PUBLIC_SCHOOL_2730844.json"
+  },
+  "school_identity": {
+    "school_name": "RAMA PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730844",
+    "cbse_school_code": "85509"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH DELHI",
+    "block": null,
+    "address": "KHASRA NO. 118, JAGATPUR MAIN ROAD, WAZIRABAD EXTN., DELHI-110084",
+    "pincode": "110084"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2004",
+    "first_opening_date": "01 Apr 2005",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.ramapublicschool.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SUPRIYA TYAGI",
+    "gender": "Female",
+    "qualification": "M.COM B.ED",
+    "administrative_experience": "3",
+    "teaching_experience": "8"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730844",
+    "school_code": "85509",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "BHARAT SINGH MEMORIAL EDUCATIONAL & CULTURAL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730844",
+      "listing_raw_columns": [
+        "904",
+        "Aff. No. : 2730844 Sch. Code: 85509",
+        "State : DELHI District : NORTH DELHI",
+        "Secondary Level",
+        "Name : RAMA PUBLIC SCHOOL Head/Principal Name: SUPRIYA TYAGI",
+        "Address : KHASRA NO. 118, JAGATPUR MAIN ROAD, WAZIRABAD EXTN., DELHI-110084 Website : www.ramapublicschool.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730844",
+      "serial_number": "904",
+      "affiliation_and_school_code": "Aff. No. : 2730844 Sch. Code: 85509",
+      "state_and_district": "State : DELHI District : NORTH DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : RAMA PUBLIC SCHOOL Head/Principal Name: SUPRIYA TYAGI",
+      "address_and_website": "Address : KHASRA NO. 118, JAGATPUR MAIN ROAD, WAZIRABAD EXTN., DELHI-110084 Website : www.ramapublicschool.in"
+    },
+    "school_details": {
+      "Name of Institution": "RAMA PUBLIC SCHOOL",
+      "Affiliation Number": "2730844",
+      "State": "DELHI",
+      "District": "NORTH DELHI",
+      "Postal Address": "KHASRA NO. 118, JAGATPUR MAIN ROAD, WAZIRABAD EXTN., DELHI-110084",
+      "Pin Code": "110084",
+      "Website": "www.ramapublicschool.in",
+      "Year of Foundation": "2004",
+      "Date of First Opening of School": "01 Apr 2005",
+      "Name of Principal/ Head of Institution": "SUPRIYA TYAGI",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.COM B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "3",
+      "Teaching:": "8",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "BHARAT SINGH MEMORIAL EDUCATIONAL & CULTURAL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730839",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\ADARSH_SHRI_RAM_VIDYA_MANDIR_2730839.json"
+  },
+  "school_identity": {
+    "school_name": "ADARSH SHRI RAM VIDYA MANDIR",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730839",
+    "cbse_school_code": "25501"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "CHETAN VIHAR, GOPAL NAGAR, NEAR RAIL FACTORY, GOPAL NAGAR EXTN., NAJAFGARH, NEW DELHI-110043",
+    "pincode": "110043"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2000",
+    "first_opening_date": "01 Apr 2000",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.adarshshriramvidyamandir.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "MANITA",
+    "gender": "Female",
+    "qualification": "B.Ed., M.A",
+    "administrative_experience": "3",
+    "teaching_experience": "4"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730839",
+    "school_code": "25501",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "SHIV CHARAN MEMORIAL & EDUCATIONAL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730839",
+      "listing_raw_columns": [
+        "899",
+        "Aff. No. : 2730839 Sch. Code: 25501",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Secondary Level",
+        "Name : ADARSH SHRI RAM VIDYA MANDIR Head/Principal Name: MANITA",
+        "Address : CHETAN VIHAR, GOPAL NAGAR, NEAR RAIL FACTORY, GOPAL NAGAR EXTN., NAJAFGARH, NEW DELHI-110043 Website : www.adarshshriramvidyamandir.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730839",
+      "serial_number": "899",
+      "affiliation_and_school_code": "Aff. No. : 2730839 Sch. Code: 25501",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : ADARSH SHRI RAM VIDYA MANDIR Head/Principal Name: MANITA",
+      "address_and_website": "Address : CHETAN VIHAR, GOPAL NAGAR, NEAR RAIL FACTORY, GOPAL NAGAR EXTN., NAJAFGARH, NEW DELHI-110043 Website : www.adarshshriramvidyamandir.com"
+    },
+    "school_details": {
+      "Name of Institution": "ADARSH SHRI RAM VIDYA MANDIR",
+      "Affiliation Number": "2730839",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "CHETAN VIHAR, GOPAL NAGAR, NEAR RAIL FACTORY, GOPAL NAGAR EXTN., NAJAFGARH, NEW DELHI-110043",
+      "Pin Code": "110043",
+      "Website": "www.adarshshriramvidyamandir.com",
+      "Year of Foundation": "2000",
+      "Date of First Opening of School": "01 Apr 2000",
+      "Name of Principal/ Head of Institution": "MANITA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "B.Ed., M.A",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "3",
+      "Teaching:": "4",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "SHIV CHARAN MEMORIAL & EDUCATIONAL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

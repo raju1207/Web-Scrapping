@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730845",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\ELITE_INTERNATIONAL_SCHOOL_2730845.json"
+  },
+  "school_identity": {
+    "school_name": "ELITE INTERNATIONAL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730845",
+    "cbse_school_code": "25564"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH EAST DELHI",
+    "block": null,
+    "address": "2ND PUSTA SONIA VIHAR, NEW DELHI - 110094",
+    "pincode": "110094"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2014",
+    "first_opening_date": "01 Apr 2014",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.eliteinternationalschool.org",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "NAVEEN KUMAR",
+    "gender": "Male",
+    "qualification": "M.A., B.ED.",
+    "administrative_experience": "8",
+    "teaching_experience": "15"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730845",
+    "school_code": "25564",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "SHRI RAM NATH CHERITABLE AND EDUCATIONAL TRUST"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730845",
+      "listing_raw_columns": [
+        "905",
+        "Aff. No. : 2730845 Sch. Code: 25564",
+        "State : DELHI District : NORTH EAST DELHI",
+        "Secondary Level",
+        "Name : ELITE INTERNATIONAL SCHOOL Head/Principal Name: NAVEEN KUMAR",
+        "Address : 2ND PUSTA SONIA VIHAR, NEW DELHI - 110094 Website : www.eliteinternationalschool.org",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730845",
+      "serial_number": "905",
+      "affiliation_and_school_code": "Aff. No. : 2730845 Sch. Code: 25564",
+      "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : ELITE INTERNATIONAL SCHOOL Head/Principal Name: NAVEEN KUMAR",
+      "address_and_website": "Address : 2ND PUSTA SONIA VIHAR, NEW DELHI - 110094 Website : www.eliteinternationalschool.org"
+    },
+    "school_details": {
+      "Name of Institution": "ELITE INTERNATIONAL SCHOOL",
+      "Affiliation Number": "2730845",
+      "State": "DELHI",
+      "District": "NORTH EAST DELHI",
+      "Postal Address": "2ND PUSTA SONIA VIHAR, NEW DELHI - 110094",
+      "Pin Code": "110094",
+      "Website": "www.eliteinternationalschool.org",
+      "Year of Foundation": "2014",
+      "Date of First Opening of School": "01 Apr 2014",
+      "Name of Principal/ Head of Institution": "NAVEEN KUMAR",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.A., B.ED.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "8",
+      "Teaching:": "15",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "SHRI RAM NATH CHERITABLE AND EDUCATIONAL TRUST",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

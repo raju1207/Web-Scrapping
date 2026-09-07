@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730265",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\ST._THOMAS_SCHOOL_2730265.json"
+  },
+  "school_identity": {
+    "school_name": "ST. THOMAS SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730265",
+    "cbse_school_code": "25223"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "JANGPURA NEW DELHI",
+    "pincode": "110014"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1981",
+    "first_opening_date": "01 Apr 2005",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.stpaulsdiocesandelhi.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Rohini Juliana Das",
+    "gender": "Female",
+    "qualification": "M.A B.ed",
+    "administrative_experience": "3",
+    "teaching_experience": "25"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730265",
+    "school_code": "25223",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2032",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2032",
+    "trust_society": "DELHI DIOCESAN TRUST ASSOCIATION"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730265",
+      "listing_raw_columns": [
+        "351",
+        "Aff. No. : 2730265 Sch. Code: 25223",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : ST. THOMAS SCHOOL Head/Principal Name: Rohini Juliana Das",
+        "Address : JANGPURA NEW DELHI Website : www.stpaulsdiocesandelhi.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730265",
+      "serial_number": "351",
+      "affiliation_and_school_code": "Aff. No. : 2730265 Sch. Code: 25223",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : ST. THOMAS SCHOOL Head/Principal Name: Rohini Juliana Das",
+      "address_and_website": "Address : JANGPURA NEW DELHI Website : www.stpaulsdiocesandelhi.in"
+    },
+    "school_details": {
+      "Name of Institution": "ST. THOMAS SCHOOL",
+      "Affiliation Number": "2730265",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "JANGPURA NEW DELHI",
+      "Pin Code": "110014",
+      "Website": "www.stpaulsdiocesandelhi.in",
+      "Year of Foundation": "1981",
+      "Date of First Opening of School": "01 Apr 2005",
+      "Name of Principal/ Head of Institution": "Rohini Juliana Das",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A B.ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "3",
+      "Teaching:": "25",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2032",
+      "Name of Trust/ Society/ Managing Committee": "DELHI DIOCESAN TRUST ASSOCIATION",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

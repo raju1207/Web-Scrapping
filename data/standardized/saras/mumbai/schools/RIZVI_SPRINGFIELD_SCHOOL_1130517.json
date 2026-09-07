@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130517",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\RIZVI_SPRINGFIELD_SCHOOL_1130517.json"
+  },
+  "school_identity": {
+    "school_name": "RIZVI SPRINGFIELD SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "1130517",
+    "cbse_school_code": "30442"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "block": null,
+    "address": "CTS NO. D/514, D/519 & D/520, GOVIND PATIL MARG, KHAR DANDA, KHAR WEST, MUMBAI - 400 052.",
+    "pincode": "400052"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2006",
+    "first_opening_date": "15 Jun 2006",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.rizvispringfieldcbse.edu.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Aaisha Ziaulhaq Shaikh",
+    "gender": "Female",
+    "qualification": "M. A. B.Sc, B.Ed",
+    "administrative_experience": "5",
+    "teaching_experience": "10"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1130517",
+    "school_code": "30442",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "Rizvi Education Society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1130517",
+      "listing_raw_columns": [
+        "36",
+        "Aff. No. : 1130517 Sch. Code: 30442",
+        "State : MAHARASHTRA District : MUMBAI",
+        "Senior Secondary Level",
+        "Name : RIZVI SPRINGFIELD SCHOOL Head/Principal Name: Aaisha Ziaulhaq Shaikh",
+        "Address : CTS NO. D/514, D/519 & D/520, GOVIND PATIL MARG, KHAR DANDA, KHAR WEST, MUMBAI - 400 052. Website : www.rizvispringfieldcbse.edu.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130517",
+      "serial_number": "36",
+      "affiliation_and_school_code": "Aff. No. : 1130517 Sch. Code: 30442",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : RIZVI SPRINGFIELD SCHOOL Head/Principal Name: Aaisha Ziaulhaq Shaikh",
+      "address_and_website": "Address : CTS NO. D/514, D/519 & D/520, GOVIND PATIL MARG, KHAR DANDA, KHAR WEST, MUMBAI - 400 052. Website : www.rizvispringfieldcbse.edu.in",
+      "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+      "Name of Institution": "RIZVI SPRINGFIELD SCHOOL",
+      "Affiliation Number": "1130517",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI",
+      "Postal Address": "CTS NO. D/514, D/519 & D/520, GOVIND PATIL MARG, KHAR DANDA, KHAR WEST, MUMBAI - 400 052.",
+      "Pin Code": "400052",
+      "Website": "www.rizvispringfieldcbse.edu.in",
+      "Year of Foundation": "2006",
+      "Date of First Opening of School": "15 Jun 2006",
+      "Name of Principal/ Head of Institution": "Aaisha Ziaulhaq Shaikh",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M. A. B.Sc, B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "5",
+      "Teaching:": "10",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "Rizvi Education Society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

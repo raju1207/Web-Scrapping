@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700043",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\PM_SHRI_KENDRIYA_VIDYALAYA_2700043.json"
+  },
+  "school_identity": {
+    "school_name": "PM SHRI KENDRIYA VIDYALAYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2700043",
+    "cbse_school_code": "29001"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "EAST DELHI",
+    "block": null,
+    "address": "BLOCK 6 NEAR SHIV MANDIR KHICHRIPUR, DELHI",
+    "pincode": "110091"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "KV",
+    "foundation_year": "2010",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://www.khicharipur.kvs.ac.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "ARVIND KUMAR",
+    "gender": "Male",
+    "qualification": "MSc M ED MBA",
+    "administrative_experience": "10",
+    "teaching_experience": "26"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2700043",
+    "school_code": "29001",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2032",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2032",
+    "trust_society": "kendriya vidyalaya sangathan"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2700043",
+      "listing_raw_columns": [
+        "42",
+        "Aff. No. : 2700043 Sch. Code: 29001",
+        "State : DELHI District : EAST DELHI",
+        "Senior Secondary Level",
+        "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: ARVIND KUMAR",
+        "Address : BLOCK 6 NEAR SHIV MANDIR KHICHRIPUR, DELHI Website : https://www.khicharipur.kvs.ac.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700043",
+      "serial_number": "42",
+      "affiliation_and_school_code": "Aff. No. : 2700043 Sch. Code: 29001",
+      "state_and_district": "State : DELHI District : EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: ARVIND KUMAR",
+      "address_and_website": "Address : BLOCK 6 NEAR SHIV MANDIR KHICHRIPUR, DELHI Website : https://www.khicharipur.kvs.ac.in"
+    },
+    "school_details": {
+      "Name of Institution": "PM SHRI KENDRIYA VIDYALAYA",
+      "Affiliation Number": "2700043",
+      "State": "DELHI",
+      "District": "EAST DELHI",
+      "Postal Address": "BLOCK 6 NEAR SHIV MANDIR KHICHRIPUR, DELHI",
+      "Pin Code": "110091",
+      "Website": "https://www.khicharipur.kvs.ac.in",
+      "Year of Foundation": "2010",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "ARVIND KUMAR",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "MSc M ED MBA",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "10",
+      "Teaching:": "26",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "KV",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2032",
+      "Name of Trust/ Society/ Managing Committee": "kendriya vidyalaya sangathan",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

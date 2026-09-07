@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720095",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_._SARVODAYA_KANYA_VIDYALAYA_2720095.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT . SARVODAYA KANYA VIDYALAYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2720095",
+    "cbse_school_code": "87766"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "PSP-10, INDUSTRIAL AREA , PHASE-5, KIRARI",
+    "pincode": "110086"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2025",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "AANCHAL",
+    "gender": "Female",
+    "qualification": "M.A EDUCATION , MSC ZOOLOGY",
+    "administrative_experience": "0",
+    "teaching_experience": "0"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2720095",
+    "school_code": "87766",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "Directorate of education"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2720095",
+      "listing_raw_columns": [
+        "92",
+        "Aff. No. : 2720095 Sch. Code: 87766",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT . SARVODAYA KANYA VIDYALAYA Head/Principal Name: AANCHAL",
+        "Address : PSP-10, INDUSTRIAL AREA , PHASE-5, KIRARI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720095",
+      "serial_number": "92",
+      "affiliation_and_school_code": "Aff. No. : 2720095 Sch. Code: 87766",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT . SARVODAYA KANYA VIDYALAYA Head/Principal Name: AANCHAL",
+      "address_and_website": "Address : PSP-10, INDUSTRIAL AREA , PHASE-5, KIRARI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT . SARVODAYA KANYA VIDYALAYA",
+      "Affiliation Number": "2720095",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "PSP-10, INDUSTRIAL AREA , PHASE-5, KIRARI",
+      "Pin Code": "110086",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "2025",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "AANCHAL",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A EDUCATION , MSC ZOOLOGY",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "0",
+      "Teaching:": "0",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "Directorate of education",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

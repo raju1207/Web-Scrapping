@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774035",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\ATAL_ADARSH_VIDYALYA_2774035.json"
+  },
+  "school_identity": {
+    "school_name": "ATAL ADARSH VIDYALYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2774035",
+    "cbse_school_code": "27191"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH DELHI",
+    "block": null,
+    "address": "LODHI ROAD , NEW DELHI",
+    "pincode": "110003"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1945",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "http://aavlodhiroad.ndmc.gov.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SABEENA SOOD",
+    "gender": "Female",
+    "qualification": "M.Sc ,B.Ed",
+    "administrative_experience": "6",
+    "teaching_experience": "33"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2774035",
+    "school_code": "27191",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "n d m c"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2774035",
+      "listing_raw_columns": [
+        "2098",
+        "Aff. No. : 2774035 Sch. Code: 27191",
+        "State : DELHI District : SOUTH DELHI",
+        "Senior Secondary Level",
+        "Name : ATAL ADARSH VIDYALYA Head/Principal Name: SABEENA SOOD",
+        "Address : LODHI ROAD , NEW DELHI Website : http://aavlodhiroad.ndmc.gov.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774035",
+      "serial_number": "2098",
+      "affiliation_and_school_code": "Aff. No. : 2774035 Sch. Code: 27191",
+      "state_and_district": "State : DELHI District : SOUTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : ATAL ADARSH VIDYALYA Head/Principal Name: SABEENA SOOD",
+      "address_and_website": "Address : LODHI ROAD , NEW DELHI Website : http://aavlodhiroad.ndmc.gov.in/"
+    },
+    "school_details": {
+      "Name of Institution": "ATAL ADARSH VIDYALYA",
+      "Affiliation Number": "2774035",
+      "State": "DELHI",
+      "District": "SOUTH DELHI",
+      "Postal Address": "LODHI ROAD , NEW DELHI",
+      "Pin Code": "110003",
+      "Website": "http://aavlodhiroad.ndmc.gov.in/",
+      "Year of Foundation": "1945",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "SABEENA SOOD",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.Sc ,B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "6",
+      "Teaching:": "33",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "n d m c",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

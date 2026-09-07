@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750131",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\RAJKIYA_PRATIBHA_VIKAS_VIDYALAYA_2750131.json"
+  },
+  "school_identity": {
+    "school_name": "RAJKIYA PRATIBHA VIKAS VIDYALAYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2750131",
+    "cbse_school_code": "87292"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "SECTOR A-10 POCKET 5 NARELA DELHI",
+    "pincode": "110040"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2006",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "RAJ SINGH",
+    "gender": "Male",
+    "qualification": "MA., M.Phil., B.Ed.",
+    "administrative_experience": "13",
+    "teaching_experience": "28"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2750131",
+    "school_code": "87292",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "DELHI ADMINISTRATION"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2750131",
+      "listing_raw_columns": [
+        "1079",
+        "Aff. No. : 2750131 Sch. Code: 87292",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : RAJKIYA PRATIBHA VIKAS VIDYALAYA Head/Principal Name: RAJ SINGH",
+        "Address : SECTOR A-10 POCKET 5 NARELA DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750131",
+      "serial_number": "1079",
+      "affiliation_and_school_code": "Aff. No. : 2750131 Sch. Code: 87292",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : RAJKIYA PRATIBHA VIKAS VIDYALAYA Head/Principal Name: RAJ SINGH",
+      "address_and_website": "Address : SECTOR A-10 POCKET 5 NARELA DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "RAJKIYA PRATIBHA VIKAS VIDYALAYA",
+      "Affiliation Number": "2750131",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "SECTOR A-10 POCKET 5 NARELA DELHI",
+      "Pin Code": "110040",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "2006",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "RAJ SINGH",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "MA., M.Phil., B.Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "13",
+      "Teaching:": "28",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

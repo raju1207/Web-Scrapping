@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2776010",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\BHAI_BIBA_SINGH_KHALSA_SR_SEC_SCH_2776010.json"
+  },
+  "school_identity": {
+    "school_name": "BHAI BIBA SINGH KHALSA SR SEC SCH",
+    "udise_code": null,
+    "cbse_affiliation_number": "2776010",
+    "cbse_school_code": "87566"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "MOTI NAGAR NEW DELHI",
+    "pincode": "110015"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT AIDED",
+    "foundation_year": "1956",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "I P Kaur",
+    "gender": "Female",
+    "qualification": "M.Com,M.Ed",
+    "administrative_experience": "13",
+    "teaching_experience": "21"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2776010",
+    "school_code": "87566",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "parent body sh guru singh sabha"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2776010",
+      "listing_raw_columns": [
+        "2112",
+        "Aff. No. : 2776010 Sch. Code: 87566",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : BHAI BIBA SINGH KHALSA SR SEC SCH Head/Principal Name: I P Kaur",
+        "Address : MOTI NAGAR NEW DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2776010",
+      "serial_number": "2112",
+      "affiliation_and_school_code": "Aff. No. : 2776010 Sch. Code: 87566",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : BHAI BIBA SINGH KHALSA SR SEC SCH Head/Principal Name: I P Kaur",
+      "address_and_website": "Address : MOTI NAGAR NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "BHAI BIBA SINGH KHALSA SR SEC SCH",
+      "Affiliation Number": "2776010",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "MOTI NAGAR NEW DELHI",
+      "Pin Code": "110015",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "1956",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "I P Kaur",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.Com,M.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "13",
+      "Teaching:": "21",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT AIDED",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "parent body sh guru singh sabha",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

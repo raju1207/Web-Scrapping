@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730939",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\MAHARAJA_AGARSEN_PUBLIC_SCHOOL_2730939.json"
+  },
+  "school_identity": {
+    "school_name": "MAHARAJA AGARSEN PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730939",
+    "cbse_school_code": "85584"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "KH. NO. 120/15, SHIV MANDIR, BAKHTAWARPUR",
+    "pincode": "110036"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1989",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://maharajaagarsenpublicschool.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "BEENU",
+    "gender": "Female",
+    "qualification": "M.COM., B.ED.",
+    "administrative_experience": "5",
+    "teaching_experience": "5"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730939",
+    "school_code": "85584",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "SHREE HARI OM AGGARWAL SANATAN DHARAM MANDIR SABHA BAKHTAWARPUR DELHI"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730939",
+      "listing_raw_columns": [
+        "954",
+        "Aff. No. : 2730939 Sch. Code: 85584",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Secondary Level",
+        "Name : MAHARAJA AGARSEN PUBLIC SCHOOL Head/Principal Name: BEENU",
+        "Address : KH. NO. 120/15, SHIV MANDIR, BAKHTAWARPUR Website : https://maharajaagarsenpublicschool.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730939",
+      "serial_number": "954",
+      "affiliation_and_school_code": "Aff. No. : 2730939 Sch. Code: 85584",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : MAHARAJA AGARSEN PUBLIC SCHOOL Head/Principal Name: BEENU",
+      "address_and_website": "Address : KH. NO. 120/15, SHIV MANDIR, BAKHTAWARPUR Website : https://maharajaagarsenpublicschool.in/"
+    },
+    "school_details": {
+      "Name of Institution": "MAHARAJA AGARSEN PUBLIC SCHOOL",
+      "Affiliation Number": "2730939",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "KH. NO. 120/15, SHIV MANDIR, BAKHTAWARPUR",
+      "Pin Code": "110036",
+      "Website": "https://maharajaagarsenpublicschool.in/",
+      "Year of Foundation": "1989",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "BEENU",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.COM., B.ED.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "5",
+      "Teaching:": "5",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "SHREE HARI OM AGGARWAL SANATAN DHARAM MANDIR SABHA BAKHTAWARPUR DELHI",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

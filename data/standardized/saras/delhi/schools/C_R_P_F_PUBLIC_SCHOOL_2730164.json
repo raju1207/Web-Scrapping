@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730164",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\C_R_P_F_PUBLIC_SCHOOL_2730164.json"
+  },
+  "school_identity": {
+    "school_name": "C R P F PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730164",
+    "cbse_school_code": "85241"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "SECTOR XIV ROHINI, DISTT NORTH WEST DELHI, DELHI",
+    "pincode": "110085"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1988",
+    "first_opening_date": "01 Apr 1996",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.crpfpsrohini.org.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "NIDHI CHAUDHARY",
+    "gender": "Female",
+    "qualification": "M.Sc., M.Ed.",
+    "administrative_experience": "10",
+    "teaching_experience": "28"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730164",
+    "school_code": "85241",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "CRPF EMPLOYEES EDUCATIONAL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730164",
+      "listing_raw_columns": [
+        "252",
+        "Aff. No. : 2730164 Sch. Code: 85241",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : C R P F PUBLIC SCHOOL Head/Principal Name: NIDHI CHAUDHARY",
+        "Address : SECTOR XIV ROHINI, DISTT NORTH WEST DELHI, DELHI Website : www.crpfpsrohini.org.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730164",
+      "serial_number": "252",
+      "affiliation_and_school_code": "Aff. No. : 2730164 Sch. Code: 85241",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : C R P F PUBLIC SCHOOL Head/Principal Name: NIDHI CHAUDHARY",
+      "address_and_website": "Address : SECTOR XIV ROHINI, DISTT NORTH WEST DELHI, DELHI Website : www.crpfpsrohini.org.in"
+    },
+    "school_details": {
+      "Name of Institution": "C R P F PUBLIC SCHOOL",
+      "Affiliation Number": "2730164",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "SECTOR XIV ROHINI, DISTT NORTH WEST DELHI, DELHI",
+      "Pin Code": "110085",
+      "Website": "www.crpfpsrohini.org.in",
+      "Year of Foundation": "1988",
+      "Date of First Opening of School": "01 Apr 1996",
+      "Name of Principal/ Head of Institution": "NIDHI CHAUDHARY",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.Sc., M.Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "10",
+      "Teaching:": "28",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "CRPF EMPLOYEES EDUCATIONAL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

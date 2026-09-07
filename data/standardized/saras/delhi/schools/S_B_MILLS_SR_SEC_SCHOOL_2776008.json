@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2776008",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\S_B_MILLS_SR_SEC_SCHOOL_2776008.json"
+  },
+  "school_identity": {
+    "school_name": "S B MILLS SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2776008",
+    "cbse_school_code": "87589"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "SHIVAJI MARG NEW DELHI",
+    "pincode": "110015"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT AIDED",
+    "foundation_year": "1949",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.sbmschool.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "PREETI SHUKLA",
+    "gender": "Female",
+    "qualification": "M.Ed., Ph.d, PGDSLM",
+    "administrative_experience": "16",
+    "teaching_experience": "28"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2776008",
+    "school_code": "87589",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "d c m educational society new delhi"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2776008",
+      "listing_raw_columns": [
+        "2110",
+        "Aff. No. : 2776008 Sch. Code: 87589",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : S B MILLS SR SEC SCHOOL Head/Principal Name: PREETI SHUKLA",
+        "Address : SHIVAJI MARG NEW DELHI Website : www.sbmschool.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2776008",
+      "serial_number": "2110",
+      "affiliation_and_school_code": "Aff. No. : 2776008 Sch. Code: 87589",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : S B MILLS SR SEC SCHOOL Head/Principal Name: PREETI SHUKLA",
+      "address_and_website": "Address : SHIVAJI MARG NEW DELHI Website : www.sbmschool.in"
+    },
+    "school_details": {
+      "Name of Institution": "S B MILLS SR SEC SCHOOL",
+      "Affiliation Number": "2776008",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "SHIVAJI MARG NEW DELHI",
+      "Pin Code": "110015",
+      "Website": "www.sbmschool.in",
+      "Year of Foundation": "1949",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "PREETI SHUKLA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.Ed., Ph.d, PGDSLM",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "16",
+      "Teaching:": "28",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT AIDED",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "d c m educational society new delhi",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

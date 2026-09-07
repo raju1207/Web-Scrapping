@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730827",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GYAN_KUNJ_PUBLIC_SCHOOL_2730827.json"
+  },
+  "school_identity": {
+    "school_name": "GYAN KUNJ PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730827",
+    "cbse_school_code": "25421"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH DELHI",
+    "block": null,
+    "address": "GYAN KUNJ PUBLIC SCHOOL, MAHASHAY MANGAT RAM SMARK STHAL, MAIN ROAD JONAPUR NEW DELHI-110047",
+    "pincode": "110047"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2004",
+    "first_opening_date": "01 Apr 2004",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.gkps.edu.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "ANKITA CHAKRABORTY",
+    "gender": "Female",
+    "qualification": "M.A. B.Ed",
+    "administrative_experience": "4",
+    "teaching_experience": "25"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730827",
+    "school_code": "25421",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "FREEDOM FIGHTER MAHASHAY MANGAT RAM TRUST SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730827",
+      "listing_raw_columns": [
+        "887",
+        "Aff. No. : 2730827 Sch. Code: 25421",
+        "State : DELHI District : SOUTH DELHI",
+        "Senior Secondary Level",
+        "Name : GYAN KUNJ PUBLIC SCHOOL Head/Principal Name: ANKITA CHAKRABORTY",
+        "Address : GYAN KUNJ PUBLIC SCHOOL, MAHASHAY MANGAT RAM SMARK STHAL, MAIN ROAD JONAPUR NEW DELHI-110047 Website : www.gkps.edu.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730827",
+      "serial_number": "887",
+      "affiliation_and_school_code": "Aff. No. : 2730827 Sch. Code: 25421",
+      "state_and_district": "State : DELHI District : SOUTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GYAN KUNJ PUBLIC SCHOOL Head/Principal Name: ANKITA CHAKRABORTY",
+      "address_and_website": "Address : GYAN KUNJ PUBLIC SCHOOL, MAHASHAY MANGAT RAM SMARK STHAL, MAIN ROAD JONAPUR NEW DELHI-110047 Website : www.gkps.edu.in"
+    },
+    "school_details": {
+      "Name of Institution": "GYAN KUNJ PUBLIC SCHOOL",
+      "Affiliation Number": "2730827",
+      "State": "DELHI",
+      "District": "SOUTH DELHI",
+      "Postal Address": "GYAN KUNJ PUBLIC SCHOOL, MAHASHAY MANGAT RAM SMARK STHAL, MAIN ROAD JONAPUR NEW DELHI-110047",
+      "Pin Code": "110047",
+      "Website": "www.gkps.edu.in",
+      "Year of Foundation": "2004",
+      "Date of First Opening of School": "01 Apr 2004",
+      "Name of Principal/ Head of Institution": "ANKITA CHAKRABORTY",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A. B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "4",
+      "Teaching:": "25",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "FREEDOM FIGHTER MAHASHAY MANGAT RAM TRUST SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

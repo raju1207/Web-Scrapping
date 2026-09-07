@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730628",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\ANGELS_PUBLIC_SCHOOL_2730628.json"
+  },
+  "school_identity": {
+    "school_name": "ANGELS PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730628",
+    "cbse_school_code": "25049"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "EAST DELHI",
+    "block": null,
+    "address": "VASUNDHRA ENCLAVE DELHI 110096",
+    "pincode": "110096"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2007",
+    "first_opening_date": "01 Apr 2008",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.angelpublicschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SUSHANT KUMAR RAGHAVE",
+    "gender": "Male",
+    "qualification": "MBA, B.Ed",
+    "administrative_experience": "4",
+    "teaching_experience": "8"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730628",
+    "school_code": "25049",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "SHAHDARA ANGELS EDUCATIONAL SOCIETY (REGD.)"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730628",
+      "listing_raw_columns": [
+        "698",
+        "Aff. No. : 2730628 Sch. Code: 25049",
+        "State : DELHI District : EAST DELHI",
+        "Senior Secondary Level",
+        "Name : ANGELS PUBLIC SCHOOL Head/Principal Name: SUSHANT KUMAR RAGHAVE",
+        "Address : VASUNDHRA ENCLAVE DELHI 110096 Website : www.angelpublicschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730628",
+      "serial_number": "698",
+      "affiliation_and_school_code": "Aff. No. : 2730628 Sch. Code: 25049",
+      "state_and_district": "State : DELHI District : EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : ANGELS PUBLIC SCHOOL Head/Principal Name: SUSHANT KUMAR RAGHAVE",
+      "address_and_website": "Address : VASUNDHRA ENCLAVE DELHI 110096 Website : www.angelpublicschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "ANGELS PUBLIC SCHOOL",
+      "Affiliation Number": "2730628",
+      "State": "DELHI",
+      "District": "EAST DELHI",
+      "Postal Address": "VASUNDHRA ENCLAVE DELHI 110096",
+      "Pin Code": "110096",
+      "Website": "www.angelpublicschool.com",
+      "Year of Foundation": "2007",
+      "Date of First Opening of School": "01 Apr 2008",
+      "Name of Principal/ Head of Institution": "SUSHANT KUMAR RAGHAVE",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "MBA, B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "4",
+      "Teaching:": "8",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "SHAHDARA ANGELS EDUCATIONAL SOCIETY (REGD.)",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

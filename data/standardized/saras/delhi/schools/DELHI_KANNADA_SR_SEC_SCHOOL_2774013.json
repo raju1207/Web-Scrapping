@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774013",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\DELHI_KANNADA_SR_SEC_SCHOOL_2774013.json"
+  },
+  "school_identity": {
+    "school_name": "DELHI KANNADA SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2774013",
+    "cbse_school_code": "27186"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "LODHI ESTATE NEW DELHI",
+    "pincode": "110003"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT AIDED",
+    "foundation_year": "1961",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.delhikannadaschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Prashanth Kumar",
+    "gender": "Male",
+    "qualification": "MA BEd MBA, M.phil, PGDCA",
+    "administrative_experience": "6",
+    "teaching_experience": "22"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2774013",
+    "school_code": "27186",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "directate of education"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2774013",
+      "listing_raw_columns": [
+        "2078",
+        "Aff. No. : 2774013 Sch. Code: 27186",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : DELHI KANNADA SR SEC SCHOOL Head/Principal Name: Prashanth Kumar",
+        "Address : LODHI ESTATE NEW DELHI Website : www.delhikannadaschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774013",
+      "serial_number": "2078",
+      "affiliation_and_school_code": "Aff. No. : 2774013 Sch. Code: 27186",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : DELHI KANNADA SR SEC SCHOOL Head/Principal Name: Prashanth Kumar",
+      "address_and_website": "Address : LODHI ESTATE NEW DELHI Website : www.delhikannadaschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "DELHI KANNADA SR SEC SCHOOL",
+      "Affiliation Number": "2774013",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "LODHI ESTATE NEW DELHI",
+      "Pin Code": "110003",
+      "Website": "www.delhikannadaschool.com",
+      "Year of Foundation": "1961",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "Prashanth Kumar",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "MA BEd MBA, M.phil, PGDCA",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "6",
+      "Teaching:": "22",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT AIDED",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "directate of education",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

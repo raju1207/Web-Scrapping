@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730224",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\ARVIND_GUPTA_D_A_V_CENTENARY_PUBLIC_SCHOOL_2730224.json"
+  },
+  "school_identity": {
+    "school_name": "ARVIND GUPTA D A V CENTENARY PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730224",
+    "cbse_school_code": "85088"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "MODEL TOWN BEHIND POLICE HQTS DELHI",
+    "pincode": "110009"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1986",
+    "first_opening_date": "05 Apr 2004",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.agdav.edu.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "MALA SOOD",
+    "gender": "Female",
+    "qualification": "M.SC., B.ED.",
+    "administrative_experience": "16",
+    "teaching_experience": "16"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730224",
+    "school_code": "85088",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": null
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730224",
+      "listing_raw_columns": [
+        "310",
+        "Aff. No. : 2730224 Sch. Code: 85088",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : ARVIND GUPTA D A V CENTENARY PUBLIC SCHOOL Head/Principal Name: MALA SOOD",
+        "Address : MODEL TOWN BEHIND POLICE HQTS DELHI Website : www.agdav.edu.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730224",
+      "serial_number": "310",
+      "affiliation_and_school_code": "Aff. No. : 2730224 Sch. Code: 85088",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : ARVIND GUPTA D A V CENTENARY PUBLIC SCHOOL Head/Principal Name: MALA SOOD",
+      "address_and_website": "Address : MODEL TOWN BEHIND POLICE HQTS DELHI Website : www.agdav.edu.in"
+    },
+    "school_details": {
+      "Name of Institution": "ARVIND GUPTA D A V CENTENARY PUBLIC SCHOOL",
+      "Affiliation Number": "2730224",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "MODEL TOWN BEHIND POLICE HQTS DELHI",
+      "Pin Code": "110009",
+      "Website": "www.agdav.edu.in",
+      "Year of Foundation": "1986",
+      "Date of First Opening of School": "05 Apr 2004",
+      "Name of Principal/ Head of Institution": "MALA SOOD",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.SC., B.ED.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "16",
+      "Teaching:": "16",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": null,
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

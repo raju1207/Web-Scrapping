@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730257",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\AMITY_INTETNATIONAL_SCHOOL_2730257.json"
+  },
+  "school_identity": {
+    "school_name": "AMITY INTETNATIONAL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730257",
+    "cbse_school_code": "25179"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH DELHI",
+    "block": null,
+    "address": "ROAD NO-44 M-BLOCK SAKET, DISTT SOUTH DELHI, NEW DELHI",
+    "pincode": "110017"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1991",
+    "first_opening_date": "01 Apr 2002",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://amityschools.in/saket/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "DIVYA BHATIA",
+    "gender": "Female",
+    "qualification": "M.Sc., M.A., B.Ed.",
+    "administrative_experience": "12",
+    "teaching_experience": "36"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730257",
+    "school_code": "25179",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "ACADEMIC QUEST"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730257",
+      "listing_raw_columns": [
+        "343",
+        "Aff. No. : 2730257 Sch. Code: 25179",
+        "State : DELHI District : SOUTH DELHI",
+        "Senior Secondary Level",
+        "Name : AMITY INTETNATIONAL SCHOOL Head/Principal Name: DIVYA BHATIA",
+        "Address : ROAD NO-44 M-BLOCK SAKET, DISTT SOUTH DELHI, NEW DELHI Website : https://amityschools.in/saket/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730257",
+      "serial_number": "343",
+      "affiliation_and_school_code": "Aff. No. : 2730257 Sch. Code: 25179",
+      "state_and_district": "State : DELHI District : SOUTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : AMITY INTETNATIONAL SCHOOL Head/Principal Name: DIVYA BHATIA",
+      "address_and_website": "Address : ROAD NO-44 M-BLOCK SAKET, DISTT SOUTH DELHI, NEW DELHI Website : https://amityschools.in/saket/"
+    },
+    "school_details": {
+      "Name of Institution": "AMITY INTETNATIONAL SCHOOL",
+      "Affiliation Number": "2730257",
+      "State": "DELHI",
+      "District": "SOUTH DELHI",
+      "Postal Address": "ROAD NO-44 M-BLOCK SAKET, DISTT SOUTH DELHI, NEW DELHI",
+      "Pin Code": "110017",
+      "Website": "https://amityschools.in/saket/",
+      "Year of Foundation": "1991",
+      "Date of First Opening of School": "01 Apr 2002",
+      "Name of Principal/ Head of Institution": "DIVYA BHATIA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.Sc., M.A., B.Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "12",
+      "Teaching:": "36",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "ACADEMIC QUEST",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

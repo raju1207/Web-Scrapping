@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2768009",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_GIRLS_SR_SEC_SCHOOL_2768009.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT GIRLS SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2768009",
+    "cbse_school_code": "87138"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH DELHI",
+    "block": null,
+    "address": "CHABI GANJ KASHMIRI GATE DELHI",
+    "pincode": "110006"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1956",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.gov.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Nilmani Samad",
+    "gender": "Female",
+    "qualification": "M.A., B.Ed.",
+    "administrative_experience": "7",
+    "teaching_experience": "20"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2768009",
+    "school_code": "87138",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "dir. of edu."
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2768009",
+      "listing_raw_columns": [
+        "1996",
+        "Aff. No. : 2768009 Sch. Code: 87138",
+        "State : DELHI District : NORTH DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT GIRLS SR SEC SCHOOL Head/Principal Name: Nilmani Samad",
+        "Address : CHABI GANJ KASHMIRI GATE DELHI Website : www.edudel.gov.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2768009",
+      "serial_number": "1996",
+      "affiliation_and_school_code": "Aff. No. : 2768009 Sch. Code: 87138",
+      "state_and_district": "State : DELHI District : NORTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT GIRLS SR SEC SCHOOL Head/Principal Name: Nilmani Samad",
+      "address_and_website": "Address : CHABI GANJ KASHMIRI GATE DELHI Website : www.edudel.gov.in"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT GIRLS SR SEC SCHOOL",
+      "Affiliation Number": "2768009",
+      "State": "DELHI",
+      "District": "NORTH DELHI",
+      "Postal Address": "CHABI GANJ KASHMIRI GATE DELHI",
+      "Pin Code": "110006",
+      "Website": "www.edudel.gov.in",
+      "Year of Foundation": "1956",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "Nilmani Samad",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A., B.Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "7",
+      "Teaching:": "20",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "dir. of edu.",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

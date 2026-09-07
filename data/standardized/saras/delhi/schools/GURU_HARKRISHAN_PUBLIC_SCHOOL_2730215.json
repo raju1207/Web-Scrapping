@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730215",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GURU_HARKRISHAN_PUBLIC_SCHOOL_2730215.json"
+  },
+  "school_identity": {
+    "school_name": "GURU HARKRISHAN PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730215",
+    "cbse_school_code": "85297"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "FATEH NAGAR NEW DELHI",
+    "pincode": "110018"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1980",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.ghpsfatehnagar.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "KULVINDER KAUR",
+    "gender": "Female",
+    "qualification": "M.A. , B.Ed",
+    "administrative_experience": "25",
+    "teaching_experience": "31"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730215",
+    "school_code": "85297",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2010",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2010 To : 31/03/2030",
+    "trust_society": "DELHI SKIH GURUDWARA MGT. COMM."
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730215",
+      "listing_raw_columns": [
+        "301",
+        "Aff. No. : 2730215 Sch. Code: 85297",
+        "State : DELHI District : WEST DELHI",
+        "Senior Secondary Level",
+        "Name : GURU HARKRISHAN PUBLIC SCHOOL Head/Principal Name: KULVINDER KAUR",
+        "Address : FATEH NAGAR NEW DELHI Website : www.ghpsfatehnagar.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730215",
+      "serial_number": "301",
+      "affiliation_and_school_code": "Aff. No. : 2730215 Sch. Code: 85297",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GURU HARKRISHAN PUBLIC SCHOOL Head/Principal Name: KULVINDER KAUR",
+      "address_and_website": "Address : FATEH NAGAR NEW DELHI Website : www.ghpsfatehnagar.com"
+    },
+    "school_details": {
+      "Name of Institution": "GURU HARKRISHAN PUBLIC SCHOOL",
+      "Affiliation Number": "2730215",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "FATEH NAGAR NEW DELHI",
+      "Pin Code": "110018",
+      "Website": "www.ghpsfatehnagar.com",
+      "Year of Foundation": "1980",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "KULVINDER KAUR",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A. , B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "25",
+      "Teaching:": "31",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2010 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "DELHI SKIH GURUDWARA MGT. COMM.",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

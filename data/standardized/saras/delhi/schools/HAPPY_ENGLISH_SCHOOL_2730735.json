@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730735",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\HAPPY_ENGLISH_SCHOOL_2730735.json"
+  },
+  "school_identity": {
+    "school_name": "HAPPY ENGLISH SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730735",
+    "cbse_school_code": "25103"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "EAST DELHI",
+    "block": null,
+    "address": "SHARAD VIHAR, KARKARDOOMA",
+    "pincode": "110092"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1992",
+    "first_opening_date": "01 Jul 1992",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://www.hes.edu.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Arti Khungar",
+    "gender": "Female",
+    "qualification": "MA, Bed, Phd",
+    "administrative_experience": "17",
+    "teaching_experience": "23"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730735",
+    "school_code": "25103",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "HAPPY ENGLISH SCHOOL EDUCATION SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730735",
+      "listing_raw_columns": [
+        "799",
+        "Aff. No. : 2730735 Sch. Code: 25103",
+        "State : DELHI District : EAST DELHI",
+        "Senior Secondary Level",
+        "Name : HAPPY ENGLISH SCHOOL Head/Principal Name: Arti Khungar",
+        "Address : SHARAD VIHAR, KARKARDOOMA Website : https://www.hes.edu.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730735",
+      "serial_number": "799",
+      "affiliation_and_school_code": "Aff. No. : 2730735 Sch. Code: 25103",
+      "state_and_district": "State : DELHI District : EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : HAPPY ENGLISH SCHOOL Head/Principal Name: Arti Khungar",
+      "address_and_website": "Address : SHARAD VIHAR, KARKARDOOMA Website : https://www.hes.edu.in"
+    },
+    "school_details": {
+      "Name of Institution": "HAPPY ENGLISH SCHOOL",
+      "Affiliation Number": "2730735",
+      "State": "DELHI",
+      "District": "EAST DELHI",
+      "Postal Address": "SHARAD VIHAR, KARKARDOOMA",
+      "Pin Code": "110092",
+      "Website": "https://www.hes.edu.in",
+      "Year of Foundation": "1992",
+      "Date of First Opening of School": "01 Jul 1992",
+      "Name of Principal/ Head of Institution": "Arti Khungar",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA, Bed, Phd",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "17",
+      "Teaching:": "23",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "HAPPY ENGLISH SCHOOL EDUCATION SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

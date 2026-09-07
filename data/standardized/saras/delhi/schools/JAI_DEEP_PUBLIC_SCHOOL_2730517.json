@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730517",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\JAI_DEEP_PUBLIC_SCHOOL_2730517.json"
+  },
+  "school_identity": {
+    "school_name": "JAI DEEP PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730517",
+    "cbse_school_code": "25346"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "RZ-30 NEAR BDO OFFICE NEW ROSHAN PURA NAJAFGARH, NEW DELHI",
+    "pincode": "110043"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1986",
+    "first_opening_date": "01 Apr 1997",
+    "gender_type": null
+  },
+  "contact": {
+    "website": null,
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "MRS UMLA GIROLRA",
+    "gender": "Male",
+    "qualification": "m.a. b.ed",
+    "administrative_experience": "20",
+    "teaching_experience": "9"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730517",
+    "school_code": "25346",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2019",
+    "affiliation_to": "31/03/2024",
+    "affiliation_period_raw": "From : 01/04/2019 To : 31/03/2024",
+    "trust_society": "GIRDHAR EDUCATIONAL & WELFARE SOC"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730517",
+      "listing_raw_columns": [
+        "588",
+        "Aff. No. : 2730517 Sch. Code: 25346",
+        "State : DELHI District : NEW DELHI",
+        "Secondary Level",
+        "Name : JAI DEEP PUBLIC SCHOOL Head/Principal Name: MRS UMLA GIROLRA",
+        "Address : RZ-30 NEAR BDO OFFICE NEW ROSHAN PURA NAJAFGARH, NEW DELHI Website :",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730517",
+      "serial_number": "588",
+      "affiliation_and_school_code": "Aff. No. : 2730517 Sch. Code: 25346",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : JAI DEEP PUBLIC SCHOOL Head/Principal Name: MRS UMLA GIROLRA",
+      "address_and_website": "Address : RZ-30 NEAR BDO OFFICE NEW ROSHAN PURA NAJAFGARH, NEW DELHI Website :"
+    },
+    "school_details": {
+      "Name of Institution": "JAI DEEP PUBLIC SCHOOL",
+      "Affiliation Number": "2730517",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "RZ-30 NEAR BDO OFFICE NEW ROSHAN PURA NAJAFGARH, NEW DELHI",
+      "Pin Code": "110043",
+      "Website": null,
+      "Year of Foundation": "1986",
+      "Date of First Opening of School": "01 Apr 1997",
+      "Name of Principal/ Head of Institution": "MRS UMLA GIROLRA",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "m.a. b.ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "20",
+      "Teaching:": "9",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2019 To : 31/03/2024",
+      "Name of Trust/ Society/ Managing Committee": "GIRDHAR EDUCATIONAL & WELFARE SOC",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

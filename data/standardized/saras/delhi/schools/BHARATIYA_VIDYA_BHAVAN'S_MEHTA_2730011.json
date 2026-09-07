@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730011",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\BHARATIYA_VIDYA_BHAVAN'S_MEHTA_2730011.json"
+  },
+  "school_identity": {
+    "school_name": "BHARATIYA VIDYA BHAVAN'S MEHTA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730011",
+    "cbse_school_code": "85001"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "VIDYALAYA KASTURBA GANDHI MARG NEW DELHI",
+    "pincode": "110001"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1954",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.bvbmehtavidyalaya.org",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Dimple Joneja",
+    "gender": "Female",
+    "qualification": "MA Hindi, M Phil Hindi, M.Ed, B. Ed",
+    "administrative_experience": "5",
+    "teaching_experience": "28"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730011",
+    "school_code": "85001",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "BHARATIYA VIDYA BHAVAN"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730011",
+      "listing_raw_columns": [
+        "101",
+        "Aff. No. : 2730011 Sch. Code: 85001",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : BHARATIYA VIDYA BHAVAN'S MEHTA Head/Principal Name: Dimple Joneja",
+        "Address : VIDYALAYA KASTURBA GANDHI MARG NEW DELHI Website : www.bvbmehtavidyalaya.org",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730011",
+      "serial_number": "101",
+      "affiliation_and_school_code": "Aff. No. : 2730011 Sch. Code: 85001",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : BHARATIYA VIDYA BHAVAN'S MEHTA Head/Principal Name: Dimple Joneja",
+      "address_and_website": "Address : VIDYALAYA KASTURBA GANDHI MARG NEW DELHI Website : www.bvbmehtavidyalaya.org"
+    },
+    "school_details": {
+      "Name of Institution": "BHARATIYA VIDYA BHAVAN'S MEHTA",
+      "Affiliation Number": "2730011",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "VIDYALAYA KASTURBA GANDHI MARG NEW DELHI",
+      "Pin Code": "110001",
+      "Website": "www.bvbmehtavidyalaya.org",
+      "Year of Foundation": "1954",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "Dimple Joneja",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA Hindi, M Phil Hindi, M.Ed, B. Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "5",
+      "Teaching:": "28",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "BHARATIYA VIDYA BHAVAN",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

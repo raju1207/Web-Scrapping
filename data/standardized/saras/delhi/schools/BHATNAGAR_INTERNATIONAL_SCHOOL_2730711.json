@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730711",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\BHATNAGAR_INTERNATIONAL_SCHOOL_2730711.json"
+  },
+  "school_identity": {
+    "school_name": "BHATNAGAR INTERNATIONAL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730711",
+    "cbse_school_code": "85419"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "BHERA ENCLAVE, PASCHIM VIHAR,",
+    "pincode": "110087"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2011",
+    "first_opening_date": "01 Apr 2011",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://www.bhatnagarinternationalschoolpv.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Vina Sharma",
+    "gender": "Female",
+    "qualification": "M.A, B.ED",
+    "administrative_experience": "15",
+    "teaching_experience": "15"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730711",
+    "school_code": "85419",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2029",
+    "trust_society": "MANAV SHIKSHA SAMITI"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730711",
+      "listing_raw_columns": [
+        "777",
+        "Aff. No. : 2730711 Sch. Code: 85419",
+        "State : DELHI District : WEST DELHI",
+        "Senior Secondary Level",
+        "Name : BHATNAGAR INTERNATIONAL SCHOOL Head/Principal Name: Vina Sharma",
+        "Address : BHERA ENCLAVE, PASCHIM VIHAR, Website : https://www.bhatnagarinternationalschoolpv.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730711",
+      "serial_number": "777",
+      "affiliation_and_school_code": "Aff. No. : 2730711 Sch. Code: 85419",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : BHATNAGAR INTERNATIONAL SCHOOL Head/Principal Name: Vina Sharma",
+      "address_and_website": "Address : BHERA ENCLAVE, PASCHIM VIHAR, Website : https://www.bhatnagarinternationalschoolpv.in/"
+    },
+    "school_details": {
+      "Name of Institution": "BHATNAGAR INTERNATIONAL SCHOOL",
+      "Affiliation Number": "2730711",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "BHERA ENCLAVE, PASCHIM VIHAR,",
+      "Pin Code": "110087",
+      "Website": "https://www.bhatnagarinternationalschoolpv.in/",
+      "Year of Foundation": "2011",
+      "Date of First Opening of School": "01 Apr 2011",
+      "Name of Principal/ Head of Institution": "Vina Sharma",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A, B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "15",
+      "Teaching:": "15",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "MANAV SHIKSHA SAMITI",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

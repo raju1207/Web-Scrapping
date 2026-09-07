@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752086",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\R._S._B._V._2752086.json"
+  },
+  "school_identity": {
+    "school_name": "R. S. B. V.",
+    "udise_code": null,
+    "cbse_affiliation_number": "2752086",
+    "cbse_school_code": "27085"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "EAST DELHI",
+    "block": null,
+    "address": "SCHOOL BLOCK SHAKARPUR DELHI",
+    "pincode": "110092"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1997",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "AVADHESH KUMAR",
+    "gender": "Male",
+    "qualification": "M.Sc. M.Ed",
+    "administrative_experience": "12",
+    "teaching_experience": "26"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2752086",
+    "school_code": "27085",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "dir. of edu."
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2752086",
+      "listing_raw_columns": [
+        "1203",
+        "Aff. No. : 2752086 Sch. Code: 27085",
+        "State : DELHI District : EAST DELHI",
+        "Senior Secondary Level",
+        "Name : R. S. B. V. Head/Principal Name: AVADHESH KUMAR",
+        "Address : SCHOOL BLOCK SHAKARPUR DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752086",
+      "serial_number": "1203",
+      "affiliation_and_school_code": "Aff. No. : 2752086 Sch. Code: 27085",
+      "state_and_district": "State : DELHI District : EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : R. S. B. V. Head/Principal Name: AVADHESH KUMAR",
+      "address_and_website": "Address : SCHOOL BLOCK SHAKARPUR DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "R. S. B. V.",
+      "Affiliation Number": "2752086",
+      "State": "DELHI",
+      "District": "EAST DELHI",
+      "Postal Address": "SCHOOL BLOCK SHAKARPUR DELHI",
+      "Pin Code": "110092",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "1997",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "AVADHESH KUMAR",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.Sc. M.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "12",
+      "Teaching:": "26",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "dir. of edu.",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

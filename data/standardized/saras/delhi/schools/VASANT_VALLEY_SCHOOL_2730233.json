@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730233",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\VASANT_VALLEY_SCHOOL_2730233.json"
+  },
+  "school_identity": {
+    "school_name": "VASANT VALLEY SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730233",
+    "cbse_school_code": "25081"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH DELHI",
+    "block": null,
+    "address": "SECTOR C VASANT KUNJ, DISTT SOUTH DELHI, NEW DELHI",
+    "pincode": "110070"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1990",
+    "first_opening_date": "02 Apr 1990",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.vasantvalley.org",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Sharmila Bakshi",
+    "gender": "Female",
+    "qualification": "M.A, B.Ed, M.Phil",
+    "administrative_experience": "6",
+    "teaching_experience": "14"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730233",
+    "school_code": "25081",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "INTERNATIONAL HINDU SCHOOL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730233",
+      "listing_raw_columns": [
+        "319",
+        "Aff. No. : 2730233 Sch. Code: 25081",
+        "State : DELHI District : SOUTH DELHI",
+        "Senior Secondary Level",
+        "Name : VASANT VALLEY SCHOOL Head/Principal Name: Sharmila Bakshi",
+        "Address : SECTOR C VASANT KUNJ, DISTT SOUTH DELHI, NEW DELHI Website : www.vasantvalley.org",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730233",
+      "serial_number": "319",
+      "affiliation_and_school_code": "Aff. No. : 2730233 Sch. Code: 25081",
+      "state_and_district": "State : DELHI District : SOUTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : VASANT VALLEY SCHOOL Head/Principal Name: Sharmila Bakshi",
+      "address_and_website": "Address : SECTOR C VASANT KUNJ, DISTT SOUTH DELHI, NEW DELHI Website : www.vasantvalley.org"
+    },
+    "school_details": {
+      "Name of Institution": "VASANT VALLEY SCHOOL",
+      "Affiliation Number": "2730233",
+      "State": "DELHI",
+      "District": "SOUTH DELHI",
+      "Postal Address": "SECTOR C VASANT KUNJ, DISTT SOUTH DELHI, NEW DELHI",
+      "Pin Code": "110070",
+      "Website": "www.vasantvalley.org",
+      "Year of Foundation": "1990",
+      "Date of First Opening of School": "02 Apr 1990",
+      "Name of Principal/ Head of Institution": "Sharmila Bakshi",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A, B.Ed, M.Phil",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "6",
+      "Teaching:": "14",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "INTERNATIONAL HINDU SCHOOL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

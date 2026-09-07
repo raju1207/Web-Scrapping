@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752090",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_BOYS_SEC_SCHOOL_2752090.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT BOYS SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2752090",
+    "cbse_school_code": "87346"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH EAST DELHI",
+    "block": null,
+    "address": "MUSTAFABAD DELHI",
+    "pincode": "110094"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1990",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.org.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "PARIKSHIT KUMAR",
+    "gender": "Male",
+    "qualification": "M.Com./M.Ed.",
+    "administrative_experience": "7",
+    "teaching_experience": "20"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2752090",
+    "school_code": "87346",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2020",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2020 To : 31/03/2030",
+    "trust_society": "DIR.OF EDUCATION"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2752090",
+      "listing_raw_columns": [
+        "1207",
+        "Aff. No. : 2752090 Sch. Code: 87346",
+        "State : DELHI District : NORTH EAST DELHI",
+        "Secondary Level",
+        "Name : GOVT BOYS SEC SCHOOL Head/Principal Name: PARIKSHIT KUMAR",
+        "Address : MUSTAFABAD DELHI Website : www.org.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752090",
+      "serial_number": "1207",
+      "affiliation_and_school_code": "Aff. No. : 2752090 Sch. Code: 87346",
+      "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : GOVT BOYS SEC SCHOOL Head/Principal Name: PARIKSHIT KUMAR",
+      "address_and_website": "Address : MUSTAFABAD DELHI Website : www.org.com"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT BOYS SEC SCHOOL",
+      "Affiliation Number": "2752090",
+      "State": "DELHI",
+      "District": "NORTH EAST DELHI",
+      "Postal Address": "MUSTAFABAD DELHI",
+      "Pin Code": "110094",
+      "Website": "www.org.com",
+      "Year of Foundation": "1990",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "PARIKSHIT KUMAR",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.Com./M.Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "7",
+      "Teaching:": "20",
+      "Status of The School": "Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2020 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "DIR.OF EDUCATION",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730662",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\JINDAL_INTERNATIONAL_SCHOOL_2730662.json"
+  },
+  "school_identity": {
+    "school_name": "JINDAL INTERNATIONAL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730662",
+    "cbse_school_code": "85087"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "SHAHBAD DAULATPUR, MAIN BAWANA ROAD, SECTOR-28, ROHINI, PHASE - IV",
+    "pincode": "110042"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1997",
+    "first_opening_date": "27 Mar 1997",
+    "gender_type": null
+  },
+  "contact": {
+    "website": null,
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Niti Sharma",
+    "gender": "Unknown",
+    "qualification": "M.A. B.Ed.",
+    "administrative_experience": "07",
+    "teaching_experience": "10"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730662",
+    "school_code": "85087",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2016",
+    "affiliation_to": "31/03/2021",
+    "affiliation_period_raw": "From : 01/04/2016 To : 31/03/2021",
+    "trust_society": "Ram Dhari Jindal Memorial Trust"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730662",
+      "listing_raw_columns": [
+        "730",
+        "Aff. No. : 2730662 Sch. Code: 85087",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : JINDAL INTERNATIONAL SCHOOL Head/Principal Name: Niti Sharma",
+        "Address : SHAHBAD DAULATPUR, MAIN BAWANA ROAD, SECTOR-28, ROHINI, PHASE - IV Website :",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730662",
+      "serial_number": "730",
+      "affiliation_and_school_code": "Aff. No. : 2730662 Sch. Code: 85087",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : JINDAL INTERNATIONAL SCHOOL Head/Principal Name: Niti Sharma",
+      "address_and_website": "Address : SHAHBAD DAULATPUR, MAIN BAWANA ROAD, SECTOR-28, ROHINI, PHASE - IV Website :"
+    },
+    "school_details": {
+      "Name of Institution": "JINDAL INTERNATIONAL SCHOOL",
+      "Affiliation Number": "2730662",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "SHAHBAD DAULATPUR, MAIN BAWANA ROAD, SECTOR-28, ROHINI, PHASE - IV",
+      "Pin Code": "110042",
+      "Website": null,
+      "Year of Foundation": "1997",
+      "Date of First Opening of School": "27 Mar 1997",
+      "Name of Principal/ Head of Institution": "Niti Sharma",
+      "Gender": "Unknown",
+      "Principal's Educational/Professional Qualifications:": "M.A. B.Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "07",
+      "Teaching:": "10",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2016 To : 31/03/2021",
+      "Name of Trust/ Society/ Managing Committee": "Ram Dhari Jindal Memorial Trust",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

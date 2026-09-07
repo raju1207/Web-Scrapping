@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2758010",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\ATAL_ADARSH_VIDYALYA_2758010.json"
+  },
+  "school_identity": {
+    "school_name": "ATAL ADARSH VIDYALYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2758010",
+    "cbse_school_code": "27403"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "AURANGZEB LANE NEW DELHI",
+    "pincode": "110011"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT AIDED",
+    "foundation_year": "1968",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://www.ndmc.gov.in/Default.aspx",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "PANKAJ SHARMA",
+    "gender": "Male",
+    "qualification": "M.A.",
+    "administrative_experience": "10",
+    "teaching_experience": "35"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2758010",
+    "school_code": "27403",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "n d m c, palika kendra"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2758010",
+      "listing_raw_columns": [
+        "1584",
+        "Aff. No. : 2758010 Sch. Code: 27403",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : ATAL ADARSH VIDYALYA Head/Principal Name: PANKAJ SHARMA",
+        "Address : AURANGZEB LANE NEW DELHI Website : https://www.ndmc.gov.in/Default.aspx",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2758010",
+      "serial_number": "1584",
+      "affiliation_and_school_code": "Aff. No. : 2758010 Sch. Code: 27403",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : ATAL ADARSH VIDYALYA Head/Principal Name: PANKAJ SHARMA",
+      "address_and_website": "Address : AURANGZEB LANE NEW DELHI Website : https://www.ndmc.gov.in/Default.aspx"
+    },
+    "school_details": {
+      "Name of Institution": "ATAL ADARSH VIDYALYA",
+      "Affiliation Number": "2758010",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "AURANGZEB LANE NEW DELHI",
+      "Pin Code": "110011",
+      "Website": "https://www.ndmc.gov.in/Default.aspx",
+      "Year of Foundation": "1968",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "PANKAJ SHARMA",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.A.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "10",
+      "Teaching:": "35",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT AIDED",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "n d m c, palika kendra",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

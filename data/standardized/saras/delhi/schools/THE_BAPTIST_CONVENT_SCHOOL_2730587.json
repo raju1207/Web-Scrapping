@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730587",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\THE_BAPTIST_CONVENT_SCHOOL_2730587.json"
+  },
+  "school_identity": {
+    "school_name": "THE BAPTIST CONVENT SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730587",
+    "cbse_school_code": "25038"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "EAST DELHI",
+    "block": null,
+    "address": "C.G.H.S. COMPLEX, NEAR BALCO MARKET, I.P. EXTN., PATPARGANJ, DELHI-92",
+    "pincode": "110092"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1989",
+    "first_opening_date": "24 Feb 1988",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.baptistconventschool.org",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "MAHIMA",
+    "gender": "Female",
+    "qualification": "B.ED, PH.D",
+    "administrative_experience": "19",
+    "teaching_experience": "08"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730587",
+    "school_code": "25038",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "The Baptist Educational Society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730587",
+      "listing_raw_columns": [
+        "657",
+        "Aff. No. : 2730587 Sch. Code: 25038",
+        "State : DELHI District : EAST DELHI",
+        "Senior Secondary Level",
+        "Name : THE BAPTIST CONVENT SCHOOL Head/Principal Name: MAHIMA",
+        "Address : C.G.H.S. COMPLEX, NEAR BALCO MARKET, I.P. EXTN., PATPARGANJ, DELHI-92 Website : www.baptistconventschool.org",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730587",
+      "serial_number": "657",
+      "affiliation_and_school_code": "Aff. No. : 2730587 Sch. Code: 25038",
+      "state_and_district": "State : DELHI District : EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : THE BAPTIST CONVENT SCHOOL Head/Principal Name: MAHIMA",
+      "address_and_website": "Address : C.G.H.S. COMPLEX, NEAR BALCO MARKET, I.P. EXTN., PATPARGANJ, DELHI-92 Website : www.baptistconventschool.org"
+    },
+    "school_details": {
+      "Name of Institution": "THE BAPTIST CONVENT SCHOOL",
+      "Affiliation Number": "2730587",
+      "State": "DELHI",
+      "District": "EAST DELHI",
+      "Postal Address": "C.G.H.S. COMPLEX, NEAR BALCO MARKET, I.P. EXTN., PATPARGANJ, DELHI-92",
+      "Pin Code": "110092",
+      "Website": "www.baptistconventschool.org",
+      "Year of Foundation": "1989",
+      "Date of First Opening of School": "24 Feb 1988",
+      "Name of Principal/ Head of Institution": "MAHIMA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "B.ED, PH.D",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "19",
+      "Teaching:": "08",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "The Baptist Educational Society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

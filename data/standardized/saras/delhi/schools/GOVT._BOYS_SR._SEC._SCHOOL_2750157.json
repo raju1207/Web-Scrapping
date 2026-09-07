@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750157",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT._BOYS_SR._SEC._SCHOOL_2750157.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT. BOYS SR. SEC. SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2750157",
+    "cbse_school_code": "87495"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "BLOCK - A, SECTOR - 16. ROHINI",
+    "pincode": "110089"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2011",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "BACHCHU SINGH MEENA",
+    "gender": "Male",
+    "qualification": "MA B ED",
+    "administrative_experience": "2",
+    "teaching_experience": "2"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2750157",
+    "school_code": "87495",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "arya samaj g hr sec school trust"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2750157",
+      "listing_raw_columns": [
+        "1104",
+        "Aff. No. : 2750157 Sch. Code: 87495",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT. BOYS SR. SEC. SCHOOL Head/Principal Name: BACHCHU SINGH MEENA",
+        "Address : BLOCK - A, SECTOR - 16. ROHINI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750157",
+      "serial_number": "1104",
+      "affiliation_and_school_code": "Aff. No. : 2750157 Sch. Code: 87495",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT. BOYS SR. SEC. SCHOOL Head/Principal Name: BACHCHU SINGH MEENA",
+      "address_and_website": "Address : BLOCK - A, SECTOR - 16. ROHINI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT. BOYS SR. SEC. SCHOOL",
+      "Affiliation Number": "2750157",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "BLOCK - A, SECTOR - 16. ROHINI",
+      "Pin Code": "110089",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "2011",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "BACHCHU SINGH MEENA",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "MA B ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "2",
+      "Teaching:": "2",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "arya samaj g hr sec school trust",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

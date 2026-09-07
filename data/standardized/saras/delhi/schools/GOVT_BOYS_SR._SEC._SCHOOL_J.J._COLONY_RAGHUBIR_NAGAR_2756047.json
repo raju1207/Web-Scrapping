@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756047",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_BOYS_SR._SEC._SCHOOL_J.J._COLONY_RAGHUBIR_NAGAR_2756047.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT BOYS SR. SEC. SCHOOL J.J. COLONY RAGHUBIR NAGAR",
+    "udise_code": null,
+    "cbse_affiliation_number": "2756047",
+    "cbse_school_code": "87576"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "J J COLONY RAGHUBIR NAGAR NEW DELHI",
+    "pincode": "110027"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1976",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "BALJIT SINGH YADAV",
+    "gender": "Male",
+    "qualification": "MA. M.ED",
+    "administrative_experience": "7",
+    "teaching_experience": "25"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2756047",
+    "school_code": "87576",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "DELHI ADMN"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2756047",
+      "listing_raw_columns": [
+        "1437",
+        "Aff. No. : 2756047 Sch. Code: 87576",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT BOYS SR. SEC. SCHOOL J.J. COLONY RAGHUBIR NAGAR Head/Principal Name: BALJIT SINGH YADAV",
+        "Address : J J COLONY RAGHUBIR NAGAR NEW DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756047",
+      "serial_number": "1437",
+      "affiliation_and_school_code": "Aff. No. : 2756047 Sch. Code: 87576",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT BOYS SR. SEC. SCHOOL J.J. COLONY RAGHUBIR NAGAR Head/Principal Name: BALJIT SINGH YADAV",
+      "address_and_website": "Address : J J COLONY RAGHUBIR NAGAR NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT BOYS SR. SEC. SCHOOL J.J. COLONY RAGHUBIR NAGAR",
+      "Affiliation Number": "2756047",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "J J COLONY RAGHUBIR NAGAR NEW DELHI",
+      "Pin Code": "110027",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "1976",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "BALJIT SINGH YADAV",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "MA. M.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "7",
+      "Teaching:": "25",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "DELHI ADMN",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

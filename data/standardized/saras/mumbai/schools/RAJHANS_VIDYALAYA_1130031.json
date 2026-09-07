@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130031",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\RAJHANS_VIDYALAYA_1130031.json"
+  },
+  "school_identity": {
+    "school_name": "RAJHANS VIDYALAYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "1130031",
+    "cbse_school_code": "30014"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "block": null,
+    "address": "H M P SCHOOL CAMPUS ANDHERI WEST, DISTT MUMBAI, MAHARASHTRA",
+    "pincode": "400058"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1984",
+    "first_opening_date": "01 Jul 2005",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.bkhm.edu.in/rajhans",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "RITU HEMANT DUBEY",
+    "gender": "Female",
+    "qualification": "MA Edu., M A in Litreature, B SC., B ED",
+    "administrative_experience": "10",
+    "teaching_experience": "19"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1130031",
+    "school_code": "30014",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "BAI KABIBAI AND HANSRAJ MORARJI CHARITY TRUST"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1130031",
+      "listing_raw_columns": [
+        "16",
+        "Aff. No. : 1130031 Sch. Code: 30014",
+        "State : MAHARASHTRA District : MUMBAI",
+        "Senior Secondary Level",
+        "Name : RAJHANS VIDYALAYA Head/Principal Name: RITU HEMANT DUBEY",
+        "Address : H M P SCHOOL CAMPUS ANDHERI WEST, DISTT MUMBAI, MAHARASHTRA Website : www.bkhm.edu.in/rajhans",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130031",
+      "serial_number": "16",
+      "affiliation_and_school_code": "Aff. No. : 1130031 Sch. Code: 30014",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : RAJHANS VIDYALAYA Head/Principal Name: RITU HEMANT DUBEY",
+      "address_and_website": "Address : H M P SCHOOL CAMPUS ANDHERI WEST, DISTT MUMBAI, MAHARASHTRA Website : www.bkhm.edu.in/rajhans",
+      "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+      "Name of Institution": "RAJHANS VIDYALAYA",
+      "Affiliation Number": "1130031",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI",
+      "Postal Address": "H M P SCHOOL CAMPUS ANDHERI WEST, DISTT MUMBAI, MAHARASHTRA",
+      "Pin Code": "400058",
+      "Website": "www.bkhm.edu.in/rajhans",
+      "Year of Foundation": "1984",
+      "Date of First Opening of School": "01 Jul 2005",
+      "Name of Principal/ Head of Institution": "RITU HEMANT DUBEY",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA Edu., M A in Litreature, B SC., B ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "10",
+      "Teaching:": "19",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "BAI KABIBAI AND HANSRAJ MORARJI CHARITY TRUST",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730053",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SARASWATI_BAL_MANDIR_2730053.json"
+  },
+  "school_identity": {
+    "school_name": "SARASWATI BAL MANDIR",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730053",
+    "cbse_school_code": "85017"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "CENTRAL DELHI",
+    "block": null,
+    "address": "JHANDEWALAN OPP NAAZ CINEMA NEW DELHI",
+    "pincode": "110055"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1981",
+    "first_opening_date": "27 Mar 2019",
+    "gender_type": null
+  },
+  "contact": {
+    "website": null,
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "ANJU SHARMA",
+    "gender": "Male",
+    "qualification": "M.Com.B.Ed.",
+    "administrative_experience": "6",
+    "teaching_experience": "28"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730053",
+    "school_code": "85017",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2019",
+    "affiliation_to": "31/03/2024",
+    "affiliation_period_raw": "From : 01/04/2019 To : 31/03/2024",
+    "trust_society": "SAMARTH SHIKSHA SAMITI DELHI REGD"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730053",
+      "listing_raw_columns": [
+        "142",
+        "Aff. No. : 2730053 Sch. Code: 85017",
+        "State : DELHI District : CENTRAL DELHI",
+        "Secondary Level",
+        "Name : SARASWATI BAL MANDIR Head/Principal Name: ANJU SHARMA",
+        "Address : JHANDEWALAN OPP NAAZ CINEMA NEW DELHI Website :",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730053",
+      "serial_number": "142",
+      "affiliation_and_school_code": "Aff. No. : 2730053 Sch. Code: 85017",
+      "state_and_district": "State : DELHI District : CENTRAL DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : SARASWATI BAL MANDIR Head/Principal Name: ANJU SHARMA",
+      "address_and_website": "Address : JHANDEWALAN OPP NAAZ CINEMA NEW DELHI Website :"
+    },
+    "school_details": {
+      "Name of Institution": "SARASWATI BAL MANDIR",
+      "Affiliation Number": "2730053",
+      "State": "DELHI",
+      "District": "CENTRAL DELHI",
+      "Postal Address": "JHANDEWALAN OPP NAAZ CINEMA NEW DELHI",
+      "Pin Code": "110055",
+      "Website": null,
+      "Year of Foundation": "1981",
+      "Date of First Opening of School": "27 Mar 2019",
+      "Name of Principal/ Head of Institution": "ANJU SHARMA",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.Com.B.Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "6",
+      "Teaching:": "28",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2019 To : 31/03/2024",
+      "Name of Trust/ Society/ Managing Committee": "SAMARTH SHIKSHA SAMITI DELHI REGD",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

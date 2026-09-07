@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730280",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\MAYUR_PUBLIC_SCHOOL_2730280.json"
+  },
+  "school_identity": {
+    "school_name": "MAYUR PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730280",
+    "cbse_school_code": "25032"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "EAST DELHI",
+    "block": null,
+    "address": "BEHIND MOTHER DIARY I P EXTN. DELHI",
+    "pincode": "110092"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1988",
+    "first_opening_date": "15 Apr 2002",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.mayurpublicschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SWATI VERMA",
+    "gender": "Female",
+    "qualification": "M A English, B ED",
+    "administrative_experience": "5",
+    "teaching_experience": "5"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730280",
+    "school_code": "25032",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "Mayur Educational Society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730280",
+      "listing_raw_columns": [
+        "365",
+        "Aff. No. : 2730280 Sch. Code: 25032",
+        "State : DELHI District : EAST DELHI",
+        "Senior Secondary Level",
+        "Name : MAYUR PUBLIC SCHOOL Head/Principal Name: SWATI VERMA",
+        "Address : BEHIND MOTHER DIARY I P EXTN. DELHI Website : www.mayurpublicschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730280",
+      "serial_number": "365",
+      "affiliation_and_school_code": "Aff. No. : 2730280 Sch. Code: 25032",
+      "state_and_district": "State : DELHI District : EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : MAYUR PUBLIC SCHOOL Head/Principal Name: SWATI VERMA",
+      "address_and_website": "Address : BEHIND MOTHER DIARY I P EXTN. DELHI Website : www.mayurpublicschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "MAYUR PUBLIC SCHOOL",
+      "Affiliation Number": "2730280",
+      "State": "DELHI",
+      "District": "EAST DELHI",
+      "Postal Address": "BEHIND MOTHER DIARY I P EXTN. DELHI",
+      "Pin Code": "110092",
+      "Website": "www.mayurpublicschool.com",
+      "Year of Foundation": "1988",
+      "Date of First Opening of School": "15 Apr 2002",
+      "Name of Principal/ Head of Institution": "SWATI VERMA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M A English, B ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "5",
+      "Teaching:": "5",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "Mayur Educational Society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730853",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\HANSRAJ_INTERNATIONAL_SCHOOL_2730853.json"
+  },
+  "school_identity": {
+    "school_name": "HANSRAJ INTERNATIONAL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730853",
+    "cbse_school_code": "85515"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "GOL MARKET, PARTAP VIHAR, PART-I, KIRARI SULEMAN NAGAR, DELHI-110086",
+    "pincode": "110086"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2007",
+    "first_opening_date": "01 Apr 2007",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.hansrajinternationalschool.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "MOHIT VIJAYRAN",
+    "gender": "Male",
+    "qualification": "MA",
+    "administrative_experience": "3",
+    "teaching_experience": "3"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730853",
+    "school_code": "85515",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "HANSRAJ MEMORIAL EDUCATIONAL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730853",
+      "listing_raw_columns": [
+        "912",
+        "Aff. No. : 2730853 Sch. Code: 85515",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Secondary Level",
+        "Name : HANSRAJ INTERNATIONAL SCHOOL Head/Principal Name: MOHIT VIJAYRAN",
+        "Address : GOL MARKET, PARTAP VIHAR, PART-I, KIRARI SULEMAN NAGAR, DELHI-110086 Website : www.hansrajinternationalschool.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730853",
+      "serial_number": "912",
+      "affiliation_and_school_code": "Aff. No. : 2730853 Sch. Code: 85515",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : HANSRAJ INTERNATIONAL SCHOOL Head/Principal Name: MOHIT VIJAYRAN",
+      "address_and_website": "Address : GOL MARKET, PARTAP VIHAR, PART-I, KIRARI SULEMAN NAGAR, DELHI-110086 Website : www.hansrajinternationalschool.in"
+    },
+    "school_details": {
+      "Name of Institution": "HANSRAJ INTERNATIONAL SCHOOL",
+      "Affiliation Number": "2730853",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "GOL MARKET, PARTAP VIHAR, PART-I, KIRARI SULEMAN NAGAR, DELHI-110086",
+      "Pin Code": "110086",
+      "Website": "www.hansrajinternationalschool.in",
+      "Year of Foundation": "2007",
+      "Date of First Opening of School": "01 Apr 2007",
+      "Name of Principal/ Head of Institution": "MOHIT VIJAYRAN",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "MA",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "3",
+      "Teaching:": "3",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "HANSRAJ MEMORIAL EDUCATIONAL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

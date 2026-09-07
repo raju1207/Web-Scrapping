@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730116",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\DARBARI_LAL_D_A_V_MODEL_SR.SEC_SCH_2730116.json"
+  },
+  "school_identity": {
+    "school_name": "DARBARI LAL D A V MODEL SR.SEC SCH",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730116",
+    "cbse_school_code": "85203"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "ND BLOCK VISHAKHA ENCLAVE PITAMPURA DELHI",
+    "pincode": "110034"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1981",
+    "first_opening_date": "01 Apr 2005",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.dldavpp.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "ANUPAMA SINHA",
+    "gender": "Female",
+    "qualification": "M.SC",
+    "administrative_experience": "12",
+    "teaching_experience": "16"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730116",
+    "school_code": "85203",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "DAV COLLEGE MANAGING COMMITEE"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730116",
+      "listing_raw_columns": [
+        "204",
+        "Aff. No. : 2730116 Sch. Code: 85203",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : DARBARI LAL D A V MODEL SR.SEC SCH Head/Principal Name: ANUPAMA SINHA",
+        "Address : ND BLOCK VISHAKHA ENCLAVE PITAMPURA DELHI Website : www.dldavpp.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730116",
+      "serial_number": "204",
+      "affiliation_and_school_code": "Aff. No. : 2730116 Sch. Code: 85203",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : DARBARI LAL D A V MODEL SR.SEC SCH Head/Principal Name: ANUPAMA SINHA",
+      "address_and_website": "Address : ND BLOCK VISHAKHA ENCLAVE PITAMPURA DELHI Website : www.dldavpp.in"
+    },
+    "school_details": {
+      "Name of Institution": "DARBARI LAL D A V MODEL SR.SEC SCH",
+      "Affiliation Number": "2730116",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "ND BLOCK VISHAKHA ENCLAVE PITAMPURA DELHI",
+      "Pin Code": "110034",
+      "Website": "www.dldavpp.in",
+      "Year of Foundation": "1981",
+      "Date of First Opening of School": "01 Apr 2005",
+      "Name of Principal/ Head of Institution": "ANUPAMA SINHA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.SC",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "12",
+      "Teaching:": "16",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "DAV COLLEGE MANAGING COMMITEE",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

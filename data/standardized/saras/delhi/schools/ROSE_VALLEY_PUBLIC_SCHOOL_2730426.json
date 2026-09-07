@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730426",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\ROSE_VALLEY_PUBLIC_SCHOOL_2730426.json"
+  },
+  "school_identity": {
+    "school_name": "ROSE VALLEY PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730426",
+    "cbse_school_code": "25390"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "RZ 20 NATHAN VIHAR NANGLOI NAJAFGARH ROAD NEW DELHI",
+    "pincode": null
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1998",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://rosevalleypublicschool.org/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "PREETI BHAMBHU",
+    "gender": "Female",
+    "qualification": "B.ED",
+    "administrative_experience": "9",
+    "teaching_experience": "10"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730426",
+    "school_code": "25390",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2031",
+    "trust_society": "ROSE VALLEY EDU SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730426",
+      "listing_raw_columns": [
+        "501",
+        "Aff. No. : 2730426 Sch. Code: 25390",
+        "State : DELHI District : WEST DELHI",
+        "Secondary Level",
+        "Name : ROSE VALLEY PUBLIC SCHOOL Head/Principal Name: PREETI BHAMBHU",
+        "Address : RZ 20 NATHAN VIHAR NANGLOI NAJAFGARH ROAD NEW DELHI Website : https://rosevalleypublicschool.org/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730426",
+      "serial_number": "501",
+      "affiliation_and_school_code": "Aff. No. : 2730426 Sch. Code: 25390",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : ROSE VALLEY PUBLIC SCHOOL Head/Principal Name: PREETI BHAMBHU",
+      "address_and_website": "Address : RZ 20 NATHAN VIHAR NANGLOI NAJAFGARH ROAD NEW DELHI Website : https://rosevalleypublicschool.org/"
+    },
+    "school_details": {
+      "Name of Institution": "ROSE VALLEY PUBLIC SCHOOL",
+      "Affiliation Number": "2730426",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "RZ 20 NATHAN VIHAR NANGLOI NAJAFGARH ROAD NEW DELHI",
+      "Pin Code": null,
+      "Website": "https://rosevalleypublicschool.org/",
+      "Year of Foundation": "1998",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "PREETI BHAMBHU",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "9",
+      "Teaching:": "10",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "ROSE VALLEY EDU SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

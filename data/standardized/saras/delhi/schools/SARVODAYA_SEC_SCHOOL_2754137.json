@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754137",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SARVODAYA_SEC_SCHOOL_2754137.json"
+  },
+  "school_identity": {
+    "school_name": "SARVODAYA SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2754137",
+    "cbse_school_code": "27104"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH EAST DELHI",
+    "block": null,
+    "address": "BADAPUR, KHADAR, DELHI",
+    "pincode": "110094"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2012",
+    "first_opening_date": "10 Oct 2017",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "svbpkvicep@gmail.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "MANOJ KUMAR",
+    "gender": "Male",
+    "qualification": "Ph D",
+    "administrative_experience": "5",
+    "teaching_experience": "18"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2754137",
+    "school_code": "27104",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2018",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2018 To : 31/03/2029",
+    "trust_society": null
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2754137",
+      "listing_raw_columns": [
+        "1386",
+        "Aff. No. : 2754137 Sch. Code: 27104",
+        "State : DELHI District : NORTH EAST DELHI",
+        "Senior Secondary Level",
+        "Name : SARVODAYA SEC SCHOOL Head/Principal Name: MANOJ KUMAR",
+        "Address : BADAPUR, KHADAR, DELHI Website : svbpkvicep@gmail.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754137",
+      "serial_number": "1386",
+      "affiliation_and_school_code": "Aff. No. : 2754137 Sch. Code: 27104",
+      "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SARVODAYA SEC SCHOOL Head/Principal Name: MANOJ KUMAR",
+      "address_and_website": "Address : BADAPUR, KHADAR, DELHI Website : svbpkvicep@gmail.com"
+    },
+    "school_details": {
+      "Name of Institution": "SARVODAYA SEC SCHOOL",
+      "Affiliation Number": "2754137",
+      "State": "DELHI",
+      "District": "NORTH EAST DELHI",
+      "Postal Address": "BADAPUR, KHADAR, DELHI",
+      "Pin Code": "110094",
+      "Website": "svbpkvicep@gmail.com",
+      "Year of Foundation": "2012",
+      "Date of First Opening of School": "10 Oct 2017",
+      "Name of Principal/ Head of Institution": "MANOJ KUMAR",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "Ph D",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "5",
+      "Teaching:": "18",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2018 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": null,
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

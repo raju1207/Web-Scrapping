@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130253",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\MAHAPRAGYA_PUBLIC_SCHOOL_1130253.json"
+  },
+  "school_identity": {
+    "school_name": "MAHAPRAGYA PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "1130253",
+    "cbse_school_code": "30215"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "block": null,
+    "address": "32, DADI SETH AGAYARI LANE,",
+    "pincode": "400002"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2005",
+    "first_opening_date": "10 Jun 2005",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "http://mahapragyapublicschool.com/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Saroj Machado",
+    "gender": "Female",
+    "qualification": "D.ED, B.A, M.A, B.Ed, M.Ed",
+    "administrative_experience": "04",
+    "teaching_experience": "25"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1130253",
+    "school_code": "30215",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "Acharya Mahapragya Vidya Nidhi Foundation"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1130253",
+      "listing_raw_columns": [
+        "29",
+        "Aff. No. : 1130253 Sch. Code: 30215",
+        "State : MAHARASHTRA District : MUMBAI",
+        "Secondary Level",
+        "Name : MAHAPRAGYA PUBLIC SCHOOL Head/Principal Name: Saroj Machado",
+        "Address : 32, DADI SETH AGAYARI LANE, Website : http://mahapragyapublicschool.com/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130253",
+      "serial_number": "29",
+      "affiliation_and_school_code": "Aff. No. : 1130253 Sch. Code: 30215",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : MAHAPRAGYA PUBLIC SCHOOL Head/Principal Name: Saroj Machado",
+      "address_and_website": "Address : 32, DADI SETH AGAYARI LANE, Website : http://mahapragyapublicschool.com/",
+      "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+      "Name of Institution": "MAHAPRAGYA PUBLIC SCHOOL",
+      "Affiliation Number": "1130253",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI",
+      "Postal Address": "32, DADI SETH AGAYARI LANE,",
+      "Pin Code": "400002",
+      "Website": "http://mahapragyapublicschool.com/",
+      "Year of Foundation": "2005",
+      "Date of First Opening of School": "10 Jun 2005",
+      "Name of Principal/ Head of Institution": "Saroj Machado",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "D.ED, B.A, M.A, B.Ed, M.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "04",
+      "Teaching:": "25",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "Acharya Mahapragya Vidya Nidhi Foundation",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

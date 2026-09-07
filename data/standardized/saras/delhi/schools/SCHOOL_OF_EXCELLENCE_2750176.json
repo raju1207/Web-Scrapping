@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750176",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SCHOOL_OF_EXCELLENCE_2750176.json"
+  },
+  "school_identity": {
+    "school_name": "SCHOOL OF EXCELLENCE",
+    "udise_code": null,
+    "cbse_affiliation_number": "2750176",
+    "cbse_school_code": "87501"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "SECT-17, ROHINI, DELHI-110085",
+    "pincode": null
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2018",
+    "first_opening_date": "09 Oct 2018",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "PAWAN KUMAR",
+    "gender": "Male",
+    "qualification": "Post Graduate",
+    "administrative_experience": "5",
+    "teaching_experience": "20"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2750176",
+    "school_code": "87501",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "kendriya vidyalaya sangathan"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2750176",
+      "listing_raw_columns": [
+        "1123",
+        "Aff. No. : 2750176 Sch. Code: 87501",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : SCHOOL OF EXCELLENCE Head/Principal Name: PAWAN KUMAR",
+        "Address : SECT-17, ROHINI, DELHI-110085 Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750176",
+      "serial_number": "1123",
+      "affiliation_and_school_code": "Aff. No. : 2750176 Sch. Code: 87501",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SCHOOL OF EXCELLENCE Head/Principal Name: PAWAN KUMAR",
+      "address_and_website": "Address : SECT-17, ROHINI, DELHI-110085 Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "SCHOOL OF EXCELLENCE",
+      "Affiliation Number": "2750176",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "SECT-17, ROHINI, DELHI-110085",
+      "Pin Code": null,
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "2018",
+      "Date of First Opening of School": "09 Oct 2018",
+      "Name of Principal/ Head of Institution": "PAWAN KUMAR",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "Post Graduate",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "5",
+      "Teaching:": "20",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "kendriya vidyalaya sangathan",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730467",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SHIKHA_DEEP_VIDYALAYA_2730467.json"
+  },
+  "school_identity": {
+    "school_name": "SHIKHA DEEP VIDYALAYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730467",
+    "cbse_school_code": "85352"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "C-59 VIKAS NAGAR HASTSAL NEW DELHI",
+    "pincode": "110059"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1995",
+    "first_opening_date": "23 Mar 1998",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.shikhadeepvidyalaya.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "ANJU GIRSA",
+    "gender": "Female",
+    "qualification": "M.A B.ED",
+    "administrative_experience": "8",
+    "teaching_experience": "16"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730467",
+    "school_code": "85352",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "JOG PAL EDUCATIONAL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730467",
+      "listing_raw_columns": [
+        "541",
+        "Aff. No. : 2730467 Sch. Code: 85352",
+        "State : DELHI District : NEW DELHI",
+        "Secondary Level",
+        "Name : SHIKHA DEEP VIDYALAYA Head/Principal Name: ANJU GIRSA",
+        "Address : C-59 VIKAS NAGAR HASTSAL NEW DELHI Website : www.shikhadeepvidyalaya.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730467",
+      "serial_number": "541",
+      "affiliation_and_school_code": "Aff. No. : 2730467 Sch. Code: 85352",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : SHIKHA DEEP VIDYALAYA Head/Principal Name: ANJU GIRSA",
+      "address_and_website": "Address : C-59 VIKAS NAGAR HASTSAL NEW DELHI Website : www.shikhadeepvidyalaya.in"
+    },
+    "school_details": {
+      "Name of Institution": "SHIKHA DEEP VIDYALAYA",
+      "Affiliation Number": "2730467",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "C-59 VIKAS NAGAR HASTSAL NEW DELHI",
+      "Pin Code": "110059",
+      "Website": "www.shikhadeepvidyalaya.in",
+      "Year of Foundation": "1995",
+      "Date of First Opening of School": "23 Mar 1998",
+      "Name of Principal/ Head of Institution": "ANJU GIRSA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "8",
+      "Teaching:": "16",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "JOG PAL EDUCATIONAL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

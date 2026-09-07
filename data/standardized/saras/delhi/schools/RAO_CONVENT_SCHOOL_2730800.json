@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730800",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\RAO_CONVENT_SCHOOL_2730800.json"
+  },
+  "school_identity": {
+    "school_name": "RAO CONVENT SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730800",
+    "cbse_school_code": "25374"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "VILL PANDWALA KHURD, NAJAFGARH, NEW DELHI -110043",
+    "pincode": "110043"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2001",
+    "first_opening_date": "01 Apr 2000",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.raoconventschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Promila",
+    "gender": "Female",
+    "qualification": "M.A.B.ed",
+    "administrative_experience": "14",
+    "teaching_experience": "12"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730800",
+    "school_code": "25374",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2032",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2032",
+    "trust_society": "RAO LAKSHMI CHAND MEMORIAL EDUCATIONAL TRUST"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730800",
+      "listing_raw_columns": [
+        "864",
+        "Aff. No. : 2730800 Sch. Code: 25374",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Secondary Level",
+        "Name : RAO CONVENT SCHOOL Head/Principal Name: Promila",
+        "Address : VILL PANDWALA KHURD, NAJAFGARH, NEW DELHI -110043 Website : www.raoconventschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730800",
+      "serial_number": "864",
+      "affiliation_and_school_code": "Aff. No. : 2730800 Sch. Code: 25374",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : RAO CONVENT SCHOOL Head/Principal Name: Promila",
+      "address_and_website": "Address : VILL PANDWALA KHURD, NAJAFGARH, NEW DELHI -110043 Website : www.raoconventschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "RAO CONVENT SCHOOL",
+      "Affiliation Number": "2730800",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "VILL PANDWALA KHURD, NAJAFGARH, NEW DELHI -110043",
+      "Pin Code": "110043",
+      "Website": "www.raoconventschool.com",
+      "Year of Foundation": "2001",
+      "Date of First Opening of School": "01 Apr 2000",
+      "Name of Principal/ Head of Institution": "Promila",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A.B.ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "14",
+      "Teaching:": "12",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2032",
+      "Name of Trust/ Society/ Managing Committee": "RAO LAKSHMI CHAND MEMORIAL EDUCATIONAL TRUST",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

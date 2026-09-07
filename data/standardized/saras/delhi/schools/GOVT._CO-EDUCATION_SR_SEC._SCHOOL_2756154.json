@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756154",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT._CO-EDUCATION_SR_SEC._SCHOOL_2756154.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT. CO-EDUCATION SR SEC. SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2756154",
+    "cbse_school_code": "27480"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "SECT-22, DWARKA, NEW DELHI",
+    "pincode": "110077"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2007",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "VIJAY",
+    "gender": "Female",
+    "qualification": "M.A.,M.PHIL, B.ED",
+    "administrative_experience": "3",
+    "teaching_experience": "24"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2756154",
+    "school_code": "27480",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "delhi administration"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2756154",
+      "listing_raw_columns": [
+        "1534",
+        "Aff. No. : 2756154 Sch. Code: 27480",
+        "State : DELHI District : WEST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT. CO-EDUCATION SR SEC. SCHOOL Head/Principal Name: VIJAY",
+        "Address : SECT-22, DWARKA, NEW DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756154",
+      "serial_number": "1534",
+      "affiliation_and_school_code": "Aff. No. : 2756154 Sch. Code: 27480",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT. CO-EDUCATION SR SEC. SCHOOL Head/Principal Name: VIJAY",
+      "address_and_website": "Address : SECT-22, DWARKA, NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT. CO-EDUCATION SR SEC. SCHOOL",
+      "Affiliation Number": "2756154",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "SECT-22, DWARKA, NEW DELHI",
+      "Pin Code": "110077",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "2007",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "VIJAY",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A.,M.PHIL, B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "3",
+      "Teaching:": "24",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "delhi administration",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

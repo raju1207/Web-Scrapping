@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778065",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\N_P_BOYS_MODEL_SEC_SCHOOL_2778065.json"
+  },
+  "school_identity": {
+    "school_name": "N P BOYS MODEL SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2778065",
+    "cbse_school_code": null
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "BALMIKI BASTI NEW DELHI",
+    "pincode": "110001"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "GOVT AIDED",
+    "foundation_year": null,
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": null,
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SH M S SIDDIQUI",
+    "gender": "Male",
+    "qualification": null,
+    "administrative_experience": null,
+    "teaching_experience": null
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2778065",
+    "school_code": null,
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2003",
+    "affiliation_to": "31/03/2008",
+    "affiliation_period_raw": "From : 01/04/2003 To : 31/03/2008",
+    "trust_society": "N D M C"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2778065",
+      "listing_raw_columns": [
+        "2182",
+        "Aff. No. : 2778065 Sch. Code:",
+        "State : DELHI District : NEW DELHI",
+        "Secondary Level",
+        "Name : N P BOYS MODEL SEC SCHOOL Head/Principal Name: SH M S SIDDIQUI",
+        "Address : BALMIKI BASTI NEW DELHI Website :",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778065",
+      "serial_number": "2182",
+      "affiliation_and_school_code": "Aff. No. : 2778065 Sch. Code:",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : N P BOYS MODEL SEC SCHOOL Head/Principal Name: SH M S SIDDIQUI",
+      "address_and_website": "Address : BALMIKI BASTI NEW DELHI Website :"
+    },
+    "school_details": {
+      "Name of Institution": "N P BOYS MODEL SEC SCHOOL",
+      "Affiliation Number": "2778065",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "BALMIKI BASTI NEW DELHI",
+      "Pin Code": "110001",
+      "Website": null,
+      "Year of Foundation": null,
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "SH M S SIDDIQUI",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": null,
+      "No of Experience ( in Years ):": null,
+      "Administrative:": null,
+      "Teaching:": null,
+      "Status of The School": "Secondary Level",
+      "School Type": "GOVT AIDED",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2003 To : 31/03/2008",
+      "Name of Trust/ Society/ Managing Committee": "N D M C",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

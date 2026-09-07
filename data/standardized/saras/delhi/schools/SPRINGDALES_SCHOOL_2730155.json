@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730155",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SPRINGDALES_SCHOOL_2730155.json"
+  },
+  "school_identity": {
+    "school_name": "SPRINGDALES SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730155",
+    "cbse_school_code": "25063"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "BENITO JUAREZ MARG DHAULA KUAN NEW DELHI",
+    "pincode": "110021"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1983",
+    "first_opening_date": "09 Jul 2003",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://springdalesdk.com/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "PRITI MEHRA",
+    "gender": "Female",
+    "qualification": "MA, B.ED",
+    "administrative_experience": "11",
+    "teaching_experience": "31"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730155",
+    "school_code": "25063",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "PATEL EDUCATION SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730155",
+      "listing_raw_columns": [
+        "243",
+        "Aff. No. : 2730155 Sch. Code: 25063",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : SPRINGDALES SCHOOL Head/Principal Name: PRITI MEHRA",
+        "Address : BENITO JUAREZ MARG DHAULA KUAN NEW DELHI Website : https://springdalesdk.com/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730155",
+      "serial_number": "243",
+      "affiliation_and_school_code": "Aff. No. : 2730155 Sch. Code: 25063",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SPRINGDALES SCHOOL Head/Principal Name: PRITI MEHRA",
+      "address_and_website": "Address : BENITO JUAREZ MARG DHAULA KUAN NEW DELHI Website : https://springdalesdk.com/"
+    },
+    "school_details": {
+      "Name of Institution": "SPRINGDALES SCHOOL",
+      "Affiliation Number": "2730155",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "BENITO JUAREZ MARG DHAULA KUAN NEW DELHI",
+      "Pin Code": "110021",
+      "Website": "https://springdalesdk.com/",
+      "Year of Foundation": "1983",
+      "Date of First Opening of School": "09 Jul 2003",
+      "Name of Principal/ Head of Institution": "PRITI MEHRA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA, B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "11",
+      "Teaching:": "31",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "PATEL EDUCATION SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

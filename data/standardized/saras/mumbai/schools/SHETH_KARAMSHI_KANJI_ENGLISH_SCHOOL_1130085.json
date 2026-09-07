@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130085",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\SHETH_KARAMSHI_KANJI_ENGLISH_SCHOOL_1130085.json"
+  },
+  "school_identity": {
+    "school_name": "SHETH KARAMSHI KANJI ENGLISH SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "1130085",
+    "cbse_school_code": "30092"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "block": null,
+    "address": "V P ROAD, MULUND WEST MUMBAI MAHARASHTRA",
+    "pincode": "400080"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1986",
+    "first_opening_date": "01 Jul 2008",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.skkeschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Mrs.Varsha Deshpande",
+    "gender": "Female",
+    "qualification": "M Sc B Ed",
+    "administrative_experience": "12",
+    "teaching_experience": "15"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1130085",
+    "school_code": "30092",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "s m p rashtriya shala trust"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1130085",
+      "listing_raw_columns": [
+        "19",
+        "Aff. No. : 1130085 Sch. Code: 30092",
+        "State : MAHARASHTRA District : MUMBAI",
+        "Secondary Level",
+        "Name : SHETH KARAMSHI KANJI ENGLISH SCHOOL Head/Principal Name: Mrs.Varsha Deshpande",
+        "Address : V P ROAD, MULUND WEST MUMBAI MAHARASHTRA Website : www.skkeschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130085",
+      "serial_number": "19",
+      "affiliation_and_school_code": "Aff. No. : 1130085 Sch. Code: 30092",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : SHETH KARAMSHI KANJI ENGLISH SCHOOL Head/Principal Name: Mrs.Varsha Deshpande",
+      "address_and_website": "Address : V P ROAD, MULUND WEST MUMBAI MAHARASHTRA Website : www.skkeschool.com",
+      "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+      "Name of Institution": "SHETH KARAMSHI KANJI ENGLISH SCHOOL",
+      "Affiliation Number": "1130085",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI",
+      "Postal Address": "V P ROAD, MULUND WEST MUMBAI MAHARASHTRA",
+      "Pin Code": "400080",
+      "Website": "www.skkeschool.com",
+      "Year of Foundation": "1986",
+      "Date of First Opening of School": "01 Jul 2008",
+      "Name of Principal/ Head of Institution": "Mrs.Varsha Deshpande",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M Sc B Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "12",
+      "Teaching:": "15",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "s m p rashtriya shala trust",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

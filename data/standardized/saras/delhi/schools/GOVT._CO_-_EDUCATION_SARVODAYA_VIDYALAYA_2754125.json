@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754125",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT._CO_-_EDUCATION_SARVODAYA_VIDYALAYA_2754125.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT. CO - EDUCATION SARVODAYA VIDYALAYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2754125",
+    "cbse_school_code": "27167"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "SECT - 13. R.K.PURAM",
+    "pincode": "110066"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2011",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "KAMLESH MEENA",
+    "gender": "Male",
+    "qualification": "M.A. HISTORY AND M.A.POL. SCI. B.ED.",
+    "administrative_experience": "14",
+    "teaching_experience": "10"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2754125",
+    "school_code": "27167",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2029",
+    "trust_society": "dir of education"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2754125",
+      "listing_raw_columns": [
+        "1374",
+        "Aff. No. : 2754125 Sch. Code: 27167",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT. CO - EDUCATION SARVODAYA VIDYALAYA Head/Principal Name: KAMLESH MEENA",
+        "Address : SECT - 13. R.K.PURAM Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754125",
+      "serial_number": "1374",
+      "affiliation_and_school_code": "Aff. No. : 2754125 Sch. Code: 27167",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT. CO - EDUCATION SARVODAYA VIDYALAYA Head/Principal Name: KAMLESH MEENA",
+      "address_and_website": "Address : SECT - 13. R.K.PURAM Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT. CO - EDUCATION SARVODAYA VIDYALAYA",
+      "Affiliation Number": "2754125",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "SECT - 13. R.K.PURAM",
+      "Pin Code": "110066",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "2011",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "KAMLESH MEENA",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.A. HISTORY AND M.A.POL. SCI. B.ED.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "14",
+      "Teaching:": "10",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "dir of education",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

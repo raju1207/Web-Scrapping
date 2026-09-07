@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730191",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\NEW_GREEN_FIELD_PUBLIC_SCHOOL_2730191.json"
+  },
+  "school_identity": {
+    "school_name": "NEW GREEN FIELD PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730191",
+    "cbse_school_code": "25233"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH DELHI",
+    "block": null,
+    "address": "ALAKNANDA, DISTT SOUTH DELHI, NEW DELHI",
+    "pincode": "110019"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1986",
+    "first_opening_date": "01 Apr 2005",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.ngfsalaknanda.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "NIDHI CHAUHAN",
+    "gender": "Female",
+    "qualification": "M.A. B.ED",
+    "administrative_experience": "10",
+    "teaching_experience": "5"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730191",
+    "school_code": "25233",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "NEW GREEN FIELD EDN SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730191",
+      "listing_raw_columns": [
+        "278",
+        "Aff. No. : 2730191 Sch. Code: 25233",
+        "State : DELHI District : SOUTH DELHI",
+        "Senior Secondary Level",
+        "Name : NEW GREEN FIELD PUBLIC SCHOOL Head/Principal Name: NIDHI CHAUHAN",
+        "Address : ALAKNANDA, DISTT SOUTH DELHI, NEW DELHI Website : www.ngfsalaknanda.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730191",
+      "serial_number": "278",
+      "affiliation_and_school_code": "Aff. No. : 2730191 Sch. Code: 25233",
+      "state_and_district": "State : DELHI District : SOUTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : NEW GREEN FIELD PUBLIC SCHOOL Head/Principal Name: NIDHI CHAUHAN",
+      "address_and_website": "Address : ALAKNANDA, DISTT SOUTH DELHI, NEW DELHI Website : www.ngfsalaknanda.com"
+    },
+    "school_details": {
+      "Name of Institution": "NEW GREEN FIELD PUBLIC SCHOOL",
+      "Affiliation Number": "2730191",
+      "State": "DELHI",
+      "District": "SOUTH DELHI",
+      "Postal Address": "ALAKNANDA, DISTT SOUTH DELHI, NEW DELHI",
+      "Pin Code": "110019",
+      "Website": "www.ngfsalaknanda.com",
+      "Year of Foundation": "1986",
+      "Date of First Opening of School": "01 Apr 2005",
+      "Name of Principal/ Head of Institution": "NIDHI CHAUHAN",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A. B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "10",
+      "Teaching:": "5",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "NEW GREEN FIELD EDN SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

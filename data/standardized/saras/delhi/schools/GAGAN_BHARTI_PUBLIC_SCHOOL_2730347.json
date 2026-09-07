@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730347",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GAGAN_BHARTI_PUBLIC_SCHOOL_2730347.json"
+  },
+  "school_identity": {
+    "school_name": "GAGAN BHARTI PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730347",
+    "cbse_school_code": "25397"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "OM VIHAR, DISTT WEST DELHI, NEW DELHI",
+    "pincode": "110059"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1983",
+    "first_opening_date": "01 Apr 2007",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.gaganbhartischool.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "PARAMVIR SINGH GAHLOT",
+    "gender": "Male",
+    "qualification": "M.A. B.ED. MPED.",
+    "administrative_experience": "6",
+    "teaching_experience": "16"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730347",
+    "school_code": "25397",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2031",
+    "trust_society": "GAGAN BHARTI EDN SCOIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730347",
+      "listing_raw_columns": [
+        "428",
+        "Aff. No. : 2730347 Sch. Code: 25397",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : GAGAN BHARTI PUBLIC SCHOOL Head/Principal Name: PARAMVIR SINGH GAHLOT",
+        "Address : OM VIHAR, DISTT WEST DELHI, NEW DELHI Website : www.gaganbhartischool.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730347",
+      "serial_number": "428",
+      "affiliation_and_school_code": "Aff. No. : 2730347 Sch. Code: 25397",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GAGAN BHARTI PUBLIC SCHOOL Head/Principal Name: PARAMVIR SINGH GAHLOT",
+      "address_and_website": "Address : OM VIHAR, DISTT WEST DELHI, NEW DELHI Website : www.gaganbhartischool.in"
+    },
+    "school_details": {
+      "Name of Institution": "GAGAN BHARTI PUBLIC SCHOOL",
+      "Affiliation Number": "2730347",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "OM VIHAR, DISTT WEST DELHI, NEW DELHI",
+      "Pin Code": "110059",
+      "Website": "www.gaganbhartischool.in",
+      "Year of Foundation": "1983",
+      "Date of First Opening of School": "01 Apr 2007",
+      "Name of Principal/ Head of Institution": "PARAMVIR SINGH GAHLOT",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.A. B.ED. MPED.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "6",
+      "Teaching:": "16",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "GAGAN BHARTI EDN SCOIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

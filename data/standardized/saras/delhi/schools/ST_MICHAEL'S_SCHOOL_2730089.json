@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730089",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\ST_MICHAEL'S_SCHOOL_2730089.json"
+  },
+  "school_identity": {
+    "school_name": "ST MICHAEL'S SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730089",
+    "cbse_school_code": "85029"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "CENTRAL DELHI",
+    "block": null,
+    "address": "3 PUSA ROAD NEW DELHI",
+    "pincode": "110005"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1980",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.stmichaelprd.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "ADV FR JAS ELANJIKAL",
+    "gender": "Male",
+    "qualification": "M.A. B.Ed. LLB",
+    "administrative_experience": "20",
+    "teaching_experience": "13"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730089",
+    "school_code": "85029",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "DELHI CATHOLIC ARCHDIOCESE"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730089",
+      "listing_raw_columns": [
+        "177",
+        "Aff. No. : 2730089 Sch. Code: 85029",
+        "State : DELHI District : CENTRAL DELHI",
+        "Senior Secondary Level",
+        "Name : ST MICHAEL'S SCHOOL Head/Principal Name: ADV FR JAS ELANJIKAL",
+        "Address : 3 PUSA ROAD NEW DELHI Website : www.stmichaelprd.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730089",
+      "serial_number": "177",
+      "affiliation_and_school_code": "Aff. No. : 2730089 Sch. Code: 85029",
+      "state_and_district": "State : DELHI District : CENTRAL DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : ST MICHAEL'S SCHOOL Head/Principal Name: ADV FR JAS ELANJIKAL",
+      "address_and_website": "Address : 3 PUSA ROAD NEW DELHI Website : www.stmichaelprd.in"
+    },
+    "school_details": {
+      "Name of Institution": "ST MICHAEL'S SCHOOL",
+      "Affiliation Number": "2730089",
+      "State": "DELHI",
+      "District": "CENTRAL DELHI",
+      "Postal Address": "3 PUSA ROAD NEW DELHI",
+      "Pin Code": "110005",
+      "Website": "www.stmichaelprd.in",
+      "Year of Foundation": "1980",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "ADV FR JAS ELANJIKAL",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.A. B.Ed. LLB",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "20",
+      "Teaching:": "13",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "DELHI CATHOLIC ARCHDIOCESE",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

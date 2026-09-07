@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730110",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\KIIT_WORLD_SCHOOL_2730110.json"
+  },
+  "school_identity": {
+    "school_name": "KIIT WORLD SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730110",
+    "cbse_school_code": "85210"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "ZONE H-4 KESHMI APARTMENTS & DIPALI PITAM PURA DELHI",
+    "pincode": "110034"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1984",
+    "first_opening_date": "09 Jul 2003",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.kiitworld.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Sangeeta Bhatia",
+    "gender": "Female",
+    "qualification": "M.Sc. P.Hd",
+    "administrative_experience": "39",
+    "teaching_experience": "38"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730110",
+    "school_code": "85210",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "VIDYAPATI SANSTHAN SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730110",
+      "listing_raw_columns": [
+        "198",
+        "Aff. No. : 2730110 Sch. Code: 85210",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : KIIT WORLD SCHOOL Head/Principal Name: Sangeeta Bhatia",
+        "Address : ZONE H-4 KESHMI APARTMENTS & DIPALI PITAM PURA DELHI Website : www.kiitworld.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730110",
+      "serial_number": "198",
+      "affiliation_and_school_code": "Aff. No. : 2730110 Sch. Code: 85210",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : KIIT WORLD SCHOOL Head/Principal Name: Sangeeta Bhatia",
+      "address_and_website": "Address : ZONE H-4 KESHMI APARTMENTS & DIPALI PITAM PURA DELHI Website : www.kiitworld.in"
+    },
+    "school_details": {
+      "Name of Institution": "KIIT WORLD SCHOOL",
+      "Affiliation Number": "2730110",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "ZONE H-4 KESHMI APARTMENTS & DIPALI PITAM PURA DELHI",
+      "Pin Code": "110034",
+      "Website": "www.kiitworld.in",
+      "Year of Foundation": "1984",
+      "Date of First Opening of School": "09 Jul 2003",
+      "Name of Principal/ Head of Institution": "Sangeeta Bhatia",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.Sc. P.Hd",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "39",
+      "Teaching:": "38",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "VIDYAPATI SANSTHAN SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

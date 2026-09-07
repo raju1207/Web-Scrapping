@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730752",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\THE_VIVEKANAND_SCHOOL_2730752.json"
+  },
+  "school_identity": {
+    "school_name": "THE VIVEKANAND SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730752",
+    "cbse_school_code": "85103"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "SHIV MANDIR COLONY NARELA DELHI-110040",
+    "pincode": "110040"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2006",
+    "first_opening_date": "01 Apr 2006",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.thevivekanandschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "VANDANA SHARMA",
+    "gender": "Female",
+    "qualification": "MPHIL B.ED",
+    "administrative_experience": "17",
+    "teaching_experience": "9"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730752",
+    "school_code": "85103",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "Mata Risalo Devi Charitable Trust"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730752",
+      "listing_raw_columns": [
+        "816",
+        "Aff. No. : 2730752 Sch. Code: 85103",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : THE VIVEKANAND SCHOOL Head/Principal Name: VANDANA SHARMA",
+        "Address : SHIV MANDIR COLONY NARELA DELHI-110040 Website : www.thevivekanandschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730752",
+      "serial_number": "816",
+      "affiliation_and_school_code": "Aff. No. : 2730752 Sch. Code: 85103",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : THE VIVEKANAND SCHOOL Head/Principal Name: VANDANA SHARMA",
+      "address_and_website": "Address : SHIV MANDIR COLONY NARELA DELHI-110040 Website : www.thevivekanandschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "THE VIVEKANAND SCHOOL",
+      "Affiliation Number": "2730752",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "SHIV MANDIR COLONY NARELA DELHI-110040",
+      "Pin Code": "110040",
+      "Website": "www.thevivekanandschool.com",
+      "Year of Foundation": "2006",
+      "Date of First Opening of School": "01 Apr 2006",
+      "Name of Principal/ Head of Institution": "VANDANA SHARMA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MPHIL B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "17",
+      "Teaching:": "9",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "Mata Risalo Devi Charitable Trust",
+      "Remarks, if any": "Affiliation is subject to outcome of the WPC No. 16450/2025"
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752005",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_BOYS_SR_SEC_SCHOOL_NO_1_2752005.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT BOYS SR SEC SCHOOL NO 1",
+    "udise_code": null,
+    "cbse_affiliation_number": "2752005",
+    "cbse_school_code": "87324"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "EAST DELHI",
+    "block": null,
+    "address": "GHONDA DELHI",
+    "pincode": "110053"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1949",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.gbsssno.1ghonda.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "ANJANI KUMAR",
+    "gender": "Male",
+    "qualification": "M.A., B.ED",
+    "administrative_experience": "03",
+    "teaching_experience": "19"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2752005",
+    "school_code": "87324",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "delhi administration delhi"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2752005",
+      "listing_raw_columns": [
+        "1131",
+        "Aff. No. : 2752005 Sch. Code: 87324",
+        "State : DELHI District : EAST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT BOYS SR SEC SCHOOL NO 1 Head/Principal Name: ANJANI KUMAR",
+        "Address : GHONDA DELHI Website : www.gbsssno.1ghonda.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752005",
+      "serial_number": "1131",
+      "affiliation_and_school_code": "Aff. No. : 2752005 Sch. Code: 87324",
+      "state_and_district": "State : DELHI District : EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT BOYS SR SEC SCHOOL NO 1 Head/Principal Name: ANJANI KUMAR",
+      "address_and_website": "Address : GHONDA DELHI Website : www.gbsssno.1ghonda.com"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT BOYS SR SEC SCHOOL NO 1",
+      "Affiliation Number": "2752005",
+      "State": "DELHI",
+      "District": "EAST DELHI",
+      "Postal Address": "GHONDA DELHI",
+      "Pin Code": "110053",
+      "Website": "www.gbsssno.1ghonda.com",
+      "Year of Foundation": "1949",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "ANJANI KUMAR",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.A., B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "03",
+      "Teaching:": "19",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "delhi administration delhi",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

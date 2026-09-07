@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730590",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\QUEEN_MARY'S_SCHOOL,_NORTHEND_2730590.json"
+  },
+  "school_identity": {
+    "school_name": "QUEEN MARY'S SCHOOL, NORTHEND",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730590",
+    "cbse_school_code": "85092"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH DELHI",
+    "block": null,
+    "address": "PLOT NO 4-A, MODEL TOWN- III, NORTH DELHI-110009",
+    "pincode": "110009"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2003",
+    "first_opening_date": "16 Apr 2003",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "http://www.qmsmodeltown.com/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "ANUPMA SINGH",
+    "gender": "Female",
+    "qualification": "M.Sc. and B.ED.",
+    "administrative_experience": "19",
+    "teaching_experience": "25"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730590",
+    "school_code": "85092",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "HELEN JERWOOD MEMORIAL EDUCATION SOCIETY OF THE DIOCESE OF THE DELHI OF THE CHURCH OF NORTH INDIA"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730590",
+      "listing_raw_columns": [
+        "660",
+        "Aff. No. : 2730590 Sch. Code: 85092",
+        "State : DELHI District : NORTH DELHI",
+        "Senior Secondary Level",
+        "Name : QUEEN MARY'S SCHOOL, NORTHEND Head/Principal Name: ANUPMA SINGH",
+        "Address : PLOT NO 4-A, MODEL TOWN- III, NORTH DELHI-110009 Website : http://www.qmsmodeltown.com/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730590",
+      "serial_number": "660",
+      "affiliation_and_school_code": "Aff. No. : 2730590 Sch. Code: 85092",
+      "state_and_district": "State : DELHI District : NORTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : QUEEN MARY'S SCHOOL, NORTHEND Head/Principal Name: ANUPMA SINGH",
+      "address_and_website": "Address : PLOT NO 4-A, MODEL TOWN- III, NORTH DELHI-110009 Website : http://www.qmsmodeltown.com/"
+    },
+    "school_details": {
+      "Name of Institution": "QUEEN MARY'S SCHOOL, NORTHEND",
+      "Affiliation Number": "2730590",
+      "State": "DELHI",
+      "District": "NORTH DELHI",
+      "Postal Address": "PLOT NO 4-A, MODEL TOWN- III, NORTH DELHI-110009",
+      "Pin Code": "110009",
+      "Website": "http://www.qmsmodeltown.com/",
+      "Year of Foundation": "2003",
+      "Date of First Opening of School": "16 Apr 2003",
+      "Name of Principal/ Head of Institution": "ANUPMA SINGH",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.Sc. and B.ED.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "19",
+      "Teaching:": "25",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "HELEN JERWOOD MEMORIAL EDUCATION SOCIETY OF THE DIOCESE OF THE DELHI OF THE CHURCH OF NORTH INDIA",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

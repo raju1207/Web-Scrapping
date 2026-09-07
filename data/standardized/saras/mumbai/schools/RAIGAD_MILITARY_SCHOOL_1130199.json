@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130199",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\RAIGAD_MILITARY_SCHOOL_1130199.json"
+  },
+  "school_identity": {
+    "school_name": "RAIGAD MILITARY SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "1130199",
+    "cbse_school_code": "30154"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "block": null,
+    "address": "NEW LINK ROAD, BEHRAM BAUG, OSHIWARA. JOGESHWARI(W)",
+    "pincode": "400102"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2005",
+    "first_opening_date": "12 Jun 2006",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.raigadmilitaryschool.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Arti Jha",
+    "gender": "Female",
+    "qualification": "M.Sc ,B.Ed",
+    "administrative_experience": "9",
+    "teaching_experience": "20"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1130199",
+    "school_code": "30154",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "Raigad Military School"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1130199",
+      "listing_raw_columns": [
+        "26",
+        "Aff. No. : 1130199 Sch. Code: 30154",
+        "State : MAHARASHTRA District : MUMBAI",
+        "Senior Secondary Level",
+        "Name : RAIGAD MILITARY SCHOOL Head/Principal Name: Arti Jha",
+        "Address : NEW LINK ROAD, BEHRAM BAUG, OSHIWARA. JOGESHWARI(W) Website : www.raigadmilitaryschool.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130199",
+      "serial_number": "26",
+      "affiliation_and_school_code": "Aff. No. : 1130199 Sch. Code: 30154",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : RAIGAD MILITARY SCHOOL Head/Principal Name: Arti Jha",
+      "address_and_website": "Address : NEW LINK ROAD, BEHRAM BAUG, OSHIWARA. JOGESHWARI(W) Website : www.raigadmilitaryschool.in",
+      "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+      "Name of Institution": "RAIGAD MILITARY SCHOOL",
+      "Affiliation Number": "1130199",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI",
+      "Postal Address": "NEW LINK ROAD, BEHRAM BAUG, OSHIWARA. JOGESHWARI(W)",
+      "Pin Code": "400102",
+      "Website": "www.raigadmilitaryschool.in",
+      "Year of Foundation": "2005",
+      "Date of First Opening of School": "12 Jun 2006",
+      "Name of Principal/ Head of Institution": "Arti Jha",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.Sc ,B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "9",
+      "Teaching:": "20",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "Raigad Military School",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

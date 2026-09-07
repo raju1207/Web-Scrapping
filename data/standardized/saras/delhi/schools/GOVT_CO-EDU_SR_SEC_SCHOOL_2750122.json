@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750122",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_CO-EDU_SR_SEC_SCHOOL_2750122.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT CO-EDU SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2750122",
+    "cbse_school_code": "87262"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "HOLAMBI KALAN DELHI",
+    "pincode": "110082"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1970",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "holambikalan60859@gmail.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "ASHISH KUMAR",
+    "gender": "Male",
+    "qualification": "MA BED",
+    "administrative_experience": "10",
+    "teaching_experience": "9"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2750122",
+    "school_code": "87262",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "DIR. OF EDN."
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2750122",
+      "listing_raw_columns": [
+        "1070",
+        "Aff. No. : 2750122 Sch. Code: 87262",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT CO-EDU SR SEC SCHOOL Head/Principal Name: ASHISH KUMAR",
+        "Address : HOLAMBI KALAN DELHI Website : holambikalan60859@gmail.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750122",
+      "serial_number": "1070",
+      "affiliation_and_school_code": "Aff. No. : 2750122 Sch. Code: 87262",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT CO-EDU SR SEC SCHOOL Head/Principal Name: ASHISH KUMAR",
+      "address_and_website": "Address : HOLAMBI KALAN DELHI Website : holambikalan60859@gmail.com"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT CO-EDU SR SEC SCHOOL",
+      "Affiliation Number": "2750122",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "HOLAMBI KALAN DELHI",
+      "Pin Code": "110082",
+      "Website": "holambikalan60859@gmail.com",
+      "Year of Foundation": "1970",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "ASHISH KUMAR",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "MA BED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "10",
+      "Teaching:": "9",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "DIR. OF EDN.",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

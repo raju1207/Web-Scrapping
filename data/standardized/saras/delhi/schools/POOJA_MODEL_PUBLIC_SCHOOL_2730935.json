@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730935",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\POOJA_MODEL_PUBLIC_SCHOOL_2730935.json"
+  },
+  "school_identity": {
+    "school_name": "POOJA MODEL PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730935",
+    "cbse_school_code": "85582"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH EAST DELHI",
+    "block": null,
+    "address": "87/6 SHIV MANDIR, 87/6 SHIV MANDIR, 87/6 SHIV MANDIR",
+    "pincode": "110053"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2013",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://www.poojamodelpublicschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Sapna Tomar",
+    "gender": "Female",
+    "qualification": "M COM B.ED.",
+    "administrative_experience": "5",
+    "teaching_experience": "5"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730935",
+    "school_code": "85582",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "THAKUR TEJ RAM SINGH EDUCATIONAL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730935",
+      "listing_raw_columns": [
+        "950",
+        "Aff. No. : 2730935 Sch. Code: 85582",
+        "State : DELHI District : NORTH EAST DELHI",
+        "Secondary Level",
+        "Name : POOJA MODEL PUBLIC SCHOOL Head/Principal Name: Sapna Tomar",
+        "Address : 87/6 SHIV MANDIR, 87/6 SHIV MANDIR, 87/6 SHIV MANDIR Website : https://www.poojamodelpublicschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730935",
+      "serial_number": "950",
+      "affiliation_and_school_code": "Aff. No. : 2730935 Sch. Code: 85582",
+      "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : POOJA MODEL PUBLIC SCHOOL Head/Principal Name: Sapna Tomar",
+      "address_and_website": "Address : 87/6 SHIV MANDIR, 87/6 SHIV MANDIR, 87/6 SHIV MANDIR Website : https://www.poojamodelpublicschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "POOJA MODEL PUBLIC SCHOOL",
+      "Affiliation Number": "2730935",
+      "State": "DELHI",
+      "District": "NORTH EAST DELHI",
+      "Postal Address": "87/6 SHIV MANDIR, 87/6 SHIV MANDIR, 87/6 SHIV MANDIR",
+      "Pin Code": "110053",
+      "Website": "https://www.poojamodelpublicschool.com",
+      "Year of Foundation": "2013",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "Sapna Tomar",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M COM B.ED.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "5",
+      "Teaching:": "5",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "THAKUR TEJ RAM SINGH EDUCATIONAL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

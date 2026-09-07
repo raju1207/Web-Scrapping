@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730100",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\RUKMANI_DEVI_JAIPURIA_PUBLIC_SCHOOL_2730100.json"
+  },
+  "school_identity": {
+    "school_name": "RUKMANI DEVI JAIPURIA PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730100",
+    "cbse_school_code": "85054"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH DELHI",
+    "block": null,
+    "address": "23 RAJPUR ROAD, DISTT NORTH DELHI, DELHI",
+    "pincode": "110054"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1975",
+    "first_opening_date": "01 Apr 2001",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.rdjps.co.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "S K SAXENA",
+    "gender": "Male",
+    "qualification": "M SC, B ED",
+    "administrative_experience": "30",
+    "teaching_experience": "20"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730100",
+    "school_code": "85054",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "B P JAIPURIA CHARITABLE TRUST"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730100",
+      "listing_raw_columns": [
+        "188",
+        "Aff. No. : 2730100 Sch. Code: 85054",
+        "State : DELHI District : NORTH DELHI",
+        "Senior Secondary Level",
+        "Name : RUKMANI DEVI JAIPURIA PUBLIC SCHOOL Head/Principal Name: S K SAXENA",
+        "Address : 23 RAJPUR ROAD, DISTT NORTH DELHI, DELHI Website : www.rdjps.co.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730100",
+      "serial_number": "188",
+      "affiliation_and_school_code": "Aff. No. : 2730100 Sch. Code: 85054",
+      "state_and_district": "State : DELHI District : NORTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : RUKMANI DEVI JAIPURIA PUBLIC SCHOOL Head/Principal Name: S K SAXENA",
+      "address_and_website": "Address : 23 RAJPUR ROAD, DISTT NORTH DELHI, DELHI Website : www.rdjps.co.in"
+    },
+    "school_details": {
+      "Name of Institution": "RUKMANI DEVI JAIPURIA PUBLIC SCHOOL",
+      "Affiliation Number": "2730100",
+      "State": "DELHI",
+      "District": "NORTH DELHI",
+      "Postal Address": "23 RAJPUR ROAD, DISTT NORTH DELHI, DELHI",
+      "Pin Code": "110054",
+      "Website": "www.rdjps.co.in",
+      "Year of Foundation": "1975",
+      "Date of First Opening of School": "01 Apr 2001",
+      "Name of Principal/ Head of Institution": "S K SAXENA",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M SC, B ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "30",
+      "Teaching:": "20",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "B P JAIPURIA CHARITABLE TRUST",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

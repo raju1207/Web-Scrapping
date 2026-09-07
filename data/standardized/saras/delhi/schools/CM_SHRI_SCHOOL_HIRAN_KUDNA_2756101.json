@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756101",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\CM_SHRI_SCHOOL_HIRAN_KUDNA_2756101.json"
+  },
+  "school_identity": {
+    "school_name": "CM SHRI SCHOOL HIRAN KUDNA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2756101",
+    "cbse_school_code": "87611"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "HIRAN KUDNA NEW DELHI",
+    "pincode": "110041"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1985",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://www.edudel.nic.in/mis/MisAdmin/frmMisLogin.aspx",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "LAXMI NARAYAN JOSHI",
+    "gender": "Male",
+    "qualification": "M.A. PH.D.",
+    "administrative_experience": "4",
+    "teaching_experience": "15"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2756101",
+    "school_code": "87611",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "DELHI ADMN"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2756101",
+      "listing_raw_columns": [
+        "1483",
+        "Aff. No. : 2756101 Sch. Code: 87611",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : CM SHRI SCHOOL HIRAN KUDNA Head/Principal Name: LAXMI NARAYAN JOSHI",
+        "Address : HIRAN KUDNA NEW DELHI Website : https://www.edudel.nic.in/mis/MisAdmin/frmMisLogin.aspx",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756101",
+      "serial_number": "1483",
+      "affiliation_and_school_code": "Aff. No. : 2756101 Sch. Code: 87611",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : CM SHRI SCHOOL HIRAN KUDNA Head/Principal Name: LAXMI NARAYAN JOSHI",
+      "address_and_website": "Address : HIRAN KUDNA NEW DELHI Website : https://www.edudel.nic.in/mis/MisAdmin/frmMisLogin.aspx"
+    },
+    "school_details": {
+      "Name of Institution": "CM SHRI SCHOOL HIRAN KUDNA",
+      "Affiliation Number": "2756101",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "HIRAN KUDNA NEW DELHI",
+      "Pin Code": "110041",
+      "Website": "https://www.edudel.nic.in/mis/MisAdmin/frmMisLogin.aspx",
+      "Year of Foundation": "1985",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "LAXMI NARAYAN JOSHI",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.A. PH.D.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "4",
+      "Teaching:": "15",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "DELHI ADMN",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

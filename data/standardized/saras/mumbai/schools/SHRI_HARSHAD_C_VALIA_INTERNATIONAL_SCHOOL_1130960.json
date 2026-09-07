@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130960",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\SHRI_HARSHAD_C_VALIA_INTERNATIONAL_SCHOOL_1130960.json"
+  },
+  "school_identity": {
+    "school_name": "SHRI HARSHAD C VALIA INTERNATIONAL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "1130960",
+    "cbse_school_code": "30914"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "block": null,
+    "address": "COSMOPOLITAN EDUCATION SOCIETY ROAD D N NAGAR ANDHERI WEST",
+    "pincode": "400053"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2012",
+    "first_opening_date": "13 Jun 2012",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "HTTP://shcvaliaintschool.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "PRATIBHA MISHRA",
+    "gender": "Female",
+    "qualification": "BA, B.ED, MA EDUCATOIN, PGDME, PGDSLM",
+    "administrative_experience": "14",
+    "teaching_experience": "20"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1130960",
+    "school_code": "30914",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "Cosmopolitan Education Society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1130960",
+      "listing_raw_columns": [
+        "49",
+        "Aff. No. : 1130960 Sch. Code: 30914",
+        "State : MAHARASHTRA District : MUMBAI",
+        "Secondary Level",
+        "Name : SHRI HARSHAD C VALIA INTERNATIONAL SCHOOL Head/Principal Name: PRATIBHA MISHRA",
+        "Address : COSMOPOLITAN EDUCATION SOCIETY ROAD D N NAGAR ANDHERI WEST Website : HTTP://shcvaliaintschool.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130960",
+      "serial_number": "49",
+      "affiliation_and_school_code": "Aff. No. : 1130960 Sch. Code: 30914",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : SHRI HARSHAD C VALIA INTERNATIONAL SCHOOL Head/Principal Name: PRATIBHA MISHRA",
+      "address_and_website": "Address : COSMOPOLITAN EDUCATION SOCIETY ROAD D N NAGAR ANDHERI WEST Website : HTTP://shcvaliaintschool.in",
+      "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+      "Name of Institution": "SHRI HARSHAD C VALIA INTERNATIONAL SCHOOL",
+      "Affiliation Number": "1130960",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI",
+      "Postal Address": "COSMOPOLITAN EDUCATION SOCIETY ROAD D N NAGAR ANDHERI WEST",
+      "Pin Code": "400053",
+      "Website": "HTTP://shcvaliaintschool.in",
+      "Year of Foundation": "2012",
+      "Date of First Opening of School": "13 Jun 2012",
+      "Name of Principal/ Head of Institution": "PRATIBHA MISHRA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "BA, B.ED, MA EDUCATOIN, PGDME, PGDSLM",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "14",
+      "Teaching:": "20",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "Cosmopolitan Education Society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

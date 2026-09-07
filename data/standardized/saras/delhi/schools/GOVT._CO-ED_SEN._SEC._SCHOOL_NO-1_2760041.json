@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2760041",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT._CO-ED_SEN._SEC._SCHOOL_NO-1_2760041.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT. CO-ED SEN. SEC. SCHOOL NO-1",
+    "udise_code": null,
+    "cbse_affiliation_number": "2760041",
+    "cbse_school_code": "87215"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH DELHI",
+    "block": null,
+    "address": "ROOP NAGAR DELHI",
+    "pincode": "110007"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1957",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "ggsssno2roopngr1207039@gmail.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "DEVENDER KUMAR MEENA",
+    "gender": "Male",
+    "qualification": "M.A B.ED",
+    "administrative_experience": "13",
+    "teaching_experience": "30"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2760041",
+    "school_code": "87215",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "DELHI ADMN DELHI"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2760041",
+      "listing_raw_columns": [
+        "1661",
+        "Aff. No. : 2760041 Sch. Code: 87215",
+        "State : DELHI District : NORTH DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT. CO-ED SEN. SEC. SCHOOL NO-1 Head/Principal Name: DEVENDER KUMAR MEENA",
+        "Address : ROOP NAGAR DELHI Website : ggsssno2roopngr1207039@gmail.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2760041",
+      "serial_number": "1661",
+      "affiliation_and_school_code": "Aff. No. : 2760041 Sch. Code: 87215",
+      "state_and_district": "State : DELHI District : NORTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT. CO-ED SEN. SEC. SCHOOL NO-1 Head/Principal Name: DEVENDER KUMAR MEENA",
+      "address_and_website": "Address : ROOP NAGAR DELHI Website : ggsssno2roopngr1207039@gmail.com"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT. CO-ED SEN. SEC. SCHOOL NO-1",
+      "Affiliation Number": "2760041",
+      "State": "DELHI",
+      "District": "NORTH DELHI",
+      "Postal Address": "ROOP NAGAR DELHI",
+      "Pin Code": "110007",
+      "Website": "ggsssno2roopngr1207039@gmail.com",
+      "Year of Foundation": "1957",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "DEVENDER KUMAR MEENA",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.A B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "13",
+      "Teaching:": "30",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "DELHI ADMN DELHI",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

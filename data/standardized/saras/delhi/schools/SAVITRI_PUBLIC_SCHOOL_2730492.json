@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730492",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SAVITRI_PUBLIC_SCHOOL_2730492.json"
+  },
+  "school_identity": {
+    "school_name": "SAVITRI PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730492",
+    "cbse_school_code": "25187"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "G 314 SANGAM VIHAR SOUTH DELHI MEHRAULI NEW DELHI",
+    "pincode": "110062"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1989",
+    "first_opening_date": "01 Sep 1986",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.savitripublicschool.org",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "ANJU THAPA",
+    "gender": "Female",
+    "qualification": "M.A, B.Ed",
+    "administrative_experience": "6",
+    "teaching_experience": "12"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730492",
+    "school_code": "25187",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "savitri devi edn & wel society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730492",
+      "listing_raw_columns": [
+        "565",
+        "Aff. No. : 2730492 Sch. Code: 25187",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : SAVITRI PUBLIC SCHOOL Head/Principal Name: ANJU THAPA",
+        "Address : G 314 SANGAM VIHAR SOUTH DELHI MEHRAULI NEW DELHI Website : www.savitripublicschool.org",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730492",
+      "serial_number": "565",
+      "affiliation_and_school_code": "Aff. No. : 2730492 Sch. Code: 25187",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SAVITRI PUBLIC SCHOOL Head/Principal Name: ANJU THAPA",
+      "address_and_website": "Address : G 314 SANGAM VIHAR SOUTH DELHI MEHRAULI NEW DELHI Website : www.savitripublicschool.org"
+    },
+    "school_details": {
+      "Name of Institution": "SAVITRI PUBLIC SCHOOL",
+      "Affiliation Number": "2730492",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "G 314 SANGAM VIHAR SOUTH DELHI MEHRAULI NEW DELHI",
+      "Pin Code": "110062",
+      "Website": "www.savitripublicschool.org",
+      "Year of Foundation": "1989",
+      "Date of First Opening of School": "01 Sep 1986",
+      "Name of Principal/ Head of Institution": "ANJU THAPA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A, B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "6",
+      "Teaching:": "12",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "savitri devi edn & wel society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

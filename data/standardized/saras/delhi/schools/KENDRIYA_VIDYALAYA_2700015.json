@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700015",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\KENDRIYA_VIDYALAYA_2700015.json"
+  },
+  "school_identity": {
+    "school_name": "KENDRIYA VIDYALAYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2700015",
+    "cbse_school_code": "29023"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "N T P C BADARPUR NEW DELHI",
+    "pincode": "110044"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "KV",
+    "foundation_year": "1981",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.badarpurntpc.kvs.ac.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "AKHILESHWAR JHA",
+    "gender": "Male",
+    "qualification": "M.SC.",
+    "administrative_experience": "08",
+    "teaching_experience": "25"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2700015",
+    "school_code": "29023",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "KENDRIYA VIDYALAYA SANGATHAN"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2700015",
+      "listing_raw_columns": [
+        "14",
+        "Aff. No. : 2700015 Sch. Code: 29023",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : KENDRIYA VIDYALAYA Head/Principal Name: AKHILESHWAR JHA",
+        "Address : N T P C BADARPUR NEW DELHI Website : www.badarpurntpc.kvs.ac.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700015",
+      "serial_number": "14",
+      "affiliation_and_school_code": "Aff. No. : 2700015 Sch. Code: 29023",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : KENDRIYA VIDYALAYA Head/Principal Name: AKHILESHWAR JHA",
+      "address_and_website": "Address : N T P C BADARPUR NEW DELHI Website : www.badarpurntpc.kvs.ac.in"
+    },
+    "school_details": {
+      "Name of Institution": "KENDRIYA VIDYALAYA",
+      "Affiliation Number": "2700015",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "N T P C BADARPUR NEW DELHI",
+      "Pin Code": "110044",
+      "Website": "www.badarpurntpc.kvs.ac.in",
+      "Year of Foundation": "1981",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "AKHILESHWAR JHA",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.SC.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "08",
+      "Teaching:": "25",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "KV",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "KENDRIYA VIDYALAYA SANGATHAN",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

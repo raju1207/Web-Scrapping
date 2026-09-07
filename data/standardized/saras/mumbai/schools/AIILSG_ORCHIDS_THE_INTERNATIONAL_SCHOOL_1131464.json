@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131464",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\AIILSG_ORCHIDS_THE_INTERNATIONAL_SCHOOL_1131464.json"
+  },
+  "school_identity": {
+    "school_name": "AIILSG ORCHIDS THE INTERNATIONAL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "1131464",
+    "cbse_school_code": "31453"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI SUBURBAN",
+    "block": null,
+    "address": "SAGAR PRASAD SOCIETY, MAHAKALI NAGAR, MULUND EAST, MUMBAI,, 400081",
+    "pincode": "400081"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2022",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://orchidsinternationalschoolmulundeast.com/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Rachana Kamath",
+    "gender": "Female",
+    "qualification": "MSc, M.Ed, MPhil, and a doctorate in Education",
+    "administrative_experience": "10",
+    "teaching_experience": "20"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1131464",
+    "school_code": "31453",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "All India Institute of Local Self Government"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1131464",
+      "listing_raw_columns": [
+        "22",
+        "Aff. No. : 1131464 Sch. Code: 31453",
+        "State : MAHARASHTRA District : MUMBAI SUBURBAN",
+        "Senior Secondary Level",
+        "Name : AIILSG ORCHIDS THE INTERNATIONAL SCHOOL Head/Principal Name: Rachana Kamath",
+        "Address : SAGAR PRASAD SOCIETY, MAHAKALI NAGAR, MULUND EAST, MUMBAI,, 400081 Website : https://orchidsinternationalschoolmulundeast.com/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131464",
+      "serial_number": "22",
+      "affiliation_and_school_code": "Aff. No. : 1131464 Sch. Code: 31453",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI SUBURBAN",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : AIILSG ORCHIDS THE INTERNATIONAL SCHOOL Head/Principal Name: Rachana Kamath",
+      "address_and_website": "Address : SAGAR PRASAD SOCIETY, MAHAKALI NAGAR, MULUND EAST, MUMBAI,, 400081 Website : https://orchidsinternationalschoolmulundeast.com/",
+      "saras_selected_district": "MUMBAI SUBURBAN"
+    },
+    "school_details": {
+      "Name of Institution": "AIILSG ORCHIDS THE INTERNATIONAL SCHOOL",
+      "Affiliation Number": "1131464",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI SUBURBAN",
+      "Postal Address": "SAGAR PRASAD SOCIETY, MAHAKALI NAGAR, MULUND EAST, MUMBAI,, 400081",
+      "Pin Code": "400081",
+      "Website": "https://orchidsinternationalschoolmulundeast.com/",
+      "Year of Foundation": "2022",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "Rachana Kamath",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MSc, M.Ed, MPhil, and a doctorate in Education",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "10",
+      "Teaching:": "20",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "All India Institute of Local Self Government",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730667",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\STANFORD_CONVENT_SCHOOL_2730667.json"
+  },
+  "school_identity": {
+    "school_name": "STANFORD CONVENT SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730667",
+    "cbse_school_code": "25207"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH DELHI",
+    "block": null,
+    "address": "D-55,KASANA COMPLEX, TAJPUR ROAD,BADAR PUR,NEW DELHI",
+    "pincode": "110044"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2000",
+    "first_opening_date": "01 Apr 2002",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://stanfordconventschool.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "MANJU VERMA",
+    "gender": "Female",
+    "qualification": "MA, B.Ed.",
+    "administrative_experience": "21",
+    "teaching_experience": "2"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730667",
+    "school_code": "25207",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "KASANA EDUCATIONAL &CULTURAL SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730667",
+      "listing_raw_columns": [
+        "735",
+        "Aff. No. : 2730667 Sch. Code: 25207",
+        "State : DELHI District : SOUTH DELHI",
+        "Secondary Level",
+        "Name : STANFORD CONVENT SCHOOL Head/Principal Name: MANJU VERMA",
+        "Address : D-55,KASANA COMPLEX, TAJPUR ROAD,BADAR PUR,NEW DELHI Website : https://stanfordconventschool.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730667",
+      "serial_number": "735",
+      "affiliation_and_school_code": "Aff. No. : 2730667 Sch. Code: 25207",
+      "state_and_district": "State : DELHI District : SOUTH DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : STANFORD CONVENT SCHOOL Head/Principal Name: MANJU VERMA",
+      "address_and_website": "Address : D-55,KASANA COMPLEX, TAJPUR ROAD,BADAR PUR,NEW DELHI Website : https://stanfordconventschool.in/"
+    },
+    "school_details": {
+      "Name of Institution": "STANFORD CONVENT SCHOOL",
+      "Affiliation Number": "2730667",
+      "State": "DELHI",
+      "District": "SOUTH DELHI",
+      "Postal Address": "D-55,KASANA COMPLEX, TAJPUR ROAD,BADAR PUR,NEW DELHI",
+      "Pin Code": "110044",
+      "Website": "https://stanfordconventschool.in/",
+      "Year of Foundation": "2000",
+      "Date of First Opening of School": "01 Apr 2002",
+      "Name of Principal/ Head of Institution": "MANJU VERMA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA, B.Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "21",
+      "Teaching:": "2",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "KASANA EDUCATIONAL &CULTURAL SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

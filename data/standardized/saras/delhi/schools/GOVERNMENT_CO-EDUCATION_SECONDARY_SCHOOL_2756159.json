@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756159",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVERNMENT_CO-EDUCATION_SECONDARY_SCHOOL_2756159.json"
+  },
+  "school_identity": {
+    "school_name": "GOVERNMENT CO-EDUCATION SECONDARY SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2756159",
+    "cbse_school_code": "87586"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "SARASWATI GARDEN, IB BLOCK, RAMESH NAGAR, NEW DELHI-110015",
+    "pincode": "110015"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1972",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "gcsssaraswatigarden@gmail.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "RAJENDRA KUMAR",
+    "gender": "Male",
+    "qualification": "M.A,M.Ed",
+    "administrative_experience": "6",
+    "teaching_experience": "22"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2756159",
+    "school_code": "87586",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "DELHI ADMINISTRATION"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2756159",
+      "listing_raw_columns": [
+        "1539",
+        "Aff. No. : 2756159 Sch. Code: 87586",
+        "State : DELHI District : NEW DELHI",
+        "Secondary Level",
+        "Name : GOVERNMENT CO-EDUCATION SECONDARY SCHOOL Head/Principal Name: RAJENDRA KUMAR",
+        "Address : SARASWATI GARDEN, IB BLOCK, RAMESH NAGAR, NEW DELHI-110015 Website : gcsssaraswatigarden@gmail.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756159",
+      "serial_number": "1539",
+      "affiliation_and_school_code": "Aff. No. : 2756159 Sch. Code: 87586",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : GOVERNMENT CO-EDUCATION SECONDARY SCHOOL Head/Principal Name: RAJENDRA KUMAR",
+      "address_and_website": "Address : SARASWATI GARDEN, IB BLOCK, RAMESH NAGAR, NEW DELHI-110015 Website : gcsssaraswatigarden@gmail.com"
+    },
+    "school_details": {
+      "Name of Institution": "GOVERNMENT CO-EDUCATION SECONDARY SCHOOL",
+      "Affiliation Number": "2756159",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "SARASWATI GARDEN, IB BLOCK, RAMESH NAGAR, NEW DELHI-110015",
+      "Pin Code": "110015",
+      "Website": "gcsssaraswatigarden@gmail.com",
+      "Year of Foundation": "1972",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "RAJENDRA KUMAR",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.A,M.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "6",
+      "Teaching:": "22",
+      "Status of The School": "Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

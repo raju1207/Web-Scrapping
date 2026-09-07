@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730797",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\NEW_BAL_VAISHALI_PUBLIC_SCHOOL_2730797.json"
+  },
+  "school_identity": {
+    "school_name": "NEW BAL VAISHALI PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730797",
+    "cbse_school_code": "25211"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH DELHI",
+    "block": null,
+    "address": "SHRI SAI NAGAR, MEETHAPUR EXTN., BADARPUR",
+    "pincode": "110044"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1993",
+    "first_opening_date": "01 Apr 1997",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "http://www.bvps.co.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "PRIYANKA SHARMA",
+    "gender": "Female",
+    "qualification": "MA, BEd",
+    "administrative_experience": "5",
+    "teaching_experience": "6"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730797",
+    "school_code": "25211",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "Bal Vaishali Welfare and Culture Society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730797",
+      "listing_raw_columns": [
+        "861",
+        "Aff. No. : 2730797 Sch. Code: 25211",
+        "State : DELHI District : SOUTH DELHI",
+        "Senior Secondary Level",
+        "Name : NEW BAL VAISHALI PUBLIC SCHOOL Head/Principal Name: PRIYANKA SHARMA",
+        "Address : SHRI SAI NAGAR, MEETHAPUR EXTN., BADARPUR Website : http://www.bvps.co.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730797",
+      "serial_number": "861",
+      "affiliation_and_school_code": "Aff. No. : 2730797 Sch. Code: 25211",
+      "state_and_district": "State : DELHI District : SOUTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : NEW BAL VAISHALI PUBLIC SCHOOL Head/Principal Name: PRIYANKA SHARMA",
+      "address_and_website": "Address : SHRI SAI NAGAR, MEETHAPUR EXTN., BADARPUR Website : http://www.bvps.co.in"
+    },
+    "school_details": {
+      "Name of Institution": "NEW BAL VAISHALI PUBLIC SCHOOL",
+      "Affiliation Number": "2730797",
+      "State": "DELHI",
+      "District": "SOUTH DELHI",
+      "Postal Address": "SHRI SAI NAGAR, MEETHAPUR EXTN., BADARPUR",
+      "Pin Code": "110044",
+      "Website": "http://www.bvps.co.in",
+      "Year of Foundation": "1993",
+      "Date of First Opening of School": "01 Apr 1997",
+      "Name of Principal/ Head of Institution": "PRIYANKA SHARMA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA, BEd",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "5",
+      "Teaching:": "6",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "Bal Vaishali Welfare and Culture Society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

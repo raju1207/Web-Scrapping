@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754146",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\CM_SHRI_SCHOOL_MADANPUR_KHADAR_2754146.json"
+  },
+  "school_identity": {
+    "school_name": "CM SHRI SCHOOL MADANPUR KHADAR",
+    "udise_code": null,
+    "cbse_affiliation_number": "2754146",
+    "cbse_school_code": "27431"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH DELHI",
+    "block": null,
+    "address": "PH-II, J.J. COLONY MADANPUR KHADAR EXTENSION, NEW DELHI-110 076.",
+    "pincode": null
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2017",
+    "first_opening_date": "25 Oct 2018",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "http://www.edudel.nic.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Dr. Sanjay Kumar",
+    "gender": "Male",
+    "qualification": "M.Phil, Ph.D",
+    "administrative_experience": "12",
+    "teaching_experience": "12"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2754146",
+    "school_code": "27431",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "kendriya vidyalaya sangathan"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2754146",
+      "listing_raw_columns": [
+        "1395",
+        "Aff. No. : 2754146 Sch. Code: 27431",
+        "State : DELHI District : SOUTH DELHI",
+        "Senior Secondary Level",
+        "Name : CM SHRI SCHOOL MADANPUR KHADAR Head/Principal Name: Dr. Sanjay Kumar",
+        "Address : PH-II, J.J. COLONY MADANPUR KHADAR EXTENSION, NEW DELHI-110 076. Website : http://www.edudel.nic.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754146",
+      "serial_number": "1395",
+      "affiliation_and_school_code": "Aff. No. : 2754146 Sch. Code: 27431",
+      "state_and_district": "State : DELHI District : SOUTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : CM SHRI SCHOOL MADANPUR KHADAR Head/Principal Name: Dr. Sanjay Kumar",
+      "address_and_website": "Address : PH-II, J.J. COLONY MADANPUR KHADAR EXTENSION, NEW DELHI-110 076. Website : http://www.edudel.nic.in/"
+    },
+    "school_details": {
+      "Name of Institution": "CM SHRI SCHOOL MADANPUR KHADAR",
+      "Affiliation Number": "2754146",
+      "State": "DELHI",
+      "District": "SOUTH DELHI",
+      "Postal Address": "PH-II, J.J. COLONY MADANPUR KHADAR EXTENSION, NEW DELHI-110 076.",
+      "Pin Code": null,
+      "Website": "http://www.edudel.nic.in/",
+      "Year of Foundation": "2017",
+      "Date of First Opening of School": "25 Oct 2018",
+      "Name of Principal/ Head of Institution": "Dr. Sanjay Kumar",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.Phil, Ph.D",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "12",
+      "Teaching:": "12",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "kendriya vidyalaya sangathan",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

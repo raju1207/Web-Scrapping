@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730916",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GYAN_DEEP_PUBLIC_SCHOOL_2730916.json"
+  },
+  "school_identity": {
+    "school_name": "GYAN DEEP PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730916",
+    "cbse_school_code": "25568"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "VILLAGE MUNDHELA KHURD, MUNDHELA KHURD, NEW DELHI",
+    "pincode": "110073"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2004",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "http://www.gyandeeppublicschool.co.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SUMAN",
+    "gender": "Female",
+    "qualification": "M.A., B.ED.",
+    "administrative_experience": "6",
+    "teaching_experience": "6"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730916",
+    "school_code": "25568",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "CH FATEH SINGH EDUCATIONAL TRUST MITRAON NEW DELHI"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730916",
+      "listing_raw_columns": [
+        "931",
+        "Aff. No. : 2730916 Sch. Code: 25568",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Secondary Level",
+        "Name : GYAN DEEP PUBLIC SCHOOL Head/Principal Name: SUMAN",
+        "Address : VILLAGE MUNDHELA KHURD, MUNDHELA KHURD, NEW DELHI Website : http://www.gyandeeppublicschool.co.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730916",
+      "serial_number": "931",
+      "affiliation_and_school_code": "Aff. No. : 2730916 Sch. Code: 25568",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : GYAN DEEP PUBLIC SCHOOL Head/Principal Name: SUMAN",
+      "address_and_website": "Address : VILLAGE MUNDHELA KHURD, MUNDHELA KHURD, NEW DELHI Website : http://www.gyandeeppublicschool.co.in/"
+    },
+    "school_details": {
+      "Name of Institution": "GYAN DEEP PUBLIC SCHOOL",
+      "Affiliation Number": "2730916",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "VILLAGE MUNDHELA KHURD, MUNDHELA KHURD, NEW DELHI",
+      "Pin Code": "110073",
+      "Website": "http://www.gyandeeppublicschool.co.in/",
+      "Year of Foundation": "2004",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "SUMAN",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A., B.ED.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "6",
+      "Teaching:": "6",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "CH FATEH SINGH EDUCATIONAL TRUST MITRAON NEW DELHI",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

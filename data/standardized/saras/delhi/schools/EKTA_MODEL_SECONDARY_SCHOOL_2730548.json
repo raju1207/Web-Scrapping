@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730548",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\EKTA_MODEL_SECONDARY_SCHOOL_2730548.json"
+  },
+  "school_identity": {
+    "school_name": "EKTA MODEL SECONDARY SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730548",
+    "cbse_school_code": "25327"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "R/ D BLOCK, DHARAM PURA, NAJAFGARH,",
+    "pincode": "110043"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1988",
+    "first_opening_date": "02 Jun 2003",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.ektamodelsecondaryschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "ANITA SINDHWANI",
+    "gender": null,
+    "qualification": "M.A. , B.ED",
+    "administrative_experience": "16",
+    "teaching_experience": "7"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730548",
+    "school_code": "25327",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "Ekta education society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730548",
+      "listing_raw_columns": [
+        "619",
+        "Aff. No. : 2730548 Sch. Code: 25327",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Secondary Level",
+        "Name : EKTA MODEL SECONDARY SCHOOL Head/Principal Name: ANITA SINDHWANI",
+        "Address : R/ D BLOCK, DHARAM PURA, NAJAFGARH, Website : www.ektamodelsecondaryschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730548",
+      "serial_number": "619",
+      "affiliation_and_school_code": "Aff. No. : 2730548 Sch. Code: 25327",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : EKTA MODEL SECONDARY SCHOOL Head/Principal Name: ANITA SINDHWANI",
+      "address_and_website": "Address : R/ D BLOCK, DHARAM PURA, NAJAFGARH, Website : www.ektamodelsecondaryschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "EKTA MODEL SECONDARY SCHOOL",
+      "Affiliation Number": "2730548",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "R/ D BLOCK, DHARAM PURA, NAJAFGARH,",
+      "Pin Code": "110043",
+      "Website": "www.ektamodelsecondaryschool.com",
+      "Year of Foundation": "1988",
+      "Date of First Opening of School": "02 Jun 2003",
+      "Name of Principal/ Head of Institution": "ANITA SINDHWANI",
+      "Gender": null,
+      "Principal's Educational/Professional Qualifications:": "M.A. , B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "16",
+      "Teaching:": "7",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "Ekta education society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

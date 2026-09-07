@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730036",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GENERAL_RAJ'S_SCHOOL_2730036.json"
+  },
+  "school_identity": {
+    "school_name": "GENERAL RAJ'S SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730036",
+    "cbse_school_code": "25160"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH DELHI",
+    "block": null,
+    "address": "HAUZ KHAS, DISTT SOUTH DELHI, NEW DELHI",
+    "pincode": "110016"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1966",
+    "first_opening_date": "01 Apr 2005",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.generalrajschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Rajat R Sharma",
+    "gender": "Male",
+    "qualification": "M.A B.Ed",
+    "administrative_experience": "30",
+    "teaching_experience": "30"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730036",
+    "school_code": "25160",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "P C RAJARATNAM'S INSTITUTIONS"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730036",
+      "listing_raw_columns": [
+        "125",
+        "Aff. No. : 2730036 Sch. Code: 25160",
+        "State : DELHI District : SOUTH DELHI",
+        "Senior Secondary Level",
+        "Name : GENERAL RAJ'S SCHOOL Head/Principal Name: Rajat R Sharma",
+        "Address : HAUZ KHAS, DISTT SOUTH DELHI, NEW DELHI Website : www.generalrajschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730036",
+      "serial_number": "125",
+      "affiliation_and_school_code": "Aff. No. : 2730036 Sch. Code: 25160",
+      "state_and_district": "State : DELHI District : SOUTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GENERAL RAJ'S SCHOOL Head/Principal Name: Rajat R Sharma",
+      "address_and_website": "Address : HAUZ KHAS, DISTT SOUTH DELHI, NEW DELHI Website : www.generalrajschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "GENERAL RAJ'S SCHOOL",
+      "Affiliation Number": "2730036",
+      "State": "DELHI",
+      "District": "SOUTH DELHI",
+      "Postal Address": "HAUZ KHAS, DISTT SOUTH DELHI, NEW DELHI",
+      "Pin Code": "110016",
+      "Website": "www.generalrajschool.com",
+      "Year of Foundation": "1966",
+      "Date of First Opening of School": "01 Apr 2005",
+      "Name of Principal/ Head of Institution": "Rajat R Sharma",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.A B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "30",
+      "Teaching:": "30",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "P C RAJARATNAM'S INSTITUTIONS",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

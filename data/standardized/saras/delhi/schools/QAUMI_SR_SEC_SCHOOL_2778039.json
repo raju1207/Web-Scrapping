@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778039",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\QAUMI_SR_SEC_SCHOOL_2778039.json"
+  },
+  "school_identity": {
+    "school_name": "QAUMI SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2778039",
+    "cbse_school_code": "87166"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "6526 SHAHI IDGAH NEW DELHI",
+    "pincode": "110055"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT AIDED",
+    "foundation_year": "1948",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://qsss1208129.com/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "QAMAR ALAM",
+    "gender": "Male",
+    "qualification": "MA B.Ed.",
+    "administrative_experience": "02",
+    "teaching_experience": "18"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2778039",
+    "school_code": "87166",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2029",
+    "trust_society": "qaumi education society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2778039",
+      "listing_raw_columns": [
+        "2156",
+        "Aff. No. : 2778039 Sch. Code: 87166",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : QAUMI SR SEC SCHOOL Head/Principal Name: QAMAR ALAM",
+        "Address : 6526 SHAHI IDGAH NEW DELHI Website : https://qsss1208129.com/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778039",
+      "serial_number": "2156",
+      "affiliation_and_school_code": "Aff. No. : 2778039 Sch. Code: 87166",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : QAUMI SR SEC SCHOOL Head/Principal Name: QAMAR ALAM",
+      "address_and_website": "Address : 6526 SHAHI IDGAH NEW DELHI Website : https://qsss1208129.com/"
+    },
+    "school_details": {
+      "Name of Institution": "QAUMI SR SEC SCHOOL",
+      "Affiliation Number": "2778039",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "6526 SHAHI IDGAH NEW DELHI",
+      "Pin Code": "110055",
+      "Website": "https://qsss1208129.com/",
+      "Year of Foundation": "1948",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "QAMAR ALAM",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "MA B.Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "02",
+      "Teaching:": "18",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT AIDED",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "qaumi education society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

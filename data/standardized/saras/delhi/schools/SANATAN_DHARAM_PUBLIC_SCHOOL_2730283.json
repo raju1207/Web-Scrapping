@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730283",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SANATAN_DHARAM_PUBLIC_SCHOOL_2730283.json"
+  },
+  "school_identity": {
+    "school_name": "SANATAN DHARAM PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730283",
+    "cbse_school_code": "85217"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "BU BLOCK PITAMPURA, DISTT NORTH WEST DELHI, DELHI",
+    "pincode": "110034"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1993",
+    "first_opening_date": "09 Jul 2003",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.sdpublicschoolpp.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "AJAY MARWAH",
+    "gender": "Male",
+    "qualification": "MA, M.Ed.",
+    "administrative_experience": "1",
+    "teaching_experience": "25"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730283",
+    "school_code": "85217",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "SARASWATI VIDYA BHAWAN SAMITI"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730283",
+      "listing_raw_columns": [
+        "368",
+        "Aff. No. : 2730283 Sch. Code: 85217",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : SANATAN DHARAM PUBLIC SCHOOL Head/Principal Name: AJAY MARWAH",
+        "Address : BU BLOCK PITAMPURA, DISTT NORTH WEST DELHI, DELHI Website : www.sdpublicschoolpp.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730283",
+      "serial_number": "368",
+      "affiliation_and_school_code": "Aff. No. : 2730283 Sch. Code: 85217",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SANATAN DHARAM PUBLIC SCHOOL Head/Principal Name: AJAY MARWAH",
+      "address_and_website": "Address : BU BLOCK PITAMPURA, DISTT NORTH WEST DELHI, DELHI Website : www.sdpublicschoolpp.in"
+    },
+    "school_details": {
+      "Name of Institution": "SANATAN DHARAM PUBLIC SCHOOL",
+      "Affiliation Number": "2730283",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "BU BLOCK PITAMPURA, DISTT NORTH WEST DELHI, DELHI",
+      "Pin Code": "110034",
+      "Website": "www.sdpublicschoolpp.in",
+      "Year of Foundation": "1993",
+      "Date of First Opening of School": "09 Jul 2003",
+      "Name of Principal/ Head of Institution": "AJAY MARWAH",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "MA, M.Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "1",
+      "Teaching:": "25",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "SARASWATI VIDYA BHAWAN SAMITI",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

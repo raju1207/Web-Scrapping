@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764087",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_GIRLS_SEC_SCHOOL_NO_3_2764087.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT GIRLS SEC SCHOOL NO 3",
+    "udise_code": null,
+    "cbse_affiliation_number": "2764087",
+    "cbse_school_code": "27364"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "MOLAR BAND NEW DELHI",
+    "pincode": "110044"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2003",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "BHUPINDER KAUR",
+    "gender": "Female",
+    "qualification": "MA, M.PHIL, B.ED",
+    "administrative_experience": "12",
+    "teaching_experience": "21"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2764087",
+    "school_code": "27364",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "dir. of education"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2764087",
+      "listing_raw_columns": [
+        "1890",
+        "Aff. No. : 2764087 Sch. Code: 27364",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT GIRLS SEC SCHOOL NO 3 Head/Principal Name: BHUPINDER KAUR",
+        "Address : MOLAR BAND NEW DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764087",
+      "serial_number": "1890",
+      "affiliation_and_school_code": "Aff. No. : 2764087 Sch. Code: 27364",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT GIRLS SEC SCHOOL NO 3 Head/Principal Name: BHUPINDER KAUR",
+      "address_and_website": "Address : MOLAR BAND NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT GIRLS SEC SCHOOL NO 3",
+      "Affiliation Number": "2764087",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "MOLAR BAND NEW DELHI",
+      "Pin Code": "110044",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "2003",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "BHUPINDER KAUR",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA, M.PHIL, B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "12",
+      "Teaching:": "21",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "dir. of education",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

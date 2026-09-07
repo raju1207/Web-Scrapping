@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730565",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\BRILLIANT'S_CONVENT_2730565.json"
+  },
+  "school_identity": {
+    "school_name": "BRILLIANT'S CONVENT",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730565",
+    "cbse_school_code": "85223"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "WEST ENCLAVE, PITAMPURA, DELHI-110034",
+    "pincode": "110034"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2001",
+    "first_opening_date": "01 Apr 2005",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.brilliantsconvent.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Reeta Hashia",
+    "gender": "Female",
+    "qualification": "M.A M. ED HONABLE Doctorate in English Literature",
+    "administrative_experience": "24",
+    "teaching_experience": "37"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730565",
+    "school_code": "85223",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "New Star Education Society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730565",
+      "listing_raw_columns": [
+        "636",
+        "Aff. No. : 2730565 Sch. Code: 85223",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : BRILLIANT'S CONVENT Head/Principal Name: Reeta Hashia",
+        "Address : WEST ENCLAVE, PITAMPURA, DELHI-110034 Website : www.brilliantsconvent.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730565",
+      "serial_number": "636",
+      "affiliation_and_school_code": "Aff. No. : 2730565 Sch. Code: 85223",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : BRILLIANT'S CONVENT Head/Principal Name: Reeta Hashia",
+      "address_and_website": "Address : WEST ENCLAVE, PITAMPURA, DELHI-110034 Website : www.brilliantsconvent.com"
+    },
+    "school_details": {
+      "Name of Institution": "BRILLIANT'S CONVENT",
+      "Affiliation Number": "2730565",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "WEST ENCLAVE, PITAMPURA, DELHI-110034",
+      "Pin Code": "110034",
+      "Website": "www.brilliantsconvent.com",
+      "Year of Foundation": "2001",
+      "Date of First Opening of School": "01 Apr 2005",
+      "Name of Principal/ Head of Institution": "Reeta Hashia",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A M. ED HONABLE Doctorate in English Literature",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "24",
+      "Teaching:": "37",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "New Star Education Society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

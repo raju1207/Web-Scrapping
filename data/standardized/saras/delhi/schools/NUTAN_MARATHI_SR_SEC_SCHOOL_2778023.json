@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778023",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\NUTAN_MARATHI_SR_SEC_SCHOOL_2778023.json"
+  },
+  "school_identity": {
+    "school_name": "NUTAN MARATHI SR SEC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2778023",
+    "cbse_school_code": "87090"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "PAHARGANJ NEW DELHI",
+    "pincode": "110055"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT AIDED",
+    "foundation_year": "1929",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.nmsss.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "GULSHAN NAGPAL",
+    "gender": "Male",
+    "qualification": "M SC M PHILL PHYSICS M B A M ED P G D C A",
+    "administrative_experience": "5",
+    "teaching_experience": "26"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2778023",
+    "school_code": "87090",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2031",
+    "trust_society": "navshakti educational society regd"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2778023",
+      "listing_raw_columns": [
+        "2140",
+        "Aff. No. : 2778023 Sch. Code: 87090",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : NUTAN MARATHI SR SEC SCHOOL Head/Principal Name: GULSHAN NAGPAL",
+        "Address : PAHARGANJ NEW DELHI Website : www.nmsss.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778023",
+      "serial_number": "2140",
+      "affiliation_and_school_code": "Aff. No. : 2778023 Sch. Code: 87090",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : NUTAN MARATHI SR SEC SCHOOL Head/Principal Name: GULSHAN NAGPAL",
+      "address_and_website": "Address : PAHARGANJ NEW DELHI Website : www.nmsss.in"
+    },
+    "school_details": {
+      "Name of Institution": "NUTAN MARATHI SR SEC SCHOOL",
+      "Affiliation Number": "2778023",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "PAHARGANJ NEW DELHI",
+      "Pin Code": "110055",
+      "Website": "www.nmsss.in",
+      "Year of Foundation": "1929",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "GULSHAN NAGPAL",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M SC M PHILL PHYSICS M B A M ED P G D C A",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "5",
+      "Teaching:": "26",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT AIDED",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "navshakti educational society regd",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730599",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\QUEEN'S_VALLEY_SCHOOL_2730599.json"
+  },
+  "school_identity": {
+    "school_name": "QUEEN'S VALLEY SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730599",
+    "cbse_school_code": "25291"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "SITE-B, SECTOR-8,DWARKA",
+    "pincode": "110077"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2007",
+    "first_opening_date": "02 Jul 2007",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.queensvalleyschool.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "AMBIKA ROSHAN",
+    "gender": "Female",
+    "qualification": "MA , M.ED. M Phil.",
+    "administrative_experience": "13",
+    "teaching_experience": "10"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730599",
+    "school_code": "25291",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "Durga Parvati Khaitan Memorial Centre"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730599",
+      "listing_raw_columns": [
+        "669",
+        "Aff. No. : 2730599 Sch. Code: 25291",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : QUEEN'S VALLEY SCHOOL Head/Principal Name: AMBIKA ROSHAN",
+        "Address : SITE-B, SECTOR-8,DWARKA Website : www.queensvalleyschool.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730599",
+      "serial_number": "669",
+      "affiliation_and_school_code": "Aff. No. : 2730599 Sch. Code: 25291",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : QUEEN'S VALLEY SCHOOL Head/Principal Name: AMBIKA ROSHAN",
+      "address_and_website": "Address : SITE-B, SECTOR-8,DWARKA Website : www.queensvalleyschool.in"
+    },
+    "school_details": {
+      "Name of Institution": "QUEEN'S VALLEY SCHOOL",
+      "Affiliation Number": "2730599",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "SITE-B, SECTOR-8,DWARKA",
+      "Pin Code": "110077",
+      "Website": "www.queensvalleyschool.in",
+      "Year of Foundation": "2007",
+      "Date of First Opening of School": "02 Jul 2007",
+      "Name of Principal/ Head of Institution": "AMBIKA ROSHAN",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA , M.ED. M Phil.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "13",
+      "Teaching:": "10",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "Durga Parvati Khaitan Memorial Centre",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

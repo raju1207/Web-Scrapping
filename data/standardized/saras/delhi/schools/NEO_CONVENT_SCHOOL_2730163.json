@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730163",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\NEO_CONVENT_SCHOOL_2730163.json"
+  },
+  "school_identity": {
+    "school_name": "NEO CONVENT SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730163",
+    "cbse_school_code": "85400"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "G 17 AREA PASCHIM VIHAR, DISTT WEST DELHI, NEW DELHI",
+    "pincode": "110063"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1975",
+    "first_opening_date": "13 Jan 1998",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.neoconventschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "KUSHAL DEEP KAUR",
+    "gender": "Female",
+    "qualification": "M.Phil, P.h.D",
+    "administrative_experience": "32",
+    "teaching_experience": "7"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730163",
+    "school_code": "85400",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "NEO GURUSIKH EDNL. SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730163",
+      "listing_raw_columns": [
+        "251",
+        "Aff. No. : 2730163 Sch. Code: 85400",
+        "State : DELHI District : WEST DELHI",
+        "Senior Secondary Level",
+        "Name : NEO CONVENT SCHOOL Head/Principal Name: KUSHAL DEEP KAUR",
+        "Address : G 17 AREA PASCHIM VIHAR, DISTT WEST DELHI, NEW DELHI Website : www.neoconventschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730163",
+      "serial_number": "251",
+      "affiliation_and_school_code": "Aff. No. : 2730163 Sch. Code: 85400",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : NEO CONVENT SCHOOL Head/Principal Name: KUSHAL DEEP KAUR",
+      "address_and_website": "Address : G 17 AREA PASCHIM VIHAR, DISTT WEST DELHI, NEW DELHI Website : www.neoconventschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "NEO CONVENT SCHOOL",
+      "Affiliation Number": "2730163",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "G 17 AREA PASCHIM VIHAR, DISTT WEST DELHI, NEW DELHI",
+      "Pin Code": "110063",
+      "Website": "www.neoconventschool.com",
+      "Year of Foundation": "1975",
+      "Date of First Opening of School": "13 Jan 1998",
+      "Name of Principal/ Head of Institution": "KUSHAL DEEP KAUR",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.Phil, P.h.D",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "32",
+      "Teaching:": "7",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "NEO GURUSIKH EDNL. SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

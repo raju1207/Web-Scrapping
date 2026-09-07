@@ -1,0 +1,9 @@
+{
+  "source": "UDISE+",
+  "location": "Mumbai",
+  "raw_files_found": 2787,
+  "standardized_records": 2787,
+  "failed_records": 0,
+  "schema": "canonical_school_schema_v1",
+  "output_folder": "data\\standardized\\udise\\mumbai"
+}

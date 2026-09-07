@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1120114",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\MPS_CBSE_MITHAGAR_1120114.json"
+  },
+  "school_identity": {
+    "school_name": "MPS CBSE MITHAGAR",
+    "udise_code": null,
+    "cbse_affiliation_number": "1120114",
+    "cbse_school_code": "32114"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI SUBURBAN",
+    "block": null,
+    "address": "MITHAGAR MARG NEAR VPM SCHOOL,, MULUND EAST, MUMBAI",
+    "pincode": "400081"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2021",
+    "first_opening_date": null,
+    "gender_type": null
+  },
+  "contact": {
+    "website": "https://mithagar.mumbaipublicschools.in/",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Shambhunath Kisangir Gosavi",
+    "gender": "Male",
+    "qualification": "B.A. B.Ed",
+    "administrative_experience": "3",
+    "teaching_experience": "19"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1120114",
+    "school_code": "32114",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": "MCGM"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1120114",
+      "listing_raw_columns": [
+        "6",
+        "Aff. No. : 1120114 Sch. Code: 32114",
+        "State : MAHARASHTRA District : MUMBAI SUBURBAN",
+        "Secondary Level",
+        "Name : MPS CBSE MITHAGAR Head/Principal Name: Shambhunath Kisangir Gosavi",
+        "Address : MITHAGAR MARG NEAR VPM SCHOOL,, MULUND EAST, MUMBAI Website : https://mithagar.mumbaipublicschools.in/",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1120114",
+      "serial_number": "6",
+      "affiliation_and_school_code": "Aff. No. : 1120114 Sch. Code: 32114",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI SUBURBAN",
+      "status": "Secondary Level",
+      "school_and_head": "Name : MPS CBSE MITHAGAR Head/Principal Name: Shambhunath Kisangir Gosavi",
+      "address_and_website": "Address : MITHAGAR MARG NEAR VPM SCHOOL,, MULUND EAST, MUMBAI Website : https://mithagar.mumbaipublicschools.in/",
+      "saras_selected_district": "MUMBAI SUBURBAN"
+    },
+    "school_details": {
+      "Name of Institution": "MPS CBSE MITHAGAR",
+      "Affiliation Number": "1120114",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI SUBURBAN",
+      "Postal Address": "MITHAGAR MARG NEAR VPM SCHOOL,, MULUND EAST, MUMBAI",
+      "Pin Code": "400081",
+      "Website": "https://mithagar.mumbaipublicschools.in/",
+      "Year of Foundation": "2021",
+      "Date of First Opening of School": null,
+      "Name of Principal/ Head of Institution": "Shambhunath Kisangir Gosavi",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "B.A. B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "3",
+      "Teaching:": "19",
+      "Status of The School": "Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "MCGM",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

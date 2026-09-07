@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752018",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\BABU_RAM_SBV_BHOLA_NATH_NAGAR_DELHI-110_032_2752018.json"
+  },
+  "school_identity": {
+    "school_name": "BABU RAM SBV BHOLA NATH NAGAR DELHI-110 032",
+    "udise_code": null,
+    "cbse_affiliation_number": "2752018",
+    "cbse_school_code": "27207"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "EAST DELHI",
+    "block": null,
+    "address": "DELHI-110 032",
+    "pincode": "110032"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1915",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "baburamgsbv@gmail.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "HARISH KUMAR",
+    "gender": "Male",
+    "qualification": "M.A. B.ED.",
+    "administrative_experience": "15",
+    "teaching_experience": "20"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2752018",
+    "school_code": "27207",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2029",
+    "trust_society": "government"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2752018",
+      "listing_raw_columns": [
+        "1143",
+        "Aff. No. : 2752018 Sch. Code: 27207",
+        "State : DELHI District : EAST DELHI",
+        "Senior Secondary Level",
+        "Name : BABU RAM SBV BHOLA NATH NAGAR DELHI-110 032 Head/Principal Name: HARISH KUMAR",
+        "Address : DELHI-110 032 Website : baburamgsbv@gmail.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752018",
+      "serial_number": "1143",
+      "affiliation_and_school_code": "Aff. No. : 2752018 Sch. Code: 27207",
+      "state_and_district": "State : DELHI District : EAST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : BABU RAM SBV BHOLA NATH NAGAR DELHI-110 032 Head/Principal Name: HARISH KUMAR",
+      "address_and_website": "Address : DELHI-110 032 Website : baburamgsbv@gmail.com"
+    },
+    "school_details": {
+      "Name of Institution": "BABU RAM SBV BHOLA NATH NAGAR DELHI-110 032",
+      "Affiliation Number": "2752018",
+      "State": "DELHI",
+      "District": "EAST DELHI",
+      "Postal Address": "DELHI-110 032",
+      "Pin Code": "110032",
+      "Website": "baburamgsbv@gmail.com",
+      "Year of Foundation": "1915",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "HARISH KUMAR",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.A. B.ED.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "15",
+      "Teaching:": "20",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "government",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

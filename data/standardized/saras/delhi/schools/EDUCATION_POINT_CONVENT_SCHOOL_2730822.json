@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730822",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\EDUCATION_POINT_CONVENT_SCHOOL_2730822.json"
+  },
+  "school_identity": {
+    "school_name": "EDUCATION POINT CONVENT SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730822",
+    "cbse_school_code": "86702"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "PLOT NO 3-4 VIKAS NAGAR SOM BAZAR ROAD NEW DELHI 110059",
+    "pincode": "110059"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1998",
+    "first_opening_date": "08 Jul 2000",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.epcschool.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "VIPUL TYAGI",
+    "gender": "Male",
+    "qualification": "MA. BED.",
+    "administrative_experience": "7",
+    "teaching_experience": "4"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730822",
+    "school_code": "86702",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "RAMA KRISHNA EDICATION SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730822",
+      "listing_raw_columns": [
+        "882",
+        "Aff. No. : 2730822 Sch. Code: 86702",
+        "State : DELHI District : WEST DELHI",
+        "Senior Secondary Level",
+        "Name : EDUCATION POINT CONVENT SCHOOL Head/Principal Name: VIPUL TYAGI",
+        "Address : PLOT NO 3-4 VIKAS NAGAR SOM BAZAR ROAD NEW DELHI 110059 Website : www.epcschool.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730822",
+      "serial_number": "882",
+      "affiliation_and_school_code": "Aff. No. : 2730822 Sch. Code: 86702",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : EDUCATION POINT CONVENT SCHOOL Head/Principal Name: VIPUL TYAGI",
+      "address_and_website": "Address : PLOT NO 3-4 VIKAS NAGAR SOM BAZAR ROAD NEW DELHI 110059 Website : www.epcschool.in"
+    },
+    "school_details": {
+      "Name of Institution": "EDUCATION POINT CONVENT SCHOOL",
+      "Affiliation Number": "2730822",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "PLOT NO 3-4 VIKAS NAGAR SOM BAZAR ROAD NEW DELHI 110059",
+      "Pin Code": "110059",
+      "Website": "www.epcschool.in",
+      "Year of Foundation": "1998",
+      "Date of First Opening of School": "08 Jul 2000",
+      "Name of Principal/ Head of Institution": "VIPUL TYAGI",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "MA. BED.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "7",
+      "Teaching:": "4",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "RAMA KRISHNA EDICATION SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

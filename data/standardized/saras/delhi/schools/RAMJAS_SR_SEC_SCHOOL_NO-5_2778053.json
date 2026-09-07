@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778053",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\RAMJAS_SR_SEC_SCHOOL_NO-5_2778053.json"
+  },
+  "school_identity": {
+    "school_name": "RAMJAS SR SEC SCHOOL NO-5",
+    "udise_code": null,
+    "cbse_affiliation_number": "2778053",
+    "cbse_school_code": "87080"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "KAROL BAGH NEW DELHI",
+    "pincode": "110005"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT AIDED",
+    "foundation_year": "1937",
+    "first_opening_date": "01 Dec 2006",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.ramjas5karolbagh.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "DR SANDEEP GUPTA",
+    "gender": "Male",
+    "qualification": "M.Sc. M.Ed. Ph.D",
+    "administrative_experience": "17",
+    "teaching_experience": "31"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2778053",
+    "school_code": "87080",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2027",
+    "affiliation_to": "31/03/2032",
+    "affiliation_period_raw": "From : 01/04/2027 To : 31/03/2032",
+    "trust_society": "ramjas foundation"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2778053",
+      "listing_raw_columns": [
+        "2170",
+        "Aff. No. : 2778053 Sch. Code: 87080",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : RAMJAS SR SEC SCHOOL NO-5 Head/Principal Name: DR SANDEEP GUPTA",
+        "Address : KAROL BAGH NEW DELHI Website : www.ramjas5karolbagh.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778053",
+      "serial_number": "2170",
+      "affiliation_and_school_code": "Aff. No. : 2778053 Sch. Code: 87080",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : RAMJAS SR SEC SCHOOL NO-5 Head/Principal Name: DR SANDEEP GUPTA",
+      "address_and_website": "Address : KAROL BAGH NEW DELHI Website : www.ramjas5karolbagh.com"
+    },
+    "school_details": {
+      "Name of Institution": "RAMJAS SR SEC SCHOOL NO-5",
+      "Affiliation Number": "2778053",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "KAROL BAGH NEW DELHI",
+      "Pin Code": "110005",
+      "Website": "www.ramjas5karolbagh.com",
+      "Year of Foundation": "1937",
+      "Date of First Opening of School": "01 Dec 2006",
+      "Name of Principal/ Head of Institution": "DR SANDEEP GUPTA",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.Sc. M.Ed. Ph.D",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "17",
+      "Teaching:": "31",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT AIDED",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+      "Name of Trust/ Society/ Managing Committee": "ramjas foundation",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

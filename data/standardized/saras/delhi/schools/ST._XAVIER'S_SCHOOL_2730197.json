@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730197",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\ST._XAVIER'S_SCHOOL_2730197.json"
+  },
+  "school_identity": {
+    "school_name": "ST. XAVIER'S SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730197",
+    "cbse_school_code": "85145"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "SHAHBAD DAULATPUR, DISTT NORTH WEST DELHI, DELHI",
+    "pincode": "110042"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1991",
+    "first_opening_date": "01 Jun 2011",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.xaviersrohini.edu.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "PACKIAM MADHALAIMUTHU",
+    "gender": "Male",
+    "qualification": "M.COM, B.ED",
+    "administrative_experience": "9",
+    "teaching_experience": "7"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730197",
+    "school_code": "85145",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "XAVIERS SHAHBAD DAULATPUR SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730197",
+      "listing_raw_columns": [
+        "284",
+        "Aff. No. : 2730197 Sch. Code: 85145",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : ST. XAVIER'S SCHOOL Head/Principal Name: PACKIAM MADHALAIMUTHU",
+        "Address : SHAHBAD DAULATPUR, DISTT NORTH WEST DELHI, DELHI Website : www.xaviersrohini.edu.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730197",
+      "serial_number": "284",
+      "affiliation_and_school_code": "Aff. No. : 2730197 Sch. Code: 85145",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : ST. XAVIER'S SCHOOL Head/Principal Name: PACKIAM MADHALAIMUTHU",
+      "address_and_website": "Address : SHAHBAD DAULATPUR, DISTT NORTH WEST DELHI, DELHI Website : www.xaviersrohini.edu.in"
+    },
+    "school_details": {
+      "Name of Institution": "ST. XAVIER'S SCHOOL",
+      "Affiliation Number": "2730197",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "SHAHBAD DAULATPUR, DISTT NORTH WEST DELHI, DELHI",
+      "Pin Code": "110042",
+      "Website": "www.xaviersrohini.edu.in",
+      "Year of Foundation": "1991",
+      "Date of First Opening of School": "01 Jun 2011",
+      "Name of Principal/ Head of Institution": "PACKIAM MADHALAIMUTHU",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.COM, B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "9",
+      "Teaching:": "7",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "XAVIERS SHAHBAD DAULATPUR SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

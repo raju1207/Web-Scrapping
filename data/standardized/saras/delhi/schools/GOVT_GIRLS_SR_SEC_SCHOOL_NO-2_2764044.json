@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764044",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_GIRLS_SR_SEC_SCHOOL_NO-2_2764044.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT GIRLS SR SEC SCHOOL NO-2",
+    "udise_code": null,
+    "cbse_affiliation_number": "2764044",
+    "cbse_school_code": "27279"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "SECT IV DR.AMBEDKAR NAGAR NEW DELHI",
+    "pincode": "110062"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1980",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": null,
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "MS Santosh Bhardwaj",
+    "gender": "Female",
+    "qualification": "m.com.,b.ed.",
+    "administrative_experience": "04",
+    "teaching_experience": "24"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2764044",
+    "school_code": "27279",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2020",
+    "affiliation_to": "31/03/2025",
+    "affiliation_period_raw": "From : 01/04/2020 To : 31/03/2025",
+    "trust_society": "delhi administration"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2764044",
+      "listing_raw_columns": [
+        "1849",
+        "Aff. No. : 2764044 Sch. Code: 27279",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT GIRLS SR SEC SCHOOL NO-2 Head/Principal Name: MS Santosh Bhardwaj",
+        "Address : SECT IV DR.AMBEDKAR NAGAR NEW DELHI Website :",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764044",
+      "serial_number": "1849",
+      "affiliation_and_school_code": "Aff. No. : 2764044 Sch. Code: 27279",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT GIRLS SR SEC SCHOOL NO-2 Head/Principal Name: MS Santosh Bhardwaj",
+      "address_and_website": "Address : SECT IV DR.AMBEDKAR NAGAR NEW DELHI Website :"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT GIRLS SR SEC SCHOOL NO-2",
+      "Affiliation Number": "2764044",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "SECT IV DR.AMBEDKAR NAGAR NEW DELHI",
+      "Pin Code": "110062",
+      "Website": null,
+      "Year of Foundation": "1980",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "MS Santosh Bhardwaj",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "m.com.,b.ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "04",
+      "Teaching:": "24",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2020 To : 31/03/2025",
+      "Name of Trust/ Society/ Managing Committee": "delhi administration",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

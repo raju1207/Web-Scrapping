@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730453",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\M_R_C_PUBLIC_SCHOOL_2730453.json"
+  },
+  "school_identity": {
+    "school_name": "M R C PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730453",
+    "cbse_school_code": "85349"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "B 29 VIKAS NAGAR HASTSAL NEW DELHI",
+    "pincode": "110059"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1988",
+    "first_opening_date": "16 Mar 1987",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.mrcps.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Sunaina",
+    "gender": "Female",
+    "qualification": "MABEd",
+    "administrative_experience": "14",
+    "teaching_experience": "25"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730453",
+    "school_code": "85349",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "MRC EDUCATION SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730453",
+      "listing_raw_columns": [
+        "527",
+        "Aff. No. : 2730453 Sch. Code: 85349",
+        "State : DELHI District : NEW DELHI",
+        "Secondary Level",
+        "Name : M R C PUBLIC SCHOOL Head/Principal Name: Sunaina",
+        "Address : B 29 VIKAS NAGAR HASTSAL NEW DELHI Website : www.mrcps.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730453",
+      "serial_number": "527",
+      "affiliation_and_school_code": "Aff. No. : 2730453 Sch. Code: 85349",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : M R C PUBLIC SCHOOL Head/Principal Name: Sunaina",
+      "address_and_website": "Address : B 29 VIKAS NAGAR HASTSAL NEW DELHI Website : www.mrcps.in"
+    },
+    "school_details": {
+      "Name of Institution": "M R C PUBLIC SCHOOL",
+      "Affiliation Number": "2730453",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "B 29 VIKAS NAGAR HASTSAL NEW DELHI",
+      "Pin Code": "110059",
+      "Website": "www.mrcps.in",
+      "Year of Foundation": "1988",
+      "Date of First Opening of School": "16 Mar 1987",
+      "Name of Principal/ Head of Institution": "Sunaina",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MABEd",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "14",
+      "Teaching:": "25",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "MRC EDUCATION SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

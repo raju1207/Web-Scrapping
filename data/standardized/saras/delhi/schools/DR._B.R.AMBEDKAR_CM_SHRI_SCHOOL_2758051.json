@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2758051",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\DR._B.R.AMBEDKAR_CM_SHRI_SCHOOL_2758051.json"
+  },
+  "school_identity": {
+    "school_name": "DR. B.R.AMBEDKAR CM SHRI SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2758051",
+    "cbse_school_code": "87066"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NEW DELHI",
+    "block": null,
+    "address": "PLOT NO 1 LINK ROAD KAROL BAGH NEW DELHI",
+    "pincode": "110005"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2001",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "http://www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SANJAY KUMAR",
+    "gender": "Male",
+    "qualification": "M. SC B.ED.",
+    "administrative_experience": "2",
+    "teaching_experience": "6"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2758051",
+    "school_code": "87066",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2026",
+    "affiliation_to": "31/03/2031",
+    "affiliation_period_raw": "From : 01/04/2026 To : 31/03/2031",
+    "trust_society": "dir. of edu."
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2758051",
+      "listing_raw_columns": [
+        "1617",
+        "Aff. No. : 2758051 Sch. Code: 87066",
+        "State : DELHI District : NEW DELHI",
+        "Senior Secondary Level",
+        "Name : DR. B.R.AMBEDKAR CM SHRI SCHOOL Head/Principal Name: SANJAY KUMAR",
+        "Address : PLOT NO 1 LINK ROAD KAROL BAGH NEW DELHI Website : http://www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2758051",
+      "serial_number": "1617",
+      "affiliation_and_school_code": "Aff. No. : 2758051 Sch. Code: 87066",
+      "state_and_district": "State : DELHI District : NEW DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : DR. B.R.AMBEDKAR CM SHRI SCHOOL Head/Principal Name: SANJAY KUMAR",
+      "address_and_website": "Address : PLOT NO 1 LINK ROAD KAROL BAGH NEW DELHI Website : http://www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "DR. B.R.AMBEDKAR CM SHRI SCHOOL",
+      "Affiliation Number": "2758051",
+      "State": "DELHI",
+      "District": "NEW DELHI",
+      "Postal Address": "PLOT NO 1 LINK ROAD KAROL BAGH NEW DELHI",
+      "Pin Code": "110005",
+      "Website": "http://www.edudel.nic.in",
+      "Year of Foundation": "2001",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "SANJAY KUMAR",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M. SC B.ED.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "2",
+      "Teaching:": "6",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+      "Name of Trust/ Society/ Managing Committee": "dir. of edu.",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

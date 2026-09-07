@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2788008",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\BANSIDHAR_MEMORIAL_GIRLS_SR_SEC_SCH_2788008.json"
+  },
+  "school_identity": {
+    "school_name": "BANSIDHAR MEMORIAL GIRLS SR SEC SCH",
+    "udise_code": null,
+    "cbse_affiliation_number": "2788008",
+    "cbse_school_code": "87153"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH DELHI",
+    "block": null,
+    "address": "PAHARI DHIRAJ DELHI",
+    "pincode": "110006"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT AIDED",
+    "foundation_year": "1963",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.weblearning.net",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "KUSUM LATA",
+    "gender": "Female",
+    "qualification": "MA,M.ed",
+    "administrative_experience": "7",
+    "teaching_experience": "24"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2788008",
+    "school_code": "87153",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2029",
+    "trust_society": "DELHI ADMINISTRATION"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2788008",
+      "listing_raw_columns": [
+        "2217",
+        "Aff. No. : 2788008 Sch. Code: 87153",
+        "State : DELHI District : NORTH DELHI",
+        "Senior Secondary Level",
+        "Name : BANSIDHAR MEMORIAL GIRLS SR SEC SCH Head/Principal Name: KUSUM LATA",
+        "Address : PAHARI DHIRAJ DELHI Website : www.weblearning.net",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2788008",
+      "serial_number": "2217",
+      "affiliation_and_school_code": "Aff. No. : 2788008 Sch. Code: 87153",
+      "state_and_district": "State : DELHI District : NORTH DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : BANSIDHAR MEMORIAL GIRLS SR SEC SCH Head/Principal Name: KUSUM LATA",
+      "address_and_website": "Address : PAHARI DHIRAJ DELHI Website : www.weblearning.net"
+    },
+    "school_details": {
+      "Name of Institution": "BANSIDHAR MEMORIAL GIRLS SR SEC SCH",
+      "Affiliation Number": "2788008",
+      "State": "DELHI",
+      "District": "NORTH DELHI",
+      "Postal Address": "PAHARI DHIRAJ DELHI",
+      "Pin Code": "110006",
+      "Website": "www.weblearning.net",
+      "Year of Foundation": "1963",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "KUSUM LATA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA,M.ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "7",
+      "Teaching:": "24",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT AIDED",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

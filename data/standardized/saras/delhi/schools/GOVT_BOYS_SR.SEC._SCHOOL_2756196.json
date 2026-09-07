@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756196",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVT_BOYS_SR.SEC._SCHOOL_2756196.json"
+  },
+  "school_identity": {
+    "school_name": "GOVT BOYS SR.SEC. SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2756196",
+    "cbse_school_code": "88501"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "SECT-XI, ROHINI , DELHI",
+    "pincode": "110085"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2019",
+    "first_opening_date": "30 Sep 2019",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "DEVENDRA KUMAR JAIN",
+    "gender": "Male",
+    "qualification": "M.Com.,B.Ed.",
+    "administrative_experience": "10",
+    "teaching_experience": "10"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2756196",
+    "school_code": "88501",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "kendriya vidyalaya sangathan"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2756196",
+      "listing_raw_columns": [
+        "1576",
+        "Aff. No. : 2756196 Sch. Code: 88501",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVT BOYS SR.SEC. SCHOOL Head/Principal Name: DEVENDRA KUMAR JAIN",
+        "Address : SECT-XI, ROHINI , DELHI Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756196",
+      "serial_number": "1576",
+      "affiliation_and_school_code": "Aff. No. : 2756196 Sch. Code: 88501",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVT BOYS SR.SEC. SCHOOL Head/Principal Name: DEVENDRA KUMAR JAIN",
+      "address_and_website": "Address : SECT-XI, ROHINI , DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "GOVT BOYS SR.SEC. SCHOOL",
+      "Affiliation Number": "2756196",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "SECT-XI, ROHINI , DELHI",
+      "Pin Code": "110085",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "2019",
+      "Date of First Opening of School": "30 Sep 2019",
+      "Name of Principal/ Head of Institution": "DEVENDRA KUMAR JAIN",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "M.Com.,B.Ed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "10",
+      "Teaching:": "10",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "kendriya vidyalaya sangathan",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

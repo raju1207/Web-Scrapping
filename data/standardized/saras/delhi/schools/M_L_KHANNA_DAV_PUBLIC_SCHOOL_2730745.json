@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730745",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\M_L_KHANNA_DAV_PUBLIC_SCHOOL_2730745.json"
+  },
+  "school_identity": {
+    "school_name": "M L KHANNA DAV PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730745",
+    "cbse_school_code": "25266"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "SECTOR VI, DWARKA, NEW DELHI-110075",
+    "pincode": "110075"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1990",
+    "first_opening_date": "07 Apr 1990",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.davdwarka.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Sarika Pant",
+    "gender": "Female",
+    "qualification": "MA. Bed.",
+    "administrative_experience": "1",
+    "teaching_experience": "24"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730745",
+    "school_code": "25266",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "DAV COLLEGE TRUST AND MANAGEMENT SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730745",
+      "listing_raw_columns": [
+        "809",
+        "Aff. No. : 2730745 Sch. Code: 25266",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : M L KHANNA DAV PUBLIC SCHOOL Head/Principal Name: Sarika Pant",
+        "Address : SECTOR VI, DWARKA, NEW DELHI-110075 Website : www.davdwarka.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730745",
+      "serial_number": "809",
+      "affiliation_and_school_code": "Aff. No. : 2730745 Sch. Code: 25266",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : M L KHANNA DAV PUBLIC SCHOOL Head/Principal Name: Sarika Pant",
+      "address_and_website": "Address : SECTOR VI, DWARKA, NEW DELHI-110075 Website : www.davdwarka.in"
+    },
+    "school_details": {
+      "Name of Institution": "M L KHANNA DAV PUBLIC SCHOOL",
+      "Affiliation Number": "2730745",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "SECTOR VI, DWARKA, NEW DELHI-110075",
+      "Pin Code": "110075",
+      "Website": "www.davdwarka.in",
+      "Year of Foundation": "1990",
+      "Date of First Opening of School": "07 Apr 1990",
+      "Name of Principal/ Head of Institution": "Sarika Pant",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA. Bed.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "1",
+      "Teaching:": "24",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "DAV COLLEGE TRUST AND MANAGEMENT SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

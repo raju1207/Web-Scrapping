@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730558",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\G_D_GOENKA_PUBLIC_SCHOOL_2730558.json"
+  },
+  "school_identity": {
+    "school_name": "G D GOENKA PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730558",
+    "cbse_school_code": "85268"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "POCKET-4 SEC. -9, BEHIND MAYUR APPRT. ROHINI, DELHI",
+    "pincode": "110085"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2005",
+    "first_opening_date": "01 Apr 2012",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.gdgoenkarohini.edu.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "NISHA ANEJA",
+    "gender": "Female",
+    "qualification": "M.COM ECONOMICS, B.ED",
+    "administrative_experience": "9",
+    "teaching_experience": "23"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730558",
+    "school_code": "85268",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2027",
+    "affiliation_to": "31/03/2032",
+    "affiliation_period_raw": "From : 01/04/2027 To : 31/03/2032",
+    "trust_society": "Association of S.Kripal Education Society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730558",
+      "listing_raw_columns": [
+        "629",
+        "Aff. No. : 2730558 Sch. Code: 85268",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : G D GOENKA PUBLIC SCHOOL Head/Principal Name: NISHA ANEJA",
+        "Address : POCKET-4 SEC. -9, BEHIND MAYUR APPRT. ROHINI, DELHI Website : www.gdgoenkarohini.edu.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730558",
+      "serial_number": "629",
+      "affiliation_and_school_code": "Aff. No. : 2730558 Sch. Code: 85268",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : G D GOENKA PUBLIC SCHOOL Head/Principal Name: NISHA ANEJA",
+      "address_and_website": "Address : POCKET-4 SEC. -9, BEHIND MAYUR APPRT. ROHINI, DELHI Website : www.gdgoenkarohini.edu.in"
+    },
+    "school_details": {
+      "Name of Institution": "G D GOENKA PUBLIC SCHOOL",
+      "Affiliation Number": "2730558",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "POCKET-4 SEC. -9, BEHIND MAYUR APPRT. ROHINI, DELHI",
+      "Pin Code": "110085",
+      "Website": "www.gdgoenkarohini.edu.in",
+      "Year of Foundation": "2005",
+      "Date of First Opening of School": "01 Apr 2012",
+      "Name of Principal/ Head of Institution": "NISHA ANEJA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.COM ECONOMICS, B.ED",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "9",
+      "Teaching:": "23",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+      "Name of Trust/ Society/ Managing Committee": "Association of S.Kripal Education Society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131018",
+    "academic_year": "2025-26",
+    "location": "Mumbai",
+    "raw_file": "data\\CBSE_SARAS\\mumbai\\schools\\DNYANPUSHPA_VIDYA_NIKETAN_CBSE_BOARD_1131018.json"
+  },
+  "school_identity": {
+    "school_name": "DNYANPUSHPA VIDYA NIKETAN CBSE BOARD",
+    "udise_code": null,
+    "cbse_affiliation_number": "1131018",
+    "cbse_school_code": "30992"
+  },
+  "location": {
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI",
+    "block": null,
+    "address": "DNYANPUSHPA VIDYA NIKETAN CBSE BOARD SECTOR 04 OPPOSITE YMCA CBD BELAPUR NAVI MUMBAI",
+    "pincode": "400614"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2018",
+    "first_opening_date": "06 Jun 2018",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.dpvncbse.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "ASHU BHUPINDER RANA",
+    "gender": "Female",
+    "qualification": "M.A.,P.G.D.B.M, B.Ed",
+    "administrative_experience": "12",
+    "teaching_experience": "19"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "1131018",
+    "school_code": "30992",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "Ramrao Adik Educational Society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "1131018",
+      "listing_raw_columns": [
+        "55",
+        "Aff. No. : 1131018 Sch. Code: 30992",
+        "State : MAHARASHTRA District : MUMBAI",
+        "Senior Secondary Level",
+        "Name : DNYANPUSHPA VIDYA NIKETAN CBSE BOARD Head/Principal Name: ASHU BHUPINDER RANA",
+        "Address : DNYANPUSHPA VIDYA NIKETAN CBSE BOARD SECTOR 04 OPPOSITE YMCA CBD BELAPUR NAVI MUMBAI Website : www.dpvncbse.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131018",
+      "serial_number": "55",
+      "affiliation_and_school_code": "Aff. No. : 1131018 Sch. Code: 30992",
+      "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : DNYANPUSHPA VIDYA NIKETAN CBSE BOARD Head/Principal Name: ASHU BHUPINDER RANA",
+      "address_and_website": "Address : DNYANPUSHPA VIDYA NIKETAN CBSE BOARD SECTOR 04 OPPOSITE YMCA CBD BELAPUR NAVI MUMBAI Website : www.dpvncbse.com",
+      "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+      "Name of Institution": "DNYANPUSHPA VIDYA NIKETAN CBSE BOARD",
+      "Affiliation Number": "1131018",
+      "State": "MAHARASHTRA",
+      "District": "MUMBAI",
+      "Postal Address": "DNYANPUSHPA VIDYA NIKETAN CBSE BOARD SECTOR 04 OPPOSITE YMCA CBD BELAPUR NAVI MUMBAI",
+      "Pin Code": "400614",
+      "Website": "www.dpvncbse.com",
+      "Year of Foundation": "2018",
+      "Date of First Opening of School": "06 Jun 2018",
+      "Name of Principal/ Head of Institution": "ASHU BHUPINDER RANA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A.,P.G.D.B.M, B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "12",
+      "Teaching:": "19",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "Ramrao Adik Educational Society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

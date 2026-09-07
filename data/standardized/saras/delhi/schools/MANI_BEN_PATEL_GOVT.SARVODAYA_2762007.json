@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762007",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\MANI_BEN_PATEL_GOVT.SARVODAYA_2762007.json"
+  },
+  "school_identity": {
+    "school_name": "MANI BEN PATEL GOVT.SARVODAYA",
+    "udise_code": null,
+    "cbse_affiliation_number": "2762007",
+    "cbse_school_code": "27267"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SHAHDARA",
+    "block": null,
+    "address": "GIRLS S.S.S. G T ROAD SHAHDARA DELHI",
+    "pincode": "110032"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1950",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.gov.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "RAKHI RANI",
+    "gender": "Female",
+    "qualification": "M.SC , M.ED, NET",
+    "administrative_experience": "16",
+    "teaching_experience": "15"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2762007",
+    "school_code": "27267",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "delhi administration"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2762007",
+      "listing_raw_columns": [
+        "1729",
+        "Aff. No. : 2762007 Sch. Code: 27267",
+        "State : DELHI District : SHAHDARA",
+        "Senior Secondary Level",
+        "Name : MANI BEN PATEL GOVT.SARVODAYA Head/Principal Name: RAKHI RANI",
+        "Address : GIRLS S.S.S. G T ROAD SHAHDARA DELHI Website : www.edudel.gov.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762007",
+      "serial_number": "1729",
+      "affiliation_and_school_code": "Aff. No. : 2762007 Sch. Code: 27267",
+      "state_and_district": "State : DELHI District : SHAHDARA",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : MANI BEN PATEL GOVT.SARVODAYA Head/Principal Name: RAKHI RANI",
+      "address_and_website": "Address : GIRLS S.S.S. G T ROAD SHAHDARA DELHI Website : www.edudel.gov.in"
+    },
+    "school_details": {
+      "Name of Institution": "MANI BEN PATEL GOVT.SARVODAYA",
+      "Affiliation Number": "2762007",
+      "State": "DELHI",
+      "District": "SHAHDARA",
+      "Postal Address": "GIRLS S.S.S. G T ROAD SHAHDARA DELHI",
+      "Pin Code": "110032",
+      "Website": "www.edudel.gov.in",
+      "Year of Foundation": "1950",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "RAKHI RANI",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.SC , M.ED, NET",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "16",
+      "Teaching:": "15",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "delhi administration",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730556",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\CANTERBURY_PUBLIC_SCHOOL_2730556.json"
+  },
+  "school_identity": {
+    "school_name": "CANTERBURY PUBLIC SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730556",
+    "cbse_school_code": "85138"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH EAST DELHI",
+    "block": null,
+    "address": "B- BLOCK, YAMUNA VIHAR, DELHI",
+    "pincode": "110053"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "1982",
+    "first_opening_date": "01 Apr 1997",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.canterburyschools.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "DR. DIPTI GUPTA",
+    "gender": "Female",
+    "qualification": "M.A. B.Ed , LLB, Ph. D.",
+    "administrative_experience": "14",
+    "teaching_experience": "8"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730556",
+    "school_code": "85138",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2025",
+    "affiliation_to": "31/03/2030",
+    "affiliation_period_raw": "From : 01/04/2025 To : 31/03/2030",
+    "trust_society": "catholic diocese of jhansi education society"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730556",
+      "listing_raw_columns": [
+        "627",
+        "Aff. No. : 2730556 Sch. Code: 85138",
+        "State : DELHI District : NORTH EAST DELHI",
+        "Secondary Level",
+        "Name : CANTERBURY PUBLIC SCHOOL Head/Principal Name: DR. DIPTI GUPTA",
+        "Address : B- BLOCK, YAMUNA VIHAR, DELHI Website : www.canterburyschools.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730556",
+      "serial_number": "627",
+      "affiliation_and_school_code": "Aff. No. : 2730556 Sch. Code: 85138",
+      "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+      "status": "Secondary Level",
+      "school_and_head": "Name : CANTERBURY PUBLIC SCHOOL Head/Principal Name: DR. DIPTI GUPTA",
+      "address_and_website": "Address : B- BLOCK, YAMUNA VIHAR, DELHI Website : www.canterburyschools.com"
+    },
+    "school_details": {
+      "Name of Institution": "CANTERBURY PUBLIC SCHOOL",
+      "Affiliation Number": "2730556",
+      "State": "DELHI",
+      "District": "NORTH EAST DELHI",
+      "Postal Address": "B- BLOCK, YAMUNA VIHAR, DELHI",
+      "Pin Code": "110053",
+      "Website": "www.canterburyschools.com",
+      "Year of Foundation": "1982",
+      "Date of First Opening of School": "01 Apr 1997",
+      "Name of Principal/ Head of Institution": "DR. DIPTI GUPTA",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "M.A. B.Ed , LLB, Ph. D.",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "14",
+      "Teaching:": "8",
+      "Status of The School": "Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+      "Name of Trust/ Society/ Managing Committee": "catholic diocese of jhansi education society",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

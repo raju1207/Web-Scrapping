@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756186",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\CM_SHRI_SCHOOL_BINDAPUR_2756186.json"
+  },
+  "school_identity": {
+    "school_name": "CM SHRI SCHOOL BINDAPUR",
+    "udise_code": null,
+    "cbse_affiliation_number": "2756186",
+    "cbse_school_code": "27563"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "WEST DELHI",
+    "block": null,
+    "address": "BINDAPUR DDA FLATS, E-BLOCK, NEAR WATER PUMP HOUSE, NEW DELHI-110059",
+    "pincode": null
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "2016",
+    "first_opening_date": "10 Jan 2020",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "DR. CHETAN MALIK",
+    "gender": "Male",
+    "qualification": "Phd",
+    "administrative_experience": "3",
+    "teaching_experience": "15"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2756186",
+    "school_code": "27563",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2024",
+    "affiliation_to": "31/03/2029",
+    "affiliation_period_raw": "From : 01/04/2024 To : 31/03/2029",
+    "trust_society": null
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2756186",
+      "listing_raw_columns": [
+        "1566",
+        "Aff. No. : 2756186 Sch. Code: 27563",
+        "State : DELHI District : WEST DELHI",
+        "Senior Secondary Level",
+        "Name : CM SHRI SCHOOL BINDAPUR Head/Principal Name: DR. CHETAN MALIK",
+        "Address : BINDAPUR DDA FLATS, E-BLOCK, NEAR WATER PUMP HOUSE, NEW DELHI-110059 Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756186",
+      "serial_number": "1566",
+      "affiliation_and_school_code": "Aff. No. : 2756186 Sch. Code: 27563",
+      "state_and_district": "State : DELHI District : WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : CM SHRI SCHOOL BINDAPUR Head/Principal Name: DR. CHETAN MALIK",
+      "address_and_website": "Address : BINDAPUR DDA FLATS, E-BLOCK, NEAR WATER PUMP HOUSE, NEW DELHI-110059 Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "CM SHRI SCHOOL BINDAPUR",
+      "Affiliation Number": "2756186",
+      "State": "DELHI",
+      "District": "WEST DELHI",
+      "Postal Address": "BINDAPUR DDA FLATS, E-BLOCK, NEAR WATER PUMP HOUSE, NEW DELHI-110059",
+      "Pin Code": null,
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "2016",
+      "Date of First Opening of School": "10 Jan 2020",
+      "Name of Principal/ Head of Institution": "DR. CHETAN MALIK",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "Phd",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "3",
+      "Teaching:": "15",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+      "Name of Trust/ Society/ Managing Committee": null,
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

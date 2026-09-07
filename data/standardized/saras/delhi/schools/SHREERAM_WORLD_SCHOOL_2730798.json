@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730798",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SHREERAM_WORLD_SCHOOL_2730798.json"
+  },
+  "school_identity": {
+    "school_name": "SHREERAM WORLD SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730798",
+    "cbse_school_code": "25310"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI",
+    "block": null,
+    "address": "SECTOR-10, DWARKA",
+    "pincode": "110075"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2014",
+    "first_opening_date": "04 Jan 2014",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.ShreeRam.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Sudha Sadangi",
+    "gender": "Female",
+    "qualification": "MA Economics",
+    "administrative_experience": "15",
+    "teaching_experience": "26"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730798",
+    "school_code": "25310",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "Mata Phoolan Wanti Educational Society (Regd.)"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730798",
+      "listing_raw_columns": [
+        "862",
+        "Aff. No. : 2730798 Sch. Code: 25310",
+        "State : DELHI District : SOUTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : SHREERAM WORLD SCHOOL Head/Principal Name: Sudha Sadangi",
+        "Address : SECTOR-10, DWARKA Website : www.ShreeRam.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730798",
+      "serial_number": "862",
+      "affiliation_and_school_code": "Aff. No. : 2730798 Sch. Code: 25310",
+      "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SHREERAM WORLD SCHOOL Head/Principal Name: Sudha Sadangi",
+      "address_and_website": "Address : SECTOR-10, DWARKA Website : www.ShreeRam.in"
+    },
+    "school_details": {
+      "Name of Institution": "SHREERAM WORLD SCHOOL",
+      "Affiliation Number": "2730798",
+      "State": "DELHI",
+      "District": "SOUTH WEST DELHI",
+      "Postal Address": "SECTOR-10, DWARKA",
+      "Pin Code": "110075",
+      "Website": "www.ShreeRam.in",
+      "Year of Foundation": "2014",
+      "Date of First Opening of School": "04 Jan 2014",
+      "Name of Principal/ Head of Institution": "Sudha Sadangi",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "MA Economics",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "15",
+      "Teaching:": "26",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "Mata Phoolan Wanti Educational Society (Regd.)",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

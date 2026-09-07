@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730835",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\SAVANU_INTERNATIONAL_SCHOOL_2730835.json"
+  },
+  "school_identity": {
+    "school_name": "SAVANU INTERNATIONAL SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2730835",
+    "cbse_school_code": "86106"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "MUKHMELPUR ROAD, VILLAGE-JINDPUR",
+    "pincode": "110036"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "INDEPENDENT",
+    "foundation_year": "2009",
+    "first_opening_date": "01 Apr 2013",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.savanuinternationalschool.com",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "Pankaj Rana",
+    "gender": "Male",
+    "qualification": "MSc, B.Ed",
+    "administrative_experience": "1",
+    "teaching_experience": "10"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2730835",
+    "school_code": "86106",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2023",
+    "affiliation_to": "31/03/2028",
+    "affiliation_period_raw": "From : 01/04/2023 To : 31/03/2028",
+    "trust_society": "CH. KURE RAM EDUCATION & WELFARE SOCIETY"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2730835",
+      "listing_raw_columns": [
+        "895",
+        "Aff. No. : 2730835 Sch. Code: 86106",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : SAVANU INTERNATIONAL SCHOOL Head/Principal Name: Pankaj Rana",
+        "Address : MUKHMELPUR ROAD, VILLAGE-JINDPUR Website : www.savanuinternationalschool.com",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730835",
+      "serial_number": "895",
+      "affiliation_and_school_code": "Aff. No. : 2730835 Sch. Code: 86106",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : SAVANU INTERNATIONAL SCHOOL Head/Principal Name: Pankaj Rana",
+      "address_and_website": "Address : MUKHMELPUR ROAD, VILLAGE-JINDPUR Website : www.savanuinternationalschool.com"
+    },
+    "school_details": {
+      "Name of Institution": "SAVANU INTERNATIONAL SCHOOL",
+      "Affiliation Number": "2730835",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "MUKHMELPUR ROAD, VILLAGE-JINDPUR",
+      "Pin Code": "110036",
+      "Website": "www.savanuinternationalschool.com",
+      "Year of Foundation": "2009",
+      "Date of First Opening of School": "01 Apr 2013",
+      "Name of Principal/ Head of Institution": "Pankaj Rana",
+      "Gender": "Male",
+      "Principal's Educational/Professional Qualifications:": "MSc, B.Ed",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "1",
+      "Teaching:": "10",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "INDEPENDENT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+      "Name of Trust/ Society/ Managing Committee": "CH. KURE RAM EDUCATION & WELFARE SOCIETY",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}

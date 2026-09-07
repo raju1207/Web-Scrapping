@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "source": "CBSE SARAS",
+    "source_type": "Official CBSE Affiliation Directory",
+    "source_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2760094",
+    "academic_year": "2025-26",
+    "location": "Delhi",
+    "raw_file": "data\\CBSE_SARAS\\delhi\\schools\\GOVERNMENT_GIRLS_SECONDARY_SCHOOL_2760094.json"
+  },
+  "school_identity": {
+    "school_name": "GOVERNMENT GIRLS SECONDARY SCHOOL",
+    "udise_code": null,
+    "cbse_affiliation_number": "2760094",
+    "cbse_school_code": "87271"
+  },
+  "location": {
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI",
+    "block": null,
+    "address": "E-BLOCK, JAHANGIRPURI, DELHI-110033",
+    "pincode": "110033"
+  },
+  "school_information": {
+    "board": "CBSE",
+    "management_type": null,
+    "school_category": null,
+    "school_level": "Senior Secondary Level",
+    "school_type": "GOVT",
+    "foundation_year": "1986",
+    "first_opening_date": "01 Apr 1991",
+    "gender_type": null
+  },
+  "contact": {
+    "website": "www.edudel.nic.in",
+    "phone": null,
+    "email": null
+  },
+  "principal": {
+    "name": "SUMAN",
+    "gender": "Female",
+    "qualification": "POST GRADUATION",
+    "administrative_experience": "4",
+    "teaching_experience": "22"
+  },
+  "affiliation": {
+    "board": "CBSE",
+    "affiliation_number": "2760094",
+    "school_code": "87271",
+    "affiliation_status": null,
+    "affiliation_type": null,
+    "affiliation_from": "01/04/2022",
+    "affiliation_to": "31/03/2027",
+    "affiliation_period_raw": "From : 01/04/2022 To : 31/03/2027",
+    "trust_society": "u t administration"
+  },
+  "student_statistics": {},
+  "teacher_statistics": {},
+  "infrastructure": {},
+  "report_card": {},
+  "school_history": {},
+  "source_payload": {
+    "school_summary": {},
+    "school_profile": {},
+    "listing_data": {
+      "affiliation_number": "2760094",
+      "listing_raw_columns": [
+        "1711",
+        "Aff. No. : 2760094 Sch. Code: 87271",
+        "State : DELHI District : NORTH WEST DELHI",
+        "Senior Secondary Level",
+        "Name : GOVERNMENT GIRLS SECONDARY SCHOOL Head/Principal Name: SUMAN",
+        "Address : E-BLOCK, JAHANGIRPURI, DELHI-110033 Website : www.edudel.nic.in",
+        "View"
+      ],
+      "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2760094",
+      "serial_number": "1711",
+      "affiliation_and_school_code": "Aff. No. : 2760094 Sch. Code: 87271",
+      "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+      "status": "Senior Secondary Level",
+      "school_and_head": "Name : GOVERNMENT GIRLS SECONDARY SCHOOL Head/Principal Name: SUMAN",
+      "address_and_website": "Address : E-BLOCK, JAHANGIRPURI, DELHI-110033 Website : www.edudel.nic.in"
+    },
+    "school_details": {
+      "Name of Institution": "GOVERNMENT GIRLS SECONDARY SCHOOL",
+      "Affiliation Number": "2760094",
+      "State": "DELHI",
+      "District": "NORTH WEST DELHI",
+      "Postal Address": "E-BLOCK, JAHANGIRPURI, DELHI-110033",
+      "Pin Code": "110033",
+      "Website": "www.edudel.nic.in",
+      "Year of Foundation": "1986",
+      "Date of First Opening of School": "01 Apr 1991",
+      "Name of Principal/ Head of Institution": "SUMAN",
+      "Gender": "Female",
+      "Principal's Educational/Professional Qualifications:": "POST GRADUATION",
+      "No of Experience ( in Years ):": null,
+      "Administrative:": "4",
+      "Teaching:": "22",
+      "Status of The School": "Senior Secondary Level",
+      "School Type": "GOVT",
+      "Type of affiliation": null,
+      "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+      "Name of Trust/ Society/ Managing Committee": "u t administration",
+      "Remarks, if any": null
+    },
+    "links": []
+  }
+}
