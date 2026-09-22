@@ -7,3 +7,7 @@ __pycache__/
 .vscode/
 
 .env
+# Generated Canonical v4 output
+data/canonical_v4/
+standardized_sample.txt
+data/audit/
