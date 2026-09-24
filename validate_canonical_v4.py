@@ -9,7 +9,7 @@ DATASETS = {
     "chandigarh": {
         "raw": Path("data/Chandigarh/2025-26"),
         "canonical": Path("data/canonical_v4/udise/chandigarh"),
-        "expected": 229,
+        "expected": 236,
     },
     "delhi": {
         "raw": Path("data/Delhi/2025-26"),
