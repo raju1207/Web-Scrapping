@@ -1,4 +1,4 @@
-import json
+﻿import json
 from pathlib import Path
 from collections import Counter
 
@@ -856,7 +856,7 @@ def main():
         "passed": overall_pass,
         "schema_version": SCHEMA_VERSION,
         "academic_year": ACADEMIC_YEAR,
-        "expected_total_records": 3253,
+        "expected_total_records": 3260,
         "validated_total_records": sum(
             results[name][
                 "canonical_records"
