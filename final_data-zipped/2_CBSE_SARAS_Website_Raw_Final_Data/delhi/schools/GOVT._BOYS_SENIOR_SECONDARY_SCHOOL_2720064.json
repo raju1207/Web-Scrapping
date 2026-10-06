@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2720064",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720064"
+    },
+    "listing_data": {
+        "affiliation_number": "2720064",
+        "listing_raw_columns": [
+            "61",
+            "Aff. No. : 2720064 Sch. Code: 27709",
+            "State : DELHI District : SOUTH DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT. BOYS SENIOR SECONDARY SCHOOL Head/Principal Name: DR. YOGESH KUMAR TONK",
+            "Address : SANGAM VIHAR, NEW DELHI-110080 Website : https://www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720064",
+        "serial_number": "61",
+        "affiliation_and_school_code": "Aff. No. : 2720064 Sch. Code: 27709",
+        "state_and_district": "State : DELHI District : SOUTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT. BOYS SENIOR SECONDARY SCHOOL Head/Principal Name: DR. YOGESH KUMAR TONK",
+        "address_and_website": "Address : SANGAM VIHAR, NEW DELHI-110080 Website : https://www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT. BOYS SENIOR SECONDARY SCHOOL",
+        "Affiliation Number": "2720064",
+        "State": "DELHI",
+        "District": "SOUTH DELHI",
+        "Postal Address": "SANGAM VIHAR, NEW DELHI-110080",
+        "Pin Code": "110080",
+        "Website": "https://www.edudel.nic.in",
+        "Year of Foundation": "2023",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "DR. YOGESH KUMAR TONK",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "P.hd. M.ED.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "10",
+        "Teaching:": "25",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "DIRECTORATE OF EDUCATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

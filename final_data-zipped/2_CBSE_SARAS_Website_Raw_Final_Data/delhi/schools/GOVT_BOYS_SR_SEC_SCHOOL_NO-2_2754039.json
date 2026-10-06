@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2754039",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754039"
+    },
+    "listing_data": {
+        "affiliation_number": "2754039",
+        "listing_raw_columns": [
+            "1298",
+            "Aff. No. : 2754039 Sch. Code: 27333",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR SEC SCHOOL NO-2 Head/Principal Name: HANS RAJ MEENA",
+            "Address : MEHRAULI NEW DELHI Website : http://www.gbsssmehrauli.com/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754039",
+        "serial_number": "1298",
+        "affiliation_and_school_code": "Aff. No. : 2754039 Sch. Code: 27333",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR SEC SCHOOL NO-2 Head/Principal Name: HANS RAJ MEENA",
+        "address_and_website": "Address : MEHRAULI NEW DELHI Website : http://www.gbsssmehrauli.com/"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR SEC SCHOOL NO-2",
+        "Affiliation Number": "2754039",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "MEHRAULI NEW DELHI",
+        "Pin Code": "110030",
+        "Website": "http://www.gbsssmehrauli.com/",
+        "Year of Foundation": "1852",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "HANS RAJ MEENA",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "POST GRADUATION",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "11",
+        "Teaching:": "18",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

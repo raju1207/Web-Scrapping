@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730920",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730920"
+    },
+    "listing_data": {
+        "affiliation_number": "2730920",
+        "listing_raw_columns": [
+            "935",
+            "Aff. No. : 2730920 Sch. Code: 25570",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Secondary Level",
+            "Name : SHANTI GYAN VIDYAPEETH SCHOOL Head/Principal Name: NANCY JUNEJA",
+            "Address : GOYLA (DWARKA), NEAR SECTOR - 19, NEW DELHI Website : www.shantigyanvidyapeeth.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730920",
+        "serial_number": "935",
+        "affiliation_and_school_code": "Aff. No. : 2730920 Sch. Code: 25570",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : SHANTI GYAN VIDYAPEETH SCHOOL Head/Principal Name: NANCY JUNEJA",
+        "address_and_website": "Address : GOYLA (DWARKA), NEAR SECTOR - 19, NEW DELHI Website : www.shantigyanvidyapeeth.com"
+    },
+    "school_details": {
+        "Name of Institution": "SHANTI GYAN VIDYAPEETH SCHOOL",
+        "Affiliation Number": "2730920",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "GOYLA (DWARKA), NEAR SECTOR - 19, NEW DELHI",
+        "Pin Code": "110071",
+        "Website": "www.shantigyanvidyapeeth.com",
+        "Year of Foundation": "2006",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "NANCY JUNEJA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "B.com Hons., B.ED, M.B.A",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "10",
+        "Teaching:": "10",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "Khurana Educational Society",
+        "Remarks, if any": null
+    },
+    "links": []
+}

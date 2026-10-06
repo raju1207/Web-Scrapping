@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "CHANDIGARH",
+        "district": "CHANDIGARH",
+        "affiliation_number": "2620047",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2620047"
+    },
+    "listing_data": {
+        "affiliation_number": "2620047",
+        "listing_raw_columns": [
+            "51",
+            "Aff. No. : 2620047 Sch. Code: 24230",
+            "State : CHANDIGARH District : CHANDIGARH",
+            "Secondary Level",
+            "Name : GOVT HIGH SCHOOL Head/Principal Name: Seema Arora",
+            "Address : SECT 24 A CHANDIGARH Website : www.ghs24.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2620047",
+        "serial_number": "51",
+        "affiliation_and_school_code": "Aff. No. : 2620047 Sch. Code: 24230",
+        "state_and_district": "State : CHANDIGARH District : CHANDIGARH",
+        "status": "Secondary Level",
+        "school_and_head": "Name : GOVT HIGH SCHOOL Head/Principal Name: Seema Arora",
+        "address_and_website": "Address : SECT 24 A CHANDIGARH Website : www.ghs24.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT HIGH SCHOOL",
+        "Affiliation Number": "2620047",
+        "State": "CHANDIGARH",
+        "District": "CHANDIGARH",
+        "Postal Address": "SECT 24 A CHANDIGARH",
+        "Pin Code": "160",
+        "Website": "www.ghs24.in",
+        "Year of Foundation": "1966",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "Seema Arora",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "B.A., B.ED, LLB",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "04",
+        "Teaching:": "31",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "chandigarh administration",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730349",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730349"
+    },
+    "listing_data": {
+        "affiliation_number": "2730349",
+        "listing_raw_columns": [
+            "430",
+            "Aff. No. : 2730349 Sch. Code:",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Secondary Level",
+            "Name : MATA SHIV DEVI PUBLIC SCHOOL Head/Principal Name: MRS SANTOSH KUMARI",
+            "Address : A-2 KESHAV PURAM DELHI Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730349",
+        "serial_number": "430",
+        "affiliation_and_school_code": "Aff. No. : 2730349 Sch. Code:",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : MATA SHIV DEVI PUBLIC SCHOOL Head/Principal Name: MRS SANTOSH KUMARI",
+        "address_and_website": "Address : A-2 KESHAV PURAM DELHI Website :"
+    },
+    "school_details": {
+        "Name of Institution": "MATA SHIV DEVI PUBLIC SCHOOL",
+        "Affiliation Number": "2730349",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "A-2 KESHAV PURAM DELHI",
+        "Pin Code": "110034",
+        "Website": null,
+        "Year of Foundation": null,
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "MRS SANTOSH KUMARI",
+        "Gender": "Unknown",
+        "Principal's Educational/Professional Qualifications:": null,
+        "No of Experience ( in Years ):": null,
+        "Administrative:": null,
+        "Teaching:": null,
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2005 To : 31/03/2010",
+        "Name of Trust/ Society/ Managing Committee": "TRINAGAR SHIKSHA PRACHARNI SABHA",
+        "Remarks, if any": null
+    },
+    "links": []
+}

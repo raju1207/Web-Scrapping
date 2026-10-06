@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730236",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730236"
+    },
+    "listing_data": {
+        "affiliation_number": "2730236",
+        "listing_raw_columns": [
+            "322",
+            "Aff. No. : 2730236 Sch. Code: 85314",
+            "State : DELHI District : WEST DELHI",
+            "Secondary Level",
+            "Name : S D PUBLIC SCHOOL Head/Principal Name: DIPTI MALHOTRA",
+            "Address : NEAR POLICE STATION KIRTI NAGAR NEW DELHI Website : www.sdpskirtinagar.org",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730236",
+        "serial_number": "322",
+        "affiliation_and_school_code": "Aff. No. : 2730236 Sch. Code: 85314",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : S D PUBLIC SCHOOL Head/Principal Name: DIPTI MALHOTRA",
+        "address_and_website": "Address : NEAR POLICE STATION KIRTI NAGAR NEW DELHI Website : www.sdpskirtinagar.org"
+    },
+    "school_details": {
+        "Name of Institution": "S D PUBLIC SCHOOL",
+        "Affiliation Number": "2730236",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "NEAR POLICE STATION KIRTI NAGAR NEW DELHI",
+        "Pin Code": "110015",
+        "Website": "www.sdpskirtinagar.org",
+        "Year of Foundation": "1994",
+        "Date of First Opening of School": "03 Jul 2000",
+        "Name of Principal/ Head of Institution": "DIPTI MALHOTRA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "B.Sc B.Ed M.A",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "23",
+        "Teaching:": "23",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": null,
+        "Remarks, if any": null
+    },
+    "links": []
+}

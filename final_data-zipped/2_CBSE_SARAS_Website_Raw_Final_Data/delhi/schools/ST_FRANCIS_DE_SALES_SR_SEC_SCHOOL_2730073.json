@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730073",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730073"
+    },
+    "listing_data": {
+        "affiliation_number": "2730073",
+        "listing_raw_columns": [
+            "161",
+            "Aff. No. : 2730073 Sch. Code: 85303",
+            "State : DELHI District : WEST DELHI",
+            "Senior Secondary Level",
+            "Name : ST FRANCIS DE SALES SR SEC SCHOOL Head/Principal Name: SAIJU THOMAS",
+            "Address : A-4-C JANAKPURI NEW DELHI Website : www.sfsdelhi.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730073",
+        "serial_number": "161",
+        "affiliation_and_school_code": "Aff. No. : 2730073 Sch. Code: 85303",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : ST FRANCIS DE SALES SR SEC SCHOOL Head/Principal Name: SAIJU THOMAS",
+        "address_and_website": "Address : A-4-C JANAKPURI NEW DELHI Website : www.sfsdelhi.com"
+    },
+    "school_details": {
+        "Name of Institution": "ST FRANCIS DE SALES SR SEC SCHOOL",
+        "Affiliation Number": "2730073",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "A-4-C JANAKPURI NEW DELHI",
+        "Pin Code": "110058",
+        "Website": "www.sfsdelhi.com",
+        "Year of Foundation": "1978",
+        "Date of First Opening of School": "01 Apr 2008",
+        "Name of Principal/ Head of Institution": "SAIJU THOMAS",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MA, MED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "11",
+        "Teaching:": "11",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "DELHI FRANSALIAN SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

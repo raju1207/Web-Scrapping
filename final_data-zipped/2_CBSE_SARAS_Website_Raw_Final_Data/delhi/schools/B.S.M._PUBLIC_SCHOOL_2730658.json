@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730658",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730658"
+    },
+    "listing_data": {
+        "affiliation_number": "2730658",
+        "listing_raw_columns": [
+            "726",
+            "Aff. No. : 2730658 Sch. Code: 85386",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : B.S.M. PUBLIC SCHOOL Head/Principal Name: NEETU CHOUDHARY",
+            "Address : BALJIT VIHAR, NITHARI EXTN., NANGLOI, Website : bsmes98@gmail.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730658",
+        "serial_number": "726",
+        "affiliation_and_school_code": "Aff. No. : 2730658 Sch. Code: 85386",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : B.S.M. PUBLIC SCHOOL Head/Principal Name: NEETU CHOUDHARY",
+        "address_and_website": "Address : BALJIT VIHAR, NITHARI EXTN., NANGLOI, Website : bsmes98@gmail.com"
+    },
+    "school_details": {
+        "Name of Institution": "B.S.M. PUBLIC SCHOOL",
+        "Affiliation Number": "2730658",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "BALJIT VIHAR, NITHARI EXTN., NANGLOI,",
+        "Pin Code": "110041",
+        "Website": "bsmes98@gmail.com",
+        "Year of Foundation": "2001",
+        "Date of First Opening of School": "01 Apr 2001",
+        "Name of Principal/ Head of Institution": "NEETU CHOUDHARY",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "16",
+        "Teaching:": "16",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "Ch. Baljit Singh Memorial Education Society",
+        "Remarks, if any": null
+    },
+    "links": []
+}

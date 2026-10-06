@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2756174",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756174"
+    },
+    "listing_data": {
+        "affiliation_number": "2756174",
+        "listing_raw_columns": [
+            "1554",
+            "Aff. No. : 2756174 Sch. Code: 87642",
+            "State : DELHI District : WEST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT. SARVODAYA CO-ED VIDYALAYA, NIHAL VIHAR, NANGLOI Head/Principal Name: BUDDHA GHOSH",
+            "Address : NIHAL VIHAR, NANGLOI, DELHI-110087 Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756174",
+        "serial_number": "1554",
+        "affiliation_and_school_code": "Aff. No. : 2756174 Sch. Code: 87642",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT. SARVODAYA CO-ED VIDYALAYA, NIHAL VIHAR, NANGLOI Head/Principal Name: BUDDHA GHOSH",
+        "address_and_website": "Address : NIHAL VIHAR, NANGLOI, DELHI-110087 Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT. SARVODAYA CO-ED VIDYALAYA, NIHAL VIHAR, NANGLOI",
+        "Affiliation Number": "2756174",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "NIHAL VIHAR, NANGLOI, DELHI-110087",
+        "Pin Code": "110059",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "2012",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "BUDDHA GHOSH",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "POST GRADUATION",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "4",
+        "Teaching:": "4",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": "delhi admn",
+        "Remarks, if any": null
+    },
+    "links": []
+}

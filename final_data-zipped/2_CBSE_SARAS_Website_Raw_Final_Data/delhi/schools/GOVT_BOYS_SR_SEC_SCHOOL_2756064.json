@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2756064",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756064"
+    },
+    "listing_data": {
+        "affiliation_number": "2756064",
+        "listing_raw_columns": [
+            "1450",
+            "Aff. No. : 2756064 Sch. Code: 87600",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: RAM KUMAR SINGH CHAUHAN",
+            "Address : WEST PATEL NAGAR NEW DELHI Website : https://edudel.nic.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756064",
+        "serial_number": "1450",
+        "affiliation_and_school_code": "Aff. No. : 2756064 Sch. Code: 87600",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: RAM KUMAR SINGH CHAUHAN",
+        "address_and_website": "Address : WEST PATEL NAGAR NEW DELHI Website : https://edudel.nic.in/"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR SEC SCHOOL",
+        "Affiliation Number": "2756064",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "WEST PATEL NAGAR NEW DELHI",
+        "Pin Code": "110008",
+        "Website": "https://edudel.nic.in/",
+        "Year of Foundation": "1951",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "RAM KUMAR SINGH CHAUHAN",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "POST GRADUATION",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "4",
+        "Teaching:": "20",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

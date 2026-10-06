@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2788023",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2788023"
+    },
+    "listing_data": {
+        "affiliation_number": "2788023",
+        "listing_raw_columns": [
+            "2231",
+            "Aff. No. : 2788023 Sch. Code: 87036",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : R M ARYA GIRLS SR SEC SCHOOL Head/Principal Name: KIRAN TALWAR",
+            "Address : RAJA BAZAR NEW DELHI Website : www.rmarya.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2788023",
+        "serial_number": "2231",
+        "affiliation_and_school_code": "Aff. No. : 2788023 Sch. Code: 87036",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : R M ARYA GIRLS SR SEC SCHOOL Head/Principal Name: KIRAN TALWAR",
+        "address_and_website": "Address : RAJA BAZAR NEW DELHI Website : www.rmarya.com"
+    },
+    "school_details": {
+        "Name of Institution": "R M ARYA GIRLS SR SEC SCHOOL",
+        "Affiliation Number": "2788023",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "RAJA BAZAR NEW DELHI",
+        "Pin Code": "110001",
+        "Website": "www.rmarya.com",
+        "Year of Foundation": "1944",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "KIRAN TALWAR",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.Sc., B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "8",
+        "Teaching:": "8",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "sri guru singh sabha",
+        "Remarks, if any": null
+    },
+    "links": []
+}

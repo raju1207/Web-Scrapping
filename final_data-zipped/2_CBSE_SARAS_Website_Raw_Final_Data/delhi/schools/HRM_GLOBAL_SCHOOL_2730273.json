@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730273",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730273"
+    },
+    "listing_data": {
+        "affiliation_number": "2730273",
+        "listing_raw_columns": [
+            "359",
+            "Aff. No. : 2730273 Sch. Code: 85216",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : HRM GLOBAL SCHOOL Head/Principal Name: Durba Ghosh",
+            "Address : PU BLOCK PITAM PURA DELHI Website : https://hrmglobalschool.edu.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730273",
+        "serial_number": "359",
+        "affiliation_and_school_code": "Aff. No. : 2730273 Sch. Code: 85216",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : HRM GLOBAL SCHOOL Head/Principal Name: Durba Ghosh",
+        "address_and_website": "Address : PU BLOCK PITAM PURA DELHI Website : https://hrmglobalschool.edu.in/"
+    },
+    "school_details": {
+        "Name of Institution": "HRM GLOBAL SCHOOL",
+        "Affiliation Number": "2730273",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "PU BLOCK PITAM PURA DELHI",
+        "Pin Code": "110034",
+        "Website": "https://hrmglobalschool.edu.in/",
+        "Year of Foundation": "1996",
+        "Date of First Opening of School": "02 Apr 2008",
+        "Name of Principal/ Head of Institution": "Durba Ghosh",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MSc, B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "13",
+        "Teaching:": "10",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "social model educational society (regd.) basti sheikh , manjit nagar, jalandhar",
+        "Remarks, if any": null
+    },
+    "links": []
+}

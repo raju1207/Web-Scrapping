@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2700042",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700042"
+    },
+    "listing_data": {
+        "affiliation_number": "2700042",
+        "listing_raw_columns": [
+            "41",
+            "Aff. No. : 2700042 Sch. Code: 89017",
+            "State : DELHI District : NEW DELHI",
+            "Secondary Level",
+            "Name : KENDRIYA VIDYALAYA Head/Principal Name: CHANDRAKIRAN R SATDEVE",
+            "Address : SHAKURBASTI, C/O K.V. PASCHIM VIHAR, OPP. AMBIKA VIHAR, NEW DELHI Website : www.shakurbasti.kvs.ac.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700042",
+        "serial_number": "41",
+        "affiliation_and_school_code": "Aff. No. : 2700042 Sch. Code: 89017",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : KENDRIYA VIDYALAYA Head/Principal Name: CHANDRAKIRAN R SATDEVE",
+        "address_and_website": "Address : SHAKURBASTI, C/O K.V. PASCHIM VIHAR, OPP. AMBIKA VIHAR, NEW DELHI Website : www.shakurbasti.kvs.ac.in"
+    },
+    "school_details": {
+        "Name of Institution": "KENDRIYA VIDYALAYA",
+        "Affiliation Number": "2700042",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "SHAKURBASTI, C/O K.V. PASCHIM VIHAR, OPP. AMBIKA VIHAR, NEW DELHI",
+        "Pin Code": "110087",
+        "Website": "www.shakurbasti.kvs.ac.in",
+        "Year of Foundation": "2011",
+        "Date of First Opening of School": "30 Apr 2014",
+        "Name of Principal/ Head of Institution": "CHANDRAKIRAN R SATDEVE",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "BE COMPUTER TECH, MBA IT",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "2",
+        "Teaching:": "15",
+        "Status of The School": "Secondary Level",
+        "School Type": "KV",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": "Kendriya Vidyalaya Sangathan",
+        "Remarks, if any": null
+    },
+    "links": []
+}

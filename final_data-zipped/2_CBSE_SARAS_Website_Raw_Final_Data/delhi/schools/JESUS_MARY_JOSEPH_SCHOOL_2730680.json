@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730680",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730680"
+    },
+    "listing_data": {
+        "affiliation_number": "2730680",
+        "listing_raw_columns": [
+            "748",
+            "Aff. No. : 2730680 Sch. Code: 85417",
+            "State : DELHI District : WEST DELHI",
+            "Senior Secondary Level",
+            "Name : JESUS MARY JOSEPH SCHOOL Head/Principal Name: Thomasamma Pedakotla",
+            "Address : G-17, SITE-10, PASCHIM VIHAR, OPP. GH-2, ANKUR APARTMENT Website : http://www.jmjdelhi.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730680",
+        "serial_number": "748",
+        "affiliation_and_school_code": "Aff. No. : 2730680 Sch. Code: 85417",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : JESUS MARY JOSEPH SCHOOL Head/Principal Name: Thomasamma Pedakotla",
+        "address_and_website": "Address : G-17, SITE-10, PASCHIM VIHAR, OPP. GH-2, ANKUR APARTMENT Website : http://www.jmjdelhi.in/"
+    },
+    "school_details": {
+        "Name of Institution": "JESUS MARY JOSEPH SCHOOL",
+        "Affiliation Number": "2730680",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "G-17, SITE-10, PASCHIM VIHAR, OPP. GH-2, ANKUR APARTMENT",
+        "Pin Code": "110063",
+        "Website": "http://www.jmjdelhi.in/",
+        "Year of Foundation": "2007",
+        "Date of First Opening of School": "01 Apr 2007",
+        "Name of Principal/ Head of Institution": "Thomasamma Pedakotla",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M. Sc, B. Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "15",
+        "Teaching:": "21",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "SOCEITY OF JESUS MARY AND JOSEPH",
+        "Remarks, if any": null
+    },
+    "links": []
+}

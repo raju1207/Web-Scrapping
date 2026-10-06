@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2752003",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752003"
+    },
+    "listing_data": {
+        "affiliation_number": "2752003",
+        "listing_raw_columns": [
+            "1129",
+            "Aff. No. : 2752003 Sch. Code: 87336",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: TASLEEM AHMAD",
+            "Address : JAFRABAD DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752003",
+        "serial_number": "1129",
+        "affiliation_and_school_code": "Aff. No. : 2752003 Sch. Code: 87336",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: TASLEEM AHMAD",
+        "address_and_website": "Address : JAFRABAD DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR SEC SCHOOL",
+        "Affiliation Number": "2752003",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "JAFRABAD DELHI",
+        "Pin Code": "110053",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1976",
+        "Date of First Opening of School": "03 Dec 2018",
+        "Name of Principal/ Head of Institution": "TASLEEM AHMAD",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A. MSc BED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "4",
+        "Teaching:": "25",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

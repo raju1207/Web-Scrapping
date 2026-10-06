@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2752089",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752089"
+    },
+    "listing_data": {
+        "affiliation_number": "2752089",
+        "listing_raw_columns": [
+            "1206",
+            "Aff. No. : 2752089 Sch. Code: 27029",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR. SEC SCHOOL Head/Principal Name: SATENDRA SINGH",
+            "Address : KALYAN PURI DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752089",
+        "serial_number": "1206",
+        "affiliation_and_school_code": "Aff. No. : 2752089 Sch. Code: 27029",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR. SEC SCHOOL Head/Principal Name: SATENDRA SINGH",
+        "address_and_website": "Address : KALYAN PURI DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR. SEC SCHOOL",
+        "Affiliation Number": "2752089",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "KALYAN PURI DELHI",
+        "Pin Code": "110091",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1993",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "SATENDRA SINGH",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MSc. BED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "6",
+        "Teaching:": "32",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "DIR OF EDUCATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

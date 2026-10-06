@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2750010",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750010"
+    },
+    "listing_data": {
+        "affiliation_number": "2750010",
+        "listing_raw_columns": [
+            "969",
+            "Aff. No. : 2750010 Sch. Code: 87289",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : M L GOVT BOYS SR SEC SCHOOL Head/Principal Name: MUNISH KUMAR",
+            "Address : NARELA DELHI Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750010",
+        "serial_number": "969",
+        "affiliation_and_school_code": "Aff. No. : 2750010 Sch. Code: 87289",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : M L GOVT BOYS SR SEC SCHOOL Head/Principal Name: MUNISH KUMAR",
+        "address_and_website": "Address : NARELA DELHI Website :"
+    },
+    "school_details": {
+        "Name of Institution": "M L GOVT BOYS SR SEC SCHOOL",
+        "Affiliation Number": "2750010",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "NARELA DELHI",
+        "Pin Code": "110040",
+        "Website": null,
+        "Year of Foundation": "1914",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "MUNISH KUMAR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.COM.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "9",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "delhi administration",
+        "Remarks, if any": null
+    },
+    "links": []
+}

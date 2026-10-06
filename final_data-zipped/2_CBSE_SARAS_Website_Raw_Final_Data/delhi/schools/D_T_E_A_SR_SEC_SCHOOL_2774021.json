@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2774021",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774021"
+    },
+    "listing_data": {
+        "affiliation_number": "2774021",
+        "listing_raw_columns": [
+            "2086",
+            "Aff. No. : 2774021 Sch. Code: 27163",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : D T E A SR SEC SCHOOL Head/Principal Name: SUMATHI M",
+            "Address : SECT 4 R K PURAM NEW DELHI Website : www.dteaschool-rkp.org",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774021",
+        "serial_number": "2086",
+        "affiliation_and_school_code": "Aff. No. : 2774021 Sch. Code: 27163",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : D T E A SR SEC SCHOOL Head/Principal Name: SUMATHI M",
+        "address_and_website": "Address : SECT 4 R K PURAM NEW DELHI Website : www.dteaschool-rkp.org"
+    },
+    "school_details": {
+        "Name of Institution": "D T E A SR SEC SCHOOL",
+        "Affiliation Number": "2774021",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "SECT 4 R K PURAM NEW DELHI",
+        "Pin Code": "110022",
+        "Website": "www.dteaschool-rkp.org",
+        "Year of Foundation": "1964",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "SUMATHI M",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A., B.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "12",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": "delhi tamil education association",
+        "Remarks, if any": null
+    },
+    "links": []
+}

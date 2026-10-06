@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730823",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730823"
+    },
+    "listing_data": {
+        "affiliation_number": "2730823",
+        "listing_raw_columns": [
+            "883",
+            "Aff. No. : 2730823 Sch. Code: 25419",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : MATA VIDYA DEVI PUBLIC SCHOOL Head/Principal Name: ANJU DALAL",
+            "Address : C-198, PREM NAGAR, NAJAFGARH, NEW DELHI -110043 Website : www.mvdschool.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730823",
+        "serial_number": "883",
+        "affiliation_and_school_code": "Aff. No. : 2730823 Sch. Code: 25419",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : MATA VIDYA DEVI PUBLIC SCHOOL Head/Principal Name: ANJU DALAL",
+        "address_and_website": "Address : C-198, PREM NAGAR, NAJAFGARH, NEW DELHI -110043 Website : www.mvdschool.in"
+    },
+    "school_details": {
+        "Name of Institution": "MATA VIDYA DEVI PUBLIC SCHOOL",
+        "Affiliation Number": "2730823",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "C-198, PREM NAGAR, NAJAFGARH, NEW DELHI -110043",
+        "Pin Code": "110043",
+        "Website": "www.mvdschool.in",
+        "Year of Foundation": "2013",
+        "Date of First Opening of School": "01 Apr 2006",
+        "Name of Principal/ Head of Institution": "ANJU DALAL",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.SC , B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "4",
+        "Teaching:": "6",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "MAA VIDYA DEVI EDUCATIONAL SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

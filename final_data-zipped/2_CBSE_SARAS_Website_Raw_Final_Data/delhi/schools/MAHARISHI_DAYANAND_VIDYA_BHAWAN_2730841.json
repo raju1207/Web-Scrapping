@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730841",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730841"
+    },
+    "listing_data": {
+        "affiliation_number": "2730841",
+        "listing_raw_columns": [
+            "901",
+            "Aff. No. : 2730841 Sch. Code: 85507",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Secondary Level",
+            "Name : MAHARISHI DAYANAND VIDYA BHAWAN Head/Principal Name: MILAN DEVI",
+            "Address : KH. NO. 158/3, ISHWAR COLONY, VILLAGE BAWANA, DELHI-110039 Website : www.mdvidyabhawan.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730841",
+        "serial_number": "901",
+        "affiliation_and_school_code": "Aff. No. : 2730841 Sch. Code: 85507",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : MAHARISHI DAYANAND VIDYA BHAWAN Head/Principal Name: MILAN DEVI",
+        "address_and_website": "Address : KH. NO. 158/3, ISHWAR COLONY, VILLAGE BAWANA, DELHI-110039 Website : www.mdvidyabhawan.in"
+    },
+    "school_details": {
+        "Name of Institution": "MAHARISHI DAYANAND VIDYA BHAWAN",
+        "Affiliation Number": "2730841",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "KH. NO. 158/3, ISHWAR COLONY, VILLAGE BAWANA, DELHI-110039",
+        "Pin Code": "110039",
+        "Website": "www.mdvidyabhawan.in",
+        "Year of Foundation": "2013",
+        "Date of First Opening of School": "01 Apr 2006",
+        "Name of Principal/ Head of Institution": "MILAN DEVI",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.SC. B.ED.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "02",
+        "Teaching:": "02",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "THE ARYAN CHARITABLE SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

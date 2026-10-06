@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2752131",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752131"
+    },
+    "listing_data": {
+        "affiliation_number": "2752131",
+        "listing_raw_columns": [
+            "1248",
+            "Aff. No. : 2752131 Sch. Code: 27245",
+            "State : DELHI District : EAST DELHI",
+            "Secondary Level",
+            "Name : GOVERNMENT BOYS SECONDARY SCHOOL Head/Principal Name: PAWAN KUMAR VERMA",
+            "Address : B-BLOCK, MEET NAGAR, DELHI-110094 Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752131",
+        "serial_number": "1248",
+        "affiliation_and_school_code": "Aff. No. : 2752131 Sch. Code: 27245",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : GOVERNMENT BOYS SECONDARY SCHOOL Head/Principal Name: PAWAN KUMAR VERMA",
+        "address_and_website": "Address : B-BLOCK, MEET NAGAR, DELHI-110094 Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVERNMENT BOYS SECONDARY SCHOOL",
+        "Affiliation Number": "2752131",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "B-BLOCK, MEET NAGAR, DELHI-110094",
+        "Pin Code": "110094",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "2010",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "PAWAN KUMAR VERMA",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A. B.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "6",
+        "Teaching:": "20",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "dir. of education",
+        "Remarks, if any": null
+    },
+    "links": []
+}

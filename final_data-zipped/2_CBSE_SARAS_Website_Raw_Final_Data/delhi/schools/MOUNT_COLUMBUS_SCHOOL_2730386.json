@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730386",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730386"
+    },
+    "listing_data": {
+        "affiliation_number": "2730386",
+        "listing_raw_columns": [
+            "463",
+            "Aff. No. : 2730386 Sch. Code: 25157",
+            "State : DELHI District : NEW DELHI",
+            "Secondary Level",
+            "Name : MOUNT COLUMBUS SCHOOL Head/Principal Name: ADITI ROY",
+            "Address : C BLOCK DAKSHIN PURI NEW DELHI Website : https://mountcolumbus.com/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730386",
+        "serial_number": "463",
+        "affiliation_and_school_code": "Aff. No. : 2730386 Sch. Code: 25157",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : MOUNT COLUMBUS SCHOOL Head/Principal Name: ADITI ROY",
+        "address_and_website": "Address : C BLOCK DAKSHIN PURI NEW DELHI Website : https://mountcolumbus.com/"
+    },
+    "school_details": {
+        "Name of Institution": "MOUNT COLUMBUS SCHOOL",
+        "Affiliation Number": "2730386",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "C BLOCK DAKSHIN PURI NEW DELHI",
+        "Pin Code": "110062",
+        "Website": "https://mountcolumbus.com/",
+        "Year of Foundation": "1975",
+        "Date of First Opening of School": "01 Jun 2004",
+        "Name of Principal/ Head of Institution": "ADITI ROY",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.Sc, B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "19",
+        "Teaching:": "21",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "SIVANANDA VIDYA BHAWAN",
+        "Remarks, if any": null
+    },
+    "links": []
+}

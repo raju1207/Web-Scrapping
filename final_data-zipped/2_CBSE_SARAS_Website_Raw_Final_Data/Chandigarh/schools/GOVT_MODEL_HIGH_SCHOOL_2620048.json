@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "CHANDIGARH",
+        "district": "CHANDIGARH",
+        "affiliation_number": "2620048",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2620048"
+    },
+    "listing_data": {
+        "affiliation_number": "2620048",
+        "listing_raw_columns": [
+            "52",
+            "Aff. No. : 2620048 Sch. Code: 24242",
+            "State : CHANDIGARH District : CHANDIGARH",
+            "Secondary Level",
+            "Name : GOVT MODEL HIGH SCHOOL Head/Principal Name: RENU BALA",
+            "Address : SECT-37D CHANDIGARH Website : www.gmhs37cchd.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2620048",
+        "serial_number": "52",
+        "affiliation_and_school_code": "Aff. No. : 2620048 Sch. Code: 24242",
+        "state_and_district": "State : CHANDIGARH District : CHANDIGARH",
+        "status": "Secondary Level",
+        "school_and_head": "Name : GOVT MODEL HIGH SCHOOL Head/Principal Name: RENU BALA",
+        "address_and_website": "Address : SECT-37D CHANDIGARH Website : www.gmhs37cchd.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT MODEL HIGH SCHOOL",
+        "Affiliation Number": "2620048",
+        "State": "CHANDIGARH",
+        "District": "CHANDIGARH",
+        "Postal Address": "SECT-37D CHANDIGARH",
+        "Pin Code": "160023",
+        "Website": "www.gmhs37cchd.in",
+        "Year of Foundation": "1987",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "RENU BALA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "B.A. B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "4",
+        "Teaching:": "30",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": "govt.",
+        "Remarks, if any": null
+    },
+    "links": []
+}

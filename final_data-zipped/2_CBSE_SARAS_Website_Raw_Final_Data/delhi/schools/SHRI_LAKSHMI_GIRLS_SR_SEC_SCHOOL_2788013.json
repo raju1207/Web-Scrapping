@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2788013",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2788013"
+    },
+    "listing_data": {
+        "affiliation_number": "2788013",
+        "listing_raw_columns": [
+            "2221",
+            "Aff. No. : 2788013 Sch. Code: 87068",
+            "State : DELHI District : NORTH DELHI",
+            "Senior Secondary Level",
+            "Name : SHRI LAKSHMI GIRLS SR SEC SCHOOL Head/Principal Name: RAJ RANI",
+            "Address : KUCHA CHELAN KHARI BAOLI DELHI Website : www.Edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2788013",
+        "serial_number": "2221",
+        "affiliation_and_school_code": "Aff. No. : 2788013 Sch. Code: 87068",
+        "state_and_district": "State : DELHI District : NORTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SHRI LAKSHMI GIRLS SR SEC SCHOOL Head/Principal Name: RAJ RANI",
+        "address_and_website": "Address : KUCHA CHELAN KHARI BAOLI DELHI Website : www.Edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "SHRI LAKSHMI GIRLS SR SEC SCHOOL",
+        "Affiliation Number": "2788013",
+        "State": "DELHI",
+        "District": "NORTH DELHI",
+        "Postal Address": "KUCHA CHELAN KHARI BAOLI DELHI",
+        "Pin Code": "110006",
+        "Website": "www.Edudel.nic.in",
+        "Year of Foundation": "1909",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "RAJ RANI",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA B.ED,M.ED ,LLB",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "01",
+        "Teaching:": "31",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "trust",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730104",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730104"
+    },
+    "listing_data": {
+        "affiliation_number": "2730104",
+        "listing_raw_columns": [
+            "192",
+            "Aff. No. : 2730104 Sch. Code: 25021",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : BAL BHAVAN PUBLIC SCHOOL Head/Principal Name: VIVIDH GUPTA",
+            "Address : POCKET B PHASE 2 MAYUR VIHAR DELHI Website : www.bbpsmv.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730104",
+        "serial_number": "192",
+        "affiliation_and_school_code": "Aff. No. : 2730104 Sch. Code: 25021",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : BAL BHAVAN PUBLIC SCHOOL Head/Principal Name: VIVIDH GUPTA",
+        "address_and_website": "Address : POCKET B PHASE 2 MAYUR VIHAR DELHI Website : www.bbpsmv.com"
+    },
+    "school_details": {
+        "Name of Institution": "BAL BHAVAN PUBLIC SCHOOL",
+        "Affiliation Number": "2730104",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "POCKET B PHASE 2 MAYUR VIHAR DELHI",
+        "Pin Code": "110091",
+        "Website": "www.bbpsmv.com",
+        "Year of Foundation": "1967",
+        "Date of First Opening of School": "13 Jun 2006",
+        "Name of Principal/ Head of Institution": "VIVIDH GUPTA",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MA, MBA, M.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "14",
+        "Teaching:": "18",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "LAGAN KALA UPVAN DELHI",
+        "Remarks, if any": null
+    },
+    "links": []
+}

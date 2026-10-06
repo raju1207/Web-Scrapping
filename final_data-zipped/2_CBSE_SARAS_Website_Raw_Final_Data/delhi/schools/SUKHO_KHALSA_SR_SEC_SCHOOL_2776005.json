@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2776005",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2776005"
+    },
+    "listing_data": {
+        "affiliation_number": "2776005",
+        "listing_raw_columns": [
+            "2107",
+            "Aff. No. : 2776005 Sch. Code: 87548",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : SUKHO KHALSA SR SEC SCHOOL Head/Principal Name: GURBACHAN KAUR THAPAR",
+            "Address : JAIL ROAD JANAKPURI NEW DELHI Website : www.sukhokhalsaschool.org",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2776005",
+        "serial_number": "2107",
+        "affiliation_and_school_code": "Aff. No. : 2776005 Sch. Code: 87548",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SUKHO KHALSA SR SEC SCHOOL Head/Principal Name: GURBACHAN KAUR THAPAR",
+        "address_and_website": "Address : JAIL ROAD JANAKPURI NEW DELHI Website : www.sukhokhalsaschool.org"
+    },
+    "school_details": {
+        "Name of Institution": "SUKHO KHALSA SR SEC SCHOOL",
+        "Affiliation Number": "2776005",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "JAIL ROAD JANAKPURI NEW DELHI",
+        "Pin Code": "110058",
+        "Website": "www.sukhokhalsaschool.org",
+        "Year of Foundation": "1956",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "GURBACHAN KAUR THAPAR",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A , B.Ed , M.A EDUCATION",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "14",
+        "Teaching:": "14",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "s g p c delhi",
+        "Remarks, if any": null
+    },
+    "links": []
+}

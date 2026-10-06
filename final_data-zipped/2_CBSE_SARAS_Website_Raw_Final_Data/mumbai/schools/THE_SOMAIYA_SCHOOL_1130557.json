@@ -1,0 +1,55 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Mumbai",
+        "state": "MAHARASHTRA",
+        "selected_district": "MUMBAI",
+        "affiliation_number": "1130557",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130557"
+    },
+    "listing_data": {
+        "affiliation_number": "1130557",
+        "listing_raw_columns": [
+            "37",
+            "Aff. No. : 1130557 Sch. Code: 30493",
+            "State : MAHARASHTRA District : MUMBAI",
+            "Senior Secondary Level",
+            "Name : THE SOMAIYA SCHOOL Head/Principal Name: Jyothi Malhotra",
+            "Address : VIDYANAGAR, SOMAIYA CAMPUS, VIDYAVIHAR (E), Website : http://www.tss.somaiya.edu",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130557",
+        "serial_number": "37",
+        "affiliation_and_school_code": "Aff. No. : 1130557 Sch. Code: 30493",
+        "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : THE SOMAIYA SCHOOL Head/Principal Name: Jyothi Malhotra",
+        "address_and_website": "Address : VIDYANAGAR, SOMAIYA CAMPUS, VIDYAVIHAR (E), Website : http://www.tss.somaiya.edu",
+        "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+        "Name of Institution": "THE SOMAIYA SCHOOL",
+        "Affiliation Number": "1130557",
+        "State": "MAHARASHTRA",
+        "District": "MUMBAI",
+        "Postal Address": "VIDYANAGAR, SOMAIYA CAMPUS, VIDYAVIHAR (E),",
+        "Pin Code": "400077",
+        "Website": "http://www.tss.somaiya.edu",
+        "Year of Foundation": "2012",
+        "Date of First Opening of School": "03 Aug 2012",
+        "Name of Principal/ Head of Institution": "Jyothi Malhotra",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.Sc. Statistics M.A. English B.Ed. English",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "15",
+        "Teaching:": "15",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "Somaiya Vidyavihar",
+        "Remarks, if any": null
+    },
+    "links": []
+}

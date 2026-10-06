@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2752017",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752017"
+    },
+    "listing_data": {
+        "affiliation_number": "2752017",
+        "listing_raw_columns": [
+            "1142",
+            "Aff. No. : 2752017 Sch. Code: 27212",
+            "State : DELHI District : SHAHDARA",
+            "Senior Secondary Level",
+            "Name : GOVT SARVODAYA KANYA VIDYALAYA Head/Principal Name: RENU SHARMA",
+            "Address : COURT ROAD/KARKARI ROAD VISHWAS NAGAR SHAHDARA DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752017",
+        "serial_number": "1142",
+        "affiliation_and_school_code": "Aff. No. : 2752017 Sch. Code: 27212",
+        "state_and_district": "State : DELHI District : SHAHDARA",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT SARVODAYA KANYA VIDYALAYA Head/Principal Name: RENU SHARMA",
+        "address_and_website": "Address : COURT ROAD/KARKARI ROAD VISHWAS NAGAR SHAHDARA DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT SARVODAYA KANYA VIDYALAYA",
+        "Affiliation Number": "2752017",
+        "State": "DELHI",
+        "District": "SHAHDARA",
+        "Postal Address": "COURT ROAD/KARKARI ROAD VISHWAS NAGAR SHAHDARA DELHI",
+        "Pin Code": "110032",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1976",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "RENU SHARMA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "6",
+        "Teaching:": "31",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

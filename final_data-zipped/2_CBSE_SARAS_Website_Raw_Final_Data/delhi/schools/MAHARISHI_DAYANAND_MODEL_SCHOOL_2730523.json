@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730523",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730523"
+    },
+    "listing_data": {
+        "affiliation_number": "2730523",
+        "listing_raw_columns": [
+            "594",
+            "Aff. No. : 2730523 Sch. Code: 85380",
+            "State : DELHI District : WEST DELHI",
+            "Secondary Level",
+            "Name : MAHARISHI DAYANAND MODEL SCHOOL Head/Principal Name: Preeti",
+            "Address : 134 ARVIND ENCLAVE AMAR COLONY, NANGLOI DELHI Website : www.mdmss.org",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730523",
+        "serial_number": "594",
+        "affiliation_and_school_code": "Aff. No. : 2730523 Sch. Code: 85380",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : MAHARISHI DAYANAND MODEL SCHOOL Head/Principal Name: Preeti",
+        "address_and_website": "Address : 134 ARVIND ENCLAVE AMAR COLONY, NANGLOI DELHI Website : www.mdmss.org"
+    },
+    "school_details": {
+        "Name of Institution": "MAHARISHI DAYANAND MODEL SCHOOL",
+        "Affiliation Number": "2730523",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "134 ARVIND ENCLAVE AMAR COLONY, NANGLOI DELHI",
+        "Pin Code": "110041",
+        "Website": "www.mdmss.org",
+        "Year of Foundation": "1992",
+        "Date of First Opening of School": "09 Jul 2003",
+        "Name of Principal/ Head of Institution": "Preeti",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A, B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "3",
+        "Teaching:": "3",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "ARYA EDUCATIONAL & WELFARE SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730106",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730106"
+    },
+    "listing_data": {
+        "affiliation_number": "2730106",
+        "listing_raw_columns": [
+            "194",
+            "Aff. No. : 2730106 Sch. Code: 85375",
+            "State : DELHI District : WEST DELHI",
+            "Senior Secondary Level",
+            "Name : MODERN CHILD PUBLIC SCHOOL Head/Principal Name: Vice Principal Parvesh Panthri",
+            "Address : SULTANPURI ROAD NANGLOI DELHI Website : www.mcpsonline.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730106",
+        "serial_number": "194",
+        "affiliation_and_school_code": "Aff. No. : 2730106 Sch. Code: 85375",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : MODERN CHILD PUBLIC SCHOOL Head/Principal Name: Vice Principal Parvesh Panthri",
+        "address_and_website": "Address : SULTANPURI ROAD NANGLOI DELHI Website : www.mcpsonline.in"
+    },
+    "school_details": {
+        "Name of Institution": "MODERN CHILD PUBLIC SCHOOL",
+        "Affiliation Number": "2730106",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "SULTANPURI ROAD NANGLOI DELHI",
+        "Pin Code": "110041",
+        "Website": "www.mcpsonline.in",
+        "Year of Foundation": "1979",
+        "Date of First Opening of School": "25 Jun 2007",
+        "Name of Principal/ Head of Institution": "Vice Principal Parvesh Panthri",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A. B.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "22",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "NANGLOI EDUCATION SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

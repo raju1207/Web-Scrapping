@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730825",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730825"
+    },
+    "listing_data": {
+        "affiliation_number": "2730825",
+        "listing_raw_columns": [
+            "885",
+            "Aff. No. : 2730825 Sch. Code: 25420",
+            "State : DELHI District : SOUTH EAST DELHI",
+            "Senior Secondary Level",
+            "Name : BHARAT PUBLIC SCHOOL Head/Principal Name: ALKA VERMA",
+            "Address : J-1/10, SAURABH VIHAR, JAITPUR EXTENSIION, BADARPUR Website : http://www.bharatpublicschool.co.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730825",
+        "serial_number": "885",
+        "affiliation_and_school_code": "Aff. No. : 2730825 Sch. Code: 25420",
+        "state_and_district": "State : DELHI District : SOUTH EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : BHARAT PUBLIC SCHOOL Head/Principal Name: ALKA VERMA",
+        "address_and_website": "Address : J-1/10, SAURABH VIHAR, JAITPUR EXTENSIION, BADARPUR Website : http://www.bharatpublicschool.co.in"
+    },
+    "school_details": {
+        "Name of Institution": "BHARAT PUBLIC SCHOOL",
+        "Affiliation Number": "2730825",
+        "State": "DELHI",
+        "District": "SOUTH EAST DELHI",
+        "Postal Address": "J-1/10, SAURABH VIHAR, JAITPUR EXTENSIION, BADARPUR",
+        "Pin Code": "110044",
+        "Website": "http://www.bharatpublicschool.co.in",
+        "Year of Foundation": "1998",
+        "Date of First Opening of School": "01 Apr 1998",
+        "Name of Principal/ Head of Institution": "ALKA VERMA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA, B.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "27",
+        "Teaching:": "0",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "Bharat Public School Education Society",
+        "Remarks, if any": null
+    },
+    "links": []
+}

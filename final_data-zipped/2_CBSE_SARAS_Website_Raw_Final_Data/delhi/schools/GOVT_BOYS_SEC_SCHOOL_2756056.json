@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2756056",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756056"
+    },
+    "listing_data": {
+        "affiliation_number": "2756056",
+        "listing_raw_columns": [
+            "1443",
+            "Aff. No. : 2756056 Sch. Code:",
+            "State : DELHI District : NEW DELHI",
+            "Secondary Level",
+            "Name : GOVT BOYS SEC SCHOOL Head/Principal Name: SH RANJIT SINGH",
+            "Address : KARAMPURA INDUSTRIAL AREA NEW DELHI Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756056",
+        "serial_number": "1443",
+        "affiliation_and_school_code": "Aff. No. : 2756056 Sch. Code:",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SEC SCHOOL Head/Principal Name: SH RANJIT SINGH",
+        "address_and_website": "Address : KARAMPURA INDUSTRIAL AREA NEW DELHI Website :"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SEC SCHOOL",
+        "Affiliation Number": "2756056",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "KARAMPURA INDUSTRIAL AREA NEW DELHI",
+        "Pin Code": "110015",
+        "Website": null,
+        "Year of Foundation": null,
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "SH RANJIT SINGH",
+        "Gender": "Unknown",
+        "Principal's Educational/Professional Qualifications:": null,
+        "No of Experience ( in Years ):": null,
+        "Administrative:": null,
+        "Teaching:": null,
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : To : 31/03/2003",
+        "Name of Trust/ Society/ Managing Committee": "DIRECTORATE OF EDUCATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2780006",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2780006"
+    },
+    "listing_data": {
+        "affiliation_number": "2780006",
+        "listing_raw_columns": [
+            "2194",
+            "Aff. No. : 2780006 Sch. Code: 27133",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : ARMY PUBLIC SCHOOL Head/Principal Name: NEENA SINGH",
+            "Address : SHANKAR VIHAR DELHI CANTT-10 Website : https://apsshankarvihar.ac.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2780006",
+        "serial_number": "2194",
+        "affiliation_and_school_code": "Aff. No. : 2780006 Sch. Code: 27133",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : ARMY PUBLIC SCHOOL Head/Principal Name: NEENA SINGH",
+        "address_and_website": "Address : SHANKAR VIHAR DELHI CANTT-10 Website : https://apsshankarvihar.ac.in/"
+    },
+    "school_details": {
+        "Name of Institution": "ARMY PUBLIC SCHOOL",
+        "Affiliation Number": "2780006",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "SHANKAR VIHAR DELHI CANTT-10",
+        "Pin Code": "110010",
+        "Website": "https://apsshankarvihar.ac.in/",
+        "Year of Foundation": "2007",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "NEENA SINGH",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA, M Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "8",
+        "Teaching:": "15",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "air fce childern foundation soc",
+        "Remarks, if any": null
+    },
+    "links": []
+}

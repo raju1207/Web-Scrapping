@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2750095",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750095"
+    },
+    "listing_data": {
+        "affiliation_number": "2750095",
+        "listing_raw_columns": [
+            "1044",
+            "Aff. No. : 2750095 Sch. Code: 87485",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : SARVODAYA VIDYALAYA SECTOR VII ROHINI DELHI Head/Principal Name: RAJIV RANJAN PRASAD SINHA",
+            "Address : SECTOR VII ROHINI DELHI Website : www.edudel.gov.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750095",
+        "serial_number": "1044",
+        "affiliation_and_school_code": "Aff. No. : 2750095 Sch. Code: 87485",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SARVODAYA VIDYALAYA SECTOR VII ROHINI DELHI Head/Principal Name: RAJIV RANJAN PRASAD SINHA",
+        "address_and_website": "Address : SECTOR VII ROHINI DELHI Website : www.edudel.gov.in"
+    },
+    "school_details": {
+        "Name of Institution": "SARVODAYA VIDYALAYA SECTOR VII ROHINI DELHI",
+        "Affiliation Number": "2750095",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "SECTOR VII ROHINI DELHI",
+        "Pin Code": "110085",
+        "Website": "www.edudel.gov.in",
+        "Year of Foundation": "1992",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "RAJIV RANJAN PRASAD SINHA",
+        "Gender": null,
+        "Principal's Educational/Professional Qualifications:": "Post Graduation",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "9",
+        "Teaching:": "13",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "DIRECTORATE OF EDUCATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

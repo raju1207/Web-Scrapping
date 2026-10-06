@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2756108",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756108"
+    },
+    "listing_data": {
+        "affiliation_number": "2756108",
+        "listing_raw_columns": [
+            "1489",
+            "Aff. No. : 2756108 Sch. Code: 27137",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: Mahendra Singh",
+            "Address : F-BLOCK, BUDH NAGAR, INDERPURI, NEW DELHI-110012 Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756108",
+        "serial_number": "1489",
+        "affiliation_and_school_code": "Aff. No. : 2756108 Sch. Code: 27137",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: Mahendra Singh",
+        "address_and_website": "Address : F-BLOCK, BUDH NAGAR, INDERPURI, NEW DELHI-110012 Website :"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR SEC SCHOOL",
+        "Affiliation Number": "2756108",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "F-BLOCK, BUDH NAGAR, INDERPURI, NEW DELHI-110012",
+        "Pin Code": "110012",
+        "Website": null,
+        "Year of Foundation": "1986",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "Mahendra Singh",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MA, PhD",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "3",
+        "Teaching:": "21",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2020 To : 31/03/2023",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

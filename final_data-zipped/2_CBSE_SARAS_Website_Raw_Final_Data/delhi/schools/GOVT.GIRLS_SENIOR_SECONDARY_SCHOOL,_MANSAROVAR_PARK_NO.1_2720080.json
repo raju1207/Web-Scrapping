@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2720080",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720080"
+    },
+    "listing_data": {
+        "affiliation_number": "2720080",
+        "listing_raw_columns": [
+            "77",
+            "Aff. No. : 2720080 Sch. Code: 27721",
+            "State : DELHI District : NORTH EAST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT.GIRLS SENIOR SECONDARY SCHOOL, MANSAROVAR PARK NO.1 Head/Principal Name: MUKESH BABU",
+            "Address : MANSAROVAR PARK , SHAHDARA , DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720080",
+        "serial_number": "77",
+        "affiliation_and_school_code": "Aff. No. : 2720080 Sch. Code: 27721",
+        "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT.GIRLS SENIOR SECONDARY SCHOOL, MANSAROVAR PARK NO.1 Head/Principal Name: MUKESH BABU",
+        "address_and_website": "Address : MANSAROVAR PARK , SHAHDARA , DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT.GIRLS SENIOR SECONDARY SCHOOL, MANSAROVAR PARK NO.1",
+        "Affiliation Number": "2720080",
+        "State": "DELHI",
+        "District": "NORTH EAST DELHI",
+        "Postal Address": "MANSAROVAR PARK , SHAHDARA , DELHI",
+        "Pin Code": "110032",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "2024",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "MUKESH BABU",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "Msc B.ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "6",
+        "Teaching:": "31",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "NA",
+        "Remarks, if any": null
+    },
+    "links": []
+}

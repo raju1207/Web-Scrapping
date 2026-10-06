@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2764043",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764043"
+    },
+    "listing_data": {
+        "affiliation_number": "2764043",
+        "listing_raw_columns": [
+            "1848",
+            "Aff. No. : 2764043 Sch. Code: 27146",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : SARVODAYA COED SR SEC SCHOOL Head/Principal Name: RAJ KUMAR",
+            "Address : NANAK PURA MOTI BAGH II NEW DELHI Website : www.edudel.gov.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764043",
+        "serial_number": "1848",
+        "affiliation_and_school_code": "Aff. No. : 2764043 Sch. Code: 27146",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SARVODAYA COED SR SEC SCHOOL Head/Principal Name: RAJ KUMAR",
+        "address_and_website": "Address : NANAK PURA MOTI BAGH II NEW DELHI Website : www.edudel.gov.in"
+    },
+    "school_details": {
+        "Name of Institution": "SARVODAYA COED SR SEC SCHOOL",
+        "Affiliation Number": "2764043",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "NANAK PURA MOTI BAGH II NEW DELHI",
+        "Pin Code": "110021",
+        "Website": "www.edudel.gov.in",
+        "Year of Foundation": "1959",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "RAJ KUMAR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "Post Graduation",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "7",
+        "Teaching:": "22",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "dte of edu delhi admn",
+        "Remarks, if any": null
+    },
+    "links": []
+}

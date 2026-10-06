@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2750061",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750061"
+    },
+    "listing_data": {
+        "affiliation_number": "2750061",
+        "listing_raw_columns": [
+            "1015",
+            "Aff. No. : 2750061 Sch. Code: 87190",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : SARVODAYA VIDYALAYA Head/Principal Name: SANJIB KUMAR SINGH",
+            "Address : POLICE LINES KINGSWAY CAMP DELHI Website : www.1309004hos@gmail.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750061",
+        "serial_number": "1015",
+        "affiliation_and_school_code": "Aff. No. : 2750061 Sch. Code: 87190",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SARVODAYA VIDYALAYA Head/Principal Name: SANJIB KUMAR SINGH",
+        "address_and_website": "Address : POLICE LINES KINGSWAY CAMP DELHI Website : www.1309004hos@gmail.com"
+    },
+    "school_details": {
+        "Name of Institution": "SARVODAYA VIDYALAYA",
+        "Affiliation Number": "2750061",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "POLICE LINES KINGSWAY CAMP DELHI",
+        "Pin Code": "110009",
+        "Website": "www.1309004hos@gmail.com",
+        "Year of Foundation": "1982",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "SANJIB KUMAR SINGH",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MA B.ED.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "2",
+        "Teaching:": "15",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

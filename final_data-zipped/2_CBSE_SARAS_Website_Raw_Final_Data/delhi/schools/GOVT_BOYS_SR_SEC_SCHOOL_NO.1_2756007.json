@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2756007",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756007"
+    },
+    "listing_data": {
+        "affiliation_number": "2756007",
+        "listing_raw_columns": [
+            "1402",
+            "Aff. No. : 2756007 Sch. Code: 27551",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR SEC SCHOOL NO.1 Head/Principal Name: RAMAVATAR MEENA",
+            "Address : SAMALKA NEW DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756007",
+        "serial_number": "1402",
+        "affiliation_and_school_code": "Aff. No. : 2756007 Sch. Code: 27551",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR SEC SCHOOL NO.1 Head/Principal Name: RAMAVATAR MEENA",
+        "address_and_website": "Address : SAMALKA NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR SEC SCHOOL NO.1",
+        "Affiliation Number": "2756007",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "SAMALKA NEW DELHI",
+        "Pin Code": "110037",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1976",
+        "Date of First Opening of School": "31 Mar 2011",
+        "Name of Principal/ Head of Institution": "RAMAVATAR MEENA",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A. B.ED.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "3",
+        "Teaching:": "14",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "delhi administration",
+        "Remarks, if any": null
+    },
+    "links": []
+}

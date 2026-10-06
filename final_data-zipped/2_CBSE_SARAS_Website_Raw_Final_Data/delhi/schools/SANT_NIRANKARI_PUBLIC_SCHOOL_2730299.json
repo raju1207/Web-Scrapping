@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730299",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730299"
+    },
+    "listing_data": {
+        "affiliation_number": "2730299",
+        "listing_raw_columns": [
+            "384",
+            "Aff. No. : 2730299 Sch. Code: 85071",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : SANT NIRANKARI PUBLIC SCHOOL Head/Principal Name: Ranjana Grover",
+            "Address : NIRANKARI COLONY DELHI Website : www.nc.snps.edu.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730299",
+        "serial_number": "384",
+        "affiliation_and_school_code": "Aff. No. : 2730299 Sch. Code: 85071",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SANT NIRANKARI PUBLIC SCHOOL Head/Principal Name: Ranjana Grover",
+        "address_and_website": "Address : NIRANKARI COLONY DELHI Website : www.nc.snps.edu.in"
+    },
+    "school_details": {
+        "Name of Institution": "SANT NIRANKARI PUBLIC SCHOOL",
+        "Affiliation Number": "2730299",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "NIRANKARI COLONY DELHI",
+        "Pin Code": "110009",
+        "Website": "www.nc.snps.edu.in",
+        "Year of Foundation": "1976",
+        "Date of First Opening of School": "26 Jul 2017",
+        "Name of Principal/ Head of Institution": "Ranjana Grover",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA M.ED.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "7",
+        "Teaching:": "31",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "SANT NIRANKARI MANDAL",
+        "Remarks, if any": null
+    },
+    "links": []
+}

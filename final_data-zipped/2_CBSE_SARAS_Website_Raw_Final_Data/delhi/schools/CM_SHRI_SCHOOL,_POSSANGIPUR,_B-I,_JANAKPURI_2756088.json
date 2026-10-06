@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2756088",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756088"
+    },
+    "listing_data": {
+        "affiliation_number": "2756088",
+        "listing_raw_columns": [
+            "1470",
+            "Aff. No. : 2756088 Sch. Code: 87612",
+            "State : DELHI District : WEST DELHI",
+            "Senior Secondary Level",
+            "Name : CM SHRI SCHOOL, POSSANGIPUR, B-I, JANAKPURI Head/Principal Name: AJAY KUMAR",
+            "Address : POSSANGIPUR B-1 JANAKPURI NEW DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756088",
+        "serial_number": "1470",
+        "affiliation_and_school_code": "Aff. No. : 2756088 Sch. Code: 87612",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : CM SHRI SCHOOL, POSSANGIPUR, B-I, JANAKPURI Head/Principal Name: AJAY KUMAR",
+        "address_and_website": "Address : POSSANGIPUR B-1 JANAKPURI NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "CM SHRI SCHOOL, POSSANGIPUR, B-I, JANAKPURI",
+        "Affiliation Number": "2756088",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "POSSANGIPUR B-1 JANAKPURI NEW DELHI",
+        "Pin Code": "110058",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1948",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "AJAY KUMAR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MA, B ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "02",
+        "Teaching:": "20",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "delhi admn",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730282",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730282"
+    },
+    "listing_data": {
+        "affiliation_number": "2730282",
+        "listing_raw_columns": [
+            "367",
+            "Aff. No. : 2730282 Sch. Code: 85251",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : BAL BHARTI PUB SCHOOL Head/Principal Name: GEETA GANGWANI",
+            "Address : SECTOR 14 ROHINI DELHI Website : https://bbpsrohini.balbharati.org/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730282",
+        "serial_number": "367",
+        "affiliation_and_school_code": "Aff. No. : 2730282 Sch. Code: 85251",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : BAL BHARTI PUB SCHOOL Head/Principal Name: GEETA GANGWANI",
+        "address_and_website": "Address : SECTOR 14 ROHINI DELHI Website : https://bbpsrohini.balbharati.org/"
+    },
+    "school_details": {
+        "Name of Institution": "BAL BHARTI PUB SCHOOL",
+        "Affiliation Number": "2730282",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "SECTOR 14 ROHINI DELHI",
+        "Pin Code": "110085",
+        "Website": "https://bbpsrohini.balbharati.org/",
+        "Year of Foundation": "1989",
+        "Date of First Opening of School": "01 Jul 1996",
+        "Name of Principal/ Head of Institution": "GEETA GANGWANI",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.SC, B.ED.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "16",
+        "Teaching:": "37",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "sri srisha edu and chari trust",
+        "Remarks, if any": null
+    },
+    "links": []
+}

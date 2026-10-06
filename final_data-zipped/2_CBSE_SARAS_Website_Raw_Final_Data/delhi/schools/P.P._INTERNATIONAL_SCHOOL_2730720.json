@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730720",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730720"
+    },
+    "listing_data": {
+        "affiliation_number": "2730720",
+        "listing_raw_columns": [
+            "785",
+            "Aff. No. : 2730720 Sch. Code: 85225",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : P.P. INTERNATIONAL SCHOOL Head/Principal Name: DEEPI BECTOR",
+            "Address : LD BLOCK, OPP METRO PILLAR NUMBER 333, PITAM PURA Website : www.ppi.school",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730720",
+        "serial_number": "785",
+        "affiliation_and_school_code": "Aff. No. : 2730720 Sch. Code: 85225",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : P.P. INTERNATIONAL SCHOOL Head/Principal Name: DEEPI BECTOR",
+        "address_and_website": "Address : LD BLOCK, OPP METRO PILLAR NUMBER 333, PITAM PURA Website : www.ppi.school"
+    },
+    "school_details": {
+        "Name of Institution": "P.P. INTERNATIONAL SCHOOL",
+        "Affiliation Number": "2730720",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "LD BLOCK, OPP METRO PILLAR NUMBER 333, PITAM PURA",
+        "Pin Code": "110034",
+        "Website": "www.ppi.school",
+        "Year of Foundation": "2011",
+        "Date of First Opening of School": "04 Jul 2011",
+        "Name of Principal/ Head of Institution": "DEEPI BECTOR",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "B.Sc.-HS, MCA, B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "16",
+        "Teaching:": "10",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "PP CHARITABLE TRUST",
+        "Remarks, if any": null
+    },
+    "links": []
+}

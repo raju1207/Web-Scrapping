@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730721",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730721"
+    },
+    "listing_data": {
+        "affiliation_number": "2730721",
+        "listing_raw_columns": [
+            "786",
+            "Aff. No. : 2730721 Sch. Code: 25306",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : OPG WORLD SCHOOL Head/Principal Name: Namrata Datta",
+            "Address : SECTOR - 19B, DWARKA, NEW DELHI -110075 Website : www.opgworldschool.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730721",
+        "serial_number": "786",
+        "affiliation_and_school_code": "Aff. No. : 2730721 Sch. Code: 25306",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : OPG WORLD SCHOOL Head/Principal Name: Namrata Datta",
+        "address_and_website": "Address : SECTOR - 19B, DWARKA, NEW DELHI -110075 Website : www.opgworldschool.com"
+    },
+    "school_details": {
+        "Name of Institution": "OPG WORLD SCHOOL",
+        "Affiliation Number": "2730721",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "SECTOR - 19B, DWARKA, NEW DELHI -110075",
+        "Pin Code": "110075",
+        "Website": "www.opgworldschool.com",
+        "Year of Foundation": "2008",
+        "Date of First Opening of School": "01 Apr 2008",
+        "Name of Principal/ Head of Institution": "Namrata Datta",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "Post Graduation, B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "12",
+        "Teaching:": "19",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "CHANDRA EDUCATIONAL & WELFARE SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

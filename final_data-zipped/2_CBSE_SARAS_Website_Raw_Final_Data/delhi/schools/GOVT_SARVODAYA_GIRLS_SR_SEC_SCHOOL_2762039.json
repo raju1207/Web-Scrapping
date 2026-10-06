@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2762039",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762039"
+    },
+    "listing_data": {
+        "affiliation_number": "2762039",
+        "listing_raw_columns": [
+            "1760",
+            "Aff. No. : 2762039 Sch. Code: 27056",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT SARVODAYA GIRLS SR SEC SCHOOL Head/Principal Name: PRIYA MALIK",
+            "Address : MANDAWALI DELHI Website : https://www.edudel.nic.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762039",
+        "serial_number": "1760",
+        "affiliation_and_school_code": "Aff. No. : 2762039 Sch. Code: 27056",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT SARVODAYA GIRLS SR SEC SCHOOL Head/Principal Name: PRIYA MALIK",
+        "address_and_website": "Address : MANDAWALI DELHI Website : https://www.edudel.nic.in/"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT SARVODAYA GIRLS SR SEC SCHOOL",
+        "Affiliation Number": "2762039",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "MANDAWALI DELHI",
+        "Pin Code": "110092",
+        "Website": "https://www.edudel.nic.in/",
+        "Year of Foundation": "1982",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "PRIYA MALIK",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M A BED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "0",
+        "Teaching:": "10",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "DIRECTOR OF EDU DELHI ADMN",
+        "Remarks, if any": null
+    },
+    "links": []
+}

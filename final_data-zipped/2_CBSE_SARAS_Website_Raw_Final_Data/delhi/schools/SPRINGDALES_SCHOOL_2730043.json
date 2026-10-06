@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730043",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730043"
+    },
+    "listing_data": {
+        "affiliation_number": "2730043",
+        "listing_raw_columns": [
+            "132",
+            "Aff. No. : 2730043 Sch. Code: 85027",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : SPRINGDALES SCHOOL Head/Principal Name: Mala Gupta",
+            "Address : PUSA ROAD NEW DELHI Website : www.springdalespusa.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730043",
+        "serial_number": "132",
+        "affiliation_and_school_code": "Aff. No. : 2730043 Sch. Code: 85027",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SPRINGDALES SCHOOL Head/Principal Name: Mala Gupta",
+        "address_and_website": "Address : PUSA ROAD NEW DELHI Website : www.springdalespusa.com"
+    },
+    "school_details": {
+        "Name of Institution": "SPRINGDALES SCHOOL",
+        "Affiliation Number": "2730043",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "PUSA ROAD NEW DELHI",
+        "Pin Code": "110005",
+        "Website": "www.springdalespusa.com",
+        "Year of Foundation": "1955",
+        "Date of First Opening of School": "23 Jun 2005",
+        "Name of Principal/ Head of Institution": "Mala Gupta",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "Ph. D",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "17",
+        "Teaching:": "39",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": "Permanant",
+        "Affiliation Period": "Permanent (Subject to final outcome of WPC-6115/19 pending before Honourable High court of Delhi)",
+        "Name of Trust/ Society/ Managing Committee": "PATEL EDUCATIONAL SOCIETY",
+        "Remarks, if any": "Permanent (Subject to final outcome of WPC-6115/19 pending before Honourable High court of Delhi)"
+    },
+    "links": []
+}

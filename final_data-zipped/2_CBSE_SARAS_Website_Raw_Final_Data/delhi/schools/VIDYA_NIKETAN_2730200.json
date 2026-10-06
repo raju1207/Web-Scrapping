@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730200",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730200"
+    },
+    "listing_data": {
+        "affiliation_number": "2730200",
+        "listing_raw_columns": [
+            "287",
+            "Aff. No. : 2730200 Sch. Code: 25176",
+            "State : DELHI District : SOUTH DELHI",
+            "Senior Secondary Level",
+            "Name : VIDYA NIKETAN Head/Principal Name: Anindita Das",
+            "Address : D-BLOCK SAKET NEW DELHI Website : www.vidyaniketansaket.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730200",
+        "serial_number": "287",
+        "affiliation_and_school_code": "Aff. No. : 2730200 Sch. Code: 25176",
+        "state_and_district": "State : DELHI District : SOUTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : VIDYA NIKETAN Head/Principal Name: Anindita Das",
+        "address_and_website": "Address : D-BLOCK SAKET NEW DELHI Website : www.vidyaniketansaket.in"
+    },
+    "school_details": {
+        "Name of Institution": "VIDYA NIKETAN",
+        "Affiliation Number": "2730200",
+        "State": "DELHI",
+        "District": "SOUTH DELHI",
+        "Postal Address": "D-BLOCK SAKET NEW DELHI",
+        "Pin Code": "110017",
+        "Website": "www.vidyaniketansaket.in",
+        "Year of Foundation": "1986",
+        "Date of First Opening of School": "02 Apr 2008",
+        "Name of Principal/ Head of Institution": "Anindita Das",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA, BED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "09",
+        "Teaching:": "21",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "st mary and day school samiti",
+        "Remarks, if any": null
+    },
+    "links": []
+}

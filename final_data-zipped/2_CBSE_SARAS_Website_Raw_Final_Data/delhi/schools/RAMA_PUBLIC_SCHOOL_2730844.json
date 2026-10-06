@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730844",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730844"
+    },
+    "listing_data": {
+        "affiliation_number": "2730844",
+        "listing_raw_columns": [
+            "904",
+            "Aff. No. : 2730844 Sch. Code: 85509",
+            "State : DELHI District : NORTH DELHI",
+            "Secondary Level",
+            "Name : RAMA PUBLIC SCHOOL Head/Principal Name: SUPRIYA TYAGI",
+            "Address : KHASRA NO. 118, JAGATPUR MAIN ROAD, WAZIRABAD EXTN., DELHI-110084 Website : www.ramapublicschool.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730844",
+        "serial_number": "904",
+        "affiliation_and_school_code": "Aff. No. : 2730844 Sch. Code: 85509",
+        "state_and_district": "State : DELHI District : NORTH DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : RAMA PUBLIC SCHOOL Head/Principal Name: SUPRIYA TYAGI",
+        "address_and_website": "Address : KHASRA NO. 118, JAGATPUR MAIN ROAD, WAZIRABAD EXTN., DELHI-110084 Website : www.ramapublicschool.in"
+    },
+    "school_details": {
+        "Name of Institution": "RAMA PUBLIC SCHOOL",
+        "Affiliation Number": "2730844",
+        "State": "DELHI",
+        "District": "NORTH DELHI",
+        "Postal Address": "KHASRA NO. 118, JAGATPUR MAIN ROAD, WAZIRABAD EXTN., DELHI-110084",
+        "Pin Code": "110084",
+        "Website": "www.ramapublicschool.in",
+        "Year of Foundation": "2004",
+        "Date of First Opening of School": "01 Apr 2005",
+        "Name of Principal/ Head of Institution": "SUPRIYA TYAGI",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.COM B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "3",
+        "Teaching:": "8",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "BHARAT SINGH MEMORIAL EDUCATIONAL & CULTURAL SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

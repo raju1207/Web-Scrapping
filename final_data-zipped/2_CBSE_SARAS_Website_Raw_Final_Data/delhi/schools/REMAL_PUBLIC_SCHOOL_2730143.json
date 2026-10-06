@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730143",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730143"
+    },
+    "listing_data": {
+        "affiliation_number": "2730143",
+        "listing_raw_columns": [
+            "231",
+            "Aff. No. : 2730143 Sch. Code: 85235",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : REMAL PUBLIC SCHOOL Head/Principal Name: SEEMA BAJAJ",
+            "Address : BLOCK-A POCKET-2 SECTOR III ROHINI DELHI Website : www.remalpublicschool.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730143",
+        "serial_number": "231",
+        "affiliation_and_school_code": "Aff. No. : 2730143 Sch. Code: 85235",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : REMAL PUBLIC SCHOOL Head/Principal Name: SEEMA BAJAJ",
+        "address_and_website": "Address : BLOCK-A POCKET-2 SECTOR III ROHINI DELHI Website : www.remalpublicschool.in"
+    },
+    "school_details": {
+        "Name of Institution": "REMAL PUBLIC SCHOOL",
+        "Affiliation Number": "2730143",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "BLOCK-A POCKET-2 SECTOR III ROHINI DELHI",
+        "Pin Code": "110085",
+        "Website": "www.remalpublicschool.in",
+        "Year of Foundation": "1971",
+        "Date of First Opening of School": "01 Apr 2005",
+        "Name of Principal/ Head of Institution": "SEEMA BAJAJ",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MSc., M.Ed., B.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "2",
+        "Teaching:": "27",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "REMAL PUBLIC SCHOOL SOCIETY REGD",
+        "Remarks, if any": null
+    },
+    "links": []
+}

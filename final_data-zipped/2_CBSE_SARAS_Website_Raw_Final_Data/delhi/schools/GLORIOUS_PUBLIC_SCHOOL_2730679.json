@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730679",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730679"
+    },
+    "listing_data": {
+        "affiliation_number": "2730679",
+        "listing_raw_columns": [
+            "747",
+            "Aff. No. : 2730679 Sch. Code: 85276",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Secondary Level",
+            "Name : GLORIOUS PUBLIC SCHOOL Head/Principal Name: NARENDER SINGH",
+            "Address : SEC -9 NEW DELHI 110085 Website : www.gloriouspublicschoolrohini.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730679",
+        "serial_number": "747",
+        "affiliation_and_school_code": "Aff. No. : 2730679 Sch. Code: 85276",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : GLORIOUS PUBLIC SCHOOL Head/Principal Name: NARENDER SINGH",
+        "address_and_website": "Address : SEC -9 NEW DELHI 110085 Website : www.gloriouspublicschoolrohini.com"
+    },
+    "school_details": {
+        "Name of Institution": "GLORIOUS PUBLIC SCHOOL",
+        "Affiliation Number": "2730679",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "SEC -9 NEW DELHI 110085",
+        "Pin Code": "110085",
+        "Website": "www.gloriouspublicschoolrohini.com",
+        "Year of Foundation": "2000",
+        "Date of First Opening of School": "04 Apr 2000",
+        "Name of Principal/ Head of Institution": "NARENDER SINGH",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MCOM, BED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "12",
+        "Teaching:": "10",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "GLORIOUS EDUCATIONAL SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2756099",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756099"
+    },
+    "listing_data": {
+        "affiliation_number": "2756099",
+        "listing_raw_columns": [
+            "1481",
+            "Aff. No. : 2756099 Sch. Code: 27497",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT SARVODAYA CO-ED SR SEC SCHOOL Head/Principal Name: PRADEEP KUMAR",
+            "Address : NAJAFGARH NEW DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756099",
+        "serial_number": "1481",
+        "affiliation_and_school_code": "Aff. No. : 2756099 Sch. Code: 27497",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT SARVODAYA CO-ED SR SEC SCHOOL Head/Principal Name: PRADEEP KUMAR",
+        "address_and_website": "Address : NAJAFGARH NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT SARVODAYA CO-ED SR SEC SCHOOL",
+        "Affiliation Number": "2756099",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "NAJAFGARH NEW DELHI",
+        "Pin Code": "110043",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1991",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "PRADEEP KUMAR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "01",
+        "Teaching:": "15",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "directate of education delhi",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2750003",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750003"
+    },
+    "listing_data": {
+        "affiliation_number": "2750003",
+        "listing_raw_columns": [
+            "962",
+            "Aff. No. : 2750003 Sch. Code: 87283",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR SEC SCHOOL NO-2 Head/Principal Name: PREMAN RAVIDAS",
+            "Address : MODEL TOWN DELHI Website : https://www.edudel.nic.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750003",
+        "serial_number": "962",
+        "affiliation_and_school_code": "Aff. No. : 2750003 Sch. Code: 87283",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR SEC SCHOOL NO-2 Head/Principal Name: PREMAN RAVIDAS",
+        "address_and_website": "Address : MODEL TOWN DELHI Website : https://www.edudel.nic.in/"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR SEC SCHOOL NO-2",
+        "Affiliation Number": "2750003",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "MODEL TOWN DELHI",
+        "Pin Code": "110009",
+        "Website": "https://www.edudel.nic.in/",
+        "Year of Foundation": "1969",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "PREMAN RAVIDAS",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A, B.ED.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "5",
+        "Teaching:": "6",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMI STRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

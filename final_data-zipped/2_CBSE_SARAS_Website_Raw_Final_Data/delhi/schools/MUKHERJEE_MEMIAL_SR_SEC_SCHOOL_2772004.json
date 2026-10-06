@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2772004",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2772004"
+    },
+    "listing_data": {
+        "affiliation_number": "2772004",
+        "listing_raw_columns": [
+            "2054",
+            "Aff. No. : 2772004 Sch. Code: 27235",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : MUKHERJEE MEMIAL SR SEC SCHOOL Head/Principal Name: SAURABH",
+            "Address : N-BLOCK, DILSHAD GARDEN, DELHI Website : www.mukerjeeschoolssociety.org",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2772004",
+        "serial_number": "2054",
+        "affiliation_and_school_code": "Aff. No. : 2772004 Sch. Code: 27235",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : MUKHERJEE MEMIAL SR SEC SCHOOL Head/Principal Name: SAURABH",
+        "address_and_website": "Address : N-BLOCK, DILSHAD GARDEN, DELHI Website : www.mukerjeeschoolssociety.org"
+    },
+    "school_details": {
+        "Name of Institution": "MUKHERJEE MEMIAL SR SEC SCHOOL",
+        "Affiliation Number": "2772004",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "N-BLOCK, DILSHAD GARDEN, DELHI",
+        "Pin Code": "110095",
+        "Website": "www.mukerjeeschoolssociety.org",
+        "Year of Foundation": "1959",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "SAURABH",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.SC PHYSICS, B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "34",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "mukherjee memial school shahdara",
+        "Remarks, if any": null
+    },
+    "links": []
+}

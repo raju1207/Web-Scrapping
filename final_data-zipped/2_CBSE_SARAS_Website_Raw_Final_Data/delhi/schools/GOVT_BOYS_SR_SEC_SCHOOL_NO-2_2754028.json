@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2754028",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754028"
+    },
+    "listing_data": {
+        "affiliation_number": "2754028",
+        "listing_raw_columns": [
+            "1289",
+            "Aff. No. : 2754028 Sch. Code: 27406",
+            "State : DELHI District : SOUTH DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR SEC SCHOOL NO-2 Head/Principal Name: DR GOPAL KRISHAN",
+            "Address : KALKAJI NEW DELHI Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754028",
+        "serial_number": "1289",
+        "affiliation_and_school_code": "Aff. No. : 2754028 Sch. Code: 27406",
+        "state_and_district": "State : DELHI District : SOUTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR SEC SCHOOL NO-2 Head/Principal Name: DR GOPAL KRISHAN",
+        "address_and_website": "Address : KALKAJI NEW DELHI Website :"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR SEC SCHOOL NO-2",
+        "Affiliation Number": "2754028",
+        "State": "DELHI",
+        "District": "SOUTH DELHI",
+        "Postal Address": "KALKAJI NEW DELHI",
+        "Pin Code": "110019",
+        "Website": null,
+        "Year of Foundation": "1974",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "DR GOPAL KRISHAN",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": null,
+        "No of Experience ( in Years ):": null,
+        "Administrative:": null,
+        "Teaching:": null,
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2019 To : 31/03/2024",
+        "Name of Trust/ Society/ Managing Committee": "delhi administration",
+        "Remarks, if any": null
+    },
+    "links": []
+}

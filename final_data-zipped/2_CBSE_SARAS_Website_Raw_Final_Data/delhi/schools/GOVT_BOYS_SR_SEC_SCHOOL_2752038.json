@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2752038",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752038"
+    },
+    "listing_data": {
+        "affiliation_number": "2752038",
+        "listing_raw_columns": [
+            "1160",
+            "Aff. No. : 2752038 Sch. Code: 27241",
+            "State : DELHI District : NORTH EAST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: SANJEEV RANJAN",
+            "Address : MANDOLI DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752038",
+        "serial_number": "1160",
+        "affiliation_and_school_code": "Aff. No. : 2752038 Sch. Code: 27241",
+        "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: SANJEEV RANJAN",
+        "address_and_website": "Address : MANDOLI DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR SEC SCHOOL",
+        "Affiliation Number": "2752038",
+        "State": "DELHI",
+        "District": "NORTH EAST DELHI",
+        "Postal Address": "MANDOLI DELHI",
+        "Pin Code": "110093",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1970",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "SANJEEV RANJAN",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A AND B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "10",
+        "Teaching:": "16",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2020 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "dte of edn delhi admn",
+        "Remarks, if any": null
+    },
+    "links": []
+}

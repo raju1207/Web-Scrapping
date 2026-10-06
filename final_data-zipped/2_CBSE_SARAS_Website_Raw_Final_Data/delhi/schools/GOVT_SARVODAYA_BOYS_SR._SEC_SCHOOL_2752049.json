@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2752049",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752049"
+    },
+    "listing_data": {
+        "affiliation_number": "2752049",
+        "listing_raw_columns": [
+            "1171",
+            "Aff. No. : 2752049 Sch. Code: 27093",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT SARVODAYA BOYS SR. SEC SCHOOL Head/Principal Name: SANTOSH KUMAR SONI",
+            "Address : TRILOKPURI BLOCK-20 DELHI Website : https://www.edudel.nic.in/DirectorateOfEducation.htm",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752049",
+        "serial_number": "1171",
+        "affiliation_and_school_code": "Aff. No. : 2752049 Sch. Code: 27093",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT SARVODAYA BOYS SR. SEC SCHOOL Head/Principal Name: SANTOSH KUMAR SONI",
+        "address_and_website": "Address : TRILOKPURI BLOCK-20 DELHI Website : https://www.edudel.nic.in/DirectorateOfEducation.htm"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT SARVODAYA BOYS SR. SEC SCHOOL",
+        "Affiliation Number": "2752049",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "TRILOKPURI BLOCK-20 DELHI",
+        "Pin Code": "110091",
+        "Website": "https://www.edudel.nic.in/DirectorateOfEducation.htm",
+        "Year of Foundation": "1982",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "SANTOSH KUMAR SONI",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.Sc., B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "18",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

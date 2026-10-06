@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2774016",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774016"
+    },
+    "listing_data": {
+        "affiliation_number": "2774016",
+        "listing_raw_columns": [
+            "2081",
+            "Aff. No. : 2774016 Sch. Code: 27188",
+            "State : DELHI District : SOUTH DELHI",
+            "Senior Secondary Level",
+            "Name : VIDYA BHAVAN MAHAVIDYALAYA S S SCHL Head/Principal Name: MANI SETHI",
+            "Address : LODHI ESTATE NEW DELHI Website : http://vidyabhawanmahavidyalaya.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774016",
+        "serial_number": "2081",
+        "affiliation_and_school_code": "Aff. No. : 2774016 Sch. Code: 27188",
+        "state_and_district": "State : DELHI District : SOUTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : VIDYA BHAVAN MAHAVIDYALAYA S S SCHL Head/Principal Name: MANI SETHI",
+        "address_and_website": "Address : LODHI ESTATE NEW DELHI Website : http://vidyabhawanmahavidyalaya.com"
+    },
+    "school_details": {
+        "Name of Institution": "VIDYA BHAVAN MAHAVIDYALAYA S S SCHL",
+        "Affiliation Number": "2774016",
+        "State": "DELHI",
+        "District": "SOUTH DELHI",
+        "Postal Address": "LODHI ESTATE NEW DELHI",
+        "Pin Code": "110003",
+        "Website": "http://vidyabhawanmahavidyalaya.com",
+        "Year of Foundation": "1956",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "MANI SETHI",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M A",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "30",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "vidya bhawan co-op education socy",
+        "Remarks, if any": null
+    },
+    "links": []
+}

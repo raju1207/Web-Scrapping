@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730692",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730692"
+    },
+    "listing_data": {
+        "affiliation_number": "2730692",
+        "listing_raw_columns": [
+            "760",
+            "Aff. No. : 2730692 Sch. Code: 85081",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : MARIGOLD PUBLIC SCHOOL Head/Principal Name: Sunita Bhardwaj",
+            "Address : KHASRA NO 559 JAT KH ROAD VPO KATEWARA DELHI Website : mgpskatewara@gmail.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730692",
+        "serial_number": "760",
+        "affiliation_and_school_code": "Aff. No. : 2730692 Sch. Code: 85081",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : MARIGOLD PUBLIC SCHOOL Head/Principal Name: Sunita Bhardwaj",
+        "address_and_website": "Address : KHASRA NO 559 JAT KH ROAD VPO KATEWARA DELHI Website : mgpskatewara@gmail.com"
+    },
+    "school_details": {
+        "Name of Institution": "MARIGOLD PUBLIC SCHOOL",
+        "Affiliation Number": "2730692",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "KHASRA NO 559 JAT KH ROAD VPO KATEWARA DELHI",
+        "Pin Code": "110039",
+        "Website": "mgpskatewara@gmail.com",
+        "Year of Foundation": "2005",
+        "Date of First Opening of School": "02 Aug 2005",
+        "Name of Principal/ Head of Institution": "Sunita Bhardwaj",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA, BED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "5",
+        "Teaching:": "5",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": "marigold educational & welfare society",
+        "Remarks, if any": null
+    },
+    "links": []
+}

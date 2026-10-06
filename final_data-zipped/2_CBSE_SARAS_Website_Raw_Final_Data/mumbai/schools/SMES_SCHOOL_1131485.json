@@ -1,0 +1,55 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Mumbai",
+        "state": "MAHARASHTRA",
+        "selected_district": "MUMBAI",
+        "affiliation_number": "1131485",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131485"
+    },
+    "listing_data": {
+        "affiliation_number": "1131485",
+        "listing_raw_columns": [
+            "61",
+            "Aff. No. : 1131485 Sch. Code: 31474",
+            "State : MAHARASHTRA District : MUMBAI",
+            "Secondary Level",
+            "Name : SMES SCHOOL Head/Principal Name: Salima Sharief",
+            "Address : 369, TPS - III, SENAPATI BAPAT MARG, MAHIM, MUMBAI 400016 Website : https://www.smesschoolmahim.edu.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131485",
+        "serial_number": "61",
+        "affiliation_and_school_code": "Aff. No. : 1131485 Sch. Code: 31474",
+        "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : SMES SCHOOL Head/Principal Name: Salima Sharief",
+        "address_and_website": "Address : 369, TPS - III, SENAPATI BAPAT MARG, MAHIM, MUMBAI 400016 Website : https://www.smesschoolmahim.edu.in/",
+        "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+        "Name of Institution": "SMES SCHOOL",
+        "Affiliation Number": "1131485",
+        "State": "MAHARASHTRA",
+        "District": "MUMBAI",
+        "Postal Address": "369, TPS - III, SENAPATI BAPAT MARG, MAHIM, MUMBAI 400016",
+        "Pin Code": "400016",
+        "Website": "https://www.smesschoolmahim.edu.in/",
+        "Year of Foundation": "2012",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "Salima Sharief",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M. A. B. Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "2",
+        "Teaching:": "10",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "Saraswati Mandir Education Society",
+        "Remarks, if any": null
+    },
+    "links": []
+}

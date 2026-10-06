@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2752121",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752121"
+    },
+    "listing_data": {
+        "affiliation_number": "2752121",
+        "listing_raw_columns": [
+            "1238",
+            "Aff. No. : 2752121 Sch. Code: 27078",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT. CO EDU. SR. SEC. SCH. Head/Principal Name: JILE SINGH AS VICE PRINCIPAL",
+            "Address : PREET VIHAR, DELHI Website : www.preet-vihar.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752121",
+        "serial_number": "1238",
+        "affiliation_and_school_code": "Aff. No. : 2752121 Sch. Code: 27078",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT. CO EDU. SR. SEC. SCH. Head/Principal Name: JILE SINGH AS VICE PRINCIPAL",
+        "address_and_website": "Address : PREET VIHAR, DELHI Website : www.preet-vihar.com"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT. CO EDU. SR. SEC. SCH.",
+        "Affiliation Number": "2752121",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "PREET VIHAR, DELHI",
+        "Pin Code": "110092",
+        "Website": "www.preet-vihar.com",
+        "Year of Foundation": "2007",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "JILE SINGH AS VICE PRINCIPAL",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "POST GARDUATION",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "13",
+        "Teaching:": "32",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2020 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "delhi administration",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2770003",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2770003"
+    },
+    "listing_data": {
+        "affiliation_number": "2770003",
+        "listing_raw_columns": [
+            "2043",
+            "Aff. No. : 2770003 Sch. Code: 87431",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : HARYANA SHAKTI SR SEC SCHOOL Head/Principal Name: BHUPENDRA SINGH",
+            "Address : KANJHAWALA DELHI Website : www.haryanashaktischool.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2770003",
+        "serial_number": "2043",
+        "affiliation_and_school_code": "Aff. No. : 2770003 Sch. Code: 87431",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : HARYANA SHAKTI SR SEC SCHOOL Head/Principal Name: BHUPENDRA SINGH",
+        "address_and_website": "Address : KANJHAWALA DELHI Website : www.haryanashaktischool.com"
+    },
+    "school_details": {
+        "Name of Institution": "HARYANA SHAKTI SR SEC SCHOOL",
+        "Affiliation Number": "2770003",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "KANJHAWALA DELHI",
+        "Pin Code": "110081",
+        "Website": "www.haryanashaktischool.com",
+        "Year of Foundation": "1945",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "BHUPENDRA SINGH",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.SC., M. ED.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "2",
+        "Teaching:": "30",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "directate of education delhi",
+        "Remarks, if any": null
+    },
+    "links": []
+}

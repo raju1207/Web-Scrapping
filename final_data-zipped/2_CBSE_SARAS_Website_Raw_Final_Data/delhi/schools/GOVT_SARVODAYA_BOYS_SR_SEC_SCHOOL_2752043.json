@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2752043",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752043"
+    },
+    "listing_data": {
+        "affiliation_number": "2752043",
+        "listing_raw_columns": [
+            "1165",
+            "Aff. No. : 2752043 Sch. Code: 27063",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT SARVODAYA BOYS SR SEC SCHOOL Head/Principal Name: BHAGWATI PRASAD DHYANI",
+            "Address : MAYUR VIHAR PHASE -I POCKET 2 DELHI Website : www.sbvpremchand.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752043",
+        "serial_number": "1165",
+        "affiliation_and_school_code": "Aff. No. : 2752043 Sch. Code: 27063",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT SARVODAYA BOYS SR SEC SCHOOL Head/Principal Name: BHAGWATI PRASAD DHYANI",
+        "address_and_website": "Address : MAYUR VIHAR PHASE -I POCKET 2 DELHI Website : www.sbvpremchand.com"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT SARVODAYA BOYS SR SEC SCHOOL",
+        "Affiliation Number": "2752043",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "MAYUR VIHAR PHASE -I POCKET 2 DELHI",
+        "Pin Code": "110091",
+        "Website": "www.sbvpremchand.com",
+        "Year of Foundation": "1983",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "BHAGWATI PRASAD DHYANI",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "Doctorate, B.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "10",
+        "Teaching:": "20",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730746",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730746"
+    },
+    "listing_data": {
+        "affiliation_number": "2730746",
+        "listing_raw_columns": [
+            "810",
+            "Aff. No. : 2730746 Sch. Code: 25393",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Secondary Level",
+            "Name : NEW KRISHNA MODEL PUBLIC SCHOOL Head/Principal Name: REKHA RANI",
+            "Address : H. NO. /KH. NO. 75/24, 75/25, 75/26 VILLAGE RAWATA, NEW DELHI-110073 Website : www.nkmps.org",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730746",
+        "serial_number": "810",
+        "affiliation_and_school_code": "Aff. No. : 2730746 Sch. Code: 25393",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : NEW KRISHNA MODEL PUBLIC SCHOOL Head/Principal Name: REKHA RANI",
+        "address_and_website": "Address : H. NO. /KH. NO. 75/24, 75/25, 75/26 VILLAGE RAWATA, NEW DELHI-110073 Website : www.nkmps.org"
+    },
+    "school_details": {
+        "Name of Institution": "NEW KRISHNA MODEL PUBLIC SCHOOL",
+        "Affiliation Number": "2730746",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "H. NO. /KH. NO. 75/24, 75/25, 75/26 VILLAGE RAWATA, NEW DELHI-110073",
+        "Pin Code": "110073",
+        "Website": "www.nkmps.org",
+        "Year of Foundation": "2005",
+        "Date of First Opening of School": "01 Apr 2005",
+        "Name of Principal/ Head of Institution": "REKHA RANI",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA. B.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "3",
+        "Teaching:": "7",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "DULI CHAND EDUCATIONAL & WELFARE SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

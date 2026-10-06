@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730460",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730460"
+    },
+    "listing_data": {
+        "affiliation_number": "2730460",
+        "listing_raw_columns": [
+            "534",
+            "Aff. No. : 2730460 Sch. Code: 25279",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : B G S INTERNATIONAL PUBLIC SCHOOL Head/Principal Name: PUNAM GUPTA",
+            "Address : SECTOR-5 DWARKA NEW DELHI Website : www.bgsips.edu.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730460",
+        "serial_number": "534",
+        "affiliation_and_school_code": "Aff. No. : 2730460 Sch. Code: 25279",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : B G S INTERNATIONAL PUBLIC SCHOOL Head/Principal Name: PUNAM GUPTA",
+        "address_and_website": "Address : SECTOR-5 DWARKA NEW DELHI Website : www.bgsips.edu.in"
+    },
+    "school_details": {
+        "Name of Institution": "B G S INTERNATIONAL PUBLIC SCHOOL",
+        "Affiliation Number": "2730460",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "SECTOR-5 DWARKA NEW DELHI",
+        "Pin Code": "110075",
+        "Website": "www.bgsips.edu.in",
+        "Year of Foundation": "2003",
+        "Date of First Opening of School": "01 Apr 2003",
+        "Name of Principal/ Head of Institution": "PUNAM GUPTA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A. B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "30",
+        "Teaching:": "28",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "SHRI ADICHURICHANAGIRI EDU TRUST",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730651",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730651"
+    },
+    "listing_data": {
+        "affiliation_number": "2730651",
+        "listing_raw_columns": [
+            "719",
+            "Aff. No. : 2730651 Sch. Code: 85100",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : DAFFODIL PUBLIC SCHOOL Head/Principal Name: ANKUR TYAGI",
+            "Address : PREM COLONY, BAWANA ROAD, NARELA DELHI-110040 Website : www.daffodilpublicschool.co.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730651",
+        "serial_number": "719",
+        "affiliation_and_school_code": "Aff. No. : 2730651 Sch. Code: 85100",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : DAFFODIL PUBLIC SCHOOL Head/Principal Name: ANKUR TYAGI",
+        "address_and_website": "Address : PREM COLONY, BAWANA ROAD, NARELA DELHI-110040 Website : www.daffodilpublicschool.co.in"
+    },
+    "school_details": {
+        "Name of Institution": "DAFFODIL PUBLIC SCHOOL",
+        "Affiliation Number": "2730651",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "PREM COLONY, BAWANA ROAD, NARELA DELHI-110040",
+        "Pin Code": "110040",
+        "Website": "www.daffodilpublicschool.co.in",
+        "Year of Foundation": "2009",
+        "Date of First Opening of School": "01 Apr 2009",
+        "Name of Principal/ Head of Institution": "ANKUR TYAGI",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MA B.ED.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "3",
+        "Teaching:": "3",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "Deep Chand Tyagi Educational Trust",
+        "Remarks, if any": null
+    },
+    "links": []
+}

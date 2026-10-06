@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2754109",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754109"
+    },
+    "listing_data": {
+        "affiliation_number": "2754109",
+        "listing_raw_columns": [
+            "1358",
+            "Aff. No. : 2754109 Sch. Code: 27343",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: RAM DHAN",
+            "Address : C BLOCK SANGAM VIHAR NEW DELHI Website : https://twitter.com/GbsssV",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754109",
+        "serial_number": "1358",
+        "affiliation_and_school_code": "Aff. No. : 2754109 Sch. Code: 27343",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: RAM DHAN",
+        "address_and_website": "Address : C BLOCK SANGAM VIHAR NEW DELHI Website : https://twitter.com/GbsssV"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR SEC SCHOOL",
+        "Affiliation Number": "2754109",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "C BLOCK SANGAM VIHAR NEW DELHI",
+        "Pin Code": "110062",
+        "Website": "https://twitter.com/GbsssV",
+        "Year of Foundation": "1993",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "RAM DHAN",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M A.., B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "6",
+        "Teaching:": "18",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "DIR OF EDUCATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

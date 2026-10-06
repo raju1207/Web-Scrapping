@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730368",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730368"
+    },
+    "listing_data": {
+        "affiliation_number": "2730368",
+        "listing_raw_columns": [
+            "448",
+            "Aff. No. : 2730368 Sch. Code: 25184",
+            "State : DELHI District : SOUTH DELHI",
+            "Senior Secondary Level",
+            "Name : TINU PUBLIC SCHOOL Head/Principal Name: URMILA MALIK",
+            "Address : B-5/1189 SANGAM VIHAR NEW DELHI Website : www.tinupublicschool.edu.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730368",
+        "serial_number": "448",
+        "affiliation_and_school_code": "Aff. No. : 2730368 Sch. Code: 25184",
+        "state_and_district": "State : DELHI District : SOUTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : TINU PUBLIC SCHOOL Head/Principal Name: URMILA MALIK",
+        "address_and_website": "Address : B-5/1189 SANGAM VIHAR NEW DELHI Website : www.tinupublicschool.edu.in"
+    },
+    "school_details": {
+        "Name of Institution": "TINU PUBLIC SCHOOL",
+        "Affiliation Number": "2730368",
+        "State": "DELHI",
+        "District": "SOUTH DELHI",
+        "Postal Address": "B-5/1189 SANGAM VIHAR NEW DELHI",
+        "Pin Code": "110080",
+        "Website": "www.tinupublicschool.edu.in",
+        "Year of Foundation": "1996",
+        "Date of First Opening of School": "02 Apr 1996",
+        "Name of Principal/ Head of Institution": "URMILA MALIK",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A., B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "16",
+        "Teaching:": "26",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "SIWAS EDUCATION SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

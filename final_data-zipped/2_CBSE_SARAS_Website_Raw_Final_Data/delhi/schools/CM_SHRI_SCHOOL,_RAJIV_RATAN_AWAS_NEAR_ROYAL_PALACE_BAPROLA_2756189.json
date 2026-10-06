@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2756189",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756189"
+    },
+    "listing_data": {
+        "affiliation_number": "2756189",
+        "listing_raw_columns": [
+            "1569",
+            "Aff. No. : 2756189 Sch. Code: 27557",
+            "State : DELHI District : WEST DELHI",
+            "Senior Secondary Level",
+            "Name : CM SHRI SCHOOL, RAJIV RATAN AWAS NEAR ROYAL PALACE BAPROLA Head/Principal Name: DR.SUDHIR KUMAR",
+            "Address : BAPROLA VIHAR, PRADHAN ECLAVE, C- BLOCK, NEW DELHI-43 Website : https://www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756189",
+        "serial_number": "1569",
+        "affiliation_and_school_code": "Aff. No. : 2756189 Sch. Code: 27557",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : CM SHRI SCHOOL, RAJIV RATAN AWAS NEAR ROYAL PALACE BAPROLA Head/Principal Name: DR.SUDHIR KUMAR",
+        "address_and_website": "Address : BAPROLA VIHAR, PRADHAN ECLAVE, C- BLOCK, NEW DELHI-43 Website : https://www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "CM SHRI SCHOOL, RAJIV RATAN AWAS NEAR ROYAL PALACE BAPROLA",
+        "Affiliation Number": "2756189",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "BAPROLA VIHAR, PRADHAN ECLAVE, C- BLOCK, NEW DELHI-43",
+        "Pin Code": "110043",
+        "Website": "https://www.edudel.nic.in",
+        "Year of Foundation": "2016",
+        "Date of First Opening of School": "01 Apr 2019",
+        "Name of Principal/ Head of Institution": "DR.SUDHIR KUMAR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MA,BED,Ph.D",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "10",
+        "Teaching:": "32",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "DIRECTORATE OF EDUCATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

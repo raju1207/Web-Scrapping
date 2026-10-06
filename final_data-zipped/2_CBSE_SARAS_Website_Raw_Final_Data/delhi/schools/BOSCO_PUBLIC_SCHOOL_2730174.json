@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730174",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730174"
+    },
+    "listing_data": {
+        "affiliation_number": "2730174",
+        "listing_raw_columns": [
+            "262",
+            "Aff. No. : 2730174 Sch. Code: 85398",
+            "State : DELHI District : WEST DELHI",
+            "Senior Secondary Level",
+            "Name : BOSCO PUBLIC SCHOOL Head/Principal Name: RAJU DUGGAL",
+            "Address : SUNDER VIHAR PASCHIM VIHAR NEW DELHI Website : www.boscoschool.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730174",
+        "serial_number": "262",
+        "affiliation_and_school_code": "Aff. No. : 2730174 Sch. Code: 85398",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : BOSCO PUBLIC SCHOOL Head/Principal Name: RAJU DUGGAL",
+        "address_and_website": "Address : SUNDER VIHAR PASCHIM VIHAR NEW DELHI Website : www.boscoschool.com"
+    },
+    "school_details": {
+        "Name of Institution": "BOSCO PUBLIC SCHOOL",
+        "Affiliation Number": "2730174",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "SUNDER VIHAR PASCHIM VIHAR NEW DELHI",
+        "Pin Code": "110041",
+        "Website": "www.boscoschool.com",
+        "Year of Foundation": "1985",
+        "Date of First Opening of School": "09 Jul 2003",
+        "Name of Principal/ Head of Institution": "RAJU DUGGAL",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "B.A B.ED MA ECONOMICS",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "14",
+        "Teaching:": "18",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "INDIRA ADARSH SHIKSHA SAMITI",
+        "Remarks, if any": null
+    },
+    "links": []
+}

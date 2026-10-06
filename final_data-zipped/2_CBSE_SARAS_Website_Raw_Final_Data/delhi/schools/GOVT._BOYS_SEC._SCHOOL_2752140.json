@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2752140",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752140"
+    },
+    "listing_data": {
+        "affiliation_number": "2752140",
+        "listing_raw_columns": [
+            "1257",
+            "Aff. No. : 2752140 Sch. Code: 27251",
+            "State : DELHI District : NORTH EAST DELHI",
+            "Secondary Level",
+            "Name : GOVT. BOYS SEC. SCHOOL Head/Principal Name: SUSHIL KUMAR",
+            "Address : GH-BLOCK SEEMA PURI DELHI-110095 Website : 1106263hos@gmail.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752140",
+        "serial_number": "1257",
+        "affiliation_and_school_code": "Aff. No. : 2752140 Sch. Code: 27251",
+        "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : GOVT. BOYS SEC. SCHOOL Head/Principal Name: SUSHIL KUMAR",
+        "address_and_website": "Address : GH-BLOCK SEEMA PURI DELHI-110095 Website : 1106263hos@gmail.com"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT. BOYS SEC. SCHOOL",
+        "Affiliation Number": "2752140",
+        "State": "DELHI",
+        "District": "NORTH EAST DELHI",
+        "Postal Address": "GH-BLOCK SEEMA PURI DELHI-110095",
+        "Pin Code": "110095",
+        "Website": "1106263hos@gmail.com",
+        "Year of Foundation": "2012",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "SUSHIL KUMAR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.Sc, B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "4",
+        "Teaching:": "24",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "dir. of education",
+        "Remarks, if any": null
+    },
+    "links": []
+}

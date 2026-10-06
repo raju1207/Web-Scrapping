@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2752082",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752082"
+    },
+    "listing_data": {
+        "affiliation_number": "2752082",
+        "listing_raw_columns": [
+            "1199",
+            "Aff. No. : 2752082 Sch. Code: 27101",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT SARVODAYA BOYS SR SEC SCHOOL Head/Principal Name: AJAY KUMAR",
+            "Address : EAST VINOD NAGAR DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752082",
+        "serial_number": "1199",
+        "affiliation_and_school_code": "Aff. No. : 2752082 Sch. Code: 27101",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT SARVODAYA BOYS SR SEC SCHOOL Head/Principal Name: AJAY KUMAR",
+        "address_and_website": "Address : EAST VINOD NAGAR DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT SARVODAYA BOYS SR SEC SCHOOL",
+        "Affiliation Number": "2752082",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "EAST VINOD NAGAR DELHI",
+        "Pin Code": "110091",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1992",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "AJAY KUMAR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "POST GRADUATE",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "8",
+        "Teaching:": "25",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "DIR. OF EDU.",
+        "Remarks, if any": null
+    },
+    "links": []
+}

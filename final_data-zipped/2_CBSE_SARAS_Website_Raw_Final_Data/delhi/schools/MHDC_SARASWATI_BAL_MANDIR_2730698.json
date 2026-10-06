@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730698",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730698"
+    },
+    "listing_data": {
+        "affiliation_number": "2730698",
+        "listing_raw_columns": [
+            "766",
+            "Aff. No. : 2730698 Sch. Code: 85312",
+            "State : DELHI District : WEST DELHI",
+            "Secondary Level",
+            "Name : MHDC SARASWATI BAL MANDIR Head/Principal Name: ASHOK KUMAR MITTAL",
+            "Address : B-1 JANAKPURI, WEST DELHI, NEW DELHI -110058 Website : www.mhdcsbm.org",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730698",
+        "serial_number": "766",
+        "affiliation_and_school_code": "Aff. No. : 2730698 Sch. Code: 85312",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : MHDC SARASWATI BAL MANDIR Head/Principal Name: ASHOK KUMAR MITTAL",
+        "address_and_website": "Address : B-1 JANAKPURI, WEST DELHI, NEW DELHI -110058 Website : www.mhdcsbm.org"
+    },
+    "school_details": {
+        "Name of Institution": "MHDC SARASWATI BAL MANDIR",
+        "Affiliation Number": "2730698",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "B-1 JANAKPURI, WEST DELHI, NEW DELHI -110058",
+        "Pin Code": "110058",
+        "Website": "www.mhdcsbm.org",
+        "Year of Foundation": "1983",
+        "Date of First Opening of School": "07 Jul 1983",
+        "Name of Principal/ Head of Institution": "ASHOK KUMAR MITTAL",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "POST GRADUATION",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "8",
+        "Teaching:": "28",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "SAMARTH SHIKSHA SAMITI",
+        "Remarks, if any": null
+    },
+    "links": []
+}

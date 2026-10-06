@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2700036",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700036"
+    },
+    "listing_data": {
+        "affiliation_number": "2700036",
+        "listing_raw_columns": [
+            "35",
+            "Aff. No. : 2700036 Sch. Code: 29027",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: KARAMBIR SINGH",
+            "Address : SECTOR 5 DWARKA NEW DELHI Website : www.dwarkasec5.kvs.ac.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700036",
+        "serial_number": "35",
+        "affiliation_and_school_code": "Aff. No. : 2700036 Sch. Code: 29027",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: KARAMBIR SINGH",
+        "address_and_website": "Address : SECTOR 5 DWARKA NEW DELHI Website : www.dwarkasec5.kvs.ac.in"
+    },
+    "school_details": {
+        "Name of Institution": "PM SHRI KENDRIYA VIDYALAYA",
+        "Affiliation Number": "2700036",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "SECTOR 5 DWARKA NEW DELHI",
+        "Pin Code": "110075",
+        "Website": "www.dwarkasec5.kvs.ac.in",
+        "Year of Foundation": "2003",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "KARAMBIR SINGH",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A., M.Ed., NET, BJMC",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "7",
+        "Teaching:": "22",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "KV",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "KENDRIYA VIDYALAYA SANGATHAN",
+        "Remarks, if any": null
+    },
+    "links": []
+}

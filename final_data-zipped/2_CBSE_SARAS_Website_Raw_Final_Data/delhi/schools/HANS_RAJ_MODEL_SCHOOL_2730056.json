@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730056",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730056"
+    },
+    "listing_data": {
+        "affiliation_number": "2730056",
+        "listing_raw_columns": [
+            "145",
+            "Aff. No. : 2730056 Sch. Code: 85321",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : HANS RAJ MODEL SCHOOL Head/Principal Name: HEEMAL H BHAT",
+            "Address : ROAD NO 73 PUNJABI BAGH NEW DELHI Website : www.hansrajmodelschool.org",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730056",
+        "serial_number": "145",
+        "affiliation_and_school_code": "Aff. No. : 2730056 Sch. Code: 85321",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : HANS RAJ MODEL SCHOOL Head/Principal Name: HEEMAL H BHAT",
+        "address_and_website": "Address : ROAD NO 73 PUNJABI BAGH NEW DELHI Website : www.hansrajmodelschool.org"
+    },
+    "school_details": {
+        "Name of Institution": "HANS RAJ MODEL SCHOOL",
+        "Affiliation Number": "2730056",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "ROAD NO 73 PUNJABI BAGH NEW DELHI",
+        "Pin Code": "110026",
+        "Website": "www.hansrajmodelschool.org",
+        "Year of Foundation": "1966",
+        "Date of First Opening of School": "23 Jun 2005",
+        "Name of Principal/ Head of Institution": "HEEMAL H BHAT",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA, B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "11",
+        "Teaching:": "25",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/07/1977 To : 31/03/2019",
+        "Name of Trust/ Society/ Managing Committee": "DAV COLEEGE TRUST AND MANAGEMENT SO",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730847",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730847"
+    },
+    "listing_data": {
+        "affiliation_number": "2730847",
+        "listing_raw_columns": [
+            "907",
+            "Aff. No. : 2730847 Sch. Code: 85511",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Secondary Level",
+            "Name : A-ONE INTERNATIONAL PUBLIC SCHOOL Head/Principal Name: NISHA",
+            "Address : B-BLOCK, INDER ENCLAVE, PHASE-II, DELHI-110086 Website : www.aoneinternationalpublicschool.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730847",
+        "serial_number": "907",
+        "affiliation_and_school_code": "Aff. No. : 2730847 Sch. Code: 85511",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : A-ONE INTERNATIONAL PUBLIC SCHOOL Head/Principal Name: NISHA",
+        "address_and_website": "Address : B-BLOCK, INDER ENCLAVE, PHASE-II, DELHI-110086 Website : www.aoneinternationalpublicschool.com"
+    },
+    "school_details": {
+        "Name of Institution": "A-ONE INTERNATIONAL PUBLIC SCHOOL",
+        "Affiliation Number": "2730847",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "B-BLOCK, INDER ENCLAVE, PHASE-II, DELHI-110086",
+        "Pin Code": "110086",
+        "Website": "www.aoneinternationalpublicschool.com",
+        "Year of Foundation": "2008",
+        "Date of First Opening of School": "01 Apr 2008",
+        "Name of Principal/ Head of Institution": "NISHA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A., B.ED.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "3",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "DAYANAND TRUST",
+        "Remarks, if any": null
+    },
+    "links": []
+}

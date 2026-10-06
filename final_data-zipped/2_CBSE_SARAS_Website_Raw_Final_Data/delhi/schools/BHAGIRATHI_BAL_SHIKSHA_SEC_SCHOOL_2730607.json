@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730607",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730607"
+    },
+    "listing_data": {
+        "affiliation_number": "2730607",
+        "listing_raw_columns": [
+            "677",
+            "Aff. No. : 2730607 Sch. Code: 85126",
+            "State : DELHI District : EAST DELHI",
+            "Secondary Level",
+            "Name : BHAGIRATHI BAL SHIKSHA SEC SCHOOL Head/Principal Name: POONAM SHARMA",
+            "Address : D-7/53, D BLOCK, GALI NO 7, DAYALPUR EXT. DELHI Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730607",
+        "serial_number": "677",
+        "affiliation_and_school_code": "Aff. No. : 2730607 Sch. Code: 85126",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : BHAGIRATHI BAL SHIKSHA SEC SCHOOL Head/Principal Name: POONAM SHARMA",
+        "address_and_website": "Address : D-7/53, D BLOCK, GALI NO 7, DAYALPUR EXT. DELHI Website :"
+    },
+    "school_details": {
+        "Name of Institution": "BHAGIRATHI BAL SHIKSHA SEC SCHOOL",
+        "Affiliation Number": "2730607",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "D-7/53, D BLOCK, GALI NO 7, DAYALPUR EXT. DELHI",
+        "Pin Code": "110094",
+        "Website": null,
+        "Year of Foundation": "1984",
+        "Date of First Opening of School": "02 Apr 2007",
+        "Name of Principal/ Head of Institution": "POONAM SHARMA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "18",
+        "Teaching:": "15",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "SADHU VASWANI MISSION NEW DELHI",
+        "Remarks, if any": null
+    },
+    "links": []
+}

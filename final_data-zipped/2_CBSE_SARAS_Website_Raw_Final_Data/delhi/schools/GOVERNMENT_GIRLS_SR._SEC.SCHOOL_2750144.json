@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2750144",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750144"
+    },
+    "listing_data": {
+        "affiliation_number": "2750144",
+        "listing_raw_columns": [
+            "1092",
+            "Aff. No. : 2750144 Sch. Code: 87249",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVERNMENT GIRLS SR. SEC.SCHOOL Head/Principal Name: SAVITA",
+            "Address : J J COLONY (COLUST), BAWANA, DELHI-110039 Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750144",
+        "serial_number": "1092",
+        "affiliation_and_school_code": "Aff. No. : 2750144 Sch. Code: 87249",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVERNMENT GIRLS SR. SEC.SCHOOL Head/Principal Name: SAVITA",
+        "address_and_website": "Address : J J COLONY (COLUST), BAWANA, DELHI-110039 Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVERNMENT GIRLS SR. SEC.SCHOOL",
+        "Affiliation Number": "2750144",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "J J COLONY (COLUST), BAWANA, DELHI-110039",
+        "Pin Code": "110039",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "2008",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "SAVITA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA BEd",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "04",
+        "Teaching:": "21",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "dir. of education",
+        "Remarks, if any": null
+    },
+    "links": []
+}

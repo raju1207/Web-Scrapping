@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730123",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730123"
+    },
+    "listing_data": {
+        "affiliation_number": "2730123",
+        "listing_raw_columns": [
+            "211",
+            "Aff. No. : 2730123 Sch. Code: 25156",
+            "State : DELHI District : SOUTH DELHI",
+            "Senior Secondary Level",
+            "Name : COL. SATSANGIS KIRAN MEMORIAL PUBLIC SCHOOL Head/Principal Name: SUDARSHAN SINGH MIYAN",
+            "Address : PREM KIRAN KUNJ P O SATBARI, DISTT SOUTH DELHI, NEW DELHI Website : www.cskm.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730123",
+        "serial_number": "211",
+        "affiliation_and_school_code": "Aff. No. : 2730123 Sch. Code: 25156",
+        "state_and_district": "State : DELHI District : SOUTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : COL. SATSANGIS KIRAN MEMORIAL PUBLIC SCHOOL Head/Principal Name: SUDARSHAN SINGH MIYAN",
+        "address_and_website": "Address : PREM KIRAN KUNJ P O SATBARI, DISTT SOUTH DELHI, NEW DELHI Website : www.cskm.com"
+    },
+    "school_details": {
+        "Name of Institution": "COL. SATSANGIS KIRAN MEMORIAL PUBLIC SCHOOL",
+        "Affiliation Number": "2730123",
+        "State": "DELHI",
+        "District": "SOUTH DELHI",
+        "Postal Address": "PREM KIRAN KUNJ P O SATBARI, DISTT SOUTH DELHI, NEW DELHI",
+        "Pin Code": "110074",
+        "Website": "www.cskm.com",
+        "Year of Foundation": "1986",
+        "Date of First Opening of School": "01 Apr 1986",
+        "Name of Principal/ Head of Institution": "SUDARSHAN SINGH MIYAN",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M COM, B Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "5",
+        "Teaching:": "32",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "All India................AIPECCS Society",
+        "Remarks, if any": null
+    },
+    "links": []
+}

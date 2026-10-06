@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2752010",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752010"
+    },
+    "listing_data": {
+        "affiliation_number": "2752010",
+        "listing_raw_columns": [
+            "1136",
+            "Aff. No. : 2752010 Sch. Code: 27270",
+            "State : DELHI District : SHAHDARA",
+            "Senior Secondary Level",
+            "Name : GANDHI MEMO GOVT.SARVODAYA BOYS Head/Principal Name: KRISHAN MOHAN TIWARI",
+            "Address : S S S G T ROAD SHAHDARA DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752010",
+        "serial_number": "1136",
+        "affiliation_and_school_code": "Aff. No. : 2752010 Sch. Code: 27270",
+        "state_and_district": "State : DELHI District : SHAHDARA",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GANDHI MEMO GOVT.SARVODAYA BOYS Head/Principal Name: KRISHAN MOHAN TIWARI",
+        "address_and_website": "Address : S S S G T ROAD SHAHDARA DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GANDHI MEMO GOVT.SARVODAYA BOYS",
+        "Affiliation Number": "2752010",
+        "State": "DELHI",
+        "District": "SHAHDARA",
+        "Postal Address": "S S S G T ROAD SHAHDARA DELHI",
+        "Pin Code": "110032",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1948",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "KRISHAN MOHAN TIWARI",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MA B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "11",
+        "Teaching:": "30",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

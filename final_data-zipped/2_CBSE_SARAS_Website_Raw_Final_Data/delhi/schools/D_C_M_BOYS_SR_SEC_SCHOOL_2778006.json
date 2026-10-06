@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2778006",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778006"
+    },
+    "listing_data": {
+        "affiliation_number": "2778006",
+        "listing_raw_columns": [
+            "2125",
+            "Aff. No. : 2778006 Sch. Code: 87198",
+            "State : DELHI District : NORTH DELHI",
+            "Senior Secondary Level",
+            "Name : D C M BOYS SR SEC SCHOOL Head/Principal Name: LOKESH KUMAR GUPTA",
+            "Address : KISHAN GANJ DELHI Website : www.dcmboysschool.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778006",
+        "serial_number": "2125",
+        "affiliation_and_school_code": "Aff. No. : 2778006 Sch. Code: 87198",
+        "state_and_district": "State : DELHI District : NORTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : D C M BOYS SR SEC SCHOOL Head/Principal Name: LOKESH KUMAR GUPTA",
+        "address_and_website": "Address : KISHAN GANJ DELHI Website : www.dcmboysschool.com"
+    },
+    "school_details": {
+        "Name of Institution": "D C M BOYS SR SEC SCHOOL",
+        "Affiliation Number": "2778006",
+        "State": "DELHI",
+        "District": "NORTH DELHI",
+        "Postal Address": "KISHAN GANJ DELHI",
+        "Pin Code": "110006",
+        "Website": "www.dcmboysschool.com",
+        "Year of Foundation": "1957",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "LOKESH KUMAR GUPTA",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.Com , B.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "3",
+        "Teaching:": "12",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "managing committee",
+        "Remarks, if any": null
+    },
+    "links": []
+}

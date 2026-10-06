@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2754129",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754129"
+    },
+    "listing_data": {
+        "affiliation_number": "2754129",
+        "listing_raw_columns": [
+            "1378",
+            "Aff. No. : 2754129 Sch. Code: 27113",
+            "State : DELHI District : SOUTH DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT. BOYS SR. SEC. SCHOOL Head/Principal Name: RAVINDER KUMAR",
+            "Address : B-1, VASANT KUNJ, NEW DELHI-110070 Website : https://www.edudel.nic.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754129",
+        "serial_number": "1378",
+        "affiliation_and_school_code": "Aff. No. : 2754129 Sch. Code: 27113",
+        "state_and_district": "State : DELHI District : SOUTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT. BOYS SR. SEC. SCHOOL Head/Principal Name: RAVINDER KUMAR",
+        "address_and_website": "Address : B-1, VASANT KUNJ, NEW DELHI-110070 Website : https://www.edudel.nic.in/"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT. BOYS SR. SEC. SCHOOL",
+        "Affiliation Number": "2754129",
+        "State": "DELHI",
+        "District": "SOUTH DELHI",
+        "Postal Address": "B-1, VASANT KUNJ, NEW DELHI-110070",
+        "Pin Code": "110070",
+        "Website": "https://www.edudel.nic.in/",
+        "Year of Foundation": "2012",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "RAVINDER KUMAR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A., B.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "4",
+        "Teaching:": "13",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "directate of education",
+        "Remarks, if any": null
+    },
+    "links": []
+}

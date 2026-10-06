@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730908",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730908"
+    },
+    "listing_data": {
+        "affiliation_number": "2730908",
+        "listing_raw_columns": [
+            "923",
+            "Aff. No. : 2730908 Sch. Code: 25560",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Secondary Level",
+            "Name : KANT DARSHAN PUBLIC SCHOOL Head/Principal Name: KAMINI SHARMA",
+            "Address : SAI DHAM COLONY, NEAR KANT DARSHAN DARBAR Website : http://WWW.kantdarshanpublicschool.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730908",
+        "serial_number": "923",
+        "affiliation_and_school_code": "Aff. No. : 2730908 Sch. Code: 25560",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : KANT DARSHAN PUBLIC SCHOOL Head/Principal Name: KAMINI SHARMA",
+        "address_and_website": "Address : SAI DHAM COLONY, NEAR KANT DARSHAN DARBAR Website : http://WWW.kantdarshanpublicschool.com"
+    },
+    "school_details": {
+        "Name of Institution": "KANT DARSHAN PUBLIC SCHOOL",
+        "Affiliation Number": "2730908",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "SAI DHAM COLONY, NEAR KANT DARSHAN DARBAR",
+        "Pin Code": "110043",
+        "Website": "http://WWW.kantdarshanpublicschool.com",
+        "Year of Foundation": "2012",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "KAMINI SHARMA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA BED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "10",
+        "Teaching:": "15",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "KANT DARSHAN EDUCATION FOUNDATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

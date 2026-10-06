@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2720054",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720054"
+    },
+    "listing_data": {
+        "affiliation_number": "2720054",
+        "listing_raw_columns": [
+            "51",
+            "Aff. No. : 2720054 Sch. Code: 27702",
+            "State : DELHI District : NORTH EAST DELHI",
+            "Senior Secondary Level",
+            "Name : GGSSS Head/Principal Name: SUCHI SINGH NIRWAN",
+            "Address : VEER SAVARKAR COMPLEX, DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720054",
+        "serial_number": "51",
+        "affiliation_and_school_code": "Aff. No. : 2720054 Sch. Code: 27702",
+        "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GGSSS Head/Principal Name: SUCHI SINGH NIRWAN",
+        "address_and_website": "Address : VEER SAVARKAR COMPLEX, DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GGSSS",
+        "Affiliation Number": "2720054",
+        "State": "DELHI",
+        "District": "NORTH EAST DELHI",
+        "Postal Address": "VEER SAVARKAR COMPLEX, DELHI",
+        "Pin Code": "110094",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "2022",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "SUCHI SINGH NIRWAN",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA BED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "0",
+        "Teaching:": "7",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "DOE",
+        "Remarks, if any": null
+    },
+    "links": []
+}

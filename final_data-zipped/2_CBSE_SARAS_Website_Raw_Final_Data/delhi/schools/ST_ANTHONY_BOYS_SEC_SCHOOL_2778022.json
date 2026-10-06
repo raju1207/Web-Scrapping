@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2778022",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778022"
+    },
+    "listing_data": {
+        "affiliation_number": "2778022",
+        "listing_raw_columns": [
+            "2139",
+            "Aff. No. : 2778022 Sch. Code: 87096",
+            "State : DELHI District : NEW DELHI",
+            "Secondary Level",
+            "Name : ST ANTHONY BOYS SEC SCHOOL Head/Principal Name: Rekha Kumar",
+            "Address : PAHARGANJ NEW DELHI Website : http://sabs.co.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778022",
+        "serial_number": "2139",
+        "affiliation_and_school_code": "Aff. No. : 2778022 Sch. Code: 87096",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : ST ANTHONY BOYS SEC SCHOOL Head/Principal Name: Rekha Kumar",
+        "address_and_website": "Address : PAHARGANJ NEW DELHI Website : http://sabs.co.in/"
+    },
+    "school_details": {
+        "Name of Institution": "ST ANTHONY BOYS SEC SCHOOL",
+        "Affiliation Number": "2778022",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "PAHARGANJ NEW DELHI",
+        "Pin Code": "110055",
+        "Website": "http://sabs.co.in/",
+        "Year of Foundation": "1956",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "Rekha Kumar",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "01",
+        "Teaching:": "01",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "navshakti educational society regd",
+        "Remarks, if any": null
+    },
+    "links": []
+}

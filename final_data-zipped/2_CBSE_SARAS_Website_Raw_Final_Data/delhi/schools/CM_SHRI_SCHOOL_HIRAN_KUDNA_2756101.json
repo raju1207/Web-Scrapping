@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2756101",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756101"
+    },
+    "listing_data": {
+        "affiliation_number": "2756101",
+        "listing_raw_columns": [
+            "1483",
+            "Aff. No. : 2756101 Sch. Code: 87611",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : CM SHRI SCHOOL HIRAN KUDNA Head/Principal Name: LAXMI NARAYAN JOSHI",
+            "Address : HIRAN KUDNA NEW DELHI Website : https://www.edudel.nic.in/mis/MisAdmin/frmMisLogin.aspx",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756101",
+        "serial_number": "1483",
+        "affiliation_and_school_code": "Aff. No. : 2756101 Sch. Code: 87611",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : CM SHRI SCHOOL HIRAN KUDNA Head/Principal Name: LAXMI NARAYAN JOSHI",
+        "address_and_website": "Address : HIRAN KUDNA NEW DELHI Website : https://www.edudel.nic.in/mis/MisAdmin/frmMisLogin.aspx"
+    },
+    "school_details": {
+        "Name of Institution": "CM SHRI SCHOOL HIRAN KUDNA",
+        "Affiliation Number": "2756101",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "HIRAN KUDNA NEW DELHI",
+        "Pin Code": "110041",
+        "Website": "https://www.edudel.nic.in/mis/MisAdmin/frmMisLogin.aspx",
+        "Year of Foundation": "1985",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "LAXMI NARAYAN JOSHI",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A. PH.D.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "4",
+        "Teaching:": "15",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMN",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2774038",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774038"
+    },
+    "listing_data": {
+        "affiliation_number": "2774038",
+        "listing_raw_columns": [
+            "2101",
+            "Aff. No. : 2774038 Sch. Code: 27337",
+            "State : DELHI District : SOUTH DELHI",
+            "Senior Secondary Level",
+            "Name : ANDHRA EDUCATION SOCIETY DR. K. RAMESH BABU MEMIAL SCHOOL Head/Principal Name: ASHWATHI KE",
+            "Address : SEC-7, PUSHP VIHAR, NEW DELHI Website : www.andhraeducationsociety.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774038",
+        "serial_number": "2101",
+        "affiliation_and_school_code": "Aff. No. : 2774038 Sch. Code: 27337",
+        "state_and_district": "State : DELHI District : SOUTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : ANDHRA EDUCATION SOCIETY DR. K. RAMESH BABU MEMIAL SCHOOL Head/Principal Name: ASHWATHI KE",
+        "address_and_website": "Address : SEC-7, PUSHP VIHAR, NEW DELHI Website : www.andhraeducationsociety.com"
+    },
+    "school_details": {
+        "Name of Institution": "ANDHRA EDUCATION SOCIETY DR. K. RAMESH BABU MEMIAL SCHOOL",
+        "Affiliation Number": "2774038",
+        "State": "DELHI",
+        "District": "SOUTH DELHI",
+        "Postal Address": "SEC-7, PUSHP VIHAR, NEW DELHI",
+        "Pin Code": "110017",
+        "Website": "www.andhraeducationsociety.com",
+        "Year of Foundation": "1975",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "ASHWATHI KE",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MSc BEd",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "3",
+        "Teaching:": "8",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "n d m c",
+        "Remarks, if any": null
+    },
+    "links": []
+}

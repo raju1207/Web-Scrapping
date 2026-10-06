@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2700041",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700041"
+    },
+    "listing_data": {
+        "affiliation_number": "2700041",
+        "listing_raw_columns": [
+            "40",
+            "Aff. No. : 2700041 Sch. Code: 29028",
+            "State : DELHI District : WEST DELHI",
+            "Senior Secondary Level",
+            "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: DR SAMTA SINGH",
+            "Address : SECTOR-12, DWARKA, NEW DELHI Website : https://dwarkasec12.kvs.ac.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700041",
+        "serial_number": "40",
+        "affiliation_and_school_code": "Aff. No. : 2700041 Sch. Code: 29028",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: DR SAMTA SINGH",
+        "address_and_website": "Address : SECTOR-12, DWARKA, NEW DELHI Website : https://dwarkasec12.kvs.ac.in/"
+    },
+    "school_details": {
+        "Name of Institution": "PM SHRI KENDRIYA VIDYALAYA",
+        "Affiliation Number": "2700041",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "SECTOR-12, DWARKA, NEW DELHI",
+        "Pin Code": "110075",
+        "Website": "https://dwarkasec12.kvs.ac.in/",
+        "Year of Foundation": "2007",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "DR SAMTA SINGH",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MSC ECO, MEd,PHD",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "3",
+        "Teaching:": "12",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "KV",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "KENDRIYA VIDYALAYA SANGATHAN N.D.",
+        "Remarks, if any": null
+    },
+    "links": []
+}

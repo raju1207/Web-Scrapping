@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730739",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730739"
+    },
+    "listing_data": {
+        "affiliation_number": "2730739",
+        "listing_raw_columns": [
+            "803",
+            "Aff. No. : 2730739 Sch. Code: 25367",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : BHOLI RAM PUBLIC SCHOOL Head/Principal Name: PRADEEP KUMAR TEHLAN",
+            "Address : INDIRA PARK, NAJAFGARH, NEW DELHI-110043 Website : www.bholirampublicschool.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730739",
+        "serial_number": "803",
+        "affiliation_and_school_code": "Aff. No. : 2730739 Sch. Code: 25367",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : BHOLI RAM PUBLIC SCHOOL Head/Principal Name: PRADEEP KUMAR TEHLAN",
+        "address_and_website": "Address : INDIRA PARK, NAJAFGARH, NEW DELHI-110043 Website : www.bholirampublicschool.in"
+    },
+    "school_details": {
+        "Name of Institution": "BHOLI RAM PUBLIC SCHOOL",
+        "Affiliation Number": "2730739",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "INDIRA PARK, NAJAFGARH, NEW DELHI-110043",
+        "Pin Code": "110043",
+        "Website": "www.bholirampublicschool.in",
+        "Year of Foundation": "1998",
+        "Date of First Opening of School": "01 Apr 1998",
+        "Name of Principal/ Head of Institution": "PRADEEP KUMAR TEHLAN",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MSC, M.A. , BED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "10",
+        "Teaching:": "10",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "BHOLI RAM MEMORIAL EDUCATIONAL SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

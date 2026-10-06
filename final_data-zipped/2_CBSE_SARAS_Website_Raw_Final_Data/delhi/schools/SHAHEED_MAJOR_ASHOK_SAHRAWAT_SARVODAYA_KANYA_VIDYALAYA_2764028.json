@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2764028",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764028"
+    },
+    "listing_data": {
+        "affiliation_number": "2764028",
+        "listing_raw_columns": [
+            "1836",
+            "Aff. No. : 2764028 Sch. Code: 27142",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : SHAHEED MAJOR ASHOK SAHRAWAT SARVODAYA KANYA VIDYALAYA Head/Principal Name: PUSHPA MAHTO",
+            "Address : MAHIPALPUR NEW DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764028",
+        "serial_number": "1836",
+        "affiliation_and_school_code": "Aff. No. : 2764028 Sch. Code: 27142",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SHAHEED MAJOR ASHOK SAHRAWAT SARVODAYA KANYA VIDYALAYA Head/Principal Name: PUSHPA MAHTO",
+        "address_and_website": "Address : MAHIPALPUR NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "SHAHEED MAJOR ASHOK SAHRAWAT SARVODAYA KANYA VIDYALAYA",
+        "Affiliation Number": "2764028",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "MAHIPALPUR NEW DELHI",
+        "Pin Code": "110037",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1948",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "PUSHPA MAHTO",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.com/M.ED/NET",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "2",
+        "Teaching:": "16",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "DIRECTORATE OF EDUCATION DELHI ADMN",
+        "Remarks, if any": null
+    },
+    "links": []
+}

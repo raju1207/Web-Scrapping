@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730162",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730162"
+    },
+    "listing_data": {
+        "affiliation_number": "2730162",
+        "listing_raw_columns": [
+            "250",
+            "Aff. No. : 2730162 Sch. Code: 85213",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : BAL BHARATI PUBLIC SCHOOL Head/Principal Name: SONIA CHHABRA",
+            "Address : PITAMPURA, DISTT NORTH WEST DELHI, DELHI Website : https://bbpspp.balbharati.org/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730162",
+        "serial_number": "250",
+        "affiliation_and_school_code": "Aff. No. : 2730162 Sch. Code: 85213",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : BAL BHARATI PUBLIC SCHOOL Head/Principal Name: SONIA CHHABRA",
+        "address_and_website": "Address : PITAMPURA, DISTT NORTH WEST DELHI, DELHI Website : https://bbpspp.balbharati.org/"
+    },
+    "school_details": {
+        "Name of Institution": "BAL BHARATI PUBLIC SCHOOL",
+        "Affiliation Number": "2730162",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "PITAMPURA, DISTT NORTH WEST DELHI, DELHI",
+        "Pin Code": "110034",
+        "Website": "https://bbpspp.balbharati.org/",
+        "Year of Foundation": "1984",
+        "Date of First Opening of School": "09 Jul 2002",
+        "Name of Principal/ Head of Institution": "SONIA CHHABRA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA, B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "5",
+        "Teaching:": "29",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "CHILD EDUCATION SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

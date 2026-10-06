@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2700022",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700022"
+    },
+    "listing_data": {
+        "affiliation_number": "2700022",
+        "listing_raw_columns": [
+            "21",
+            "Aff. No. : 2700022 Sch. Code: 29016",
+            "State : DELHI District : SOUTH DELHI",
+            "Senior Secondary Level",
+            "Name : PM SHRI KENDRIYA VIDYALAYA PRAGATI VIHAR Head/Principal Name: SANGEETA AGRAWAL",
+            "Address : PRAGATI VIHAR LODHI ROAD NEW DELHI Website : www.kvpragativihar@kvsedu.org",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700022",
+        "serial_number": "21",
+        "affiliation_and_school_code": "Aff. No. : 2700022 Sch. Code: 29016",
+        "state_and_district": "State : DELHI District : SOUTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : PM SHRI KENDRIYA VIDYALAYA PRAGATI VIHAR Head/Principal Name: SANGEETA AGRAWAL",
+        "address_and_website": "Address : PRAGATI VIHAR LODHI ROAD NEW DELHI Website : www.kvpragativihar@kvsedu.org"
+    },
+    "school_details": {
+        "Name of Institution": "PM SHRI KENDRIYA VIDYALAYA PRAGATI VIHAR",
+        "Affiliation Number": "2700022",
+        "State": "DELHI",
+        "District": "SOUTH DELHI",
+        "Postal Address": "PRAGATI VIHAR LODHI ROAD NEW DELHI",
+        "Pin Code": "110003",
+        "Website": "www.kvpragativihar@kvsedu.org",
+        "Year of Foundation": "1983",
+        "Date of First Opening of School": "25 Jan 2009",
+        "Name of Principal/ Head of Institution": "SANGEETA AGRAWAL",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MSc",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "01",
+        "Teaching:": "17",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "KV",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "KENDRIYA VIDYALAYA SANGATHAN",
+        "Remarks, if any": null
+    },
+    "links": []
+}

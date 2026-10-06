@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2760007",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2760007"
+    },
+    "listing_data": {
+        "affiliation_number": "2760007",
+        "listing_raw_columns": [
+            "1627",
+            "Aff. No. : 2760007 Sch. Code: 87239",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT SARVODAYA GIRLS SR SEC SCHOOL Head/Principal Name: MUKESH",
+            "Address : BAKHTAWARPUR DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2760007",
+        "serial_number": "1627",
+        "affiliation_and_school_code": "Aff. No. : 2760007 Sch. Code: 87239",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT SARVODAYA GIRLS SR SEC SCHOOL Head/Principal Name: MUKESH",
+        "address_and_website": "Address : BAKHTAWARPUR DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT SARVODAYA GIRLS SR SEC SCHOOL",
+        "Affiliation Number": "2760007",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "BAKHTAWARPUR DELHI",
+        "Pin Code": "110036",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1980",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "MUKESH",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA/B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "5",
+        "Teaching:": "32",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

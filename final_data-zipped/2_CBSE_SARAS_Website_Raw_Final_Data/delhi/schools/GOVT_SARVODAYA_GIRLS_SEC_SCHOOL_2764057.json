@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2764057",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764057"
+    },
+    "listing_data": {
+        "affiliation_number": "2764057",
+        "listing_raw_columns": [
+            "1860",
+            "Aff. No. : 2764057 Sch. Code:",
+            "State : DELHI District : NEW DELHI",
+            "Secondary Level",
+            "Name : GOVT SARVODAYA GIRLS SEC SCHOOL Head/Principal Name: MISS JAGPAL KAUR",
+            "Address : VARUN MARG DEFENCE COLONY NEW DELHI Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764057",
+        "serial_number": "1860",
+        "affiliation_and_school_code": "Aff. No. : 2764057 Sch. Code:",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : GOVT SARVODAYA GIRLS SEC SCHOOL Head/Principal Name: MISS JAGPAL KAUR",
+        "address_and_website": "Address : VARUN MARG DEFENCE COLONY NEW DELHI Website :"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT SARVODAYA GIRLS SEC SCHOOL",
+        "Affiliation Number": "2764057",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "VARUN MARG DEFENCE COLONY NEW DELHI",
+        "Pin Code": "110024",
+        "Website": null,
+        "Year of Foundation": null,
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "MISS JAGPAL KAUR",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": null,
+        "No of Experience ( in Years ):": null,
+        "Administrative:": null,
+        "Teaching:": null,
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2005 To : 31/03/2010",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

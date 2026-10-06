@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730057",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730057"
+    },
+    "listing_data": {
+        "affiliation_number": "2730057",
+        "listing_raw_columns": [
+            "146",
+            "Aff. No. : 2730057 Sch. Code: 85322",
+            "State : DELHI District : WEST DELHI",
+            "Senior Secondary Level",
+            "Name : N C JINDAL PUBLIC SCHOOL Head/Principal Name: DALJEET SINGH",
+            "Address : ROAD NO 73 PUNJABI BAGH NEW DELHI Website : www.ncjindalps.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730057",
+        "serial_number": "146",
+        "affiliation_and_school_code": "Aff. No. : 2730057 Sch. Code: 85322",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : N C JINDAL PUBLIC SCHOOL Head/Principal Name: DALJEET SINGH",
+        "address_and_website": "Address : ROAD NO 73 PUNJABI BAGH NEW DELHI Website : www.ncjindalps.com"
+    },
+    "school_details": {
+        "Name of Institution": "N C JINDAL PUBLIC SCHOOL",
+        "Affiliation Number": "2730057",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "ROAD NO 73 PUNJABI BAGH NEW DELHI",
+        "Pin Code": "110026",
+        "Website": "www.ncjindalps.com",
+        "Year of Foundation": "1966",
+        "Date of First Opening of School": "23 Jun 2005",
+        "Name of Principal/ Head of Institution": "DALJEET SINGH",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.Sc. Maths, PGDCA, B.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "5",
+        "Teaching:": "15",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": "Permanant",
+        "Affiliation Period": "Permanent (Subject to final outcome of WPC-6115/19 pending before Honourable High court of Delhi)",
+        "Name of Trust/ Society/ Managing Committee": "N C JINDAL CHARITABLE TRUST",
+        "Remarks, if any": "Permanent (Subject to final outcome of WPC-6115/19 pending before Honourable High court of Delhi)"
+    },
+    "links": []
+}

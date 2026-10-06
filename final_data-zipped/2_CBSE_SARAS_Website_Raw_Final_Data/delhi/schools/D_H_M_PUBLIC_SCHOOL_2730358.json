@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730358",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730358"
+    },
+    "listing_data": {
+        "affiliation_number": "2730358",
+        "listing_raw_columns": [
+            "439",
+            "Aff. No. : 2730358 Sch. Code: 25336",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Secondary Level",
+            "Name : D H M PUBLIC SCHOOL Head/Principal Name: Mrs. TL.BHARDWAJ",
+            "Address : DICHAON KALAN NEW DELHI Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730358",
+        "serial_number": "439",
+        "affiliation_and_school_code": "Aff. No. : 2730358 Sch. Code: 25336",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : D H M PUBLIC SCHOOL Head/Principal Name: Mrs. TL.BHARDWAJ",
+        "address_and_website": "Address : DICHAON KALAN NEW DELHI Website :"
+    },
+    "school_details": {
+        "Name of Institution": "D H M PUBLIC SCHOOL",
+        "Affiliation Number": "2730358",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "DICHAON KALAN NEW DELHI",
+        "Pin Code": "110043",
+        "Website": null,
+        "Year of Foundation": null,
+        "Date of First Opening of School": "26 May 2008",
+        "Name of Principal/ Head of Institution": "Mrs. TL.BHARDWAJ",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA, B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "18",
+        "Teaching:": "18",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2015 To : 31/03/2020",
+        "Name of Trust/ Society/ Managing Committee": "DESH HRIDAY MAN DEV SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

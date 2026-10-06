@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2700035",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700035"
+    },
+    "listing_data": {
+        "affiliation_number": "2700035",
+        "listing_raw_columns": [
+            "34",
+            "Aff. No. : 2700035 Sch. Code: 89009",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: ANITA SINGH",
+            "Address : SECTOR 3 ROHINI DELHI Website : https://rohinisec3.kvs.ac.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700035",
+        "serial_number": "34",
+        "affiliation_and_school_code": "Aff. No. : 2700035 Sch. Code: 89009",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: ANITA SINGH",
+        "address_and_website": "Address : SECTOR 3 ROHINI DELHI Website : https://rohinisec3.kvs.ac.in"
+    },
+    "school_details": {
+        "Name of Institution": "PM SHRI KENDRIYA VIDYALAYA",
+        "Affiliation Number": "2700035",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "SECTOR 3 ROHINI DELHI",
+        "Pin Code": "110085",
+        "Website": "https://rohinisec3.kvs.ac.in",
+        "Year of Foundation": "1997",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "ANITA SINGH",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MSC BED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "8",
+        "Teaching:": "21",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "KV",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "KENDRIYA VIDYALAYA SANGATHAN N.D.",
+        "Remarks, if any": null
+    },
+    "links": []
+}

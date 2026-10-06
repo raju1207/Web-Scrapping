@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730836",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730836"
+    },
+    "listing_data": {
+        "affiliation_number": "2730836",
+        "listing_raw_columns": [
+            "896",
+            "Aff. No. : 2730836 Sch. Code: 25429",
+            "State : DELHI District : SOUTH DELHI",
+            "Secondary Level",
+            "Name : KALINDI PUBLIC SCHOOL Head/Principal Name: AKASH",
+            "Address : 105, VILLAGE AALI BADARPUR, NEW DELHI-110044 Website : www.kalindipublicschool.co.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730836",
+        "serial_number": "896",
+        "affiliation_and_school_code": "Aff. No. : 2730836 Sch. Code: 25429",
+        "state_and_district": "State : DELHI District : SOUTH DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : KALINDI PUBLIC SCHOOL Head/Principal Name: AKASH",
+        "address_and_website": "Address : 105, VILLAGE AALI BADARPUR, NEW DELHI-110044 Website : www.kalindipublicschool.co.in"
+    },
+    "school_details": {
+        "Name of Institution": "KALINDI PUBLIC SCHOOL",
+        "Affiliation Number": "2730836",
+        "State": "DELHI",
+        "District": "SOUTH DELHI",
+        "Postal Address": "105, VILLAGE AALI BADARPUR, NEW DELHI-110044",
+        "Pin Code": "110044",
+        "Website": "www.kalindipublicschool.co.in",
+        "Year of Foundation": "2003",
+        "Date of First Opening of School": "01 Apr 2006",
+        "Name of Principal/ Head of Institution": "AKASH",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A. B.ED.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "2",
+        "Teaching:": "2",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "KALINDI EDUCATIONAL SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

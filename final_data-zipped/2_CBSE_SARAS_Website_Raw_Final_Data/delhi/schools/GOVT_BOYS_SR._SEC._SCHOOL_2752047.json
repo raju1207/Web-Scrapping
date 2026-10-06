@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2752047",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752047"
+    },
+    "listing_data": {
+        "affiliation_number": "2752047",
+        "listing_raw_columns": [
+            "1169",
+            "Aff. No. : 2752047 Sch. Code: 27233",
+            "State : DELHI District : NORTH EAST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR. SEC. SCHOOL Head/Principal Name: PREM KISHORE SHARMA",
+            "Address : DILSHAD GARDEN DELHI Website : https://1106002.home.blog/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752047",
+        "serial_number": "1169",
+        "affiliation_and_school_code": "Aff. No. : 2752047 Sch. Code: 27233",
+        "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR. SEC. SCHOOL Head/Principal Name: PREM KISHORE SHARMA",
+        "address_and_website": "Address : DILSHAD GARDEN DELHI Website : https://1106002.home.blog/"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR. SEC. SCHOOL",
+        "Affiliation Number": "2752047",
+        "State": "DELHI",
+        "District": "NORTH EAST DELHI",
+        "Postal Address": "DILSHAD GARDEN DELHI",
+        "Pin Code": "110095",
+        "Website": "https://1106002.home.blog/",
+        "Year of Foundation": "1983",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "PREM KISHORE SHARMA",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.PHIL MATHEMATICS, Phd. ,",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "11",
+        "Teaching:": "27",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

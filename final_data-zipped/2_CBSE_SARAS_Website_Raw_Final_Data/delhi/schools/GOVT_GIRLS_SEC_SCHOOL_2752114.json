@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2752114",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752114"
+    },
+    "listing_data": {
+        "affiliation_number": "2752114",
+        "listing_raw_columns": [
+            "1231",
+            "Aff. No. : 2752114 Sch. Code: 87331",
+            "State : DELHI District : EAST DELHI",
+            "Secondary Level",
+            "Name : GOVT GIRLS SEC SCHOOL Head/Principal Name: INDIRA KUMARI",
+            "Address : HARSH VIHAR DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752114",
+        "serial_number": "1231",
+        "affiliation_and_school_code": "Aff. No. : 2752114 Sch. Code: 87331",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : GOVT GIRLS SEC SCHOOL Head/Principal Name: INDIRA KUMARI",
+        "address_and_website": "Address : HARSH VIHAR DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT GIRLS SEC SCHOOL",
+        "Affiliation Number": "2752114",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "HARSH VIHAR DELHI",
+        "Pin Code": "110093",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "2005",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "INDIRA KUMARI",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA, B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "4",
+        "Teaching:": "29",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,12 @@
+{
+  "dataset": "chandigarh",
+  "schema_version": "4.0",
+  "source": "CBSE SARAS",
+  "raw_files": 175,
+  "success": 175,
+  "failed": 0,
+  "unique_affiliation_numbers": 175,
+  "unique_record_ids": 175,
+  "generated_at": "2026-10-05T16:49:48.169024+00:00",
+  "output_directory": "data\\canonical_v4\\saras\\chandigarh"
+}

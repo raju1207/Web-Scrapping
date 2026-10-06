@@ -1,0 +1,12 @@
+{
+  "dataset": "mumbai",
+  "schema_version": "4.0",
+  "source": "CBSE SARAS",
+  "raw_files": 92,
+  "success": 92,
+  "failed": 0,
+  "unique_affiliation_numbers": 92,
+  "unique_record_ids": 92,
+  "generated_at": "2026-10-05T16:50:18.720232+00:00",
+  "output_directory": "data\\canonical_v4\\saras\\mumbai"
+}

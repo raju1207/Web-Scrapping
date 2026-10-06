@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2776015",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2776015"
+    },
+    "listing_data": {
+        "affiliation_number": "2776015",
+        "listing_raw_columns": [
+            "2117",
+            "Aff. No. : 2776015 Sch. Code: 87590",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : KALGIDHAR KHALSA SR SEC SCHOOL Head/Principal Name: HARVINDER KAUR",
+            "Address : SUBHASH NAGAR NEW DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2776015",
+        "serial_number": "2117",
+        "affiliation_and_school_code": "Aff. No. : 2776015 Sch. Code: 87590",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : KALGIDHAR KHALSA SR SEC SCHOOL Head/Principal Name: HARVINDER KAUR",
+        "address_and_website": "Address : SUBHASH NAGAR NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "KALGIDHAR KHALSA SR SEC SCHOOL",
+        "Affiliation Number": "2776015",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "SUBHASH NAGAR NEW DELHI",
+        "Pin Code": "110027",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1962",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "HARVINDER KAUR",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "POST GRADUATE",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "12",
+        "Teaching:": "29",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2018 To : 31/03/2019",
+        "Name of Trust/ Society/ Managing Committee": "KALGIDHAR KHALSA SCHOOL SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

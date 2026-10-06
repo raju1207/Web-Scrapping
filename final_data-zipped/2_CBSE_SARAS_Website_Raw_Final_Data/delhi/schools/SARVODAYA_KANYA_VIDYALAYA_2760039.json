@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2760039",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2760039"
+    },
+    "listing_data": {
+        "affiliation_number": "2760039",
+        "listing_raw_columns": [
+            "1659",
+            "Aff. No. : 2760039 Sch. Code: 87317",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : SARVODAYA KANYA VIDYALAYA Head/Principal Name: SEEMA",
+            "Address : VIJAY NAGAR DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2760039",
+        "serial_number": "1659",
+        "affiliation_and_school_code": "Aff. No. : 2760039 Sch. Code: 87317",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SARVODAYA KANYA VIDYALAYA Head/Principal Name: SEEMA",
+        "address_and_website": "Address : VIJAY NAGAR DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "SARVODAYA KANYA VIDYALAYA",
+        "Affiliation Number": "2760039",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "VIJAY NAGAR DELHI",
+        "Pin Code": "110009",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1967",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "SEEMA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "D.ED, B.ED, M.A , M. PHIL",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "5",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "directate of education",
+        "Remarks, if any": null
+    },
+    "links": []
+}

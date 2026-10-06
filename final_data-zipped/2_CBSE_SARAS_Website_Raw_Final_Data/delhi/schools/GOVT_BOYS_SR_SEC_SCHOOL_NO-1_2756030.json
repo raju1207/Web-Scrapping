@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2756030",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756030"
+    },
+    "listing_data": {
+        "affiliation_number": "2756030",
+        "listing_raw_columns": [
+            "1424",
+            "Aff. No. : 2756030 Sch. Code:",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR SEC SCHOOL NO-1 Head/Principal Name: R P SINGH",
+            "Address : B-BLOCK JANAKPURI NEW DELHI Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756030",
+        "serial_number": "1424",
+        "affiliation_and_school_code": "Aff. No. : 2756030 Sch. Code:",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR SEC SCHOOL NO-1 Head/Principal Name: R P SINGH",
+        "address_and_website": "Address : B-BLOCK JANAKPURI NEW DELHI Website :"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR SEC SCHOOL NO-1",
+        "Affiliation Number": "2756030",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "B-BLOCK JANAKPURI NEW DELHI",
+        "Pin Code": "110058",
+        "Website": null,
+        "Year of Foundation": null,
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "R P SINGH",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": null,
+        "No of Experience ( in Years ):": null,
+        "Administrative:": null,
+        "Teaching:": null,
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2003 To : 31/03/2008",
+        "Name of Trust/ Society/ Managing Committee": "DIRECTORATE OF EDUCATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

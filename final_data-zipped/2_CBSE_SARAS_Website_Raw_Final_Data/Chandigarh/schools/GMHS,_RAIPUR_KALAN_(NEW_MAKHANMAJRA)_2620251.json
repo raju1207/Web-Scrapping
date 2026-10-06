@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "CHANDIGARH",
+        "district": "CHANDIGARH",
+        "affiliation_number": "2620251",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2620251"
+    },
+    "listing_data": {
+        "affiliation_number": "2620251",
+        "listing_raw_columns": [
+            "105",
+            "Aff. No. : 2620251 Sch. Code: 24401",
+            "State : CHANDIGARH District : CHANDIGARH",
+            "Secondary Level",
+            "Name : GMHS, RAIPUR KALAN (NEW MAKHANMAJRA) Head/Principal Name: SHYAM LAL",
+            "Address : VILLAGE - MAKHANMAJRA, POST OFFICE - DARIYA Website : www.gmsmkm.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2620251",
+        "serial_number": "105",
+        "affiliation_and_school_code": "Aff. No. : 2620251 Sch. Code: 24401",
+        "state_and_district": "State : CHANDIGARH District : CHANDIGARH",
+        "status": "Secondary Level",
+        "school_and_head": "Name : GMHS, RAIPUR KALAN (NEW MAKHANMAJRA) Head/Principal Name: SHYAM LAL",
+        "address_and_website": "Address : VILLAGE - MAKHANMAJRA, POST OFFICE - DARIYA Website : www.gmsmkm.in"
+    },
+    "school_details": {
+        "Name of Institution": "GMHS, RAIPUR KALAN (NEW MAKHANMAJRA)",
+        "Affiliation Number": "2620251",
+        "State": "CHANDIGARH",
+        "District": "CHANDIGARH",
+        "Postal Address": "VILLAGE - MAKHANMAJRA, POST OFFICE - DARIYA",
+        "Pin Code": "160101",
+        "Website": "www.gmsmkm.in",
+        "Year of Foundation": "2021",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "SHYAM LAL",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MA, BEd",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "3",
+        "Teaching:": "29",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "Chandigarh Education Department",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2720071",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720071"
+    },
+    "listing_data": {
+        "affiliation_number": "2720071",
+        "listing_raw_columns": [
+            "68",
+            "Aff. No. : 2720071 Sch. Code: 27714",
+            "State : DELHI District : NORTH EAST DELHI",
+            "Senior Secondary Level",
+            "Name : SBV BADARPUR KHADAR, DELHI-90 (SCHOOL ID-1104490) Head/Principal Name: AVDHESH KUMAR",
+            "Address : VILLAGE BADARPUR KHADAR, NEAR TRONICA CITY, DELHI-110090 Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720071",
+        "serial_number": "68",
+        "affiliation_and_school_code": "Aff. No. : 2720071 Sch. Code: 27714",
+        "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SBV BADARPUR KHADAR, DELHI-90 (SCHOOL ID-1104490) Head/Principal Name: AVDHESH KUMAR",
+        "address_and_website": "Address : VILLAGE BADARPUR KHADAR, NEAR TRONICA CITY, DELHI-110090 Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "SBV BADARPUR KHADAR, DELHI-90 (SCHOOL ID-1104490)",
+        "Affiliation Number": "2720071",
+        "State": "DELHI",
+        "District": "NORTH EAST DELHI",
+        "Postal Address": "VILLAGE BADARPUR KHADAR, NEAR TRONICA CITY, DELHI-110090",
+        "Pin Code": "110090",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "2023",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "AVDHESH KUMAR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A., B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "4",
+        "Teaching:": "17",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "Directorate of Education",
+        "Remarks, if any": null
+    },
+    "links": []
+}

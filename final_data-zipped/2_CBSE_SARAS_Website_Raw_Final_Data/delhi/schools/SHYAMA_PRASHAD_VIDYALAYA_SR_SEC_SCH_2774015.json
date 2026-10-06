@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2774015",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774015"
+    },
+    "listing_data": {
+        "affiliation_number": "2774015",
+        "listing_raw_columns": [
+            "2080",
+            "Aff. No. : 2774015 Sch. Code: 27185",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : SHYAMA PRASHAD VIDYALAYA SR SEC SCH Head/Principal Name: CHAYANIKA RUDRA",
+            "Address : LODHI ESTATE NEW DELHI Website : www.shyamaprasadvidyalaya.org",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774015",
+        "serial_number": "2080",
+        "affiliation_and_school_code": "Aff. No. : 2774015 Sch. Code: 27185",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SHYAMA PRASHAD VIDYALAYA SR SEC SCH Head/Principal Name: CHAYANIKA RUDRA",
+        "address_and_website": "Address : LODHI ESTATE NEW DELHI Website : www.shyamaprasadvidyalaya.org"
+    },
+    "school_details": {
+        "Name of Institution": "SHYAMA PRASHAD VIDYALAYA SR SEC SCH",
+        "Affiliation Number": "2774015",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "LODHI ESTATE NEW DELHI",
+        "Pin Code": "110003",
+        "Website": "www.shyamaprasadvidyalaya.org",
+        "Year of Foundation": "1948",
+        "Date of First Opening of School": "11 Feb 2020",
+        "Name of Principal/ Head of Institution": "CHAYANIKA RUDRA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.Sc. B.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "0",
+        "Teaching:": "24",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "navodaya vidyalaya samiti",
+        "Remarks, if any": null
+    },
+    "links": []
+}

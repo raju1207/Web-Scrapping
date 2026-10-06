@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2754081",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754081"
+    },
+    "listing_data": {
+        "affiliation_number": "2754081",
+        "listing_raw_columns": [
+            "1331",
+            "Aff. No. : 2754081 Sch. Code: 27289",
+            "State : DELHI District : NEW DELHI",
+            "Secondary Level",
+            "Name : GOVT BOYS SEC SCHOOL NO 1 Head/Principal Name: DINESH KUMAR KULDEEP",
+            "Address : SECT V DR.AMBEDKAR NAGAR NEW DELHI Website : https://www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754081",
+        "serial_number": "1331",
+        "affiliation_and_school_code": "Aff. No. : 2754081 Sch. Code: 27289",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SEC SCHOOL NO 1 Head/Principal Name: DINESH KUMAR KULDEEP",
+        "address_and_website": "Address : SECT V DR.AMBEDKAR NAGAR NEW DELHI Website : https://www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SEC SCHOOL NO 1",
+        "Affiliation Number": "2754081",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "SECT V DR.AMBEDKAR NAGAR NEW DELHI",
+        "Pin Code": "110062",
+        "Website": "https://www.edudel.nic.in",
+        "Year of Foundation": "1982",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "DINESH KUMAR KULDEEP",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "Post Graduation Geography",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "5",
+        "Teaching:": "16",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": "delhi administration",
+        "Remarks, if any": null
+    },
+    "links": []
+}

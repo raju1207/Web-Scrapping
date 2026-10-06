@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2764046",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764046"
+    },
+    "listing_data": {
+        "affiliation_number": "2764046",
+        "listing_raw_columns": [
+            "1851",
+            "Aff. No. : 2764046 Sch. Code: 27352",
+            "State : DELHI District : SOUTH DELHI",
+            "Senior Secondary Level",
+            "Name : SARVODAYA CO-ED VIDYALAYA Head/Principal Name: SHAKTI RAJ",
+            "Address : MASJID MOTH NEW DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764046",
+        "serial_number": "1851",
+        "affiliation_and_school_code": "Aff. No. : 2764046 Sch. Code: 27352",
+        "state_and_district": "State : DELHI District : SOUTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SARVODAYA CO-ED VIDYALAYA Head/Principal Name: SHAKTI RAJ",
+        "address_and_website": "Address : MASJID MOTH NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "SARVODAYA CO-ED VIDYALAYA",
+        "Affiliation Number": "2764046",
+        "State": "DELHI",
+        "District": "SOUTH DELHI",
+        "Postal Address": "MASJID MOTH NEW DELHI",
+        "Pin Code": "110049",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1985",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "SHAKTI RAJ",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "PHD",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "7",
+        "Teaching:": "22",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "delhi admn",
+        "Remarks, if any": null
+    },
+    "links": []
+}

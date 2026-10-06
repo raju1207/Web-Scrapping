@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730343",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730343"
+    },
+    "listing_data": {
+        "affiliation_number": "2730343",
+        "listing_raw_columns": [
+            "424",
+            "Aff. No. : 2730343 Sch. Code: 85185",
+            "State : DELHI District : WEST DELHI",
+            "Secondary Level",
+            "Name : DEEN BANDHU PUBLIC SCHOOL Head/Principal Name: Bindiya Chaudhary",
+            "Address : GHEVRA DELHI Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730343",
+        "serial_number": "424",
+        "affiliation_and_school_code": "Aff. No. : 2730343 Sch. Code: 85185",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : DEEN BANDHU PUBLIC SCHOOL Head/Principal Name: Bindiya Chaudhary",
+        "address_and_website": "Address : GHEVRA DELHI Website :"
+    },
+    "school_details": {
+        "Name of Institution": "DEEN BANDHU PUBLIC SCHOOL",
+        "Affiliation Number": "2730343",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "GHEVRA DELHI",
+        "Pin Code": "110081",
+        "Website": null,
+        "Year of Foundation": "1988",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "Bindiya Chaudhary",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.SC. , M.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "4",
+        "Teaching:": "27",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2020 To : 31/03/2025",
+        "Name of Trust/ Society/ Managing Committee": "SIR SHHOTU RAM EDU TRUST",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2720097",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720097"
+    },
+    "listing_data": {
+        "affiliation_number": "2720097",
+        "listing_raw_columns": [
+            "94",
+            "Aff. No. : 2720097 Sch. Code: 27728",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : CM SHRI SCHOOL,SECTOR 6,DWARKA Head/Principal Name: GIRIJESH KUMAR MISHRA",
+            "Address : CM SHRI SCHOOL, SECTOR 6 DWARKA, NEW DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720097",
+        "serial_number": "94",
+        "affiliation_and_school_code": "Aff. No. : 2720097 Sch. Code: 27728",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : CM SHRI SCHOOL,SECTOR 6,DWARKA Head/Principal Name: GIRIJESH KUMAR MISHRA",
+        "address_and_website": "Address : CM SHRI SCHOOL, SECTOR 6 DWARKA, NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "CM SHRI SCHOOL,SECTOR 6,DWARKA",
+        "Affiliation Number": "2720097",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "CM SHRI SCHOOL, SECTOR 6 DWARKA, NEW DELHI",
+        "Pin Code": "110075",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "2022",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "GIRIJESH KUMAR MISHRA",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.Com B.ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "11",
+        "Teaching:": "12",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "DIRECTORATE OF EDUCATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

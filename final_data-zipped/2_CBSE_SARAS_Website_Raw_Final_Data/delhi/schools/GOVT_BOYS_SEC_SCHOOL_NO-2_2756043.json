@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2756043",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756043"
+    },
+    "listing_data": {
+        "affiliation_number": "2756043",
+        "listing_raw_columns": [
+            "1434",
+            "Aff. No. : 2756043 Sch. Code:",
+            "State : DELHI District : NEW DELHI",
+            "Secondary Level",
+            "Name : GOVT BOYS SEC SCHOOL NO-2 Head/Principal Name: SH H.B.BRAHMASTHALI",
+            "Address : SUBHASH NAGAR NEW DELHI Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756043",
+        "serial_number": "1434",
+        "affiliation_and_school_code": "Aff. No. : 2756043 Sch. Code:",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SEC SCHOOL NO-2 Head/Principal Name: SH H.B.BRAHMASTHALI",
+        "address_and_website": "Address : SUBHASH NAGAR NEW DELHI Website :"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SEC SCHOOL NO-2",
+        "Affiliation Number": "2756043",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "SUBHASH NAGAR NEW DELHI",
+        "Pin Code": "110027",
+        "Website": null,
+        "Year of Foundation": null,
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "SH H.B.BRAHMASTHALI",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": null,
+        "No of Experience ( in Years ):": null,
+        "Administrative:": null,
+        "Teaching:": null,
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2008 To : 31/03/2013",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMN EDUCATION DEPTT",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730621",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730621"
+    },
+    "listing_data": {
+        "affiliation_number": "2730621",
+        "listing_raw_columns": [
+            "691",
+            "Aff. No. : 2730621 Sch. Code: 25357",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : SANSKAR CONVENT SCHOOL Head/Principal Name: ALKA MUNDEPI",
+            "Address : 83, SHYAM VIHAR, E-BLOCK EXTN., NAJAFGARH Website : www.sanskarconventschool.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730621",
+        "serial_number": "691",
+        "affiliation_and_school_code": "Aff. No. : 2730621 Sch. Code: 25357",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SANSKAR CONVENT SCHOOL Head/Principal Name: ALKA MUNDEPI",
+        "address_and_website": "Address : 83, SHYAM VIHAR, E-BLOCK EXTN., NAJAFGARH Website : www.sanskarconventschool.com"
+    },
+    "school_details": {
+        "Name of Institution": "SANSKAR CONVENT SCHOOL",
+        "Affiliation Number": "2730621",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "83, SHYAM VIHAR, E-BLOCK EXTN., NAJAFGARH",
+        "Pin Code": "110043",
+        "Website": "www.sanskarconventschool.com",
+        "Year of Foundation": "2004",
+        "Date of First Opening of School": "01 Apr 2004",
+        "Name of Principal/ Head of Institution": "ALKA MUNDEPI",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "POST GRADUATION",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "11",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "Sanskar Vidya Samiti",
+        "Remarks, if any": null
+    },
+    "links": []
+}

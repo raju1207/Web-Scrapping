@@ -1,0 +1,55 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Mumbai",
+        "state": "MAHARASHTRA",
+        "selected_district": "MUMBAI",
+        "affiliation_number": "1130911",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130911"
+    },
+    "listing_data": {
+        "affiliation_number": "1130911",
+        "listing_raw_columns": [
+            "48",
+            "Aff. No. : 1130911 Sch. Code: 30874",
+            "State : MAHARASHTRA District : MUMBAI",
+            "Secondary Level",
+            "Name : SSL ENGLISH SCHOOL Head/Principal Name: APEKSHA PARAG CHAUDHARI",
+            "Address : N.M. JOSHI VIDYA SANKUL, MAFATLAL BUILDING, 1ST FLOOR, DAMODAR NATYA GRIHA PARISAR, DR. AMBEDKAR MARG, PAREL, MUMBAI-400012. Website : www.sslschool.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130911",
+        "serial_number": "48",
+        "affiliation_and_school_code": "Aff. No. : 1130911 Sch. Code: 30874",
+        "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : SSL ENGLISH SCHOOL Head/Principal Name: APEKSHA PARAG CHAUDHARI",
+        "address_and_website": "Address : N.M. JOSHI VIDYA SANKUL, MAFATLAL BUILDING, 1ST FLOOR, DAMODAR NATYA GRIHA PARISAR, DR. AMBEDKAR MARG, PAREL, MUMBAI-400012. Website : www.sslschool.in",
+        "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+        "Name of Institution": "SSL ENGLISH SCHOOL",
+        "Affiliation Number": "1130911",
+        "State": "MAHARASHTRA",
+        "District": "MUMBAI",
+        "Postal Address": "N.M. JOSHI VIDYA SANKUL, MAFATLAL BUILDING, 1ST FLOOR, DAMODAR NATYA GRIHA PARISAR, DR. AMBEDKAR MARG, PAREL, MUMBAI-400012.",
+        "Pin Code": "400012",
+        "Website": "www.sslschool.in",
+        "Year of Foundation": "2010",
+        "Date of First Opening of School": "01 Jan 2010",
+        "Name of Principal/ Head of Institution": "APEKSHA PARAG CHAUDHARI",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.SC,B.ED,MA.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "10",
+        "Teaching:": "23",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "THE SOCIAL SERVICE LEAGUE",
+        "Remarks, if any": null
+    },
+    "links": []
+}

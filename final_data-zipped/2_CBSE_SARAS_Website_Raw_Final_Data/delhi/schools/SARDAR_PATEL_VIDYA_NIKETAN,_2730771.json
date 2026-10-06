@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730771",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730771"
+    },
+    "listing_data": {
+        "affiliation_number": "2730771",
+        "listing_raw_columns": [
+            "835",
+            "Aff. No. : 2730771 Sch. Code: 85004",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : SARDAR PATEL VIDYA NIKETAN, Head/Principal Name: Sangeeta Sharma",
+            "Address : KHASRA NO.208, MANDI VILLAGE, MANDI, NEW DELHI-110047 Website : www.spvndelhi.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730771",
+        "serial_number": "835",
+        "affiliation_and_school_code": "Aff. No. : 2730771 Sch. Code: 85004",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SARDAR PATEL VIDYA NIKETAN, Head/Principal Name: Sangeeta Sharma",
+        "address_and_website": "Address : KHASRA NO.208, MANDI VILLAGE, MANDI, NEW DELHI-110047 Website : www.spvndelhi.com"
+    },
+    "school_details": {
+        "Name of Institution": "SARDAR PATEL VIDYA NIKETAN,",
+        "Affiliation Number": "2730771",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "KHASRA NO.208, MANDI VILLAGE, MANDI, NEW DELHI-110047",
+        "Pin Code": "110047",
+        "Website": "www.spvndelhi.com",
+        "Year of Foundation": "1989",
+        "Date of First Opening of School": "20 Jul 1989",
+        "Name of Principal/ Head of Institution": "Sangeeta Sharma",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA, B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "20",
+        "Teaching:": "15",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "GUJARAT EDUCATION SOCIETY (REGD.)DELHI",
+        "Remarks, if any": null
+    },
+    "links": []
+}

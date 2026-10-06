@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730750",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730750"
+    },
+    "listing_data": {
+        "affiliation_number": "2730750",
+        "listing_raw_columns": [
+            "814",
+            "Aff. No. : 2730750 Sch. Code: 85047",
+            "State : DELHI District : NORTH DELHI",
+            "Senior Secondary Level",
+            "Name : JESUS GRACE MODERN SCHOOL Head/Principal Name: SHILPE",
+            "Address : ST NO.-13B, A-BLOCK BABA COLONY BURARI Website : https://jesusgracemodernschool.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730750",
+        "serial_number": "814",
+        "affiliation_and_school_code": "Aff. No. : 2730750 Sch. Code: 85047",
+        "state_and_district": "State : DELHI District : NORTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : JESUS GRACE MODERN SCHOOL Head/Principal Name: SHILPE",
+        "address_and_website": "Address : ST NO.-13B, A-BLOCK BABA COLONY BURARI Website : https://jesusgracemodernschool.in/"
+    },
+    "school_details": {
+        "Name of Institution": "JESUS GRACE MODERN SCHOOL",
+        "Affiliation Number": "2730750",
+        "State": "DELHI",
+        "District": "NORTH DELHI",
+        "Postal Address": "ST NO.-13B, A-BLOCK BABA COLONY BURARI",
+        "Pin Code": "110084",
+        "Website": "https://jesusgracemodernschool.in/",
+        "Year of Foundation": "2006",
+        "Date of First Opening of School": "27 Mar 2008",
+        "Name of Principal/ Head of Institution": "SHILPE",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA BED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "10",
+        "Teaching:": "5",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "DHARMVEER SINGH EDUCATIONAL AND WELFARESOCITY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

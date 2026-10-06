@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2752008",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752008"
+    },
+    "listing_data": {
+        "affiliation_number": "2752008",
+        "listing_raw_columns": [
+            "1134",
+            "Aff. No. : 2752008 Sch. Code: 27264",
+            "State : DELHI District : SHAHDARA",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: GYAN PRAKASH SINGH",
+            "Address : BABARPUR SHAHDARA DELHI Website : gbsssbabarpur@gmail.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752008",
+        "serial_number": "1134",
+        "affiliation_and_school_code": "Aff. No. : 2752008 Sch. Code: 27264",
+        "state_and_district": "State : DELHI District : SHAHDARA",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: GYAN PRAKASH SINGH",
+        "address_and_website": "Address : BABARPUR SHAHDARA DELHI Website : gbsssbabarpur@gmail.com"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR SEC SCHOOL",
+        "Affiliation Number": "2752008",
+        "State": "DELHI",
+        "District": "SHAHDARA",
+        "Postal Address": "BABARPUR SHAHDARA DELHI",
+        "Pin Code": "110032",
+        "Website": "gbsssbabarpur@gmail.com",
+        "Year of Foundation": "1971",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "GYAN PRAKASH SINGH",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A.B.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "2",
+        "Teaching:": "25",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

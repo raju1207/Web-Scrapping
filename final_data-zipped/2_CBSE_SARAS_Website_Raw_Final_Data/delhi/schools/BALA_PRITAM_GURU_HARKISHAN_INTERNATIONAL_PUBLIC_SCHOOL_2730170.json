@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730170",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730170"
+    },
+    "listing_data": {
+        "affiliation_number": "2730170",
+        "listing_raw_columns": [
+            "258",
+            "Aff. No. : 2730170 Sch. Code: 25093",
+            "State : DELHI District : SOUTH DELHI",
+            "Senior Secondary Level",
+            "Name : BALA PRITAM GURU HARKISHAN INTERNATIONAL PUBLIC SCHOOL Head/Principal Name: VIRENDRA KUMAR TIWARI",
+            "Address : VASANT MARG VASANT VIHAR NEW DELHI Website : https://bpghipschool.com/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730170",
+        "serial_number": "258",
+        "affiliation_and_school_code": "Aff. No. : 2730170 Sch. Code: 25093",
+        "state_and_district": "State : DELHI District : SOUTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : BALA PRITAM GURU HARKISHAN INTERNATIONAL PUBLIC SCHOOL Head/Principal Name: VIRENDRA KUMAR TIWARI",
+        "address_and_website": "Address : VASANT MARG VASANT VIHAR NEW DELHI Website : https://bpghipschool.com/"
+    },
+    "school_details": {
+        "Name of Institution": "BALA PRITAM GURU HARKISHAN INTERNATIONAL PUBLIC SCHOOL",
+        "Affiliation Number": "2730170",
+        "State": "DELHI",
+        "District": "SOUTH DELHI",
+        "Postal Address": "VASANT MARG VASANT VIHAR NEW DELHI",
+        "Pin Code": "110057",
+        "Website": "https://bpghipschool.com/",
+        "Year of Foundation": "1989",
+        "Date of First Opening of School": "26 Jan 2002",
+        "Name of Principal/ Head of Institution": "VIRENDRA KUMAR TIWARI",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.SC., B.ED.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "5",
+        "Teaching:": "20",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "UTTAR PRADESH SAMAJ,DELHI",
+        "Remarks, if any": null
+    },
+    "links": []
+}

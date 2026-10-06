@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2752106",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752106"
+    },
+    "listing_data": {
+        "affiliation_number": "2752106",
+        "listing_raw_columns": [
+            "1223",
+            "Aff. No. : 2752106 Sch. Code: 27213",
+            "State : DELHI District : SHAHDARA",
+            "Secondary Level",
+            "Name : GOVT COED SEC SCHOOL Head/Principal Name: RITU BEHAL",
+            "Address : TELIWARA SHAHDARA DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752106",
+        "serial_number": "1223",
+        "affiliation_and_school_code": "Aff. No. : 2752106 Sch. Code: 27213",
+        "state_and_district": "State : DELHI District : SHAHDARA",
+        "status": "Secondary Level",
+        "school_and_head": "Name : GOVT COED SEC SCHOOL Head/Principal Name: RITU BEHAL",
+        "address_and_website": "Address : TELIWARA SHAHDARA DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT COED SEC SCHOOL",
+        "Affiliation Number": "2752106",
+        "State": "DELHI",
+        "District": "SHAHDARA",
+        "Postal Address": "TELIWARA SHAHDARA DELHI",
+        "Pin Code": "110032",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1966",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "RITU BEHAL",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA.MED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "7",
+        "Teaching:": "34",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": "delhi administration",
+        "Remarks, if any": null
+    },
+    "links": []
+}

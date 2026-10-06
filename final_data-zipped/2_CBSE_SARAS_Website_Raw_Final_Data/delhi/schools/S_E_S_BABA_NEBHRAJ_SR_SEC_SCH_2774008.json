@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2774008",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774008"
+    },
+    "listing_data": {
+        "affiliation_number": "2774008",
+        "listing_raw_columns": [
+            "2073",
+            "Aff. No. : 2774008 Sch. Code: 27427",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : S E S BABA NEBHRAJ SR SEC SCH Head/Principal Name: ANITA NAVANEY HOS",
+            "Address : LAJPAT NAGAR I NEW DELHI Website : https://sesbabanebhraj.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774008",
+        "serial_number": "2073",
+        "affiliation_and_school_code": "Aff. No. : 2774008 Sch. Code: 27427",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : S E S BABA NEBHRAJ SR SEC SCH Head/Principal Name: ANITA NAVANEY HOS",
+        "address_and_website": "Address : LAJPAT NAGAR I NEW DELHI Website : https://sesbabanebhraj.in/"
+    },
+    "school_details": {
+        "Name of Institution": "S E S BABA NEBHRAJ SR SEC SCH",
+        "Affiliation Number": "2774008",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "LAJPAT NAGAR I NEW DELHI",
+        "Pin Code": "110024",
+        "Website": "https://sesbabanebhraj.in/",
+        "Year of Foundation": "1956",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "ANITA NAVANEY HOS",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "B.Ed, M.Sc mathematics",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "31",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "sindhi education society regd",
+        "Remarks, if any": null
+    },
+    "links": []
+}

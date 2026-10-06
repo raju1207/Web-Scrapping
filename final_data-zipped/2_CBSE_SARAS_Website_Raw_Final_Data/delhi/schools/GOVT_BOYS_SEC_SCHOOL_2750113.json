@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2750113",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750113"
+    },
+    "listing_data": {
+        "affiliation_number": "2750113",
+        "listing_raw_columns": [
+            "1061",
+            "Aff. No. : 2750113 Sch. Code:",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Secondary Level",
+            "Name : GOVT BOYS SEC SCHOOL Head/Principal Name: M K SAXENA",
+            "Address : D-2 MANGOL PURI DELHI Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750113",
+        "serial_number": "1061",
+        "affiliation_and_school_code": "Aff. No. : 2750113 Sch. Code:",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SEC SCHOOL Head/Principal Name: M K SAXENA",
+        "address_and_website": "Address : D-2 MANGOL PURI DELHI Website :"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SEC SCHOOL",
+        "Affiliation Number": "2750113",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "D-2 MANGOL PURI DELHI",
+        "Pin Code": "110083",
+        "Website": null,
+        "Year of Foundation": null,
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "M K SAXENA",
+        "Gender": "Unknown",
+        "Principal's Educational/Professional Qualifications:": null,
+        "No of Experience ( in Years ):": null,
+        "Administrative:": null,
+        "Teaching:": null,
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2004 To : 31/03/2009",
+        "Name of Trust/ Society/ Managing Committee": "D I R EDUCATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

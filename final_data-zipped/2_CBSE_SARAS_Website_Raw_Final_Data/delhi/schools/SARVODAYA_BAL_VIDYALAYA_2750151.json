@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2750151",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750151"
+    },
+    "listing_data": {
+        "affiliation_number": "2750151",
+        "listing_raw_columns": [
+            "1099",
+            "Aff. No. : 2750151 Sch. Code: 87494",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : SARVODAYA BAL VIDYALAYA Head/Principal Name: SATYANDRA KUMAR SINGH",
+            "Address : SECTOR-2O, ROHINI EXTN. (POOTH KALAN), DELHI-110086 Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750151",
+        "serial_number": "1099",
+        "affiliation_and_school_code": "Aff. No. : 2750151 Sch. Code: 87494",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SARVODAYA BAL VIDYALAYA Head/Principal Name: SATYANDRA KUMAR SINGH",
+        "address_and_website": "Address : SECTOR-2O, ROHINI EXTN. (POOTH KALAN), DELHI-110086 Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "SARVODAYA BAL VIDYALAYA",
+        "Affiliation Number": "2750151",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "SECTOR-2O, ROHINI EXTN. (POOTH KALAN), DELHI-110086",
+        "Pin Code": "110086",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "2009",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "SATYANDRA KUMAR SINGH",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A M.ED.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "13",
+        "Teaching:": "23",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "DIR. OF EDUCATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

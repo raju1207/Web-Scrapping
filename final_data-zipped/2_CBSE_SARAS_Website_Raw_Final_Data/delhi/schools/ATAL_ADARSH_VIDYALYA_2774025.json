@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2774025",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774025"
+    },
+    "listing_data": {
+        "affiliation_number": "2774025",
+        "listing_raw_columns": [
+            "2090",
+            "Aff. No. : 2774025 Sch. Code: 27139",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : ATAL ADARSH VIDYALYA Head/Principal Name: SAROJ DEVI",
+            "Address : LAXMI BAI NAGAR NEW DELHI Website : http://aavlbnagar.ndmc.gov.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774025",
+        "serial_number": "2090",
+        "affiliation_and_school_code": "Aff. No. : 2774025 Sch. Code: 27139",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : ATAL ADARSH VIDYALYA Head/Principal Name: SAROJ DEVI",
+        "address_and_website": "Address : LAXMI BAI NAGAR NEW DELHI Website : http://aavlbnagar.ndmc.gov.in/"
+    },
+    "school_details": {
+        "Name of Institution": "ATAL ADARSH VIDYALYA",
+        "Affiliation Number": "2774025",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "LAXMI BAI NAGAR NEW DELHI",
+        "Pin Code": "110023",
+        "Website": "http://aavlbnagar.ndmc.gov.in/",
+        "Year of Foundation": "1963",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "SAROJ DEVI",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.Com , B-ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "0",
+        "Teaching:": "03",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "new delhi municipal committee",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730412",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730412"
+    },
+    "listing_data": {
+        "affiliation_number": "2730412",
+        "listing_raw_columns": [
+            "487",
+            "Aff. No. : 2730412 Sch. Code: 25276",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : ITL PUBLIC SCHOOL Head/Principal Name: SUDHA ACHARYA",
+            "Address : SECTOR 9 DWARKA NEW DELHI Website : www.itlpublicschool.net",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730412",
+        "serial_number": "487",
+        "affiliation_and_school_code": "Aff. No. : 2730412 Sch. Code: 25276",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : ITL PUBLIC SCHOOL Head/Principal Name: SUDHA ACHARYA",
+        "address_and_website": "Address : SECTOR 9 DWARKA NEW DELHI Website : www.itlpublicschool.net"
+    },
+    "school_details": {
+        "Name of Institution": "ITL PUBLIC SCHOOL",
+        "Affiliation Number": "2730412",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "SECTOR 9 DWARKA NEW DELHI",
+        "Pin Code": "110075",
+        "Website": "www.itlpublicschool.net",
+        "Year of Foundation": "2001",
+        "Date of First Opening of School": "05 Apr 2010",
+        "Name of Principal/ Head of Institution": "SUDHA ACHARYA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.Phil B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "20",
+        "Teaching:": "30",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": "THE VASUDEVA EDUCATIONAL FOUND SOC",
+        "Remarks, if any": null
+    },
+    "links": []
+}

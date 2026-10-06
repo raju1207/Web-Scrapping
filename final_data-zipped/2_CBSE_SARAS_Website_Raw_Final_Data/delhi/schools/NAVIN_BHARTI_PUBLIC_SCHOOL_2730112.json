@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730112",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730112"
+    },
+    "listing_data": {
+        "affiliation_number": "2730112",
+        "listing_raw_columns": [
+            "200",
+            "Aff. No. : 2730112 Sch. Code: 25109",
+            "State : DELHI District : SHAHDARA",
+            "Senior Secondary Level",
+            "Name : NAVIN BHARTI PUBLIC SCHOOL Head/Principal Name: L M ATREY",
+            "Address : BALBIR NAGAR SHAHDARA, DISTT NORTH EAST DELHI, DELHI Website : www.navinbharti.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730112",
+        "serial_number": "200",
+        "affiliation_and_school_code": "Aff. No. : 2730112 Sch. Code: 25109",
+        "state_and_district": "State : DELHI District : SHAHDARA",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : NAVIN BHARTI PUBLIC SCHOOL Head/Principal Name: L M ATREY",
+        "address_and_website": "Address : BALBIR NAGAR SHAHDARA, DISTT NORTH EAST DELHI, DELHI Website : www.navinbharti.com"
+    },
+    "school_details": {
+        "Name of Institution": "NAVIN BHARTI PUBLIC SCHOOL",
+        "Affiliation Number": "2730112",
+        "State": "DELHI",
+        "District": "SHAHDARA",
+        "Postal Address": "BALBIR NAGAR SHAHDARA, DISTT NORTH EAST DELHI, DELHI",
+        "Pin Code": "110032",
+        "Website": "www.navinbharti.com",
+        "Year of Foundation": "1971",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "L M ATREY",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "B.E.,A.M.I.E, LLB",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "22",
+        "Teaching:": "27",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": null,
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730540",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730540"
+    },
+    "listing_data": {
+        "affiliation_number": "2730540",
+        "listing_raw_columns": [
+            "611",
+            "Aff. No. : 2730540 Sch. Code: 25112",
+            "State : DELHI District : NEW DELHI",
+            "Secondary Level",
+            "Name : GYAN SAROVAR BAL VIDYALAYA Head/Principal Name: RAJNI SHARMA",
+            "Address : MARGINAL BUND Website : https://gssbv.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730540",
+        "serial_number": "611",
+        "affiliation_and_school_code": "Aff. No. : 2730540 Sch. Code: 25112",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : GYAN SAROVAR BAL VIDYALAYA Head/Principal Name: RAJNI SHARMA",
+        "address_and_website": "Address : MARGINAL BUND Website : https://gssbv.in/"
+    },
+    "school_details": {
+        "Name of Institution": "GYAN SAROVAR BAL VIDYALAYA",
+        "Affiliation Number": "2730540",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "MARGINAL BUND",
+        "Pin Code": "110053",
+        "Website": "https://gssbv.in/",
+        "Year of Foundation": "1984",
+        "Date of First Opening of School": "02 Jul 2001",
+        "Name of Principal/ Head of Institution": "RAJNI SHARMA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A. B.ED.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "29",
+        "Teaching:": "29",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "shri guru ram rai education mission dehradun uttarakhand",
+        "Remarks, if any": null
+    },
+    "links": []
+}

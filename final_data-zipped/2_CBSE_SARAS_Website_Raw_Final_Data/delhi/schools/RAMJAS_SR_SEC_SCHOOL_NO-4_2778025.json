@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2778025",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778025"
+    },
+    "listing_data": {
+        "affiliation_number": "2778025",
+        "listing_raw_columns": [
+            "2142",
+            "Aff. No. : 2778025 Sch. Code: 87089",
+            "State : DELHI District : CENTRAL DELHI",
+            "Senior Secondary Level",
+            "Name : RAMJAS SR SEC SCHOOL NO-4 Head/Principal Name: CHHATRA PAL SINGH",
+            "Address : CHITRAGUPTA ROAD NEW DELHI Website : https://ramjasschoolno4.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778025",
+        "serial_number": "2142",
+        "affiliation_and_school_code": "Aff. No. : 2778025 Sch. Code: 87089",
+        "state_and_district": "State : DELHI District : CENTRAL DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : RAMJAS SR SEC SCHOOL NO-4 Head/Principal Name: CHHATRA PAL SINGH",
+        "address_and_website": "Address : CHITRAGUPTA ROAD NEW DELHI Website : https://ramjasschoolno4.in/"
+    },
+    "school_details": {
+        "Name of Institution": "RAMJAS SR SEC SCHOOL NO-4",
+        "Affiliation Number": "2778025",
+        "State": "DELHI",
+        "District": "CENTRAL DELHI",
+        "Postal Address": "CHITRAGUPTA ROAD NEW DELHI",
+        "Pin Code": "110055",
+        "Website": "https://ramjasschoolno4.in/",
+        "Year of Foundation": "1933",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "CHHATRA PAL SINGH",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.Sc. B.ED.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "11",
+        "Teaching:": "34",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "ramjas foundation delhi",
+        "Remarks, if any": null
+    },
+    "links": []
+}

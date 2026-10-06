@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730439",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730439"
+    },
+    "listing_data": {
+        "affiliation_number": "2730439",
+        "listing_raw_columns": [
+            "513",
+            "Aff. No. : 2730439 Sch. Code: 85247",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Secondary Level",
+            "Name : ABHINAV PUBLIC SCHOOL Head/Principal Name: RAJESH SHARMA",
+            "Address : SECTOR 3, ROHINI DELHI Website : www.abhinavpublicschoolrohini.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730439",
+        "serial_number": "513",
+        "affiliation_and_school_code": "Aff. No. : 2730439 Sch. Code: 85247",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : ABHINAV PUBLIC SCHOOL Head/Principal Name: RAJESH SHARMA",
+        "address_and_website": "Address : SECTOR 3, ROHINI DELHI Website : www.abhinavpublicschoolrohini.com"
+    },
+    "school_details": {
+        "Name of Institution": "ABHINAV PUBLIC SCHOOL",
+        "Affiliation Number": "2730439",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "SECTOR 3, ROHINI DELHI",
+        "Pin Code": "110085",
+        "Website": "www.abhinavpublicschoolrohini.com",
+        "Year of Foundation": "1990",
+        "Date of First Opening of School": "16 Mar 1987",
+        "Name of Principal/ Head of Institution": "RAJESH SHARMA",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MA, B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "11",
+        "Teaching:": "23",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "AKHIL BHARTIYA SAMAJ SAMITI",
+        "Remarks, if any": null
+    },
+    "links": []
+}

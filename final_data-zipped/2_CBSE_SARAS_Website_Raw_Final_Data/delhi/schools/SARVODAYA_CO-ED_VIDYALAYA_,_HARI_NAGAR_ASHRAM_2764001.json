@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2764001",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764001"
+    },
+    "listing_data": {
+        "affiliation_number": "2764001",
+        "listing_raw_columns": [
+            "1815",
+            "Aff. No. : 2764001 Sch. Code: 27390",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : SARVODAYA CO-ED VIDYALAYA , HARI NAGAR ASHRAM Head/Principal Name: KANTA",
+            "Address : HARI NAGAR ASHRAM NEW DELHI Website : http://edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764001",
+        "serial_number": "1815",
+        "affiliation_and_school_code": "Aff. No. : 2764001 Sch. Code: 27390",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SARVODAYA CO-ED VIDYALAYA , HARI NAGAR ASHRAM Head/Principal Name: KANTA",
+        "address_and_website": "Address : HARI NAGAR ASHRAM NEW DELHI Website : http://edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "SARVODAYA CO-ED VIDYALAYA , HARI NAGAR ASHRAM",
+        "Affiliation Number": "2764001",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "HARI NAGAR ASHRAM NEW DELHI",
+        "Pin Code": "110014",
+        "Website": "http://edudel.nic.in",
+        "Year of Foundation": "1977",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "KANTA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A. B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "8",
+        "Teaching:": "33",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "delhi administration",
+        "Remarks, if any": null
+    },
+    "links": []
+}

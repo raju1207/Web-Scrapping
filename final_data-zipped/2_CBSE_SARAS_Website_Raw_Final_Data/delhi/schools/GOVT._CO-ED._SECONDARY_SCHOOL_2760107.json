@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2760107",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2760107"
+    },
+    "listing_data": {
+        "affiliation_number": "2760107",
+        "listing_raw_columns": [
+            "1722",
+            "Aff. No. : 2760107 Sch. Code: 87500",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT. CO-ED. SECONDARY SCHOOL Head/Principal Name: HARISH BHARDWAJ",
+            "Address : SECT-4, ROHINI, DELHI-110085 Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2760107",
+        "serial_number": "1722",
+        "affiliation_and_school_code": "Aff. No. : 2760107 Sch. Code: 87500",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT. CO-ED. SECONDARY SCHOOL Head/Principal Name: HARISH BHARDWAJ",
+        "address_and_website": "Address : SECT-4, ROHINI, DELHI-110085 Website :"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT. CO-ED. SECONDARY SCHOOL",
+        "Affiliation Number": "2760107",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "SECT-4, ROHINI, DELHI-110085",
+        "Pin Code": null,
+        "Website": null,
+        "Year of Foundation": "2017",
+        "Date of First Opening of School": "09 Nov 2017",
+        "Name of Principal/ Head of Institution": "HARISH BHARDWAJ",
+        "Gender": "Unknown",
+        "Principal's Educational/Professional Qualifications:": "M Com MBA Finance MA Edu B Ed UGC NET",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "0",
+        "Teaching:": "13",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": null,
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730810",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730810"
+    },
+    "listing_data": {
+        "affiliation_number": "2730810",
+        "listing_raw_columns": [
+            "874",
+            "Aff. No. : 2730810 Sch. Code: 25416",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Secondary Level",
+            "Name : SARASWATI MODEL SCHOOL Head/Principal Name: Sanjay Jain",
+            "Address : GALI NO. - 5, EAST SAGARPUR, NEW DELHI - 110046 Website : www.saraswatimodelschoolsagarpur.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730810",
+        "serial_number": "874",
+        "affiliation_and_school_code": "Aff. No. : 2730810 Sch. Code: 25416",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : SARASWATI MODEL SCHOOL Head/Principal Name: Sanjay Jain",
+        "address_and_website": "Address : GALI NO. - 5, EAST SAGARPUR, NEW DELHI - 110046 Website : www.saraswatimodelschoolsagarpur.com"
+    },
+    "school_details": {
+        "Name of Institution": "SARASWATI MODEL SCHOOL",
+        "Affiliation Number": "2730810",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "GALI NO. - 5, EAST SAGARPUR, NEW DELHI - 110046",
+        "Pin Code": "110046",
+        "Website": "www.saraswatimodelschoolsagarpur.com",
+        "Year of Foundation": "1991",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "Sanjay Jain",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.Com, B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "8",
+        "Teaching:": "10",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "Bahubali Educational Society",
+        "Remarks, if any": null
+    },
+    "links": []
+}

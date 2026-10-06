@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2700006",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700006"
+    },
+    "listing_data": {
+        "affiliation_number": "2700006",
+        "listing_raw_columns": [
+            "6",
+            "Aff. No. : 2700006 Sch. Code: 29010",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : PM SHRI KENDRIYA VIDYALAYA NO 1 Head/Principal Name: SUMAN LATA",
+            "Address : SADAR BAZAR ROAD DELHI CANTT NEW DELHI Website : https://no1delhicantt.kvs.ac.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700006",
+        "serial_number": "6",
+        "affiliation_and_school_code": "Aff. No. : 2700006 Sch. Code: 29010",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : PM SHRI KENDRIYA VIDYALAYA NO 1 Head/Principal Name: SUMAN LATA",
+        "address_and_website": "Address : SADAR BAZAR ROAD DELHI CANTT NEW DELHI Website : https://no1delhicantt.kvs.ac.in"
+    },
+    "school_details": {
+        "Name of Institution": "PM SHRI KENDRIYA VIDYALAYA NO 1",
+        "Affiliation Number": "2700006",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "SADAR BAZAR ROAD DELHI CANTT NEW DELHI",
+        "Pin Code": "110010",
+        "Website": "https://no1delhicantt.kvs.ac.in",
+        "Year of Foundation": "1965",
+        "Date of First Opening of School": "24 Jun 2006",
+        "Name of Principal/ Head of Institution": "SUMAN LATA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MSc Chemistry MEd., PhD in Education",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "13",
+        "Teaching:": "18",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "KV",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "kendriya vidyalaya sangathan n.d.",
+        "Remarks, if any": null
+    },
+    "links": []
+}

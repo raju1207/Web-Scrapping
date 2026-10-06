@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730279",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730279"
+    },
+    "listing_data": {
+        "affiliation_number": "2730279",
+        "listing_raw_columns": [
+            "364",
+            "Aff. No. : 2730279 Sch. Code: 25085",
+            "State : DELHI District : SOUTH DELHI",
+            "Senior Secondary Level",
+            "Name : DEEP PUBLIC SCHOOL Head/Principal Name: Monika Verma",
+            "Address : SECTOR D POCKET II VASANT KUNJ, DISTT SOUTH DELHI, NEW DELHI Website : www.deeppublicschool.co.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730279",
+        "serial_number": "364",
+        "affiliation_and_school_code": "Aff. No. : 2730279 Sch. Code: 25085",
+        "state_and_district": "State : DELHI District : SOUTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : DEEP PUBLIC SCHOOL Head/Principal Name: Monika Verma",
+        "address_and_website": "Address : SECTOR D POCKET II VASANT KUNJ, DISTT SOUTH DELHI, NEW DELHI Website : www.deeppublicschool.co.in"
+    },
+    "school_details": {
+        "Name of Institution": "DEEP PUBLIC SCHOOL",
+        "Affiliation Number": "2730279",
+        "State": "DELHI",
+        "District": "SOUTH DELHI",
+        "Postal Address": "SECTOR D POCKET II VASANT KUNJ, DISTT SOUTH DELHI, NEW DELHI",
+        "Pin Code": "110070",
+        "Website": "www.deeppublicschool.co.in",
+        "Year of Foundation": "1990",
+        "Date of First Opening of School": "01 Apr 1989",
+        "Name of Principal/ Head of Institution": "Monika Verma",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A , B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "4",
+        "Teaching:": "23",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "Shri Kundan Lal Memorial Educational Society",
+        "Remarks, if any": null
+    },
+    "links": []
+}

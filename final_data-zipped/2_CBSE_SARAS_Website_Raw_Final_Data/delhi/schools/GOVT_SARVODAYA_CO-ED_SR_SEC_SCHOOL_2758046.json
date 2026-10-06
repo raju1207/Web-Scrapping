@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2758046",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2758046"
+    },
+    "listing_data": {
+        "affiliation_number": "2758046",
+        "listing_raw_columns": [
+            "1612",
+            "Aff. No. : 2758046 Sch. Code: 87469",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT SARVODAYA CO-ED SR SEC SCHOOL Head/Principal Name: ANIL PRAKASH YADAV",
+            "Address : F/U BLOCK PITAM PURA DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2758046",
+        "serial_number": "1612",
+        "affiliation_and_school_code": "Aff. No. : 2758046 Sch. Code: 87469",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT SARVODAYA CO-ED SR SEC SCHOOL Head/Principal Name: ANIL PRAKASH YADAV",
+        "address_and_website": "Address : F/U BLOCK PITAM PURA DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT SARVODAYA CO-ED SR SEC SCHOOL",
+        "Affiliation Number": "2758046",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "F/U BLOCK PITAM PURA DELHI",
+        "Pin Code": "110034",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1987",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "ANIL PRAKASH YADAV",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.Com",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "8",
+        "Teaching:": "26",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "DIR. OF EDU.",
+        "Remarks, if any": null
+    },
+    "links": []
+}

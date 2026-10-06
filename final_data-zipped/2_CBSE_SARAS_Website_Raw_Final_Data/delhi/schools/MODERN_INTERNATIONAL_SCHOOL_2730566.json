@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730566",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730566"
+    },
+    "listing_data": {
+        "affiliation_number": "2730566",
+        "listing_raw_columns": [
+            "637",
+            "Aff. No. : 2730566 Sch. Code: 25288",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : MODERN INTERNATIONAL SCHOOL Head/Principal Name: SIMA J SINGH",
+            "Address : SECTOR-19, DWARKA, PHASE-I, NEW DELHI Website : www.moderninternationalschool",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730566",
+        "serial_number": "637",
+        "affiliation_and_school_code": "Aff. No. : 2730566 Sch. Code: 25288",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : MODERN INTERNATIONAL SCHOOL Head/Principal Name: SIMA J SINGH",
+        "address_and_website": "Address : SECTOR-19, DWARKA, PHASE-I, NEW DELHI Website : www.moderninternationalschool"
+    },
+    "school_details": {
+        "Name of Institution": "MODERN INTERNATIONAL SCHOOL",
+        "Affiliation Number": "2730566",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "SECTOR-19, DWARKA, PHASE-I, NEW DELHI",
+        "Pin Code": "110075",
+        "Website": "www.moderninternationalschool",
+        "Year of Foundation": "2005",
+        "Date of First Opening of School": "16 Mar 2005",
+        "Name of Principal/ Head of Institution": "SIMA J SINGH",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA. B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "20",
+        "Teaching:": "19",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "Kailash Memorials",
+        "Remarks, if any": null
+    },
+    "links": []
+}

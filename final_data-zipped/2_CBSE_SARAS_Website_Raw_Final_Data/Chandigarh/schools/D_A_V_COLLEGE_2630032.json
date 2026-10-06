@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "CHANDIGARH",
+        "district": "CHANDIGARH",
+        "affiliation_number": "2630032",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2630032"
+    },
+    "listing_data": {
+        "affiliation_number": "2630032",
+        "listing_raw_columns": [
+            "131",
+            "Aff. No. : 2630032 Sch. Code:",
+            "State : CHANDIGARH District : CHANDIGARH",
+            "Senior Secondary Level",
+            "Name : D A V COLLEGE Head/Principal Name: K S ARYA",
+            "Address : SECTOR 10-D CHANDIGARH Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2630032",
+        "serial_number": "131",
+        "affiliation_and_school_code": "Aff. No. : 2630032 Sch. Code:",
+        "state_and_district": "State : CHANDIGARH District : CHANDIGARH",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : D A V COLLEGE Head/Principal Name: K S ARYA",
+        "address_and_website": "Address : SECTOR 10-D CHANDIGARH Website :"
+    },
+    "school_details": {
+        "Name of Institution": "D A V COLLEGE",
+        "Affiliation Number": "2630032",
+        "State": "CHANDIGARH",
+        "District": "CHANDIGARH",
+        "Postal Address": "SECTOR 10-D CHANDIGARH",
+        "Pin Code": "160011",
+        "Website": null,
+        "Year of Foundation": null,
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "K S ARYA",
+        "Gender": "Unknown",
+        "Principal's Educational/Professional Qualifications:": null,
+        "No of Experience ( in Years ):": null,
+        "Administrative:": null,
+        "Teaching:": null,
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2002 To : 31/03/2005",
+        "Name of Trust/ Society/ Managing Committee": "DAV COLLEGE MANAGING COMMITTEE",
+        "Remarks, if any": null
+    },
+    "links": []
+}

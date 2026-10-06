@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2778013",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778013"
+    },
+    "listing_data": {
+        "affiliation_number": "2778013",
+        "listing_raw_columns": [
+            "2131",
+            "Aff. No. : 2778013 Sch. Code: 87001",
+            "State : DELHI District : NORTH DELHI",
+            "Senior Secondary Level",
+            "Name : DAU DAYAL ARYA VEDIC SR SEC SCHOOL Head/Principal Name: ACHAL SHARMA",
+            "Address : NAYA BANS DELHI Website : www.daudayalschool.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2778013",
+        "serial_number": "2131",
+        "affiliation_and_school_code": "Aff. No. : 2778013 Sch. Code: 87001",
+        "state_and_district": "State : DELHI District : NORTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : DAU DAYAL ARYA VEDIC SR SEC SCHOOL Head/Principal Name: ACHAL SHARMA",
+        "address_and_website": "Address : NAYA BANS DELHI Website : www.daudayalschool.com"
+    },
+    "school_details": {
+        "Name of Institution": "DAU DAYAL ARYA VEDIC SR SEC SCHOOL",
+        "Affiliation Number": "2778013",
+        "State": "DELHI",
+        "District": "NORTH DELHI",
+        "Postal Address": "NAYA BANS DELHI",
+        "Pin Code": "110006",
+        "Website": "www.daudayalschool.com",
+        "Year of Foundation": "1927",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "ACHAL SHARMA",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "Ph.D., M.A., B.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "06",
+        "Teaching:": "27",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "arya vedic pathshala society",
+        "Remarks, if any": null
+    },
+    "links": []
+}

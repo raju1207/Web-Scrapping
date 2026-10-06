@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730288",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730288"
+    },
+    "listing_data": {
+        "affiliation_number": "2730288",
+        "listing_raw_columns": [
+            "373",
+            "Aff. No. : 2730288 Sch. Code: 25268",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : JINVANI BHARTI PUBLIC SCHOOL Head/Principal Name: PREETI JAIN",
+            "Address : SECTOR 4 PHASE I DWARKA NEW DELHI Website : www.jinvanischool.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730288",
+        "serial_number": "373",
+        "affiliation_and_school_code": "Aff. No. : 2730288 Sch. Code: 25268",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : JINVANI BHARTI PUBLIC SCHOOL Head/Principal Name: PREETI JAIN",
+        "address_and_website": "Address : SECTOR 4 PHASE I DWARKA NEW DELHI Website : www.jinvanischool.com"
+    },
+    "school_details": {
+        "Name of Institution": "JINVANI BHARTI PUBLIC SCHOOL",
+        "Affiliation Number": "2730288",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "SECTOR 4 PHASE I DWARKA NEW DELHI",
+        "Pin Code": "110045",
+        "Website": "www.jinvanischool.com",
+        "Year of Foundation": "1997",
+        "Date of First Opening of School": "01 Apr 2005",
+        "Name of Principal/ Head of Institution": "PREETI JAIN",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.SC, B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "28",
+        "Teaching:": "10",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": null,
+        "Remarks, if any": null
+    },
+    "links": []
+}

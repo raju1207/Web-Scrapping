@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2754065",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754065"
+    },
+    "listing_data": {
+        "affiliation_number": "2754065",
+        "listing_raw_columns": [
+            "1316",
+            "Aff. No. : 2754065 Sch. Code: 27345",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : SARVODAYA CO-ED VIDYALAYA Head/Principal Name: BIJENDER SINGH",
+            "Address : SHAH PUR JAT NEW DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754065",
+        "serial_number": "1316",
+        "affiliation_and_school_code": "Aff. No. : 2754065 Sch. Code: 27345",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SARVODAYA CO-ED VIDYALAYA Head/Principal Name: BIJENDER SINGH",
+        "address_and_website": "Address : SHAH PUR JAT NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "SARVODAYA CO-ED VIDYALAYA",
+        "Affiliation Number": "2754065",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "SHAH PUR JAT NEW DELHI",
+        "Pin Code": "110049",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1982",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "BIJENDER SINGH",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MA B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "24",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

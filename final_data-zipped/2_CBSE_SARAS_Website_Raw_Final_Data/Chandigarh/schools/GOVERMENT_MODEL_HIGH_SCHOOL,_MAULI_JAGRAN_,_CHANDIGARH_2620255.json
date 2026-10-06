@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "CHANDIGARH",
+        "district": "CHANDIGARH",
+        "affiliation_number": "2620255",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2620255"
+    },
+    "listing_data": {
+        "affiliation_number": "2620255",
+        "listing_raw_columns": [
+            "109",
+            "Aff. No. : 2620255 Sch. Code: 24600",
+            "State : CHANDIGARH District : CHANDIGARH",
+            "Secondary Level",
+            "Name : GOVERMENT MODEL HIGH SCHOOL, MAULI JAGRAN , CHANDIGARH Head/Principal Name: SUNITA TANDON",
+            "Address : OPPOSITE GURUDWARA, CHANDIGARH Website : www.gmhsmaulijagran.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2620255",
+        "serial_number": "109",
+        "affiliation_and_school_code": "Aff. No. : 2620255 Sch. Code: 24600",
+        "state_and_district": "State : CHANDIGARH District : CHANDIGARH",
+        "status": "Secondary Level",
+        "school_and_head": "Name : GOVERMENT MODEL HIGH SCHOOL, MAULI JAGRAN , CHANDIGARH Head/Principal Name: SUNITA TANDON",
+        "address_and_website": "Address : OPPOSITE GURUDWARA, CHANDIGARH Website : www.gmhsmaulijagran.com"
+    },
+    "school_details": {
+        "Name of Institution": "GOVERMENT MODEL HIGH SCHOOL, MAULI JAGRAN , CHANDIGARH",
+        "Affiliation Number": "2620255",
+        "State": "CHANDIGARH",
+        "District": "CHANDIGARH",
+        "Postal Address": "OPPOSITE GURUDWARA, CHANDIGARH",
+        "Pin Code": "160102",
+        "Website": "www.gmhsmaulijagran.com",
+        "Year of Foundation": "2022",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "SUNITA TANDON",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "BSC NON MED, B.eD",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "30",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "EDUCATION DEPARTMENT CHANDIGARH",
+        "Remarks, if any": null
+    },
+    "links": []
+}

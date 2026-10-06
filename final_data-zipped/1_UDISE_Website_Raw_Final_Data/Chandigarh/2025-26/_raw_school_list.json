@@ -1,0 +1,11 @@
+{
+    "httpStatus": 200,
+    "status": false,
+    "error": {
+        "errorCode": 400,
+        "message": "Validation failed",
+        "errorDetails": {
+            "details": "Empty Captcha"
+        }
+    }
+}

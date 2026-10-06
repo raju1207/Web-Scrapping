@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2756128",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756128"
+    },
+    "listing_data": {
+        "affiliation_number": "2756128",
+        "listing_raw_columns": [
+            "1508",
+            "Aff. No. : 2756128 Sch. Code: 87449",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : SARVODAYA CO-EDU SENIOR SECONDARY VIDYALAYA Head/Principal Name: PREETI YADAV",
+            "Address : C-BLOCK MANGOLPURI DELHI Website : www.edudel.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756128",
+        "serial_number": "1508",
+        "affiliation_and_school_code": "Aff. No. : 2756128 Sch. Code: 87449",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SARVODAYA CO-EDU SENIOR SECONDARY VIDYALAYA Head/Principal Name: PREETI YADAV",
+        "address_and_website": "Address : C-BLOCK MANGOLPURI DELHI Website : www.edudel.com"
+    },
+    "school_details": {
+        "Name of Institution": "SARVODAYA CO-EDU SENIOR SECONDARY VIDYALAYA",
+        "Affiliation Number": "2756128",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "C-BLOCK MANGOLPURI DELHI",
+        "Pin Code": "110083",
+        "Website": "www.edudel.com",
+        "Year of Foundation": "1991",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "PREETI YADAV",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "4",
+        "Teaching:": "10",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "DIR. OF EDUCATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,12 @@
+{
+  "dataset": "delhi",
+  "schema_version": "4.0",
+  "source": "CBSE SARAS",
+  "raw_files": 2252,
+  "success": 2252,
+  "failed": 0,
+  "unique_affiliation_numbers": 2252,
+  "unique_record_ids": 2252,
+  "generated_at": "2026-10-05T16:50:17.618335+00:00",
+  "output_directory": "data\\canonical_v4\\saras\\delhi"
+}

@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2700008",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700008"
+    },
+    "listing_data": {
+        "affiliation_number": "2700008",
+        "listing_raw_columns": [
+            "8",
+            "Aff. No. : 2700008 Sch. Code: 89015",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: SANJAY KUMAR",
+            "Address : TAGORE GARDEN NEW DELHI Website : https://tagoregarden.kvs.ac.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700008",
+        "serial_number": "8",
+        "affiliation_and_school_code": "Aff. No. : 2700008 Sch. Code: 89015",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : PM SHRI KENDRIYA VIDYALAYA Head/Principal Name: SANJAY KUMAR",
+        "address_and_website": "Address : TAGORE GARDEN NEW DELHI Website : https://tagoregarden.kvs.ac.in"
+    },
+    "school_details": {
+        "Name of Institution": "PM SHRI KENDRIYA VIDYALAYA",
+        "Affiliation Number": "2700008",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "TAGORE GARDEN NEW DELHI",
+        "Pin Code": "110027",
+        "Website": "https://tagoregarden.kvs.ac.in",
+        "Year of Foundation": "1969",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "SANJAY KUMAR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "Ph.D.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "5",
+        "Teaching:": "20",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "KV",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "KENDRIYA VIDYALAYA SANGATHAN N D",
+        "Remarks, if any": null
+    },
+    "links": []
+}

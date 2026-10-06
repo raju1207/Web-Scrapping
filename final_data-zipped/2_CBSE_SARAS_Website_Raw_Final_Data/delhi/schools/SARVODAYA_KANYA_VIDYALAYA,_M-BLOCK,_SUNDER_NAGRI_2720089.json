@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2720089",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720089"
+    },
+    "listing_data": {
+        "affiliation_number": "2720089",
+        "listing_raw_columns": [
+            "86",
+            "Aff. No. : 2720089 Sch. Code: 27725",
+            "State : DELHI District : NORTH EAST DELHI",
+            "Senior Secondary Level",
+            "Name : SARVODAYA KANYA VIDYALAYA, M-BLOCK, SUNDER NAGRI Head/Principal Name: MADHU CHAUDHARI",
+            "Address : M-BLOCK, SUNDER NAGRI, DELHI-110093 Website : https://edudel.nic.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720089",
+        "serial_number": "86",
+        "affiliation_and_school_code": "Aff. No. : 2720089 Sch. Code: 27725",
+        "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SARVODAYA KANYA VIDYALAYA, M-BLOCK, SUNDER NAGRI Head/Principal Name: MADHU CHAUDHARI",
+        "address_and_website": "Address : M-BLOCK, SUNDER NAGRI, DELHI-110093 Website : https://edudel.nic.in/"
+    },
+    "school_details": {
+        "Name of Institution": "SARVODAYA KANYA VIDYALAYA, M-BLOCK, SUNDER NAGRI",
+        "Affiliation Number": "2720089",
+        "State": "DELHI",
+        "District": "NORTH EAST DELHI",
+        "Postal Address": "M-BLOCK, SUNDER NAGRI, DELHI-110093",
+        "Pin Code": "110093",
+        "Website": "https://edudel.nic.in/",
+        "Year of Foundation": "2024",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "MADHU CHAUDHARI",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA B.ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "5",
+        "Teaching:": "27",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "Directorate of Education",
+        "Remarks, if any": null
+    },
+    "links": []
+}

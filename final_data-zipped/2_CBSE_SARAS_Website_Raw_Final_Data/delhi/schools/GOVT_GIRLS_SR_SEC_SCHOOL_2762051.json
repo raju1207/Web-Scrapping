@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2762051",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762051"
+    },
+    "listing_data": {
+        "affiliation_number": "2762051",
+        "listing_raw_columns": [
+            "1772",
+            "Aff. No. : 2762051 Sch. Code: 27228",
+            "State : DELHI District : NORTH EAST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT GIRLS SR SEC SCHOOL Head/Principal Name: NIDHI GUPTA",
+            "Address : DAYALPUR DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762051",
+        "serial_number": "1772",
+        "affiliation_and_school_code": "Aff. No. : 2762051 Sch. Code: 27228",
+        "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT GIRLS SR SEC SCHOOL Head/Principal Name: NIDHI GUPTA",
+        "address_and_website": "Address : DAYALPUR DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT GIRLS SR SEC SCHOOL",
+        "Affiliation Number": "2762051",
+        "State": "DELHI",
+        "District": "NORTH EAST DELHI",
+        "Postal Address": "DAYALPUR DELHI",
+        "Pin Code": "110094",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1970",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "NIDHI GUPTA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.COM B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "4",
+        "Teaching:": "22",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "delhi administration",
+        "Remarks, if any": null
+    },
+    "links": []
+}

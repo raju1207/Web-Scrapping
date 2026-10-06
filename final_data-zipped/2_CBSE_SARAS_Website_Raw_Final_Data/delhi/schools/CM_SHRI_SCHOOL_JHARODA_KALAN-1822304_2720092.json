@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2720092",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720092"
+    },
+    "listing_data": {
+        "affiliation_number": "2720092",
+        "listing_raw_columns": [
+            "89",
+            "Aff. No. : 2720092 Sch. Code: 27727",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : CM SHRI SCHOOL JHARODA KALAN-1822304 Head/Principal Name: HARKESH",
+            "Address : JHARODA KALAN, ADJOINING DELHI POLICE TRAINING COLLEGE, NAJAFGARH Website : https://www.edudel.nic.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720092",
+        "serial_number": "89",
+        "affiliation_and_school_code": "Aff. No. : 2720092 Sch. Code: 27727",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : CM SHRI SCHOOL JHARODA KALAN-1822304 Head/Principal Name: HARKESH",
+        "address_and_website": "Address : JHARODA KALAN, ADJOINING DELHI POLICE TRAINING COLLEGE, NAJAFGARH Website : https://www.edudel.nic.in/"
+    },
+    "school_details": {
+        "Name of Institution": "CM SHRI SCHOOL JHARODA KALAN-1822304",
+        "Affiliation Number": "2720092",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "JHARODA KALAN, ADJOINING DELHI POLICE TRAINING COLLEGE, NAJAFGARH",
+        "Pin Code": "110072",
+        "Website": "https://www.edudel.nic.in/",
+        "Year of Foundation": "2025",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "HARKESH",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.Com, B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "11",
+        "Teaching:": "12",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "DIRECTORATE OF EDUCATION GNCTD DELHI",
+        "Remarks, if any": null
+    },
+    "links": []
+}

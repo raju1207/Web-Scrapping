@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2762085",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762085"
+    },
+    "listing_data": {
+        "affiliation_number": "2762085",
+        "listing_raw_columns": [
+            "1802",
+            "Aff. No. : 2762085 Sch. Code: 87349",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT GIRLS SR SEC SCHOOL Head/Principal Name: PREM CHANDRA",
+            "Address : E BLOCK NAND NAGRI DELHI Website : https://www.edudel.nic.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762085",
+        "serial_number": "1802",
+        "affiliation_and_school_code": "Aff. No. : 2762085 Sch. Code: 87349",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT GIRLS SR SEC SCHOOL Head/Principal Name: PREM CHANDRA",
+        "address_and_website": "Address : E BLOCK NAND NAGRI DELHI Website : https://www.edudel.nic.in/"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT GIRLS SR SEC SCHOOL",
+        "Affiliation Number": "2762085",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "E BLOCK NAND NAGRI DELHI",
+        "Pin Code": "110093",
+        "Website": "https://www.edudel.nic.in/",
+        "Year of Foundation": "1984",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "PREM CHANDRA",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.COM, B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "7",
+        "Teaching:": "9",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "dir. of education",
+        "Remarks, if any": null
+    },
+    "links": []
+}

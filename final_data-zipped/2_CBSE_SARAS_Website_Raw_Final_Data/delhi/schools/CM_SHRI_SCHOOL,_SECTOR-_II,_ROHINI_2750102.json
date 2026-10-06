@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2750102",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750102"
+    },
+    "listing_data": {
+        "affiliation_number": "2750102",
+        "listing_raw_columns": [
+            "1050",
+            "Aff. No. : 2750102 Sch. Code: 87482",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : CM SHRI SCHOOL, SECTOR- II, ROHINI Head/Principal Name: VIRENDER KUMAR",
+            "Address : SECTOR II ROHINI DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750102",
+        "serial_number": "1050",
+        "affiliation_and_school_code": "Aff. No. : 2750102 Sch. Code: 87482",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : CM SHRI SCHOOL, SECTOR- II, ROHINI Head/Principal Name: VIRENDER KUMAR",
+        "address_and_website": "Address : SECTOR II ROHINI DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "CM SHRI SCHOOL, SECTOR- II, ROHINI",
+        "Affiliation Number": "2750102",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "SECTOR II ROHINI DELHI",
+        "Pin Code": "110085",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1988",
+        "Date of First Opening of School": "31 Mar 2011",
+        "Name of Principal/ Head of Institution": "VIRENDER KUMAR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.Sc, Phd.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "2",
+        "Teaching:": "22",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "DIRECTORATE OF EDUCATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

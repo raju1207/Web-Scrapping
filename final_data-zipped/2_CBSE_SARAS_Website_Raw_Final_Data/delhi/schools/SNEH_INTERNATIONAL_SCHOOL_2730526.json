@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730526",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730526"
+    },
+    "listing_data": {
+        "affiliation_number": "2730526",
+        "listing_raw_columns": [
+            "597",
+            "Aff. No. : 2730526 Sch. Code: 25050",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : SNEH INTERNATIONAL SCHOOL Head/Principal Name: Komal Dhingra",
+            "Address : NEW RAJDHANI ENCLAVE VIKAS MARG, DISTT EAST DELHI, DELHI Website : www.snehinternationalschool.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730526",
+        "serial_number": "597",
+        "affiliation_and_school_code": "Aff. No. : 2730526 Sch. Code: 25050",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SNEH INTERNATIONAL SCHOOL Head/Principal Name: Komal Dhingra",
+        "address_and_website": "Address : NEW RAJDHANI ENCLAVE VIKAS MARG, DISTT EAST DELHI, DELHI Website : www.snehinternationalschool.com"
+    },
+    "school_details": {
+        "Name of Institution": "SNEH INTERNATIONAL SCHOOL",
+        "Affiliation Number": "2730526",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "NEW RAJDHANI ENCLAVE VIKAS MARG, DISTT EAST DELHI, DELHI",
+        "Pin Code": "110092",
+        "Website": "www.snehinternationalschool.com",
+        "Year of Foundation": "2005",
+        "Date of First Opening of School": "01 Apr 2005",
+        "Name of Principal/ Head of Institution": "Komal Dhingra",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.Sc. B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "10",
+        "Teaching:": "15",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "VAISH EDUCATION SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

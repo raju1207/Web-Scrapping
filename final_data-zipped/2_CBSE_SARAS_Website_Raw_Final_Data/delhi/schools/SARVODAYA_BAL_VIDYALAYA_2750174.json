@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2750174",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750174"
+    },
+    "listing_data": {
+        "affiliation_number": "2750174",
+        "listing_raw_columns": [
+            "1121",
+            "Aff. No. : 2750174 Sch. Code: 87171",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : SARVODAYA BAL VIDYALAYA Head/Principal Name: DEEPAK GIRI",
+            "Address : LALITA BLOCK, SHASTRI NAGAR, DELHI-110052 Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750174",
+        "serial_number": "1121",
+        "affiliation_and_school_code": "Aff. No. : 2750174 Sch. Code: 87171",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SARVODAYA BAL VIDYALAYA Head/Principal Name: DEEPAK GIRI",
+        "address_and_website": "Address : LALITA BLOCK, SHASTRI NAGAR, DELHI-110052 Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "SARVODAYA BAL VIDYALAYA",
+        "Affiliation Number": "2750174",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "LALITA BLOCK, SHASTRI NAGAR, DELHI-110052",
+        "Pin Code": "110052",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "2013",
+        "Date of First Opening of School": "07 Jan 2013",
+        "Name of Principal/ Head of Institution": "DEEPAK GIRI",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "B.Ed., M.Sc",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "20",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "DOE",
+        "Remarks, if any": null
+    },
+    "links": []
+}

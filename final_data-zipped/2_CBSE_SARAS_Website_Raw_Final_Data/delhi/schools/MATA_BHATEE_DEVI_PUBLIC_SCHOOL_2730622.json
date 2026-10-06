@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730622",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730622"
+    },
+    "listing_data": {
+        "affiliation_number": "2730622",
+        "listing_raw_columns": [
+            "692",
+            "Aff. No. : 2730622 Sch. Code: 25356",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : MATA BHATEE DEVI PUBLIC SCHOOL Head/Principal Name: SUNNY JAKHAR",
+            "Address : PLOT NO.1, MAIN GOYLA DAIRY ROAD, SHYAM VIHAR, DEENPUR, NAJAFGARH, NEW DELHI-110043 Website : https://matabhateedevi.edu.in/mandatory",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730622",
+        "serial_number": "692",
+        "affiliation_and_school_code": "Aff. No. : 2730622 Sch. Code: 25356",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : MATA BHATEE DEVI PUBLIC SCHOOL Head/Principal Name: SUNNY JAKHAR",
+        "address_and_website": "Address : PLOT NO.1, MAIN GOYLA DAIRY ROAD, SHYAM VIHAR, DEENPUR, NAJAFGARH, NEW DELHI-110043 Website : https://matabhateedevi.edu.in/mandatory"
+    },
+    "school_details": {
+        "Name of Institution": "MATA BHATEE DEVI PUBLIC SCHOOL",
+        "Affiliation Number": "2730622",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "PLOT NO.1, MAIN GOYLA DAIRY ROAD, SHYAM VIHAR, DEENPUR, NAJAFGARH, NEW DELHI-110043",
+        "Pin Code": "110043",
+        "Website": "https://matabhateedevi.edu.in/mandatory",
+        "Year of Foundation": "2003",
+        "Date of First Opening of School": "01 Apr 2003",
+        "Name of Principal/ Head of Institution": "SUNNY JAKHAR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "8",
+        "Teaching:": "10",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "lalman sharma educational & social welfare society (regd)",
+        "Remarks, if any": null
+    },
+    "links": []
+}

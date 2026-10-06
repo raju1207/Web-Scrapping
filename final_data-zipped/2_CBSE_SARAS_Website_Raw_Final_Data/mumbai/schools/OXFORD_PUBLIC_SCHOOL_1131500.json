@@ -1,0 +1,55 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Mumbai",
+        "state": "MAHARASHTRA",
+        "selected_district": "MUMBAI SUBURBAN",
+        "affiliation_number": "1131500",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131500"
+    },
+    "listing_data": {
+        "affiliation_number": "1131500",
+        "listing_raw_columns": [
+            "26",
+            "Aff. No. : 1131500 Sch. Code: 31489",
+            "State : MAHARASHTRA District : MUMBAI SUBURBAN",
+            "Secondary Level",
+            "Name : OXFORD PUBLIC SCHOOL Head/Principal Name: DR. SHEPHALI CHITRE",
+            "Address : PLOT NO. 9, SECTOR NO. 5,, CHARKOP, KANDIVALI WEST Website : www.oxford.org.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1131500",
+        "serial_number": "26",
+        "affiliation_and_school_code": "Aff. No. : 1131500 Sch. Code: 31489",
+        "state_and_district": "State : MAHARASHTRA District : MUMBAI SUBURBAN",
+        "status": "Secondary Level",
+        "school_and_head": "Name : OXFORD PUBLIC SCHOOL Head/Principal Name: DR. SHEPHALI CHITRE",
+        "address_and_website": "Address : PLOT NO. 9, SECTOR NO. 5,, CHARKOP, KANDIVALI WEST Website : www.oxford.org.in",
+        "saras_selected_district": "MUMBAI SUBURBAN"
+    },
+    "school_details": {
+        "Name of Institution": "OXFORD PUBLIC SCHOOL",
+        "Affiliation Number": "1131500",
+        "State": "MAHARASHTRA",
+        "District": "MUMBAI SUBURBAN",
+        "Postal Address": "PLOT NO. 9, SECTOR NO. 5,, CHARKOP, KANDIVALI WEST",
+        "Pin Code": "400067",
+        "Website": "www.oxford.org.in",
+        "Year of Foundation": "2000",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "DR. SHEPHALI CHITRE",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A.B.ED.PH.D, M.B.A., M.PHIL",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "16",
+        "Teaching:": "30",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "BAL BHAGWAN SHIKSHAN PRASARAK MANDAL",
+        "Remarks, if any": null
+    },
+    "links": []
+}

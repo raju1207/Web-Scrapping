@@ -1,0 +1,11 @@
+{
+  "dataset": "chandigarh",
+  "schema_version": "4.0",
+  "academic_year": "2025-26",
+  "raw_files": 236,
+  "success": 236,
+  "failed": 0,
+  "missing_udise": 0,
+  "generated_at": "2026-09-24T16:57:59.299311+00:00",
+  "output_directory": "data\\canonical_v4\\udise\\chandigarh"
+}

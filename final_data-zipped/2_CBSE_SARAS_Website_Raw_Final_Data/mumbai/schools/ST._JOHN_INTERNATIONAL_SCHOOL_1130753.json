@@ -1,0 +1,55 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Mumbai",
+        "state": "MAHARASHTRA",
+        "selected_district": "MUMBAI",
+        "affiliation_number": "1130753",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130753"
+    },
+    "listing_data": {
+        "affiliation_number": "1130753",
+        "listing_raw_columns": [
+            "46",
+            "Aff. No. : 1130753 Sch. Code: 30659",
+            "State : MAHARASHTRA District : MUMBAI",
+            "Senior Secondary Level",
+            "Name : ST. JOHN INTERNATIONAL SCHOOL Head/Principal Name: Sr. Veena Monteiro",
+            "Address : ST. JOHN EDUCATIONAL CAMPUS, VEVOOR, MANOR ROAD, PALGHAR(E),DIST. PALGHAR Website : www.sjis.edu.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/1130753",
+        "serial_number": "46",
+        "affiliation_and_school_code": "Aff. No. : 1130753 Sch. Code: 30659",
+        "state_and_district": "State : MAHARASHTRA District : MUMBAI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : ST. JOHN INTERNATIONAL SCHOOL Head/Principal Name: Sr. Veena Monteiro",
+        "address_and_website": "Address : ST. JOHN EDUCATIONAL CAMPUS, VEVOOR, MANOR ROAD, PALGHAR(E),DIST. PALGHAR Website : www.sjis.edu.in",
+        "saras_selected_district": "MUMBAI"
+    },
+    "school_details": {
+        "Name of Institution": "ST. JOHN INTERNATIONAL SCHOOL",
+        "Affiliation Number": "1130753",
+        "State": "MAHARASHTRA",
+        "District": "MUMBAI",
+        "Postal Address": "ST. JOHN EDUCATIONAL CAMPUS, VEVOOR, MANOR ROAD, PALGHAR(E),DIST. PALGHAR",
+        "Pin Code": "401404",
+        "Website": "www.sjis.edu.in",
+        "Year of Foundation": "2013",
+        "Date of First Opening of School": "15 Jun 2013",
+        "Name of Principal/ Head of Institution": "Sr. Veena Monteiro",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA , B Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "11",
+        "Teaching:": "12",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "Aldel Education Trust",
+        "Remarks, if any": null
+    },
+    "links": []
+}

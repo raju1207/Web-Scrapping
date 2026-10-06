@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730795",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730795"
+    },
+    "listing_data": {
+        "affiliation_number": "2730795",
+        "listing_raw_columns": [
+            "859",
+            "Aff. No. : 2730795 Sch. Code: 85287",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : YUVASHAKTI MODEL SCHOOL Head/Principal Name: PRAVEEN KUMAR",
+            "Address : RAMA VIHAR Website : www.ymsrv.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730795",
+        "serial_number": "859",
+        "affiliation_and_school_code": "Aff. No. : 2730795 Sch. Code: 85287",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : YUVASHAKTI MODEL SCHOOL Head/Principal Name: PRAVEEN KUMAR",
+        "address_and_website": "Address : RAMA VIHAR Website : www.ymsrv.in"
+    },
+    "school_details": {
+        "Name of Institution": "YUVASHAKTI MODEL SCHOOL",
+        "Affiliation Number": "2730795",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "RAMA VIHAR",
+        "Pin Code": "110081",
+        "Website": "www.ymsrv.in",
+        "Year of Foundation": "2004",
+        "Date of First Opening of School": "04 Apr 2005",
+        "Name of Principal/ Head of Institution": "PRAVEEN KUMAR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MA, B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "12",
+        "Teaching:": "17",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "YUVASHAKTI EDUCATIONAL SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

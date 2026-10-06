@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730296",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730296"
+    },
+    "listing_data": {
+        "affiliation_number": "2730296",
+        "listing_raw_columns": [
+            "381",
+            "Aff. No. : 2730296 Sch. Code: 85441",
+            "State : DELHI District : WEST DELHI",
+            "Senior Secondary Level",
+            "Name : GANGA INTERNATIONAL SCHOOL Head/Principal Name: SWATI JOSHI",
+            "Address : VILLAGE HIRAN KUDNA ROHTAK ROAD DELHI Website : www.gangainternationalschool.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730296",
+        "serial_number": "381",
+        "affiliation_and_school_code": "Aff. No. : 2730296 Sch. Code: 85441",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GANGA INTERNATIONAL SCHOOL Head/Principal Name: SWATI JOSHI",
+        "address_and_website": "Address : VILLAGE HIRAN KUDNA ROHTAK ROAD DELHI Website : www.gangainternationalschool.com"
+    },
+    "school_details": {
+        "Name of Institution": "GANGA INTERNATIONAL SCHOOL",
+        "Affiliation Number": "2730296",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "VILLAGE HIRAN KUDNA ROHTAK ROAD DELHI",
+        "Pin Code": "110041",
+        "Website": "www.gangainternationalschool.com",
+        "Year of Foundation": "1989",
+        "Date of First Opening of School": "01 Apr 1990",
+        "Name of Principal/ Head of Institution": "SWATI JOSHI",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A. B.Ed.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "15",
+        "Teaching:": "20",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "Pawan Ganga Educational Society",
+        "Remarks, if any": null
+    },
+    "links": []
+}

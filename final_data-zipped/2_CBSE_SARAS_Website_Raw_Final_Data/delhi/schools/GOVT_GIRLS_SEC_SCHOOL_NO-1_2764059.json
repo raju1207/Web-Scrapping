@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2764059",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764059"
+    },
+    "listing_data": {
+        "affiliation_number": "2764059",
+        "listing_raw_columns": [
+            "1862",
+            "Aff. No. : 2764059 Sch. Code: 27285",
+            "State : DELHI District : NEW DELHI",
+            "Secondary Level",
+            "Name : GOVT GIRLS SEC SCHOOL NO-1 Head/Principal Name: Kanta Devi",
+            "Address : SECTOR V DR. AMBEDKAR NAGAR NEW DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2764059",
+        "serial_number": "1862",
+        "affiliation_and_school_code": "Aff. No. : 2764059 Sch. Code: 27285",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : GOVT GIRLS SEC SCHOOL NO-1 Head/Principal Name: Kanta Devi",
+        "address_and_website": "Address : SECTOR V DR. AMBEDKAR NAGAR NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT GIRLS SEC SCHOOL NO-1",
+        "Affiliation Number": "2764059",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "SECTOR V DR. AMBEDKAR NAGAR NEW DELHI",
+        "Pin Code": "110062",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1989",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "Kanta Devi",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A B.ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "7",
+        "Teaching:": "24",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMN",
+        "Remarks, if any": null
+    },
+    "links": []
+}

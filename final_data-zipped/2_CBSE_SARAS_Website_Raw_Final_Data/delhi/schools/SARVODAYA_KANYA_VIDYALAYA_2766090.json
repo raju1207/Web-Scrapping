@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2766090",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2766090"
+    },
+    "listing_data": {
+        "affiliation_number": "2766090",
+        "listing_raw_columns": [
+            "1987",
+            "Aff. No. : 2766090 Sch. Code: 87627",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : SARVODAYA KANYA VIDYALAYA Head/Principal Name: GEETIKA PARIHAR",
+            "Address : MOHAN GARDEN NEW DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2766090",
+        "serial_number": "1987",
+        "affiliation_and_school_code": "Aff. No. : 2766090 Sch. Code: 87627",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SARVODAYA KANYA VIDYALAYA Head/Principal Name: GEETIKA PARIHAR",
+        "address_and_website": "Address : MOHAN GARDEN NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "SARVODAYA KANYA VIDYALAYA",
+        "Affiliation Number": "2766090",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "MOHAN GARDEN NEW DELHI",
+        "Pin Code": "110059",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "2002",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "GEETIKA PARIHAR",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MPHIL MED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "20",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "DIR. OF EDU.",
+        "Remarks, if any": null
+    },
+    "links": []
+}

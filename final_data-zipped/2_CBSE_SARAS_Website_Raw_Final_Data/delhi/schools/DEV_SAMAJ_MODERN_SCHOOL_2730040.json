@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730040",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730040"
+    },
+    "listing_data": {
+        "affiliation_number": "2730040",
+        "listing_raw_columns": [
+            "129",
+            "Aff. No. : 2730040 Sch. Code: 25241",
+            "State : DELHI District : SOUTH DELHI",
+            "Senior Secondary Level",
+            "Name : DEV SAMAJ MODERN SCHOOL Head/Principal Name: SUSHMA NANDWANI",
+            "Address : NEHRU NAGAR RING ROAD, DISTT SOUTH DELHI, NEW DELHI Website : www.devsamajschools.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730040",
+        "serial_number": "129",
+        "affiliation_and_school_code": "Aff. No. : 2730040 Sch. Code: 25241",
+        "state_and_district": "State : DELHI District : SOUTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : DEV SAMAJ MODERN SCHOOL Head/Principal Name: SUSHMA NANDWANI",
+        "address_and_website": "Address : NEHRU NAGAR RING ROAD, DISTT SOUTH DELHI, NEW DELHI Website : www.devsamajschools.com"
+    },
+    "school_details": {
+        "Name of Institution": "DEV SAMAJ MODERN SCHOOL",
+        "Affiliation Number": "2730040",
+        "State": "DELHI",
+        "District": "SOUTH DELHI",
+        "Postal Address": "NEHRU NAGAR RING ROAD, DISTT SOUTH DELHI, NEW DELHI",
+        "Pin Code": "110065",
+        "Website": "www.devsamajschools.com",
+        "Year of Foundation": "1966",
+        "Date of First Opening of School": "06 May 2000",
+        "Name of Principal/ Head of Institution": "SUSHMA NANDWANI",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.Sc., B.Ed , M.Phill",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "7",
+        "Teaching:": "30",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "THE DEV SAMAJ",
+        "Remarks, if any": null
+    },
+    "links": []
+}

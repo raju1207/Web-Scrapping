@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2700046",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700046"
+    },
+    "listing_data": {
+        "affiliation_number": "2700046",
+        "listing_raw_columns": [
+            "45",
+            "Aff. No. : 2700046 Sch. Code: 27110",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : DR.RAJENDRA PRASAD KENDRIYA VIDYALAYA Head/Principal Name: DR CHARU SHARMA",
+            "Address : PRESIDENT ESTATE, NEW DELHI-110004 Website : https://drrajendraprasadpe.kvs.ac.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2700046",
+        "serial_number": "45",
+        "affiliation_and_school_code": "Aff. No. : 2700046 Sch. Code: 27110",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : DR.RAJENDRA PRASAD KENDRIYA VIDYALAYA Head/Principal Name: DR CHARU SHARMA",
+        "address_and_website": "Address : PRESIDENT ESTATE, NEW DELHI-110004 Website : https://drrajendraprasadpe.kvs.ac.in/"
+    },
+    "school_details": {
+        "Name of Institution": "DR.RAJENDRA PRASAD KENDRIYA VIDYALAYA",
+        "Affiliation Number": "2700046",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "PRESIDENT ESTATE, NEW DELHI-110004",
+        "Pin Code": "110004",
+        "Website": "https://drrajendraprasadpe.kvs.ac.in/",
+        "Year of Foundation": "2019",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "DR CHARU SHARMA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.SC. ,M.ED. PH. D. IN EDUCATION",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "16",
+        "Teaching:": "19",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "KV",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2021 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "kendriya vidyalaya sangathan",
+        "Remarks, if any": null
+    },
+    "links": []
+}

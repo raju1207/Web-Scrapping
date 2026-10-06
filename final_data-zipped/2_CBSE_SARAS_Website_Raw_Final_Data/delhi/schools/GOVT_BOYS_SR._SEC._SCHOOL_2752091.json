@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2752091",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752091"
+    },
+    "listing_data": {
+        "affiliation_number": "2752091",
+        "listing_raw_columns": [
+            "1208",
+            "Aff. No. : 2752091 Sch. Code: 87339",
+            "State : DELHI District : NORTH EAST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR. SEC. SCHOOL Head/Principal Name: RAJIV KUMAR JHA",
+            "Address : KARAWAL NAGAR DELHI Website : https://www.edudel.nic.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752091",
+        "serial_number": "1208",
+        "affiliation_and_school_code": "Aff. No. : 2752091 Sch. Code: 87339",
+        "state_and_district": "State : DELHI District : NORTH EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR. SEC. SCHOOL Head/Principal Name: RAJIV KUMAR JHA",
+        "address_and_website": "Address : KARAWAL NAGAR DELHI Website : https://www.edudel.nic.in/"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR. SEC. SCHOOL",
+        "Affiliation Number": "2752091",
+        "State": "DELHI",
+        "District": "NORTH EAST DELHI",
+        "Postal Address": "KARAWAL NAGAR DELHI",
+        "Pin Code": "110094",
+        "Website": "https://www.edudel.nic.in/",
+        "Year of Foundation": "1993",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "RAJIV KUMAR JHA",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.Sc, M.Ed., NET, M.A., SBTC, DCGC, DCA DCBL Ph D",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "3",
+        "Teaching:": "15",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "DIR. OF EDUCATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

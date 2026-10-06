@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2758039",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2758039"
+    },
+    "listing_data": {
+        "affiliation_number": "2758039",
+        "listing_raw_columns": [
+            "1607",
+            "Aff. No. : 2758039 Sch. Code: 87188",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR SEC SCHOOL NO-1 Head/Principal Name: MUKESH KUMAR",
+            "Address : G T B NAGAR DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2758039",
+        "serial_number": "1607",
+        "affiliation_and_school_code": "Aff. No. : 2758039 Sch. Code: 87188",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR SEC SCHOOL NO-1 Head/Principal Name: MUKESH KUMAR",
+        "address_and_website": "Address : G T B NAGAR DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR SEC SCHOOL NO-1",
+        "Affiliation Number": "2758039",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "G T B NAGAR DELHI",
+        "Pin Code": "110009",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1948",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "MUKESH KUMAR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.A HINDI LITERATURE",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "6",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2022 To : 31/03/2027",
+        "Name of Trust/ Society/ Managing Committee": "delhi administration",
+        "Remarks, if any": null
+    },
+    "links": []
+}

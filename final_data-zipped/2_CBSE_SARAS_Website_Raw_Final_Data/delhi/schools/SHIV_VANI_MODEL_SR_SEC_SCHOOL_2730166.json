@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730166",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730166"
+    },
+    "listing_data": {
+        "affiliation_number": "2730166",
+        "listing_raw_columns": [
+            "254",
+            "Aff. No. : 2730166 Sch. Code: 25379",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : SHIV VANI MODEL SR SEC SCHOOL Head/Principal Name: PRASHANT NARULA",
+            "Address : F BLOCK MAHAVIR ENCLAVE PALAM NEW DELHI Website : www.shivvani.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730166",
+        "serial_number": "254",
+        "affiliation_and_school_code": "Aff. No. : 2730166 Sch. Code: 25379",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SHIV VANI MODEL SR SEC SCHOOL Head/Principal Name: PRASHANT NARULA",
+        "address_and_website": "Address : F BLOCK MAHAVIR ENCLAVE PALAM NEW DELHI Website : www.shivvani.in"
+    },
+    "school_details": {
+        "Name of Institution": "SHIV VANI MODEL SR SEC SCHOOL",
+        "Affiliation Number": "2730166",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "F BLOCK MAHAVIR ENCLAVE PALAM NEW DELHI",
+        "Pin Code": "110045",
+        "Website": "www.shivvani.in",
+        "Year of Foundation": "1981",
+        "Date of First Opening of School": "01 Apr 2007",
+        "Name of Principal/ Head of Institution": "PRASHANT NARULA",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MA Eco, M.H.R., B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "28",
+        "Teaching:": "17",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "SHIV VANI EDUCATION SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

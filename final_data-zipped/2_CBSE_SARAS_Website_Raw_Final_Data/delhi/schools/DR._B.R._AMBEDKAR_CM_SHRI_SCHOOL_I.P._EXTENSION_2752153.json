@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2752153",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752153"
+    },
+    "listing_data": {
+        "affiliation_number": "2752153",
+        "listing_raw_columns": [
+            "1270",
+            "Aff. No. : 2752153 Sch. Code: 27022",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : DR. B.R. AMBEDKAR CM SHRI SCHOOL I.P. EXTENSION Head/Principal Name: SUSHMA MEENA",
+            "Address : I.P. EXTENSTION NEAR MAYO COLLEGE DELHI- 110092 Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752153",
+        "serial_number": "1270",
+        "affiliation_and_school_code": "Aff. No. : 2752153 Sch. Code: 27022",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : DR. B.R. AMBEDKAR CM SHRI SCHOOL I.P. EXTENSION Head/Principal Name: SUSHMA MEENA",
+        "address_and_website": "Address : I.P. EXTENSTION NEAR MAYO COLLEGE DELHI- 110092 Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "DR. B.R. AMBEDKAR CM SHRI SCHOOL I.P. EXTENSION",
+        "Affiliation Number": "2752153",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "I.P. EXTENSTION NEAR MAYO COLLEGE DELHI- 110092",
+        "Pin Code": null,
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "2017",
+        "Date of First Opening of School": "08 Nov 2017",
+        "Name of Principal/ Head of Institution": "SUSHMA MEENA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.A. M.Ed UGC NET",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "10",
+        "Teaching:": "6",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": null,
+        "Remarks, if any": null
+    },
+    "links": []
+}

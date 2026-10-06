@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730208",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730208"
+    },
+    "listing_data": {
+        "affiliation_number": "2730208",
+        "listing_raw_columns": [
+            "295",
+            "Aff. No. : 2730208 Sch. Code: 25017",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : ADARSH VIDYA BHAWAN. Head/Principal Name: RITU VERMA",
+            "Address : PLOT NO.43 I P EXTENSION NEAR BATHLA APPARTMENTS MANDAWALI FAZALPUR PATPARGANJ, DISTT EAST DELHI, DELHI Website : www.adarshtheschool.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730208",
+        "serial_number": "295",
+        "affiliation_and_school_code": "Aff. No. : 2730208 Sch. Code: 25017",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : ADARSH VIDYA BHAWAN. Head/Principal Name: RITU VERMA",
+        "address_and_website": "Address : PLOT NO.43 I P EXTENSION NEAR BATHLA APPARTMENTS MANDAWALI FAZALPUR PATPARGANJ, DISTT EAST DELHI, DELHI Website : www.adarshtheschool.in"
+    },
+    "school_details": {
+        "Name of Institution": "ADARSH VIDYA BHAWAN.",
+        "Affiliation Number": "2730208",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "PLOT NO.43 I P EXTENSION NEAR BATHLA APPARTMENTS MANDAWALI FAZALPUR PATPARGANJ, DISTT EAST DELHI, DELHI",
+        "Pin Code": "110092",
+        "Website": "www.adarshtheschool.in",
+        "Year of Foundation": "1981",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "RITU VERMA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA BEd",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "22",
+        "Teaching:": "29",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": null,
+        "Remarks, if any": null
+    },
+    "links": []
+}

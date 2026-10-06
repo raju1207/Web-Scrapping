@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730805",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730805"
+    },
+    "listing_data": {
+        "affiliation_number": "2730805",
+        "listing_raw_columns": [
+            "869",
+            "Aff. No. : 2730805 Sch. Code: 25311",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : ABHINAV GLOBAL SCHOOL Head/Principal Name: NILIMA SINHA",
+            "Address : DWARKA, SECTOR-13 Website : www.agsdwarka.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730805",
+        "serial_number": "869",
+        "affiliation_and_school_code": "Aff. No. : 2730805 Sch. Code: 25311",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : ABHINAV GLOBAL SCHOOL Head/Principal Name: NILIMA SINHA",
+        "address_and_website": "Address : DWARKA, SECTOR-13 Website : www.agsdwarka.com"
+    },
+    "school_details": {
+        "Name of Institution": "ABHINAV GLOBAL SCHOOL",
+        "Affiliation Number": "2730805",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "DWARKA, SECTOR-13",
+        "Pin Code": "110078",
+        "Website": "www.agsdwarka.com",
+        "Year of Foundation": "2017",
+        "Date of First Opening of School": "01 Apr 2015",
+        "Name of Principal/ Head of Institution": "NILIMA SINHA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "B.ED, P.G. HISTORY",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "1",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "Vijaya shri Education & Social Welfare Society(Regd)",
+        "Remarks, if any": null
+    },
+    "links": []
+}

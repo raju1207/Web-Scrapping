@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730570",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730570"
+    },
+    "listing_data": {
+        "affiliation_number": "2730570",
+        "listing_raw_columns": [
+            "641",
+            "Aff. No. : 2730570 Sch. Code: 85248",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : VIDYA JAIN PUBLIC SCHOOL Head/Principal Name: MEGHNA CHAND",
+            "Address : SECTOR=6,ROHINI, DELHI-110085 Website : www.vjps.co.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730570",
+        "serial_number": "641",
+        "affiliation_and_school_code": "Aff. No. : 2730570 Sch. Code: 85248",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : VIDYA JAIN PUBLIC SCHOOL Head/Principal Name: MEGHNA CHAND",
+        "address_and_website": "Address : SECTOR=6,ROHINI, DELHI-110085 Website : www.vjps.co.in"
+    },
+    "school_details": {
+        "Name of Institution": "VIDYA JAIN PUBLIC SCHOOL",
+        "Affiliation Number": "2730570",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "SECTOR=6,ROHINI, DELHI-110085",
+        "Pin Code": "110085",
+        "Website": "www.vjps.co.in",
+        "Year of Foundation": "1980",
+        "Date of First Opening of School": "02 Apr 1980",
+        "Name of Principal/ Head of Institution": "MEGHNA CHAND",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "BA, MA,B.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "17",
+        "Teaching:": "28",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "vardhman mahavira education society",
+        "Remarks, if any": null
+    },
+    "links": []
+}

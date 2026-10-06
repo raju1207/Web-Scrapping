@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2720066",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720066"
+    },
+    "listing_data": {
+        "affiliation_number": "2720066",
+        "listing_raw_columns": [
+            "63",
+            "Aff. No. : 2720066 Sch. Code: 27711",
+            "State : DELHI District : SOUTH DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT. BOYS SENIOR SECONDARY SCHOOL Head/Principal Name: ANUPAM KUMAR",
+            "Address : SAKET, NEW DELHI Website : https://edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720066",
+        "serial_number": "63",
+        "affiliation_and_school_code": "Aff. No. : 2720066 Sch. Code: 27711",
+        "state_and_district": "State : DELHI District : SOUTH DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT. BOYS SENIOR SECONDARY SCHOOL Head/Principal Name: ANUPAM KUMAR",
+        "address_and_website": "Address : SAKET, NEW DELHI Website : https://edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT. BOYS SENIOR SECONDARY SCHOOL",
+        "Affiliation Number": "2720066",
+        "State": "DELHI",
+        "District": "SOUTH DELHI",
+        "Postal Address": "SAKET, NEW DELHI",
+        "Pin Code": "110017",
+        "Website": "https://edudel.nic.in",
+        "Year of Foundation": "2022",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "ANUPAM KUMAR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "POST GRADUATION",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "1",
+        "Teaching:": "6",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "Directorate of Education",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2752012",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752012"
+    },
+    "listing_data": {
+        "affiliation_number": "2752012",
+        "listing_raw_columns": [
+            "1138",
+            "Aff. No. : 2752012 Sch. Code: 87356",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : BHISHAM PITAMAH GOVT. SARVODAYA BOYS Head/Principal Name: PRAMOD KUMAR",
+            "Address : S S S B BLOCK NAND NAGRI DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2752012",
+        "serial_number": "1138",
+        "affiliation_and_school_code": "Aff. No. : 2752012 Sch. Code: 87356",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : BHISHAM PITAMAH GOVT. SARVODAYA BOYS Head/Principal Name: PRAMOD KUMAR",
+        "address_and_website": "Address : S S S B BLOCK NAND NAGRI DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "BHISHAM PITAMAH GOVT. SARVODAYA BOYS",
+        "Affiliation Number": "2752012",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "S S S B BLOCK NAND NAGRI DELHI",
+        "Pin Code": "110093",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1976",
+        "Date of First Opening of School": "05 Mar 2020",
+        "Name of Principal/ Head of Institution": "PRAMOD KUMAR",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "POST GRADUATION",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "08",
+        "Teaching:": "25",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

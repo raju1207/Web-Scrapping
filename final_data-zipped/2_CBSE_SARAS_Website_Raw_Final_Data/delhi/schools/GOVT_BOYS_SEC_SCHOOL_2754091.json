@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2754091",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754091"
+    },
+    "listing_data": {
+        "affiliation_number": "2754091",
+        "listing_raw_columns": [
+            "1341",
+            "Aff. No. : 2754091 Sch. Code: 27412",
+            "State : DELHI District : NEW DELHI",
+            "Secondary Level",
+            "Name : GOVT BOYS SEC SCHOOL Head/Principal Name: ARUN KUMAR",
+            "Address : D D A FLATS PHASE II KALKAJI NEW DELHI Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2754091",
+        "serial_number": "1341",
+        "affiliation_and_school_code": "Aff. No. : 2754091 Sch. Code: 27412",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SEC SCHOOL Head/Principal Name: ARUN KUMAR",
+        "address_and_website": "Address : D D A FLATS PHASE II KALKAJI NEW DELHI Website :"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SEC SCHOOL",
+        "Affiliation Number": "2754091",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "D D A FLATS PHASE II KALKAJI NEW DELHI",
+        "Pin Code": "110019",
+        "Website": null,
+        "Year of Foundation": "1995",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "ARUN KUMAR",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "m. sc chem b.ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "5",
+        "Teaching:": "20",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2021 To : 31/03/2026",
+        "Name of Trust/ Society/ Managing Committee": "directate of education",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2756126",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756126"
+    },
+    "listing_data": {
+        "affiliation_number": "2756126",
+        "listing_raw_columns": [
+            "1506",
+            "Aff. No. : 2756126 Sch. Code: 87653",
+            "State : DELHI District : WEST DELHI",
+            "Senior Secondary Level",
+            "Name : SARVODAYA KANYA VIDYALAYA Head/Principal Name: RACHNA TOKAS RATHI",
+            "Address : PEERA GARHI VILLAGE, NEW DELHI-110087 Website : www.eduel.gov.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756126",
+        "serial_number": "1506",
+        "affiliation_and_school_code": "Aff. No. : 2756126 Sch. Code: 87653",
+        "state_and_district": "State : DELHI District : WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SARVODAYA KANYA VIDYALAYA Head/Principal Name: RACHNA TOKAS RATHI",
+        "address_and_website": "Address : PEERA GARHI VILLAGE, NEW DELHI-110087 Website : www.eduel.gov.in"
+    },
+    "school_details": {
+        "Name of Institution": "SARVODAYA KANYA VIDYALAYA",
+        "Affiliation Number": "2756126",
+        "State": "DELHI",
+        "District": "WEST DELHI",
+        "Postal Address": "PEERA GARHI VILLAGE, NEW DELHI-110087",
+        "Pin Code": "110087",
+        "Website": "www.eduel.gov.in",
+        "Year of Foundation": "1994",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "RACHNA TOKAS RATHI",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA BED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "01",
+        "Teaching:": "13",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "DIR. OF EDUCATION",
+        "Remarks, if any": null
+    },
+    "links": []
+}

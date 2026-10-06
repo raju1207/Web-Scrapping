@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2756012",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756012"
+    },
+    "listing_data": {
+        "affiliation_number": "2756012",
+        "listing_raw_columns": [
+            "1407",
+            "Aff. No. : 2756012 Sch. Code: 27500",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT. SARVODAYA BAL VIDYALAYA DICHAON KALAN Head/Principal Name: AMIT DALAL",
+            "Address : DICHAON KALAN NEW DELHI Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2756012",
+        "serial_number": "1407",
+        "affiliation_and_school_code": "Aff. No. : 2756012 Sch. Code: 27500",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT. SARVODAYA BAL VIDYALAYA DICHAON KALAN Head/Principal Name: AMIT DALAL",
+        "address_and_website": "Address : DICHAON KALAN NEW DELHI Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT. SARVODAYA BAL VIDYALAYA DICHAON KALAN",
+        "Affiliation Number": "2756012",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "DICHAON KALAN NEW DELHI",
+        "Pin Code": "110043",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "1975",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "AMIT DALAL",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "PH.D",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "0",
+        "Teaching:": "15",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "dehi administration",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2762095",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762095"
+    },
+    "listing_data": {
+        "affiliation_number": "2762095",
+        "listing_raw_columns": [
+            "1812",
+            "Aff. No. : 2762095 Sch. Code: 87364",
+            "State : DELHI District : EAST DELHI",
+            "Secondary Level",
+            "Name : GOVT. GIRLS SEC. SCHOOL NO. 1 Head/Principal Name: ANUPAMA MALHOTRA",
+            "Address : J.J. COLONY, NEW SEELAMPUR Website : https://www.edudel.nic.in/",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2762095",
+        "serial_number": "1812",
+        "affiliation_and_school_code": "Aff. No. : 2762095 Sch. Code: 87364",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : GOVT. GIRLS SEC. SCHOOL NO. 1 Head/Principal Name: ANUPAMA MALHOTRA",
+        "address_and_website": "Address : J.J. COLONY, NEW SEELAMPUR Website : https://www.edudel.nic.in/"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT. GIRLS SEC. SCHOOL NO. 1",
+        "Affiliation Number": "2762095",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "J.J. COLONY, NEW SEELAMPUR",
+        "Pin Code": "110053",
+        "Website": "https://www.edudel.nic.in/",
+        "Year of Foundation": "2011",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "ANUPAMA MALHOTRA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA BED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "8",
+        "Teaching:": "23",
+        "Status of The School": "Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "delhi administration",
+        "Remarks, if any": null
+    },
+    "links": []
+}

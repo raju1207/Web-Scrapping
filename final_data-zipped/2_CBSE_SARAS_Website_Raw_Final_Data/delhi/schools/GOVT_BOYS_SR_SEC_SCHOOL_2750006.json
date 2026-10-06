@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2750006",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750006"
+    },
+    "listing_data": {
+        "affiliation_number": "2750006",
+        "listing_raw_columns": [
+            "965",
+            "Aff. No. : 2750006 Sch. Code: 87267",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: MEWA LAL",
+            "Address : D BLOCK JAHANGIR PURI DELHI Website : GBSSS1309255@GMAIL.COM",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750006",
+        "serial_number": "965",
+        "affiliation_and_school_code": "Aff. No. : 2750006 Sch. Code: 87267",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR SEC SCHOOL Head/Principal Name: MEWA LAL",
+        "address_and_website": "Address : D BLOCK JAHANGIR PURI DELHI Website : GBSSS1309255@GMAIL.COM"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR SEC SCHOOL",
+        "Affiliation Number": "2750006",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "D BLOCK JAHANGIR PURI DELHI",
+        "Pin Code": "110033",
+        "Website": "GBSSS1309255@GMAIL.COM",
+        "Year of Foundation": "1976",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "MEWA LAL",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MASTERS",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "7",
+        "Teaching:": "11",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "DELHI ADMINISTRATION SANT RAM KAPOOR",
+        "Remarks, if any": null
+    },
+    "links": []
+}

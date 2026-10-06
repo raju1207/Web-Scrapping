@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730333",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730333"
+    },
+    "listing_data": {
+        "affiliation_number": "2730333",
+        "listing_raw_columns": [
+            "416",
+            "Aff. No. : 2730333 Sch. Code: 25003",
+            "State : DELHI District : EAST DELHI",
+            "Senior Secondary Level",
+            "Name : VIVEKANAND PUBLIC SCHOOL Head/Principal Name: NANCY KHANNA",
+            "Address : B BLOCK ANAND VIHAR, DISTT EAST DELHI, DELHI Website : www.vivekanandpublicschool.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730333",
+        "serial_number": "416",
+        "affiliation_and_school_code": "Aff. No. : 2730333 Sch. Code: 25003",
+        "state_and_district": "State : DELHI District : EAST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : VIVEKANAND PUBLIC SCHOOL Head/Principal Name: NANCY KHANNA",
+        "address_and_website": "Address : B BLOCK ANAND VIHAR, DISTT EAST DELHI, DELHI Website : www.vivekanandpublicschool.in"
+    },
+    "school_details": {
+        "Name of Institution": "VIVEKANAND PUBLIC SCHOOL",
+        "Affiliation Number": "2730333",
+        "State": "DELHI",
+        "District": "EAST DELHI",
+        "Postal Address": "B BLOCK ANAND VIHAR, DISTT EAST DELHI, DELHI",
+        "Pin Code": "110092",
+        "Website": "www.vivekanandpublicschool.in",
+        "Year of Foundation": "1992",
+        "Date of First Opening of School": "09 Jul 2003",
+        "Name of Principal/ Head of Institution": "NANCY KHANNA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.Phil, M.Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "11",
+        "Teaching:": "22",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2028",
+        "Name of Trust/ Society/ Managing Committee": "NEW VIVEK EDUCATION SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

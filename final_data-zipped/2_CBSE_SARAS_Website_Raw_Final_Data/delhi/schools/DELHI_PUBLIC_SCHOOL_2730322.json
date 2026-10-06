@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730322",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730322"
+    },
+    "listing_data": {
+        "affiliation_number": "2730322",
+        "listing_raw_columns": [
+            "405",
+            "Aff. No. : 2730322 Sch. Code: 25267",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : DELHI PUBLIC SCHOOL Head/Principal Name: Priya Narayanan",
+            "Address : SECTOR III PHASE I DWARKA NEW DELHI Website : https://www.dpsdwarka.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730322",
+        "serial_number": "405",
+        "affiliation_and_school_code": "Aff. No. : 2730322 Sch. Code: 25267",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : DELHI PUBLIC SCHOOL Head/Principal Name: Priya Narayanan",
+        "address_and_website": "Address : SECTOR III PHASE I DWARKA NEW DELHI Website : https://www.dpsdwarka.com"
+    },
+    "school_details": {
+        "Name of Institution": "DELHI PUBLIC SCHOOL",
+        "Affiliation Number": "2730322",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "SECTOR III PHASE I DWARKA NEW DELHI",
+        "Pin Code": "110045",
+        "Website": "https://www.dpsdwarka.com",
+        "Year of Foundation": "1996",
+        "Date of First Opening of School": "01 Jul 1992",
+        "Name of Principal/ Head of Institution": "Priya Narayanan",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "MA, English B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "21",
+        "Teaching:": "30",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "DELHI PUB SCH SOCIETY",
+        "Remarks, if any": null
+    },
+    "links": []
+}

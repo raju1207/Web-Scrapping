@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2720091",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720091"
+    },
+    "listing_data": {
+        "affiliation_number": "2720091",
+        "listing_raw_columns": [
+            "88",
+            "Aff. No. : 2720091 Sch. Code: 87763",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVERNMENT SARVODAYA BAL VIDYALAYA Head/Principal Name: BHIM SEN",
+            "Address : , PSP-10, INDUSTRIAL AREA, ROHINI,PHASE-V, KIRARI Website : https://www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720091",
+        "serial_number": "88",
+        "affiliation_and_school_code": "Aff. No. : 2720091 Sch. Code: 87763",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVERNMENT SARVODAYA BAL VIDYALAYA Head/Principal Name: BHIM SEN",
+        "address_and_website": "Address : , PSP-10, INDUSTRIAL AREA, ROHINI,PHASE-V, KIRARI Website : https://www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "GOVERNMENT SARVODAYA BAL VIDYALAYA",
+        "Affiliation Number": "2720091",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": ", PSP-10, INDUSTRIAL AREA, ROHINI,PHASE-V, KIRARI",
+        "Pin Code": "110086",
+        "Website": "https://www.edudel.nic.in",
+        "Year of Foundation": "2025",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "BHIM SEN",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "M.Phil",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "07",
+        "Teaching:": "21",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2025 To : 31/03/2030",
+        "Name of Trust/ Society/ Managing Committee": "Directorate of Education",
+        "Remarks, if any": null
+    },
+    "links": []
+}

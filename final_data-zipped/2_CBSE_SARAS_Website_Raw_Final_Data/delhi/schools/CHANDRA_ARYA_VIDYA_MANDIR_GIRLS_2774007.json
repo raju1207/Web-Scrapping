@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2774007",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774007"
+    },
+    "listing_data": {
+        "affiliation_number": "2774007",
+        "listing_raw_columns": [
+            "2072",
+            "Aff. No. : 2774007 Sch. Code: 27388",
+            "State : DELHI District : NEW DELHI",
+            "Senior Secondary Level",
+            "Name : CHANDRA ARYA VIDYA MANDIR GIRLS Head/Principal Name: JYOTI SHARMA",
+            "Address : SENIOR SEC SCHOOL C BLOCK EAST OF KAILASH NEW DELHI Website : www.chandraaryavidyamandir.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2774007",
+        "serial_number": "2072",
+        "affiliation_and_school_code": "Aff. No. : 2774007 Sch. Code: 27388",
+        "state_and_district": "State : DELHI District : NEW DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : CHANDRA ARYA VIDYA MANDIR GIRLS Head/Principal Name: JYOTI SHARMA",
+        "address_and_website": "Address : SENIOR SEC SCHOOL C BLOCK EAST OF KAILASH NEW DELHI Website : www.chandraaryavidyamandir.com"
+    },
+    "school_details": {
+        "Name of Institution": "CHANDRA ARYA VIDYA MANDIR GIRLS",
+        "Affiliation Number": "2774007",
+        "State": "DELHI",
+        "District": "NEW DELHI",
+        "Postal Address": "SENIOR SEC SCHOOL C BLOCK EAST OF KAILASH NEW DELHI",
+        "Pin Code": "110065",
+        "Website": "www.chandraaryavidyamandir.com",
+        "Year of Foundation": "1968",
+        "Date of First Opening of School": "08 Jun 2018",
+        "Name of Principal/ Head of Institution": "JYOTI SHARMA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "Ph.D. B.ED.",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "0",
+        "Teaching:": "26",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT AIDED",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2023 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "CHANDRAWATI CHAUDHRY SAMARK TRUST",
+        "Remarks, if any": null
+    },
+    "links": []
+}

@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2750167",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750167"
+    },
+    "listing_data": {
+        "affiliation_number": "2750167",
+        "listing_raw_columns": [
+            "1114",
+            "Aff. No. : 2750167 Sch. Code: 87256",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : GOVT BOYS SR. SEC. SCHOOL Head/Principal Name: SUKH RAM",
+            "Address : NEAR KINGSWAY CAMP DHAKKA DELHI-110 009 Website :",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2750167",
+        "serial_number": "1114",
+        "affiliation_and_school_code": "Aff. No. : 2750167 Sch. Code: 87256",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : GOVT BOYS SR. SEC. SCHOOL Head/Principal Name: SUKH RAM",
+        "address_and_website": "Address : NEAR KINGSWAY CAMP DHAKKA DELHI-110 009 Website :"
+    },
+    "school_details": {
+        "Name of Institution": "GOVT BOYS SR. SEC. SCHOOL",
+        "Affiliation Number": "2750167",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "NEAR KINGSWAY CAMP DHAKKA DELHI-110 009",
+        "Pin Code": "110009",
+        "Website": null,
+        "Year of Foundation": "1984",
+        "Date of First Opening of School": "01 Apr 1991",
+        "Name of Principal/ Head of Institution": "SUKH RAM",
+        "Gender": "Unknown",
+        "Principal's Educational/Professional Qualifications:": "M.A, B.ED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "5",
+        "Teaching:": "29",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2026 To : 31/03/2031",
+        "Name of Trust/ Society/ Managing Committee": "n d m c",
+        "Remarks, if any": null
+    },
+    "links": []
+}

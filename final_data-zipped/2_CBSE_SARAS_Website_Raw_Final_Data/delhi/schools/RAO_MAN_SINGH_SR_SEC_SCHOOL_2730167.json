@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "state": "DELHI",
+        "district": true,
+        "affiliation_number": "2730167",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730167"
+    },
+    "listing_data": {
+        "affiliation_number": "2730167",
+        "listing_raw_columns": [
+            "255",
+            "Aff. No. : 2730167 Sch. Code: 25321",
+            "State : DELHI District : SOUTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : RAO MAN SINGH SR SEC SCHOOL Head/Principal Name: SAROJ KUMAR JHA",
+            "Address : ROSHAN PURA PAPRAWAT ROAD NAJAFGARH NEW DELHI Website : www.raomansinghschool.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730167",
+        "serial_number": "255",
+        "affiliation_and_school_code": "Aff. No. : 2730167 Sch. Code: 25321",
+        "state_and_district": "State : DELHI District : SOUTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : RAO MAN SINGH SR SEC SCHOOL Head/Principal Name: SAROJ KUMAR JHA",
+        "address_and_website": "Address : ROSHAN PURA PAPRAWAT ROAD NAJAFGARH NEW DELHI Website : www.raomansinghschool.in"
+    },
+    "school_details": {
+        "Name of Institution": "RAO MAN SINGH SR SEC SCHOOL",
+        "Affiliation Number": "2730167",
+        "State": "DELHI",
+        "District": "SOUTH WEST DELHI",
+        "Postal Address": "ROSHAN PURA PAPRAWAT ROAD NAJAFGARH NEW DELHI",
+        "Pin Code": "110043",
+        "Website": "www.raomansinghschool.in",
+        "Year of Foundation": "1989",
+        "Date of First Opening of School": "04 Apr 2005",
+        "Name of Principal/ Head of Institution": "SAROJ KUMAR JHA",
+        "Gender": "Male",
+        "Principal's Educational/Professional Qualifications:": "MA, BED",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "25",
+        "Teaching:": "33",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "parbati educational society",
+        "Remarks, if any": null
+    },
+    "links": []
+}
