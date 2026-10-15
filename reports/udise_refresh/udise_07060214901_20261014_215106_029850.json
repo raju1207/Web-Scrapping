@@ -1,0 +1,62 @@
+{
+    "generated_at": "2026-10-14T21:51:06.026551+05:30",
+    "source": "UDISE+",
+    "udise_code": "07060214901",
+    "school_name": "Akalibaba Phoolasingh Sr. Sec. School, Rajinder Nagar, New Delhi",
+    "mode": "DRY RUN",
+    "source_file": "data\\Delhi\\2025-26\\Akalibaba_Phoolasingh_Sr._Sec._School,_Rajinder_Nagar,_New_Delhi_07060214901.json",
+    "successful_sections": 5,
+    "changed_fields": [
+        {
+            "section": "student_teacher_statistics",
+            "field": "totalTeacherFemale"
+        },
+        {
+            "section": "student_teacher_statistics",
+            "field": "totalTeacherMale"
+        },
+        {
+            "section": "student_teacher_statistics",
+            "field": "totalTeacherReg"
+        }
+    ],
+    "sections": {
+        "school_profile": {
+            "status": "success",
+            "differences": []
+        },
+        "student_teacher_statistics": {
+            "status": "success",
+            "differences": [
+                {
+                    "field": "totalTeacherFemale",
+                    "saved": "13",
+                    "fresh": "11"
+                },
+                {
+                    "field": "totalTeacherMale",
+                    "saved": "6",
+                    "fresh": "5"
+                },
+                {
+                    "field": "totalTeacherReg",
+                    "saved": "7",
+                    "fresh": "5"
+                }
+            ]
+        },
+        "infrastructure_facilities": {
+            "status": "success",
+            "differences": []
+        },
+        "report_card": {
+            "status": "success",
+            "differences": []
+        },
+        "school_history": {
+            "status": "success",
+            "differences": []
+        }
+    },
+    "raw_file_updated": false
+}

@@ -1,6 +1,9 @@
 
+import argparse
 import json
+import shutil
 import time
+from datetime import datetime
 from pathlib import Path
 
 import scraper
@@ -8,50 +11,51 @@ import scraper
 
 # ============================================================
 # CONFIGURATION
-# Comparison-only mode: never modifies existing raw JSON files.
 # ============================================================
 
 DATA_DIR = Path("data/Delhi/2025-26")
-UDISE_CODE = "07060409205"
+DEFAULT_UDISE_CODE = "07060214901"
+
+BACKUP_DIR = Path("data/refresh_backups/UDISE")
+REPORT_DIR = Path("reports/udise_refresh")
+
 REQUEST_DELAY = getattr(scraper, "REQUEST_DELAY", 0.4)
 
-SECTIONS = {
-    "school_profile": scraper.fetch_profile,
-    "student_teacher_statistics": scraper.fetch_student_teacher,
-    "infrastructure_facilities": scraper.fetch_facilities,
-    "report_card": scraper.fetch_report_card,
+# Raw JSON section -> scraper API function
+FETCHERS = {
+    "school_profile": ("profile", scraper.fetch_profile),
+    "student_teacher_statistics": (
+        "student_teacher",
+        scraper.fetch_student_teacher,
+    ),
+    "infrastructure_facilities": (
+        "facilities",
+        scraper.fetch_facilities,
+    ),
+    "report_card": ("report_card", scraper.fetch_report_card),
 }
 
 
 def short_value(value, limit=180):
-    """Format a value for readable terminal output."""
     text = repr(value)
-    if len(text) > limit:
-        return text[:limit] + "... [truncated]"
-    return text
+    return text if len(text) <= limit else text[:limit] + "... [truncated]"
 
 
 def compare_values(old, new, path=""):
-    """Return field-level differences between two JSON values."""
+    """Return field-level differences between JSON-compatible values."""
     differences = []
 
     if isinstance(old, dict) and isinstance(new, dict):
-        all_keys = sorted(set(old) | set(new))
-
-        for key in all_keys:
-            child_path = f"{path}.{key}" if path else key
+        for key in sorted(set(old) | set(new)):
+            child = f"{path}.{key}" if path else key
 
             if key not in old:
-                differences.append(
-                    (child_path, "<MISSING>", new[key])
-                )
+                differences.append((child, "<MISSING>", new[key]))
             elif key not in new:
-                differences.append(
-                    (child_path, old[key], "<MISSING>")
-                )
+                differences.append((child, old[key], "<MISSING>"))
             else:
                 differences.extend(
-                    compare_values(old[key], new[key], child_path)
+                    compare_values(old[key], new[key], child)
                 )
 
     elif isinstance(old, list) and isinstance(new, list):
@@ -60,170 +64,299 @@ def compare_values(old, new, path=""):
                 (f"{path} [list length]", len(old), len(new))
             )
 
-        for index, (old_item, new_item) in enumerate(zip(old, new)):
+        for index, (left, right) in enumerate(zip(old, new)):
             differences.extend(
-                compare_values(old_item, new_item, f"{path}[{index}]")
+                compare_values(left, right, f"{path}[{index}]")
             )
 
     elif old != new:
-        differences.append((path, old, new))
+        differences.append((path or "$", old, new))
 
     return differences
 
 
-def main():
-    print("=" * 70)
-    print("UDISE+ DAILY REFRESH — COMPARISON-ONLY TEST")
-    print("=" * 70)
-    print("Mode: READ ONLY")
-    print("Existing raw JSON files will NOT be modified.")
-    print(f"UDISE code: {UDISE_CODE}")
-    print()
+def fetch_section(fetch_function, *args):
+    """Fetch one section without treating failed requests as empty data."""
+    try:
+        result = fetch_function(*args)
+    except Exception as error:
+        return {
+            "ok": False,
+            "error": f"{type(error).__name__}: {error}",
+        }, None
 
-    matches = list(DATA_DIR.glob(f"*_{UDISE_CODE}.json"))
+    if not isinstance(result, dict) or not result.get("success"):
+        error = (
+            result.get("error", "Unknown API error")
+            if isinstance(result, dict)
+            else "Unexpected API result format"
+        )
+        return {"ok": False, "error": str(error)}, None
+
+    extracted = scraper.extract_api_data(result)
+
+    if extracted is None:
+        return {
+            "ok": False,
+            "error": "API returned no extractable data; saved section preserved.",
+        }, None
+
+    return {
+        "ok": True,
+        "url": result.get("url"),
+        "result": result,
+    }, extracted
+
+
+def find_saved_file(udise_code):
+    matches = list(DATA_DIR.glob(f"*_{udise_code}.json"))
 
     if len(matches) != 1:
-        print(f"Expected one saved JSON file; found {len(matches)}.")
-        print(f"Folder: {DATA_DIR.resolve()}")
-        print("No API requests were made.")
-        return
+        raise RuntimeError(
+            f"Expected exactly one file for UDISE {udise_code}, "
+            f"but found {len(matches)} in {DATA_DIR}."
+        )
 
-    source_file = matches[0]
+    return matches[0]
+
+
+def write_json_atomically(path, data):
+    """Write to a temporary file, then replace the destination."""
+    temp_path = path.with_suffix(path.suffix + ".tmp")
+
+    try:
+        with temp_path.open("w", encoding="utf-8", newline="\n") as file:
+            json.dump(data, file, indent=4, ensure_ascii=False)
+            file.write("\n")
+
+        temp_path.replace(path)
+
+    finally:
+        if temp_path.exists():
+            temp_path.unlink()
+
+
+def main():
+    parser = argparse.ArgumentParser(
+        description="Safely refresh one UDISE+ raw JSON record."
+    )
+    parser.add_argument(
+        "--udise",
+        default=DEFAULT_UDISE_CODE,
+        help="UDISE code to refresh (default: operational test school).",
+    )
+    parser.add_argument(
+        "--apply",
+        action="store_true",
+        help="Apply successful changes after creating a backup.",
+    )
+    args = parser.parse_args()
+
+    mode = "APPLY" if args.apply else "DRY RUN"
+    print("=" * 72)
+    print("UDISE+ SAFE DAILY REFRESH")
+    print(f"Mode: {mode}")
+    print(f"UDISE code: {args.udise}")
+    print("=" * 72)
+
+    source_file = find_saved_file(args.udise)
 
     with source_file.open("r", encoding="utf-8") as file:
-        saved = json.load(file)
+        original = json.load(file)
 
-    print(f"Saved file: {source_file}")
-    print(f"Saved school: {saved.get('metadata', {}).get('school_name')}")
-    print(f"Saved school ID: {saved.get('metadata', {}).get('school_id')}")
+    if not isinstance(original, dict):
+        raise RuntimeError("Saved JSON is not a JSON object. No changes made.")
+
+    metadata = original.get("metadata")
+    if not isinstance(metadata, dict):
+        raise RuntimeError("Saved metadata is invalid. No changes made.")
+
+    saved_code = str(metadata.get("udise_code", ""))
+    if saved_code != args.udise:
+        raise RuntimeError(
+            f"UDISE mismatch: file contains {saved_code}, "
+            f"requested {args.udise}. No changes made."
+        )
+
+    candidate = dict(original)
+    api_status = dict(original.get("_api_status") or {})
+    report_sections = {}
+    changed_fields = []
+    successful_sections = 0
+
+    print(f"File: {source_file}")
+    print(f"School: {metadata.get('school_name', 'Unknown')}")
     print()
 
-    results = {}
+    # Fetch the four school-detail sections.
+    for section, (status_key, fetch_function) in FETCHERS.items():
+        print(f"Fetching {section}...")
 
-    # Fetch each section and keep all fresh results in memory only.
-    for section, fetch_function in SECTIONS.items():
-        print(f"Fetching: {section}")
+        status, fresh = fetch_section(fetch_function, args.udise)
 
-        try:
-            result = fetch_function(UDISE_CODE)
-        except Exception as error:
-            print(f"  REQUEST ERROR: {error}")
-            results[section] = {"comparable": False}
-            time.sleep(REQUEST_DELAY)
-            continue
-
-        if not isinstance(result, dict) or not result.get("success"):
-            error_message = (
-                result.get("error", "Unknown API error")
-                if isinstance(result, dict)
-                else "Unexpected result format"
-            )
-            print(f"  REQUEST FAILED: {error_message}")
-            results[section] = {"comparable": False}
+        if not status["ok"]:
+            print(f"  FAILED: {status['error']}")
+            report_sections[section] = {
+                "status": "failed",
+                "error": status["error"],
+                "saved_data_preserved": True,
+            }
         else:
-            fresh = scraper.extract_api_data(result)
+            successful_sections += 1
+            old = original.get(section)
+            differences = compare_values(old, fresh)
 
-            if fresh is None:
-                response = result.get("response")
-                response_keys = (
-                    list(response.keys())
-                    if isinstance(response, dict)
-                    else type(response).__name__
+            print(f"  API success; differences: {len(differences)}")
+
+            report_sections[section] = {
+                "status": "success",
+                "differences": [
+                    {
+                        "field": field,
+                        "saved": short_value(old_value, 500),
+                        "fresh": short_value(new_value, 500),
+                    }
+                    for field, old_value, new_value in differences
+                ],
+            }
+
+            if differences:
+                candidate[section] = fresh
+                changed_fields.extend(
+                    (section, field) for field, _, _ in differences
                 )
-                print("  API request succeeded, but data extraction returned None.")
-                print(f"  Response structure: {response_keys}")
-                print("  Section will NOT be treated as an empty dataset.")
-                results[section] = {"comparable": False}
-            else:
-                results[section] = {
-                    "comparable": True,
-                    "data": fresh,
-                }
-                print(f"  Retrieved data type: {type(fresh).__name__}")
+
+            # Store the latest API status only for successful requests.
+            api_status[status_key] = status["result"]
 
         time.sleep(REQUEST_DELAY)
 
-    # History uses the school ID stored in the existing file.
-    school_id = saved.get("metadata", {}).get("school_id")
+    # Fetch school history using the saved school ID.
+    school_id = metadata.get("school_id")
 
     if school_id:
-        print("Fetching: school_history")
+        print("Fetching school_history...")
 
-        try:
-            result = scraper.fetch_history(school_id)
+        status, fresh_history = fetch_section(
+            scraper.fetch_history, school_id
+        )
 
-            if not isinstance(result, dict) or not result.get("success"):
-                error_message = (
-                    result.get("error", "Unknown API error")
-                    if isinstance(result, dict)
-                    else "Unexpected result format"
-                )
-                print(f"  REQUEST FAILED: {error_message}")
-                results["school_history"] = {"comparable": False}
-            else:
-                fresh = scraper.extract_api_data(result)
+        if not status["ok"]:
+            print(f"  FAILED: {status['error']}")
+            report_sections["school_history"] = {
+                "status": "failed",
+                "error": status["error"],
+                "saved_data_preserved": True,
+            }
+        else:
+            successful_sections += 1
+            old_history = original.get("school_history")
+            differences = compare_values(old_history, fresh_history)
 
-                if fresh is None:
-                    response = result.get("response")
-                    response_keys = (
-                        list(response.keys())
-                        if isinstance(response, dict)
-                        else type(response).__name__
-                    )
-                    print("  Data extraction returned None; not comparing.")
-                    print(f"  Response structure: {response_keys}")
-                    results["school_history"] = {"comparable": False}
-                else:
-                    results["school_history"] = {
-                        "comparable": True,
-                        "data": fresh,
+            print(f"  API success; differences: {len(differences)}")
+
+            report_sections["school_history"] = {
+                "status": "success",
+                "differences": [
+                    {
+                        "field": field,
+                        "saved": short_value(old_value, 500),
+                        "fresh": short_value(new_value, 500),
                     }
-                    print(f"  Retrieved data type: {type(fresh).__name__}")
+                    for field, old_value, new_value in differences
+                ],
+            }
 
-        except Exception as error:
-            print(f"  REQUEST ERROR: {error}")
-            results["school_history"] = {"comparable": False}
+            if differences:
+                candidate["school_history"] = fresh_history
+                changed_fields.extend(
+                    ("school_history", field)
+                    for field, _, _ in differences
+                )
+
+            api_status["history"] = status["result"]
     else:
-        print("Skipping history: saved school ID is missing.")
-        results["school_history"] = {"comparable": False}
+        print("Skipping school_history: saved school ID is missing.")
+        report_sections["school_history"] = {
+            "status": "skipped",
+            "reason": "Saved school ID is missing.",
+            "saved_data_preserved": True,
+        }
+
+    # Change the stored API status only if its corresponding data changed.
+    # Failed requests never replace the previous API status.
+    candidate["_api_status"] = api_status
+
+    report = {
+        "generated_at": datetime.now().astimezone().isoformat(),
+        "source": "UDISE+",
+        "udise_code": args.udise,
+        "school_name": metadata.get("school_name"),
+        "mode": mode,
+        "source_file": str(source_file),
+        "successful_sections": successful_sections,
+        "changed_fields": [
+            {"section": section, "field": field}
+            for section, field in changed_fields
+        ],
+        "sections": report_sections,
+        "raw_file_updated": False,
+    }
 
     print()
-    print("=" * 70)
-    print("COMPARISON RESULTS")
-    print("=" * 70)
+    print("=" * 72)
+    print("SUMMARY")
+    print(f"Successful sections: {successful_sections}/5")
+    print(f"Changed data fields: {len(changed_fields)}")
 
-    for section, result in results.items():
-        if not result.get("comparable"):
-            print(f"\n{section}: NOT COMPARED")
-            continue
+    if successful_sections == 0:
+        print("No usable API sections; saved raw file will not be updated.")
 
-        old = saved.get(section)
-        new = result["data"]
+    elif not changed_fields:
+        print("No school-data changes detected.")
 
-        differences = compare_values(old, new)
+    elif not args.apply:
+        print("DRY RUN: changes detected but not applied.")
 
-        print(f"\n{section}:")
+    else:
+        # Back up the exact original file before any modification.
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S_%f")
+        backup_file = BACKUP_DIR / f"{source_file.stem}_{timestamp}.json"
+        backup_file.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(source_file, backup_file)
 
-        if not differences:
-            print("  No differences found.")
-            continue
+        # Verify the backup is readable before replacing the original.
+        with backup_file.open("r", encoding="utf-8") as file:
+            backup_data = json.load(file)
 
-        print(f"  Differences found: {len(differences)}")
+        if backup_data != original:
+            raise RuntimeError(
+                f"Backup verification failed: {backup_file}. "
+                "Original raw file was not replaced."
+            )
 
-        for field, old_value, new_value in differences[:30]:
-            print(f"  Field: {field}")
-            print(f"    Saved: {short_value(old_value)}")
-            print(f"    Fresh: {short_value(new_value)}")
+        write_json_atomically(source_file, candidate)
+        report["raw_file_updated"] = True
+        report["backup_file"] = str(backup_file)
+        print(f"Backup created: {backup_file}")
+        print(f"Updated raw file: {source_file}")
 
-        if len(differences) > 30:
-            print(f"  ... {len(differences) - 30} more differences.")
+    REPORT_DIR.mkdir(parents=True, exist_ok=True)
+    report_path = REPORT_DIR / (
+        f"udise_{args.udise}_{datetime.now().strftime('%Y%m%d_%H%M%S_%f')}.json"
+    )
 
-    print()
-    print("=" * 70)
-    print("TEST FINISHED")
-    print("No raw JSON file was written or overwritten.")
-    print("=" * 70)
+    with report_path.open("w", encoding="utf-8") as file:
+        json.dump(report, file, indent=4, ensure_ascii=False)
+        file.write("\n")
+
+    print(f"Report saved: {report_path}")
+    print("=" * 72)
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except (OSError, ValueError, RuntimeError) as error:
+        print(f"\nSTOPPED SAFELY: {error}")
+        raise SystemExit(1)

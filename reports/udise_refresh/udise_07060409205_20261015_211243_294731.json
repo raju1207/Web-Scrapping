@@ -1,0 +1,37 @@
+{
+    "generated_at": "2026-10-15T21:12:43.293509+05:30",
+    "source": "UDISE+",
+    "udise_code": "07060409205",
+    "school_name": "2 Primary School (Boys), R.K. Rangwala, Karol Bagh, Delhi",
+    "mode": "DRY RUN",
+    "source_file": "data\\Delhi\\2025-26\\2_Primary_School_(Boys),_R.K._Rangwala,_Karol_Bagh,_Delhi_07060409205.json",
+    "successful_sections": 1,
+    "changed_fields": [],
+    "sections": {
+        "school_profile": {
+            "status": "failed",
+            "error": "Data Not Found",
+            "saved_data_preserved": true
+        },
+        "student_teacher_statistics": {
+            "status": "failed",
+            "error": "Data Not Found For This udiseSchCode : 07060409205",
+            "saved_data_preserved": true
+        },
+        "infrastructure_facilities": {
+            "status": "failed",
+            "error": "Data Not Found",
+            "saved_data_preserved": true
+        },
+        "report_card": {
+            "status": "failed",
+            "error": "Data Not Found ",
+            "saved_data_preserved": true
+        },
+        "school_history": {
+            "status": "success",
+            "differences": []
+        }
+    },
+    "raw_file_updated": false
+}
