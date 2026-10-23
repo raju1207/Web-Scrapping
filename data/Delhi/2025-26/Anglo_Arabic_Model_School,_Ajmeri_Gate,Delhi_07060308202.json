@@ -215,7 +215,8 @@
         "ictLabYnDesc": "1-Yes",
         "accessDthYn": 1,
         "accessDthYnDesc": "1-Yes",
-        "rainHarvestYn": 1
+        "rainHarvestYn": 1,
+        "furnitureAvailableYn": "1-Yes"
     },
     "report_card": {
         "udiseschCode": "07060308202",
@@ -623,7 +624,8 @@
                     "ictLabYnDesc": "1-Yes",
                     "accessDthYn": 1,
                     "accessDthYnDesc": "1-Yes",
-                    "rainHarvestYn": 1
+                    "rainHarvestYn": 1,
+                    "furnitureAvailableYn": "1-Yes"
                 }
             }
         },

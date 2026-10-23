@@ -1,0 +1,52 @@
+{
+    "generated_at": "2026-10-23T21:57:35.382693+05:30",
+    "mode": "APPLY",
+    "schools_requested": 4,
+    "schools_processed": 4,
+    "results": [
+        {
+            "udise_code": "07060208102",
+            "process_exit_code": 0,
+            "process_status": "completed",
+            "report_path": "reports\\udise_refresh\\udise_07060208102_20261023_215718_766502.json",
+            "school_name": "Andhra Edn. Society Sr. Sec. School, 1 DDU Marg (Rouse Avenue) New Delhi",
+            "successful_sections": 5,
+            "changed_fields_count": 4,
+            "failed_sections": [],
+            "raw_file_updated": true
+        },
+        {
+            "udise_code": "07060209108",
+            "process_exit_code": 0,
+            "process_status": "completed",
+            "report_path": "reports\\udise_refresh\\udise_07060209108_20261023_215724_591300.json",
+            "school_name": "Andhra Education Society Sr. Sec. School, Prasad Nagar, New Delhi",
+            "successful_sections": 5,
+            "changed_fields_count": 4,
+            "failed_sections": [],
+            "raw_file_updated": true
+        },
+        {
+            "udise_code": "07060308202",
+            "process_exit_code": 0,
+            "process_status": "completed",
+            "report_path": "reports\\udise_refresh\\udise_07060308202_20261023_215727_743400.json",
+            "school_name": "Anglo Arabic Model School, Ajmeri Gate,Delhi",
+            "successful_sections": 5,
+            "changed_fields_count": 1,
+            "failed_sections": [],
+            "raw_file_updated": true
+        },
+        {
+            "udise_code": "07060209204",
+            "process_exit_code": 0,
+            "process_status": "completed",
+            "report_path": "reports\\udise_refresh\\udise_07060209204_20261023_215735_348287.json",
+            "school_name": "Arya Girls Sr. Sec. School, Karol Bagh, Reghar Pura, New Delhi",
+            "successful_sections": 5,
+            "changed_fields_count": 3,
+            "failed_sections": [],
+            "raw_file_updated": true
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "generated_at": "2026-10-23T21:57:35.333706+05:30",
+    "source": "UDISE+",
+    "udise_code": "07060209204",
+    "school_name": "Arya Girls Sr. Sec. School, Karol Bagh, Reghar Pura, New Delhi",
+    "mode": "APPLY",
+    "source_file": "data\\Delhi\\2025-26\\Arya_Girls_Sr._Sec._School,_Karol_Bagh,_Reghar_Pura,_New_Delhi_07060209204.json",
+    "successful_sections": 5,
+    "changed_fields": [
+        {
+            "section": "student_teacher_statistics",
+            "field": "totalTeacherFemale"
+        },
+        {
+            "section": "student_teacher_statistics",
+            "field": "totalTeacherReg"
+        },
+        {
+            "section": "infrastructure_facilities",
+            "field": "furnitureAvailableYn"
+        }
+    ],
+    "sections": {
+        "school_profile": {
+            "status": "success",
+            "differences": []
+        },
+        "student_teacher_statistics": {
+            "status": "success",
+            "differences": [
+                {
+                    "field": "totalTeacherFemale",
+                    "saved": "17",
+                    "fresh": "12"
+                },
+                {
+                    "field": "totalTeacherReg",
+                    "saved": "15",
+                    "fresh": "12"
+                }
+            ]
+        },
+        "infrastructure_facilities": {
+            "status": "success",
+            "differences": [
+                {
+                    "field": "furnitureAvailableYn",
+                    "saved": "'<MISSING>'",
+                    "fresh": "'1-Yes'"
+                }
+            ]
+        },
+        "report_card": {
+            "status": "success",
+            "differences": []
+        },
+        "school_history": {
+            "status": "success",
+            "differences": []
+        }
+    },
+    "raw_file_updated": true,
+    "backup_file": "data\\refresh_backups\\UDISE\\Arya_Girls_Sr._Sec._School,_Karol_Bagh,_Reghar_Pura,_New_Delhi_07060209204_20261023_215735_333759.json"
+}

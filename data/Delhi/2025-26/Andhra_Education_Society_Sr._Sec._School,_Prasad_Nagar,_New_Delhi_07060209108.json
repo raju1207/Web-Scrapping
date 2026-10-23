@@ -138,9 +138,9 @@
         "totalGirl": 447,
         "totalCount": 1034,
         "totalTeacherCon": 0,
-        "totalTeacherReg": 19,
-        "totalTeacherMale": 3,
-        "totalTeacherFemale": 16
+        "totalTeacherReg": 21,
+        "totalTeacherMale": 6,
+        "totalTeacherFemale": 15
     },
     "infrastructure_facilities": {
         "bldStatus": "1-Private",
@@ -215,7 +215,8 @@
         "ictLabYnDesc": "1-Yes",
         "accessDthYn": 2,
         "accessDthYnDesc": "2-No",
-        "rainHarvestYn": 1
+        "rainHarvestYn": 1,
+        "furnitureAvailableYn": "1-Yes"
     },
     "report_card": {
         "udiseschCode": "07060209108",
@@ -537,9 +538,9 @@
                     "totalGirl": 447,
                     "totalCount": 1034,
                     "totalTeacherCon": 0,
-                    "totalTeacherReg": 19,
-                    "totalTeacherMale": 3,
-                    "totalTeacherFemale": 16
+                    "totalTeacherReg": 21,
+                    "totalTeacherMale": 6,
+                    "totalTeacherFemale": 15
                 }
             }
         },
@@ -623,7 +624,8 @@
                     "ictLabYnDesc": "1-Yes",
                     "accessDthYn": 2,
                     "accessDthYnDesc": "2-No",
-                    "rainHarvestYn": 1
+                    "rainHarvestYn": 1,
+                    "furnitureAvailableYn": "1-Yes"
                 }
             }
         },

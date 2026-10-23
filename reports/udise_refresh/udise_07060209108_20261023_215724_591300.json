@@ -1,0 +1,73 @@
+{
+    "generated_at": "2026-10-23T21:57:24.576839+05:30",
+    "source": "UDISE+",
+    "udise_code": "07060209108",
+    "school_name": "Andhra Education Society Sr. Sec. School, Prasad Nagar, New Delhi",
+    "mode": "APPLY",
+    "source_file": "data\\Delhi\\2025-26\\Andhra_Education_Society_Sr._Sec._School,_Prasad_Nagar,_New_Delhi_07060209108.json",
+    "successful_sections": 5,
+    "changed_fields": [
+        {
+            "section": "student_teacher_statistics",
+            "field": "totalTeacherFemale"
+        },
+        {
+            "section": "student_teacher_statistics",
+            "field": "totalTeacherMale"
+        },
+        {
+            "section": "student_teacher_statistics",
+            "field": "totalTeacherReg"
+        },
+        {
+            "section": "infrastructure_facilities",
+            "field": "furnitureAvailableYn"
+        }
+    ],
+    "sections": {
+        "school_profile": {
+            "status": "success",
+            "differences": []
+        },
+        "student_teacher_statistics": {
+            "status": "success",
+            "differences": [
+                {
+                    "field": "totalTeacherFemale",
+                    "saved": "16",
+                    "fresh": "15"
+                },
+                {
+                    "field": "totalTeacherMale",
+                    "saved": "3",
+                    "fresh": "6"
+                },
+                {
+                    "field": "totalTeacherReg",
+                    "saved": "19",
+                    "fresh": "21"
+                }
+            ]
+        },
+        "infrastructure_facilities": {
+            "status": "success",
+            "differences": [
+                {
+                    "field": "furnitureAvailableYn",
+                    "saved": "'<MISSING>'",
+                    "fresh": "'1-Yes'"
+                }
+            ]
+        },
+        "report_card": {
+            "status": "success",
+            "differences": []
+        },
+        "school_history": {
+            "status": "success",
+            "differences": []
+        }
+    },
+    "raw_file_updated": true,
+    "backup_file": "data\\refresh_backups\\UDISE\\Andhra_Education_Society_Sr._Sec._School,_Prasad_Nagar,_New_Delhi_07060209108_20261023_215724_576894.json"
+}

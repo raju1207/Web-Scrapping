@@ -1,0 +1,73 @@
+{
+    "generated_at": "2026-10-23T21:57:18.745587+05:30",
+    "source": "UDISE+",
+    "udise_code": "07060208102",
+    "school_name": "Andhra Edn. Society Sr. Sec. School, 1 DDU Marg (Rouse Avenue) New Delhi",
+    "mode": "APPLY",
+    "source_file": "data\\Delhi\\2025-26\\Andhra_Edn._Society_Sr._Sec._School,_1_DDU_Marg_(Rouse_Avenue)_New_Delhi_07060208102.json",
+    "successful_sections": 5,
+    "changed_fields": [
+        {
+            "section": "student_teacher_statistics",
+            "field": "totalTeacherFemale"
+        },
+        {
+            "section": "student_teacher_statistics",
+            "field": "totalTeacherMale"
+        },
+        {
+            "section": "student_teacher_statistics",
+            "field": "totalTeacherReg"
+        },
+        {
+            "section": "infrastructure_facilities",
+            "field": "furnitureAvailableYn"
+        }
+    ],
+    "sections": {
+        "school_profile": {
+            "status": "success",
+            "differences": []
+        },
+        "student_teacher_statistics": {
+            "status": "success",
+            "differences": [
+                {
+                    "field": "totalTeacherFemale",
+                    "saved": "32",
+                    "fresh": "34"
+                },
+                {
+                    "field": "totalTeacherMale",
+                    "saved": "12",
+                    "fresh": "11"
+                },
+                {
+                    "field": "totalTeacherReg",
+                    "saved": "44",
+                    "fresh": "45"
+                }
+            ]
+        },
+        "infrastructure_facilities": {
+            "status": "success",
+            "differences": [
+                {
+                    "field": "furnitureAvailableYn",
+                    "saved": "'<MISSING>'",
+                    "fresh": "'1-Yes'"
+                }
+            ]
+        },
+        "report_card": {
+            "status": "success",
+            "differences": []
+        },
+        "school_history": {
+            "status": "success",
+            "differences": []
+        }
+    },
+    "raw_file_updated": true,
+    "backup_file": "data\\refresh_backups\\UDISE\\Andhra_Edn._Society_Sr._Sec._School,_1_DDU_Marg_(Rouse_Avenue)_New_Delhi_07060208102_20261023_215718_747777.json"
+}
