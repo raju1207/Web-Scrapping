@@ -15,6 +15,7 @@ soupsieve==2.9.2
 typing_extensions==4.16.0
 tzdata==2026.3
 urllib3==2.7.0
-requests
 psycopg[binary]>=3.3,<4
 python-dotenv>=1.0,<2
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30,<1
