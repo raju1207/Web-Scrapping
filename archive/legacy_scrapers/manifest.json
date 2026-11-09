@@ -1,0 +1,32 @@
+﻿[
+    {
+        "original":  "scraper.py",
+        "archived":  "archive/legacy_scrapers/scraper.py.disabled",
+        "sha256":  "DF6FE169406EF411A4BBF1AE05319890ACD6DFE956DC8C8E5C1B80F720866646"
+    },
+    {
+        "original":  "saras_scraper.py",
+        "archived":  "archive/legacy_scrapers/saras_scraper.py.disabled",
+        "sha256":  "3D169B4E595FC414EE15D4D6F4990A5645689873D0D77C3637CE0525FB48DC74"
+    },
+    {
+        "original":  "saras_scraper_mumbai.py",
+        "archived":  "archive/legacy_scrapers/saras_scraper_mumbai.py.disabled",
+        "sha256":  "49CB6E0DE8EF9F738C559EDF13F56E3FA4821E7304EBB9F68A551BEF93D634D5"
+    },
+    {
+        "original":  "udise_daily_refresh.py",
+        "archived":  "archive/legacy_scrapers/udise_daily_refresh.py.disabled",
+        "sha256":  "D7CD6C86D75B24D3425405D97D1D8835209718F03518D4427BF4469DCAB3CFA8"
+    },
+    {
+        "original":  "udise_batch_refresh.py",
+        "archived":  "archive/legacy_scrapers/udise_batch_refresh.py.disabled",
+        "sha256":  "67579BCE1DF9E3AE0FF824E1F67D363F5C3CC2760B53BCFCD11BE2E9EF0D16F4"
+    },
+    {
+        "original":  "test_udise.py",
+        "archived":  "archive/legacy_scrapers/test_udise.py.disabled",
+        "sha256":  "5FAB4C8A35545986B5E8011092A491A0AC28B6968E2C0C6687CD29D5B31CD1EC"
+    }
+]

@@ -1,0 +1,58 @@
+﻿{
+    "removed_directories":  10,
+    "removed_files":  164,
+    "removed_bytes":  3231412,
+    "directories":  [
+                        {
+                            "path":  "__pycache__",
+                            "files":  18,
+                            "bytes":  407982
+                        },
+                        {
+                            "path":  "database/__pycache__",
+                            "files":  3,
+                            "bytes":  74660
+                        },
+                        {
+                            "path":  "database/api/__pycache__",
+                            "files":  2,
+                            "bytes":  8718
+                        },
+                        {
+                            "path":  "school_scraping/__pycache__",
+                            "files":  11,
+                            "bytes":  271774
+                        },
+                        {
+                            "path":  "school_scraping/maintenance/__pycache__",
+                            "files":  3,
+                            "bytes":  19154
+                        },
+                        {
+                            "path":  "tests/__pycache__",
+                            "files":  9,
+                            "bytes":  221554
+                        },
+                        {
+                            "path":  "tests/support/__pycache__",
+                            "files":  1,
+                            "bytes":  3621
+                        },
+                        {
+                            "path":  ".refactor_validation/bytecode",
+                            "files":  33,
+                            "bytes":  543812
+                        },
+                        {
+                            "path":  ".refactor_validation/incremental_results/bytecode",
+                            "files":  42,
+                            "bytes":  839248
+                        },
+                        {
+                            "path":  ".refactor_validation/cleanup_results/bytecode",
+                            "files":  42,
+                            "bytes":  840889
+                        }
+                    ],
+    "excluded":  "venv, archives, raw datasets, reports/logs, recovery state, live samples, PostgreSQL data/logs"
+}

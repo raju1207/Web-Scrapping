@@ -7,11 +7,11 @@
         "MUMBAI",
         "MUMBAI SUBURBAN"
     ],
-    "total_schools_discovered": 92,
-    "already_existing_skipped": 35,
-    "newly_scraped": 57,
+    "total_schools_discovered": 86,
+    "already_existing_skipped": 86,
+    "newly_scraped": 0,
     "failed_this_run": 0,
-    "completed_unique_affiliations": 92,
-    "school_json_files": 92,
+    "completed_unique_affiliations": 93,
+    "school_json_files": 93,
     "output_folder": "data\\CBSE_SARAS\\mumbai\\schools"
 }

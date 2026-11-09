@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "defaults": {
+    "refresh_days": 30,
+    "check_interval_hours": 24,
+    "retry_delay_minutes": 60,
+    "retries": 3,
+    "delay": 0.5,
+    "limit": null,
+    "academic_year": "2025-26",
+    "year_id": null
+  },
+  "database": {"enabled": false},
+  "recovery": {"state_dir": ".scraping_state", "max_task_attempts": 5},
+  "scheduler": {
+    "enabled": true,
+    "time": "02:00",
+    "timezone": "Asia/Kolkata",
+    "sources": ["udise", "saras"]
+  },
+  "sources": {
+    "udise": {
+      "enabled": true,
+      "all_states": false,
+      "school_lists": [],
+      "locations": [
+        {"name": "punjab", "enabled": false, "state": "Punjab", "districts": [], "pincodes": ["140001"]},
+        {"name": "haryana", "enabled": false, "state": "Haryana", "districts": [], "pincodes": ["134001"]}
+      ]
+    },
+    "saras": {
+      "enabled": true,
+      "all_states": false,
+      "locations": [
+        {"name": "punjab", "enabled": false, "state": "Punjab", "districts": [], "pincodes": ["140001"]},
+        {"name": "haryana", "enabled": false, "state": "Haryana", "districts": [], "pincodes": ["134001"]}
+      ]
+    }
+  }
+}

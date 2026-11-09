@@ -4,9 +4,15 @@ venv/
 __pycache__/
 *.pyc
 
-.vscode/
+# Keep shared Explorer settings reviewable; other local IDE files stay private.
+.vscode/*
+!.vscode/settings.json
 
 .env
+# Local validation samples and OS-held runtime locks
+.refactor_validation/
+**/.scraper_locks/
+**/.scraping_state/
 # Generated Canonical v4 output
 data/canonical_v4/
 standardized_sample.txt

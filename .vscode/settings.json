@@ -1,0 +1,20 @@
+{
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/*.pyc": true,
+    "venv": true,
+    ".venv": true,
+    ".refactor_validation": true,
+    "archive": true,
+    "final_data-zipped": true
+  },
+  "search.exclude": {
+    "**/__pycache__": true,
+    "**/*.pyc": true,
+    "venv": true,
+    ".venv": true,
+    ".refactor_validation": true,
+    "archive": true,
+    "final_data-zipped": true
+  }
+}
