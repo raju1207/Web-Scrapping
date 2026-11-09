@@ -107,6 +107,15 @@ def classify_file(relative_path, payload):
 
     top_folder = lower_parts[0] if lower_parts else ""
     file_name = Path(relative_path).name
+    metadata = payload.get("metadata", {}) if isinstance(payload, dict) else {}
+    if not isinstance(metadata, dict):
+        metadata = {}
+    # Recognize the original UDISE layout for every collected state or city.
+    udise_raw_path = (
+        len(data_parts) == 3
+        and re.fullmatch(r"\d{4}-\d{2}", data_parts[1]) is not None
+        and top_folder not in {"standardized", "canonical_v4", "refresh_backups", "audit"}
+    )
 
     if top_folder == "audit":
         dataset_layer = "audit"
@@ -120,7 +129,7 @@ def classify_file(relative_path, payload):
         dataset_layer = "reference_list"
     elif top_folder == "cbse_saras":
         dataset_layer = "raw"
-    elif top_folder in REGION_NAMES:
+    elif top_folder in REGION_NAMES or udise_raw_path:
         dataset_layer = "raw"
     elif (
         len(data_parts) == 1
@@ -134,7 +143,7 @@ def classify_file(relative_path, payload):
         source_system = "CBSE_SARAS"
     elif (
         "udise" in lower_parts
-        or top_folder in REGION_NAMES
+        or top_folder in REGION_NAMES or udise_raw_path
         or top_folder == "udise_fresh_lists"
         or (
             len(data_parts) == 1
@@ -152,6 +161,14 @@ def classify_file(relative_path, payload):
         if part.lower() in REGION_NAMES:
             region = REGION_NAMES[part.lower()]
             break
+
+    if region is None:
+        if udise_raw_path:
+            region = metadata.get("location") or data_parts[0].replace("_", " ").title()
+        elif top_folder == "cbse_saras" and len(data_parts) >= 3:
+            region = metadata.get("location") or data_parts[1].replace("_", " ").title()
+        elif top_folder in {"canonical_v4", "standardized"} and len(data_parts) >= 4:
+            region = data_parts[2].replace("_", " ").title()
 
     academic_year = None
 
@@ -179,37 +196,25 @@ def classify_file(relative_path, payload):
     return dataset_layer, source_system, region, academic_year
 
 
-def prepare_record(file_path):
-    relative_path = file_path.relative_to(PROJECT_ROOT).as_posix()
-
-    # Hash the exact file bytes so any file-content change is detectable.
-    file_bytes = file_path.read_bytes()
+def prepare_json_record(relative_path, file_bytes, modified_at=None):
+    """Prepare one existing-format archive row from immutable JSON bytes."""
+    relative_path = Path(relative_path).as_posix()
     checksum = hashlib.sha256(file_bytes).hexdigest()
-
-    # UTF-8 with optional BOM support.
-    raw_json = file_bytes.decode("utf-8-sig")
-
+    # Keep the original text (including a BOM) while accepting BOM-prefixed JSON.
+    raw_json = file_bytes.decode("utf-8")
     payload = json.loads(
-        raw_json,
+        file_bytes.decode("utf-8-sig"),
         parse_constant=reject_nonstandard_json_constant,
     )
-
     root_type = get_root_type(payload)
     layer, source, region, year = classify_file(relative_path, payload)
-    stat = file_path.stat()
-
-    modified_at = datetime.fromtimestamp(
-        stat.st_mtime,
-        tz=timezone.utc,
-    )
-
     return {
         "relative_path": relative_path,
         "dataset_layer": layer,
         "source_system": source,
         "region": region,
         "academic_year": year,
-        "file_name": file_path.name,
+        "file_name": Path(relative_path).name,
         "content_sha256": checksum,
         "file_size_bytes": len(file_bytes),
         "json_root_type": root_type,
@@ -217,6 +222,14 @@ def prepare_record(file_path):
         "payload": payload,
         "file_modified_at": modified_at,
     }
+
+
+def prepare_record(file_path):
+    file_path = Path(file_path)
+    return prepare_json_record(
+        file_path.relative_to(PROJECT_ROOT).as_posix(), file_path.read_bytes(),
+        datetime.fromtimestamp(file_path.stat().st_mtime, tz=timezone.utc),
+    )
 
 
 def write_failure_report(failures):
@@ -248,6 +261,17 @@ def print_summary(files_found, valid_count, layer_counts, failures):
         print("\nNo failures in this run.")
 
 
+def discover_json_files(data_root=DATA_ROOT):
+    """Select school datasets, retaining history and excluding local examples/state."""
+    data_root = Path(data_root)
+    excluded = {".scraping_state", ".scraper_locks", "__pycache__"}
+    return sorted(
+        path for path in data_root.rglob("*.json")
+        if path.relative_to(data_root).parts[0].casefold() != "samples"
+        and not excluded.intersection(path.relative_to(data_root).parts)
+    )
+
+
 def main():
     parser = argparse.ArgumentParser(
         description="Import project JSON files into PostgreSQL."
@@ -271,7 +295,7 @@ def main():
     if not DATA_ROOT.is_dir():
         raise SystemExit(f"Data folder not found: {DATA_ROOT}")
 
-    files = sorted(DATA_ROOT.rglob("*.json"))
+    files = discover_json_files(DATA_ROOT)
 
     if args.limit is not None:
         files = files[:args.limit]

@@ -299,131 +299,123 @@ SNAPSHOT_PATH_PATTERN = (
 # ---------------------------------------------------------
 
 def fetch_canonical_records(conn):
-    """Read canonical UDISE and SARAS school records from PostgreSQL."""
-
-    query = """
-        SELECT file_id, relative_path, payload
-        FROM school_scraping.json_file_archive
-        WHERE relative_path ~ %s
-        ORDER BY relative_path
-    """
-
-    records = []
-
+    """Read and validate canonical records using the shared per-record parser."""
     with conn.cursor() as cur:
-        cur.execute(query, (CANONICAL_PATH_PATTERN,))
+        cur.execute(
+            "SELECT file_id, relative_path, payload "
+            "FROM school_scraping.json_file_archive "
+            "WHERE relative_path ~ %s ORDER BY relative_path",
+            (CANONICAL_PATH_PATTERN,),
+        )
+        return [parse_canonical_record(file_id, path, payload)
+                for file_id, path, payload in cur.fetchall()
+                if re.match(CANONICAL_PATH_PATTERN, path)]
 
-        for archive_file_id, relative_path, payload in cur.fetchall():
 
-            match = re.match(
-                CANONICAL_PATH_PATTERN,
-                relative_path,
-            )
+def parse_canonical_record(archive_file_id, relative_path, payload):
+    """Validate and normalize one canonical payload for both ETL entry paths."""
+    match = re.match(CANONICAL_PATH_PATTERN, relative_path)
+    if not match:
+        raise ValueError("Canonical record path does not match the existing layout")
+    source_system = match.group(1)
+    region = match.group(2).lower()
 
-            if not match:
-                continue
+    if not isinstance(payload, dict):
+        raise ValueError(
+            f"Canonical payload is not a JSON object: "
+            f"{relative_path}"
+        )
 
-            source_system = match.group(1)
-            region = match.group(2).lower()
+    metadata = get_object(
+        payload.get("metadata"),
+        f"{relative_path}: metadata",
+    )
 
-            if not isinstance(payload, dict):
-                raise ValueError(
-                    f"Canonical payload is not a JSON object: "
-                    f"{relative_path}"
-                )
+    identity = get_object(
+        payload.get("identity_location"),
+        f"{relative_path}: identity_location",
+    )
 
-            metadata = get_object(
-                payload.get("metadata"),
-                f"{relative_path}: metadata",
-            )
+    affiliation = get_object(
+        payload.get("board_affiliation"),
+        f"{relative_path}: board_affiliation",
+    )
 
-            identity = get_object(
-                payload.get("identity_location"),
-                f"{relative_path}: identity_location",
-            )
+    resolution = get_object(
+        payload.get("entity_resolution"),
+        f"{relative_path}: entity_resolution",
+    )
 
-            affiliation = get_object(
-                payload.get("board_affiliation"),
-                f"{relative_path}: board_affiliation",
-            )
+    record_id = clean_text(
+        metadata.get("record_id")
+    )
 
-            resolution = get_object(
-                payload.get("entity_resolution"),
-                f"{relative_path}: entity_resolution",
-            )
+    school_name = clean_text(
+        identity.get("school_name")
+    )
 
-            record_id = clean_text(
-                metadata.get("record_id")
-            )
+    if not record_id:
+        raise ValueError(
+            f"Missing metadata.record_id: {relative_path}"
+        )
 
-            school_name = clean_text(
-                identity.get("school_name")
-            )
+    if not school_name:
+        raise ValueError(
+            f"Missing identity_location.school_name: "
+            f"{relative_path}"
+        )
 
-            if not record_id:
-                raise ValueError(
-                    f"Missing metadata.record_id: {relative_path}"
-                )
+    udise_code = clean_text(
+        metadata.get("udise_code")
+    )
 
-            if not school_name:
-                raise ValueError(
-                    f"Missing identity_location.school_name: "
-                    f"{relative_path}"
-                )
+    affiliation_number = clean_text(
+        affiliation.get("affiliation_number")
+    )
 
-            udise_code = clean_text(
-                metadata.get("udise_code")
-            )
+    latitude = decimal_value(
+        identity.get("latitude"),
+        "latitude",
+        10,
+        7,
+        minimum=-90,
+        maximum=90,
+    )
 
-            affiliation_number = clean_text(
-                affiliation.get("affiliation_number")
-            )
+    longitude = decimal_value(
+        identity.get("longitude"),
+        "longitude",
+        10,
+        7,
+        minimum=-180,
+        maximum=180,
+    )
 
-            latitude = decimal_value(
-                identity.get("latitude"),
-                "latitude",
-                10,
-                7,
-                minimum=-90,
-                maximum=90,
-            )
+    record = {
+        "archive_file_id": archive_file_id,
+        "relative_path": relative_path,
+        "source_system": source_system,
+        "region": region,
+        "source_record_id": record_id,
+        "school_name": school_name,
+        "normalized_school_name": normalize_name(
+            school_name
+        ),
+        "udise_code": udise_code,
+        "cbse_affiliation_number": affiliation_number,
+        "state": clean_text(identity.get("state")),
+        "district": clean_text(identity.get("district")),
+        "address": clean_text(identity.get("address")),
+        "pincode": clean_text(identity.get("pincode")),
+        "latitude": latitude,
+        "longitude": longitude,
+        "phone": clean_text(identity.get("phone")),
+        "email": clean_text(identity.get("email")),
+        "website": clean_text(identity.get("website")),
+        "entity_resolution": resolution,
+    }
 
-            longitude = decimal_value(
-                identity.get("longitude"),
-                "longitude",
-                10,
-                7,
-                minimum=-180,
-                maximum=180,
-            )
-
-            record = {
-                "archive_file_id": archive_file_id,
-                "relative_path": relative_path,
-                "source_system": source_system,
-                "region": region,
-                "source_record_id": record_id,
-                "school_name": school_name,
-                "normalized_school_name": normalize_name(
-                    school_name
-                ),
-                "udise_code": udise_code,
-                "cbse_affiliation_number": affiliation_number,
-                "state": clean_text(identity.get("state")),
-                "district": clean_text(identity.get("district")),
-                "address": clean_text(identity.get("address")),
-                "pincode": clean_text(identity.get("pincode")),
-                "latitude": latitude,
-                "longitude": longitude,
-                "phone": clean_text(identity.get("phone")),
-                "email": clean_text(identity.get("email")),
-                "website": clean_text(identity.get("website")),
-                "entity_resolution": resolution,
-            }
-
-            records.append(record)
-
-    return records
+    return record
 
 
 # ---------------------------------------------------------

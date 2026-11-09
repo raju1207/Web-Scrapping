@@ -4,8 +4,8 @@
     "year_id": 12,
     "school_limit": "ALL",
     "total_schools": 2787,
-    "newly_scraped": 2762,
-    "already_existing": 25,
+    "newly_scraped": 0,
+    "already_existing": 2787,
     "failed": 0,
     "completed_total": 2787
 }

@@ -1,0 +1,63 @@
+{
+    "generated_at": "2026-10-23T21:41:20.345559+05:30",
+    "source": "UDISE+",
+    "udise_code": "07060208307",
+    "school_name": "Anglo Arabic Sr, Sec. School, Ajmeri Gate, Delhi",
+    "mode": "DRY RUN",
+    "source_file": "data\\Delhi\\2025-26\\Anglo_Arabic_Sr,_Sec._School,_Ajmeri_Gate,_Delhi_07060208307.json",
+    "successful_sections": 5,
+    "changed_fields": [
+        {
+            "section": "student_teacher_statistics",
+            "field": "totalTeacherMale"
+        },
+        {
+            "section": "student_teacher_statistics",
+            "field": "totalTeacherReg"
+        },
+        {
+            "section": "infrastructure_facilities",
+            "field": "furnitureAvailableYn"
+        }
+    ],
+    "sections": {
+        "school_profile": {
+            "status": "success",
+            "differences": []
+        },
+        "student_teacher_statistics": {
+            "status": "success",
+            "differences": [
+                {
+                    "field": "totalTeacherMale",
+                    "saved": "32",
+                    "fresh": "31"
+                },
+                {
+                    "field": "totalTeacherReg",
+                    "saved": "33",
+                    "fresh": "32"
+                }
+            ]
+        },
+        "infrastructure_facilities": {
+            "status": "success",
+            "differences": [
+                {
+                    "field": "furnitureAvailableYn",
+                    "saved": "'<MISSING>'",
+                    "fresh": "'1-Yes'"
+                }
+            ]
+        },
+        "report_card": {
+            "status": "success",
+            "differences": []
+        },
+        "school_history": {
+            "status": "success",
+            "differences": []
+        }
+    },
+    "raw_file_updated": false
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2730851",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730851"
+    },
+    "listing_data": {
+        "affiliation_number": "2730851",
+        "listing_raw_columns": [
+            "912",
+            "Aff. No. : 2730851 Sch. Code: 85513",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Secondary Level",
+            "Name : B.R. INTERNATIONAL SCHOOL Head/Principal Name: ANAMIKA",
+            "Address : MAIN QUTABGARH ROAD, MUNGESHPUR, DELHI - 110039 Website : www.brischool.com",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2730851",
+        "serial_number": "912",
+        "affiliation_and_school_code": "Aff. No. : 2730851 Sch. Code: 85513",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Secondary Level",
+        "school_and_head": "Name : B.R. INTERNATIONAL SCHOOL Head/Principal Name: ANAMIKA",
+        "address_and_website": "Address : MAIN QUTABGARH ROAD, MUNGESHPUR, DELHI - 110039 Website : www.brischool.com"
+    },
+    "school_details": {
+        "Name of Institution": "B.R. INTERNATIONAL SCHOOL",
+        "Affiliation Number": "2730851",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "MAIN QUTABGARH ROAD, MUNGESHPUR, DELHI - 110039",
+        "Pin Code": "110039",
+        "Website": "www.brischool.com",
+        "Year of Foundation": "2006",
+        "Date of First Opening of School": "01 Apr 2006",
+        "Name of Principal/ Head of Institution": "ANAMIKA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "B SC, M SC ,CHEM ,M Phil ,B Ed , M Ed",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "6",
+        "Teaching:": "9",
+        "Status of The School": "Secondary Level",
+        "School Type": "INDEPENDENT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2024 To : 31/03/2029",
+        "Name of Trust/ Society/ Managing Committee": "Shruti Jain Educational & Social Welfare Society",
+        "Remarks, if any": null
+    },
+    "links": []
+}

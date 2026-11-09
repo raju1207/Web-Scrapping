@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "source": "CBSE SARAS",
+        "source_type": "Official CBSE Affiliation Directory",
+        "location": "Delhi",
+        "state": "DELHI",
+        "district_filter": null,
+        "affiliation_number": "2720102",
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720102"
+    },
+    "listing_data": {
+        "affiliation_number": "2720102",
+        "listing_raw_columns": [
+            "99",
+            "Aff. No. : 2720102 Sch. Code: 87772",
+            "State : DELHI District : NORTH WEST DELHI",
+            "Senior Secondary Level",
+            "Name : SKV(UPDESH KAUR), DARIYAPUR KALAN Head/Principal Name: POOJA",
+            "Address : DARIYAPUR KALAN, MAIN BAWANA ROAD, DARIYAPUR KALAN Website : www.edudel.nic.in",
+            "View"
+        ],
+        "detail_url": "https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2720102",
+        "serial_number": "99",
+        "affiliation_and_school_code": "Aff. No. : 2720102 Sch. Code: 87772",
+        "state_and_district": "State : DELHI District : NORTH WEST DELHI",
+        "status": "Senior Secondary Level",
+        "school_and_head": "Name : SKV(UPDESH KAUR), DARIYAPUR KALAN Head/Principal Name: POOJA",
+        "address_and_website": "Address : DARIYAPUR KALAN, MAIN BAWANA ROAD, DARIYAPUR KALAN Website : www.edudel.nic.in"
+    },
+    "school_details": {
+        "Name of Institution": "SKV(UPDESH KAUR), DARIYAPUR KALAN",
+        "Affiliation Number": "2720102",
+        "State": "DELHI",
+        "District": "NORTH WEST DELHI",
+        "Postal Address": "DARIYAPUR KALAN, MAIN BAWANA ROAD, DARIYAPUR KALAN",
+        "Pin Code": "110039",
+        "Website": "www.edudel.nic.in",
+        "Year of Foundation": "2026",
+        "Date of First Opening of School": null,
+        "Name of Principal/ Head of Institution": "POOJA",
+        "Gender": "Female",
+        "Principal's Educational/Professional Qualifications:": "M.PHIL",
+        "No of Experience ( in Years ):": null,
+        "Administrative:": "3",
+        "Teaching:": "13",
+        "Status of The School": "Senior Secondary Level",
+        "School Type": "GOVT",
+        "Type of affiliation": null,
+        "Affiliation Period": "From : 01/04/2027 To : 31/03/2032",
+        "Name of Trust/ Society/ Managing Committee": "GOVT OF DELHI",
+        "Remarks, if any": null
+    },
+    "links": []
+}

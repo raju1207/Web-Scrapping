@@ -1,0 +1,63 @@
+{
+    "generated_at": "2026-10-23T21:41:30.001323+05:30",
+    "mode": "DRY RUN",
+    "schools_requested": 5,
+    "schools_processed": 5,
+    "results": [
+        {
+            "udise_code": "07060208102",
+            "process_exit_code": 0,
+            "process_status": "completed",
+            "report_path": "reports\\udise_refresh\\udise_07060208102_20261023_214108_327612.json",
+            "school_name": "Andhra Edn. Society Sr. Sec. School, 1 DDU Marg (Rouse Avenue) New Delhi",
+            "successful_sections": 5,
+            "changed_fields_count": 4,
+            "failed_sections": [],
+            "raw_file_updated": false
+        },
+        {
+            "udise_code": "07060209108",
+            "process_exit_code": 0,
+            "process_status": "completed",
+            "report_path": "reports\\udise_refresh\\udise_07060209108_20261023_214110_899778.json",
+            "school_name": "Andhra Education Society Sr. Sec. School, Prasad Nagar, New Delhi",
+            "successful_sections": 5,
+            "changed_fields_count": 4,
+            "failed_sections": [],
+            "raw_file_updated": false
+        },
+        {
+            "udise_code": "07060308202",
+            "process_exit_code": 0,
+            "process_status": "completed",
+            "report_path": "reports\\udise_refresh\\udise_07060308202_20261023_214115_000653.json",
+            "school_name": "Anglo Arabic Model School, Ajmeri Gate,Delhi",
+            "successful_sections": 5,
+            "changed_fields_count": 1,
+            "failed_sections": [],
+            "raw_file_updated": false
+        },
+        {
+            "udise_code": "07060208307",
+            "process_exit_code": 0,
+            "process_status": "completed",
+            "report_path": "reports\\udise_refresh\\udise_07060208307_20261023_214120_345716.json",
+            "school_name": "Anglo Arabic Sr, Sec. School, Ajmeri Gate, Delhi",
+            "successful_sections": 5,
+            "changed_fields_count": 3,
+            "failed_sections": [],
+            "raw_file_updated": false
+        },
+        {
+            "udise_code": "07060209204",
+            "process_exit_code": 0,
+            "process_status": "completed",
+            "report_path": "reports\\udise_refresh\\udise_07060209204_20261023_214129_957442.json",
+            "school_name": "Arya Girls Sr. Sec. School, Karol Bagh, Reghar Pura, New Delhi",
+            "successful_sections": 5,
+            "changed_fields_count": 3,
+            "failed_sections": [],
+            "raw_file_updated": false
+        }
+    ]
+}
