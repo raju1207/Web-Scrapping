@@ -32,6 +32,16 @@ def pin(value):
     return text if re.fullmatch(r"[1-9][0-9]{5}", text) else None
 
 
+def source_pin(value):
+    """Normalize a dedicated source field; configured PINs remain strict."""
+    if isinstance(value, bool) or not isinstance(value, (str, int)):
+        return None
+    text = str(value).strip()
+    if not re.fullmatch(r"[0-9][0-9\s-]*[0-9]", text) or text.count("-") > 1:
+        return None
+    return pin(re.sub(r"[\s-]", "", text))
+
+
 def check_access(text, status=200):
     lower = str(text).lower()
     phrases = ("invalid captcha", "captcha required", "verify you are human",

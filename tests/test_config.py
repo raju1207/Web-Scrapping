@@ -6,7 +6,7 @@ import unittest
 from pathlib import Path
 
 from school_scraping.config import (
-    ConfigurationError, DEFAULT_CONFIG, PROJECT_DIR, add_arguments,
+    ConfigurationError, DEFAULT_CONFIG, PROJECT_DIR, SAFE_CANDIDATE_LIMIT, add_arguments,
     load_config, resolve_jobs, resolve_source_args, scope_key,
 )
 
@@ -53,11 +53,53 @@ class ConfigurationTests(unittest.TestCase):
         path.write_text(json.dumps(config))
         return path
 
-    def test_shipped_configuration_is_disabled_and_cannot_launch_a_scrape(self):
+    def test_shipped_configuration_keeps_background_scheduling_and_database_disabled(self):
         config = load_config(DEFAULT_CONFIG)
         self.assertFalse(config["database"]["enabled"])
-        self.assertEqual(resolve_jobs(config, "udise"), [])
-        self.assertEqual(resolve_jobs(config, "saras"), [])
+        self.assertFalse(config["scheduler"]["enabled"])
+        for source in ("udise", "saras"):
+            self.assertFalse(config["sources"][source]["all_states"])
+            self.assertEqual({location["name"] for location in config["sources"][source]["locations"]
+                              if "coverage_target" in location},
+                             {"chandigarh", "delhi", "mumbai"})
+            self.assertTrue(all(not location["enabled"] for location in config["sources"][source]["locations"]
+                                if location["name"] in {"chandigarh", "delhi", "mumbai"}))
+
+    def test_requested_targets_use_verified_source_specific_geographic_scopes(self):
+        config = load_config(DEFAULT_CONFIG)
+        for source in ("udise", "saras"):
+            targets = {location["name"]: location for location in config["sources"][source]["locations"]}
+            self.assertEqual(targets["chandigarh"]["state"], "CHANDIGARH")
+            self.assertEqual(targets["delhi"]["state"], "DELHI")
+            self.assertEqual(targets["chandigarh"]["districts"], [])
+            self.assertEqual(targets["delhi"]["districts"], [])
+            self.assertEqual(targets["mumbai"]["state"], "MAHARASHTRA")
+            self.assertEqual(set(targets["mumbai"]["districts"]),
+                             {"MUMBAI II", "MUMBAI (SUBURBAN)"} if source == "udise"
+                             else {"MUMBAI", "MUMBAI SUBURBAN"})
+            for name in ("chandigarh", "delhi", "mumbai"):
+                self.assertEqual(targets[name]["pincodes"], [])
+                self.assertEqual(targets[name]["coverage_reference"], "config/location_geography_reference.json")
+
+    def test_mumbai_target_rejects_statewide_and_unrelated_district_scopes(self):
+        for source in ("udise", "saras"):
+            for fields in ({"districts": []}, {"districts": ["PUNE", "MUMBAI"]}, {"state": "DELHI"}):
+                with tempfile.TemporaryDirectory() as root:
+                    config = json.loads(DEFAULT_CONFIG.read_text())
+                    location = next(location for location in config["sources"][source]["locations"]
+                                    if location["name"] == "mumbai")
+                    location.update(fields)
+                    with self.subTest(source=source, fields=fields), self.assertRaisesRegex(ConfigurationError, "Mumbai requires"):
+                        load_config(self.write(root, config))
+
+    def test_mumbai_cli_location_filter_cannot_expand_verified_scope(self):
+        with tempfile.TemporaryDirectory() as root:
+            config = json.loads(DEFAULT_CONFIG.read_text())
+            next(location for location in config["sources"]["saras"]["locations"]
+                 if location["name"] == "mumbai")["enabled"] = True
+            argv = ["--config", str(self.write(root, config)), "--location", "mumbai", "--district", "PUNE"]
+            with self.assertRaisesRegex(ConfigurationError, "Mumbai requires"):
+                resolve_source_args(source_parser().parse_args(argv), "saras", argv)
 
     def test_paired_geographies_are_separate_jobs(self):
         with tempfile.TemporaryDirectory() as root:
@@ -84,12 +126,73 @@ class ConfigurationTests(unittest.TestCase):
             jobs = resolve_jobs(load_config(self.write(root, config)), "udise")
         self.assertEqual([job["refresh_days"] for job in jobs], [2, 10])
 
+    def test_null_limit_is_bounded_and_unlimited_requires_explicit_cli_flag(self):
+        with tempfile.TemporaryDirectory() as root:
+            config = example()
+            config["defaults"]["limit"] = None
+            path = self.write(root, config)
+            base = ["--config", str(path), "--location", "haryana"]
+            bounded = resolve_source_args(source_parser().parse_args(base), "udise", base)[0]
+            full = [*base, "--unlimited", "--max-duration", "120"]
+            unlimited = resolve_source_args(source_parser().parse_args(full), "udise", full)[0]
+        self.assertEqual(bounded.limit, SAFE_CANDIDATE_LIMIT)
+        self.assertFalse(bounded.unlimited)
+        self.assertEqual(bounded.collection_mode, "bounded")
+        self.assertIsNone(unlimited.limit)
+        self.assertTrue(unlimited.unlimited)
+        self.assertEqual(unlimited.max_duration, 120)
+        self.assertEqual(unlimited.collection_mode, "unlimited")
+
+    def test_cli_and_location_candidate_limits_are_honored(self):
+        with tempfile.TemporaryDirectory() as root:
+            config = example()
+            config["defaults"]["limit"] = 19
+            config["sources"]["udise"]["limit"] = 11
+            config["sources"]["udise"]["locations"][1]["limit"] = 7
+            base = ["--config", str(self.write(root, config)), "--location", "haryana"]
+            inherited = resolve_source_args(source_parser().parse_args(base), "udise", base)[0]
+            explicit = [*base, "--limit", "2"]
+            selected = resolve_source_args(source_parser().parse_args(explicit), "udise", explicit)[0]
+            full = [*base, "--unlimited"]
+            unlimited = resolve_source_args(source_parser().parse_args(full), "udise", full)[0]
+        self.assertEqual(inherited.limit, 7)
+        self.assertEqual(selected.limit, 2)
+        self.assertIsNone(unlimited.limit)
+
+    def test_conflicting_limits_and_invalid_time_budgets_are_rejected(self):
+        for extra in (["--limit", "2", "--unlimited"], ["--max-duration", "0"],
+                      ["--max-duration", "-1"], ["--max-duration", "nan"], ["--max-duration", "inf"]):
+            argv = ["--state", "Punjab", *extra]
+            with self.subTest(extra=extra), self.assertRaises(ConfigurationError):
+                resolve_source_args(source_parser().parse_args(argv), "udise", argv)
+
+    def test_coverage_metadata_is_preserved_and_validated(self):
+        with tempfile.TemporaryDirectory() as root:
+            config = example()
+            location = config["sources"]["udise"]["locations"][0]
+            location.update({"coverage_target": "chandigarh", "coverage_reference": "config/geography.json"})
+            loaded = load_config(self.write(root, config))
+            self.assertEqual(loaded["sources"]["udise"]["locations"][0]["coverage_target"], "chandigarh")
+            for change in ({"coverage_target": "all_india"}, {"coverage_reference": ""}):
+                invalid = copy.deepcopy(config)
+                invalid["sources"]["udise"]["locations"][0].update(change)
+                with self.subTest(change=change), self.assertRaises(ConfigurationError):
+                    load_config(self.write(root, invalid))
+
+    def test_valid_configured_pincodes_normalize_surrounding_whitespace(self):
+        with tempfile.TemporaryDirectory() as root:
+            config = example()
+            config["sources"]["udise"]["locations"][0]["pincodes"] = [" 140001 ", "140001"]
+            loaded = load_config(self.write(root, config))
+        self.assertEqual(loaded["sources"]["udise"]["locations"][0]["pincodes"], ["140001"])
+
     def test_invalid_settings_are_rejected_before_execution(self):
         modifications = [
             lambda c: c.update({"password": "never-log"}),
             lambda c: c["defaults"].update({"refresh_days": -1}),
             lambda c: c["defaults"].update({"delay": float("nan")}),
             lambda c: c["defaults"].update({"year_id": True}),
+            lambda c: c["defaults"].update({"unlimited": True}),
             lambda c: c["defaults"].update({"academic_year": "Real Time"}),
             lambda c: c["recovery"].update({"max_task_attempts": 0}),
             lambda c: c["scheduler"].update({"time": "25:00"}),
