@@ -236,6 +236,10 @@ class SarasBrowser:
         self.page, self.args = page, args
 
     def guard(self, status: int = 200) -> None:
+        if status == 429:
+            raise ManualIntervention(
+                "SARAS returned HTTP 429 (rate limited). Collection stopped; "
+                "resume only after permitted access is restored. No automatic retry.")
         def assert_access(response_status=200):
             text = self.page.locator("body").inner_text(timeout=self.args.timeout * 1000)
             check_access(text, response_status)
