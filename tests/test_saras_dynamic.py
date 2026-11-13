@@ -115,15 +115,56 @@ class SarasDynamicTests(unittest.TestCase):
         widgets.nth.return_value.is_visible.return_value = False
         browser.guard()
 
-    def test_rate_limited_navigation_retries_with_a_bound(self):
+    def test_transient_server_failure_navigation_retries_with_a_bound(self):
         page = Mock()
-        page.goto.side_effect = [SimpleNamespace(status=429), SimpleNamespace(status=200)]
+        page.goto.side_effect = [SimpleNamespace(status=503), SimpleNamespace(status=200)]
         args = SimpleNamespace(delay=0, timeout=1, retries=1)
         browser = saras.SarasBrowser(page, args)
         browser.guard = Mock()
         with patch.object(saras.time, "sleep"):
             browser.navigate(saras.LIST_URL)
         self.assertEqual(page.goto.call_count, 2)
+
+    def test_rate_limited_navigation_stops_without_retry_or_page_read(self):
+        page = Mock()
+        page.goto.return_value = SimpleNamespace(status=429)
+        args = SimpleNamespace(delay=0, timeout=1, retries=2, manual_captcha=60, headless=False)
+        browser = saras.SarasBrowser(page, args)
+        with patch.object(saras.time, "sleep"), self.assertRaises(ManualIntervention):
+            browser.navigate(saras.LIST_URL)
+        page.goto.assert_called_once()
+        page.locator.assert_not_called()
+
+    def test_rate_limit_on_first_detail_preserves_remaining_candidates_and_stops(self):
+        with tempfile.TemporaryDirectory() as directory:
+            args = self.args(Path(directory), "--limit", "3", "--manual-captcha", "60")
+            args.state = ["Punjab"]
+            page = Mock()
+            access = saras.SarasBrowser(page, args)
+
+            class RateLimitedBrowser(FakeBrowser):
+                def detail(self, school):
+                    self.detail_calls.append(school["affiliation_number"])
+                    access.guard(429)
+
+            identifiers = ["1630001", "1630002", "1630003"]
+            browser = RateLimitedBrowser({"PUNJAB": [listing(value) for value in identifiers]})
+            report = saras.run(args, browser)
+            self.assertEqual(report["status"], "manual_intervention")
+            self.assertEqual(browser.detail_calls, [identifiers[0]])
+            self.assertEqual(report["counts"]["discovered"], 3)
+            self.assertEqual(report["counts"]["failed"], 1)
+            self.assertEqual(report["counts"]["success"], 0)
+            self.assertEqual(report["pending_identifiers"], identifiers[1:])
+            self.assertEqual(report["counts"]["pending"], 2)
+            self.assertEqual(len(report["candidate_manifest"]), 3)
+            self.assertEqual(list(Path(directory).glob("CBSE_SARAS/*/schools/*.json")), [])
+            events = [json.loads(line) for line in
+                      (Path(directory) / ".scraping_state/events.jsonl").read_text(encoding="utf-8").splitlines()]
+            discovered = [event["payload"]["school_identifier"] for event in events
+                          if event["kind"] == "task_discovered"]
+            self.assertEqual(discovered, identifiers)
+            page.locator.assert_not_called()
 
     def test_pagination_collects_multiple_pages_and_stops_at_disabled_next(self):
         def html(affiliation):
