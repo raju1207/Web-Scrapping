@@ -150,7 +150,7 @@ class SchedulerTests(unittest.TestCase):
             config = json.loads(Path(scheduler.load_config()["_path"]).read_text())
             config["scheduler"]["sources"] = ["udise"]
             for location in config["sources"]["udise"]["locations"]:
-                location["enabled"] = True
+                location["enabled"] = location["name"] in {"punjab", "haryana"}
             path = Path(root) / "config.json"
             path.write_text(json.dumps(config))
             argv = ["--config", str(path), "--dry-run"]
@@ -163,6 +163,46 @@ class SchedulerTests(unittest.TestCase):
         self.assertEqual(commands[1][1][commands[1][1].index("--location") + 1], "haryana")
         self.assertIn("134001", commands[1][1])
         self.assertIn("--no-database", commands[0][1])
+
+    def test_null_configured_limit_becomes_explicit_safe_limit_in_child(self):
+        with tempfile.TemporaryDirectory() as root:
+            config = scheduler.load_config()
+            config.pop("_path")
+            config["defaults"]["limit"] = None
+            path = Path(root) / "config.json"
+            path.write_text(json.dumps(config))
+            argv = ["--config", str(path), "--state", "Punjab", "--source", "saras", "--dry-run"]
+            args = scheduler.prepare_args(scheduler.build_parser().parse_args(argv), argv)
+            command = scheduler.build_commands(args)[0][1]
+        self.assertEqual(command[command.index("--limit") + 1], "25")
+        self.assertNotIn("--unlimited", command)
+        self.assertIn("--no-database", command)
+
+    def test_explicit_unlimited_and_time_budget_reach_actual_child_command(self):
+        with tempfile.TemporaryDirectory() as root:
+            args = self.prepared(root, "--unlimited", "--max-duration", "90")
+            command = scheduler.build_commands(args)[0][1]
+        self.assertIn("--unlimited", command)
+        self.assertNotIn("--limit", command)
+        self.assertEqual(command[command.index("--max-duration") + 1], "90.0")
+        self.assertIn("--state-dir", command)
+        self.assertIn("--max-task-attempts", command)
+        self.assertIn("--retry-delay-minutes", command)
+
+    def test_dry_run_displays_resolved_limits_and_recovery_settings(self):
+        output = io.StringIO()
+        with contextlib.redirect_stdout(output):
+            scheduler.main(["--dry-run", "--source", "saras", "--state", "Delhi", "--limit", "3",
+                            "--max-duration", "45", "--retry-delay-minutes", "7"])
+        report = json.loads(output.getvalue())
+        location = report["locations"][0]
+        command = report["commands"][0]["argv"]
+        self.assertEqual(location["candidate_limit"], 3)
+        self.assertEqual(location["collection_mode"], "bounded")
+        self.assertEqual(location["max_duration_seconds"], 45)
+        self.assertEqual(location["retry_delay_minutes"], 7)
+        self.assertFalse(location["database_enabled"])
+        self.assertEqual(command[command.index("--limit") + 1], "3")
 
     def test_future_checkpoint_skips_child_and_records_scheduler_summary(self):
         with tempfile.TemporaryDirectory() as root:

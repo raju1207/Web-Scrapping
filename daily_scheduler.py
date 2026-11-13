@@ -18,7 +18,7 @@ from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 
 from school_scraping.common import SourceLock
 from school_scraping.config import (
-    ConfigurationError, add_arguments, explicit_options, load_config, resolve_source_args,
+    ConfigurationError, SAFE_CANDIDATE_LIMIT, add_arguments, explicit_options, load_config, resolve_source_args,
 )
 
 
@@ -67,7 +67,7 @@ def build_parser():
     parser.add_argument("--manual-captcha", type=positive_int,
                         help="Seconds to allow manual browser CAPTCHA completion in either scraper.")
     parser.add_argument("--headless", action="store_true", help="Run SARAS browser without a visible window.")
-    parser.add_argument("--limit", type=positive_int, help="Maximum schools per source per run.")
+    parser.add_argument("--limit", type=positive_int, help="Maximum unique candidates per job; null/omitted config uses a safe bounded default.")
     parser.add_argument("--refresh", action="store_true", help="Check for intentional source updates.")
     parser.add_argument("--delay", type=float, default=0.5, help="Minimum delay between source requests.")
     parser.add_argument("--retries", type=int, default=3, help="Bounded transient source retries.")
@@ -121,10 +121,11 @@ def build_commands(args):
         for option in ("district", "pincode"):
             for value in getattr(args, option):
                 command.extend([f"--{option}", value])
-        for option in ("data_dir", "report_dir", "limit"):
+        for option in ("data_dir", "report_dir", "max_duration"):
             value = getattr(args, option)
             if value is not None:
                 command.extend(["--" + option.replace("_", "-"), str(value)])
+        _append_collection_mode(command, args)
         if args.refresh:
             command.append("--refresh")
         if args.manual_captcha is not None:
@@ -165,6 +166,16 @@ def prepare_args(args, argv=None):
     return args
 
 
+def _append_collection_mode(command, job):
+    """The displayed command always makes candidate limits intentional."""
+    if getattr(job, "unlimited", False):
+        if getattr(job, "limit", None) is not None:
+            raise ConfigurationError("--limit and --unlimited cannot be combined")
+        command.append("--unlimited")
+    else:
+        command.extend(["--limit", str(getattr(job, "limit", None) or SAFE_CANDIDATE_LIMIT)])
+
+
 def _job_command(args, source, job):
     command = [sys.executable, str(PROJECT_DIR / SCRIPTS[source]), "--config", str(job.config)]
     if args.explicit_scope:
@@ -178,11 +189,12 @@ def _job_command(args, source, job):
     for option in ("district", "pincode"):
         for value in getattr(job, option):
             command.extend([f"--{option}", str(value)])
-    for option in ("data_dir", "report_dir", "limit", "state_dir", "refresh_days",
+    for option in ("data_dir", "report_dir", "state_dir", "refresh_days", "max_duration",
                    "check_interval_hours", "retry_delay_minutes", "max_task_attempts", "delay", "retries"):
         value = getattr(job, option, None)
         if value is not None:
             command.extend(["--" + option.replace("_", "-"), str(value)])
+    _append_collection_mode(command, job)
     command.append("--database" if job.database else "--no-database")
     for option in ("refresh", "retry_failed", "sync_pending"):
         if getattr(job, option, False):
@@ -410,7 +422,14 @@ def main(argv=None):
                           "locations": [{"source": source, "name": job.location_name,
                                          "scope_key": job.scope_key, "state": job.state,
                                          "districts": job.district, "pincodes": job.pincode,
-                                         "database_enabled": job.database}
+                                         "database_enabled": job.database,
+                                         "collection_mode": job.collection_mode,
+                                         "candidate_limit": job.limit,
+                                         "max_duration_seconds": job.max_duration,
+                                         "state_dir": str(job.state_dir),
+                                         "max_task_attempts": job.max_task_attempts,
+                                         "retry_delay_minutes": job.retry_delay_minutes,
+                                         "delay_seconds": job.delay}
                                         for source, job in args.resolved_jobs],
                           "commands": [{"source": source, "argv": command}
                                        for source, command in build_commands(args)]}, indent=2))

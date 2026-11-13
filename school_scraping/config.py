@@ -14,14 +14,21 @@ from school_scraping.common import parse_values, pin, read_json
 
 PROJECT_DIR = Path(__file__).resolve().parents[1]
 DEFAULT_CONFIG = PROJECT_DIR / "config" / "states_pincodes.json"
+SAFE_CANDIDATE_LIMIT = 25
 DEFAULTS = {
     "refresh_days": 30, "check_interval_hours": 24, "retry_delay_minutes": 60,
-    "retries": 3, "delay": 0.5, "limit": None, "academic_year": "2025-26",
+    "retries": 3, "delay": 0.5, "limit": SAFE_CANDIDATE_LIMIT, "academic_year": "2025-26",
     "year_id": None,
 }
 NUMBERS = {"refresh_days", "check_interval_hours", "retry_delay_minutes", "delay"}
 INTEGERS = {"retries", "year_id", "limit", "max_task_attempts"}
 SETTINGS = set(DEFAULTS) | {"max_task_attempts"}
+# Official district catalogs retrieved 2026-11-10; provenance is recorded in
+# config/location_geography_reference.json. The sources use different names.
+MUMBAI_SOURCE_DISTRICTS = {
+    "udise": frozenset({"mumbai ii", "mumbai (suburban)"}),
+    "saras": frozenset({"mumbai", "mumbai suburban"}),
+}
 
 
 class ConfigurationError(ValueError):
@@ -78,6 +85,15 @@ def _strings(value, label):
         raise ConfigurationError(f"{label} must be a list of nonempty strings")
 
 
+def _validate_target_scope(source, target, states, districts, label):
+    if target != "mumbai":
+        return
+    if ([state.strip().casefold() for state in states] != ["maharashtra"]
+            or len(districts) != 2
+            or {district.strip().casefold() for district in districts} != MUMBAI_SOURCE_DISTRICTS[source]):
+        raise ConfigurationError(f"{label}: Mumbai requires MAHARASHTRA and both verified {source} Mumbai districts")
+
+
 def load_config(path=DEFAULT_CONFIG):
     path = project_path(path)
     try:
@@ -108,7 +124,7 @@ def load_config(path=DEFAULT_CONFIG):
     scheduler = config.setdefault("scheduler", {})
     _object(scheduler, "scheduler")
     _unknown(scheduler, {"enabled", "time", "timezone", "sources"}, "scheduler")
-    scheduler.setdefault("enabled", True)
+    scheduler.setdefault("enabled", False)
     scheduler.setdefault("time", "02:00")
     scheduler.setdefault("timezone", "Asia/Kolkata")
     scheduler.setdefault("sources", ["udise", "saras"])
@@ -146,7 +162,8 @@ def load_config(path=DEFAULT_CONFIG):
         for index, location in enumerate(section["locations"]):
             label = f"{source}.locations[{index}]"
             _object(location, label)
-            _unknown(location, SETTINGS | {"name", "enabled", "state", "districts", "pincodes"}, label)
+            _unknown(location, SETTINGS | {"name", "enabled", "state", "districts", "pincodes",
+                                           "coverage_target", "coverage_reference"}, label)
             _settings(location, label)
             _boolean(location.setdefault("enabled", True), f"{label}.enabled")
             state = location.get("state")
@@ -156,11 +173,19 @@ def load_config(path=DEFAULT_CONFIG):
             if not isinstance(location["name"], str) or not location["name"].strip() or location["name"] in names:
                 raise ConfigurationError(f"{label}.name must be nonempty and unique within its source")
             names.add(location["name"])
+            if "coverage_target" in location and (not isinstance(location["coverage_target"], str)
+                                                   or location["coverage_target"] not in {"chandigarh", "delhi", "mumbai"}):
+                raise ConfigurationError(f"{label}.coverage_target must be chandigarh, delhi or mumbai")
+            if "coverage_reference" in location and (not isinstance(location["coverage_reference"], str)
+                                                       or not location["coverage_reference"].strip()):
+                raise ConfigurationError(f"{label}.coverage_reference must be a nonempty provenance path")
             for field in ("districts", "pincodes"):
                 location.setdefault(field, [])
                 _strings(location[field], f"{label}.{field}")
             if any(pin(value) is None for value in location["pincodes"]):
                 raise ConfigurationError(f"{label}.pincodes must contain exact six-digit PIN values")
+            location["pincodes"] = list(dict.fromkeys(pin(value) for value in location["pincodes"]))
+            _validate_target_scope(source, location.get("coverage_target"), [state], location["districts"], label)
         if section["all_states"] and any(location["enabled"] for location in section["locations"]):
             raise ConfigurationError(f"{source}: all_states cannot be combined with enabled location scopes")
     config["_path"] = str(path.resolve())
@@ -190,6 +215,7 @@ def resolve_jobs(config, source, overrides=None):
             if field in section:
                 job[field] = section[field]
         job.update({key: value for key, value in overrides.items() if key != "force_enabled"})
+        job["limit"] = job.get("limit") or SAFE_CANDIDATE_LIMIT
         job["scope_key"] = scope_key(source, [job["state"]] if job["state"] else [],
                                       job["districts"], job["pincodes"], job["all_states"])
         jobs.append(job)
@@ -208,6 +234,10 @@ def add_arguments(parser):
     parser.add_argument("--database", action=argparse.BooleanOptionalAction, default=None,
                         help="Enable PostgreSQL integration after applying the reviewed migration; disabled by default.")
     parser.add_argument("--state-dir", type=Path, default=None, help="Local crash-safe recovery state directory.")
+    parser.add_argument("--unlimited", action="store_true",
+                        help="Explicitly evaluate every source candidate; omitted/null limits otherwise use a safe bounded default.")
+    parser.add_argument("--max-duration", type=float, default=None, metavar="SECONDS",
+                        help="Stop safely after this many elapsed seconds; a timed run does not establish complete coverage.")
 
 
 def explicit_options(argv=None):
@@ -233,6 +263,22 @@ def _source_paths(selected, section, source, explicit):
         selected.storage_state = project_path(section["storage_state"])
 
 
+def _collection_limits(selected, args, explicit):
+    """A null or omitted configured limit never silently enables full collection."""
+    unlimited = "unlimited" in explicit and bool(getattr(args, "unlimited", False))
+    if unlimited and "limit" in explicit:
+        raise ConfigurationError("--limit and --unlimited cannot be combined")
+    selected.unlimited = unlimited
+    selected.limit = None if unlimited else (getattr(selected, "limit", None) or SAFE_CANDIDATE_LIMIT)
+    selected.collection_mode = "unlimited" if unlimited else "bounded"
+    duration = getattr(args, "max_duration", None)
+    if duration is not None and (isinstance(duration, bool) or not isinstance(duration, (int, float))
+                                 or not 0 < duration < float("inf")):
+        raise ConfigurationError("--max-duration must be a finite positive number of seconds")
+    selected.max_duration = duration
+    return selected
+
+
 def resolve_source_args(args, source, argv=None):
     """Map config plans onto existing CLI namespaces without mutating the caller.
 
@@ -241,6 +287,8 @@ def resolve_source_args(args, source, argv=None):
     """
     config = load_config(getattr(args, "config", DEFAULT_CONFIG))
     explicit = explicit_options(argv)
+    if "limit" in explicit and "unlimited" in explicit:
+        raise ConfigurationError("--limit and --unlimited cannot be combined")
     cli_scope = bool(explicit & {"state", "all_states"})
     overrides = {}
     for key in SETTINGS | {"database", "state_dir"}:
@@ -269,7 +317,7 @@ def resolve_source_args(args, source, argv=None):
         selected.state_dir = _recovery_path(args, config, explicit, overrides)
         selected.config = Path(config["_path"])
         _source_paths(selected, config["sources"][source], source, explicit)
-        return [selected]
+        return [_collection_limits(selected, args, explicit)]
     jobs = resolve_jobs(config, source, overrides)
     wanted = parse_values(getattr(args, "location", []))
     if wanted:
@@ -280,7 +328,7 @@ def resolve_source_args(args, source, argv=None):
     namespaces = []
     for job in jobs:
         selected = copy.copy(args)
-        for key in SETTINGS | {"database", "state_dir", "all_states", "scope_key"}:
+        for key in SETTINGS | {"database", "state_dir", "all_states", "scope_key", "coverage_target", "coverage_reference"}:
             if key in job:
                 setattr(selected, key, job[key])
         selected.state = [job["state"]] if job["state"] else []
@@ -289,11 +337,12 @@ def resolve_source_args(args, source, argv=None):
         if any(pin(value) is None for value in selected.pincode):
             raise ConfigurationError("Pincodes must contain exact six-digit PIN values")
         selected.location_name = job["name"]
+        _validate_target_scope(source, job.get("coverage_target"), selected.state, selected.district, "Resolved location scope")
         selected.scope_key = scope_key(source, selected.state, selected.district, selected.pincode, selected.all_states)
         selected.state_dir = _recovery_path(args, config, explicit, overrides)
         selected.config = Path(config["_path"])
         _source_paths(selected, config["sources"][source], source, explicit)
-        namespaces.append(selected)
+        namespaces.append(_collection_limits(selected, args, explicit))
     if not namespaces and getattr(args, "sync_pending", False):
         selected = copy.copy(args)
         for key, value in {**config["defaults"], "max_task_attempts": config["recovery"]["max_task_attempts"], **overrides}.items():
@@ -305,5 +354,5 @@ def resolve_source_args(args, source, argv=None):
         selected.database = overrides.get("database", config["database"]["enabled"])
         selected.state_dir = _recovery_path(args, config, explicit, overrides)
         selected.config = Path(config["_path"])
-        namespaces.append(selected)
+        namespaces.append(_collection_limits(selected, args, explicit))
     return namespaces

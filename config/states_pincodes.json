@@ -6,14 +6,14 @@
     "retry_delay_minutes": 60,
     "retries": 3,
     "delay": 0.5,
-    "limit": null,
+    "limit": 25,
     "academic_year": "2025-26",
     "year_id": null
   },
   "database": {"enabled": false},
   "recovery": {"state_dir": ".scraping_state", "max_task_attempts": 5},
   "scheduler": {
-    "enabled": true,
+    "enabled": false,
     "time": "02:00",
     "timezone": "Asia/Kolkata",
     "sources": ["udise", "saras"]
@@ -25,7 +25,10 @@
       "school_lists": [],
       "locations": [
         {"name": "punjab", "enabled": false, "state": "Punjab", "districts": [], "pincodes": ["140001"]},
-        {"name": "haryana", "enabled": false, "state": "Haryana", "districts": [], "pincodes": ["134001"]}
+        {"name": "haryana", "enabled": false, "state": "Haryana", "districts": [], "pincodes": ["134001"]},
+        {"name": "chandigarh", "enabled": false, "state": "CHANDIGARH", "districts": [], "pincodes": [], "coverage_target": "chandigarh", "coverage_reference": "config/location_geography_reference.json"},
+        {"name": "delhi", "enabled": false, "state": "DELHI", "districts": [], "pincodes": [], "coverage_target": "delhi", "coverage_reference": "config/location_geography_reference.json"},
+        {"name": "mumbai", "enabled": false, "state": "MAHARASHTRA", "districts": ["MUMBAI II", "MUMBAI (SUBURBAN)"], "pincodes": [], "coverage_target": "mumbai", "coverage_reference": "config/location_geography_reference.json"}
       ]
     },
     "saras": {
@@ -33,7 +36,10 @@
       "all_states": false,
       "locations": [
         {"name": "punjab", "enabled": false, "state": "Punjab", "districts": [], "pincodes": ["140001"]},
-        {"name": "haryana", "enabled": false, "state": "Haryana", "districts": [], "pincodes": ["134001"]}
+        {"name": "haryana", "enabled": true, "state": "Haryana", "districts": [], "pincodes": ["134001"]},
+        {"name": "chandigarh", "enabled": false, "state": "CHANDIGARH", "districts": [], "pincodes": [], "coverage_target": "chandigarh", "coverage_reference": "config/location_geography_reference.json"},
+        {"name": "delhi", "enabled": false, "state": "DELHI", "districts": [], "pincodes": [], "coverage_target": "delhi", "coverage_reference": "config/location_geography_reference.json"},
+        {"name": "mumbai", "enabled": false, "state": "MAHARASHTRA", "districts": ["MUMBAI", "MUMBAI SUBURBAN"], "pincodes": [], "coverage_target": "mumbai", "coverage_reference": "config/location_geography_reference.json"}
       ]
     }
   }

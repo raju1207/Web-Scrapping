@@ -16,7 +16,7 @@ import requests
 
 from school_scraping.common import (
     ManualIntervention, RawStore, SourceLock, check_access, normalize,
-    parse_values, pin, read_json, safe_filename, write_report,
+    parse_values, pin, read_json, safe_filename, source_pin, write_report,
 )
 from school_scraping.config import add_arguments, resolve_source_args, ConfigurationError
 from school_scraping.incremental import IncrementalRuntime, sync_pending
@@ -92,6 +92,11 @@ class UdiseClient:
             time.sleep(self.delay * (2 ** attempt))
             try:
                 response = self.session.get(url, params=params, timeout=self.timeout)
+                if response.status_code == 429:
+                    event("rate_limit_encountered", http_status=429)
+                    raise ManualIntervention(
+                        "UDISE+ returned HTTP 429 (rate limited). Collection stopped; "
+                        "resume only after permitted access is restored. No automatic retry.")
                 try:
                     check_access(response.text, response.status_code)
                 except ManualIntervention:
@@ -147,26 +152,106 @@ def selected_rows(rows, states, districts, pincodes):
             continue
         if districts and normalize(get_value(row, "districtName", "district")) not in {normalize(d) for d in districts}:
             continue
-        # Missing PIN may be resolved from the detail report; never infer from addresses.
-        value = pin(get_value(row, "pincode", "pinCode", "pin_code"))
-        if pincodes and value and value not in pincodes:
-            continue
+        # Search summaries can be current while details describe the selected
+        # year. Evaluate PINs after details rather than dropping candidates here.
         yield row
+
+
+def source_pincode(record, academic_year=None):
+    """Keep source fields as evidence; never extract digits from an address."""
+    fields = {}
+    for section in ("report_card", "school_summary"):
+        values = record.get(section) or {}
+        for key in ("pincode", "pinCode", "pin_code"):
+            if values.get(key) not in (None, ""):
+                fields[f"{section}.{key}"] = values[key]
+        # The detailed report takes precedence over the current search summary.
+        if fields:
+            break
+    values = [value for value in fields.values() if value is not None and str(value).strip()]
+    codes = [source_pin(value) for value in values]
+    status = ("missing" if not values else "invalid" if None in codes else
+              "conflicting" if len(set(codes)) > 1 else "valid")
+    requested_year = academic_year or (record.get("metadata") or {}).get("academic_year")
+    source = section if fields else None
+    source_year = get_value(record.get(source) or {}, "academicYear", "sessionYear", "yearDesc") if source else None
+    # Annual detail endpoints are requested with the verified year ID. A current
+    # summary has its own independent year and cannot inherit that detail year.
+    if source == "report_card" and source_year is None:
+        source_year = (record.get("metadata") or {}).get("academic_year")
+    return {"actual_pincode": codes[0] if status == "valid" else None,
+            "pincode_status": status, "pincode_raw": fields, "pincode_field": list(fields),
+            "pincode_source": source, "pincode_academic_year": source_year,
+            "pincode_requested_academic_year": requested_year,
+            "scope_year_verified": bool(requested_year and source_year and str(source_year) == str(requested_year))}
+
+
+def validate_record_context(record, row, args):
+    """Reject contradictory source identity/geography/year without altering JSON."""
+    code = str(get_value(row, "udiseschCode", "udiseSchCode", "udiseCode") or "")
+    state, district = get_value(row, "stateName", "state"), get_value(row, "districtName", "district")
+    if not state or not district:
+        raise ValueError("Source listing is missing state or district")
+    metadata = record.get("metadata") or {}
+    if metadata.get("udise_code") is not None and str(metadata["udise_code"]) != code:
+        raise ValueError("Source identity mismatch in metadata")
+    if metadata.get("academic_year") is not None and metadata["academic_year"] != args.academic_year:
+        raise ValueError("Source academic-year mismatch in metadata")
+    if metadata.get("year_id") is not None and str(metadata["year_id"]) != str(args.year_id):
+        raise ValueError("Source year ID mismatch in metadata")
+    for section in ("school_profile", "report_card"):
+        value = record.get(section) or {}
+        actual_id = get_value(value, "udiseschCode", "udiseSchCode", "udiseCode")
+        if actual_id is not None and str(actual_id) != code:
+            raise ValueError(f"Source identity mismatch in {section}")
+        for keys, expected in ((('stateName', 'state'), state), (('districtName', 'district'), district)):
+            actual = get_value(value, *keys)
+            if actual and normalize(actual) != normalize(expected):
+                raise ValueError(f"Source geography mismatch in {section}")
+        actual_year = get_value(value, "academicYear", "sessionYear", "yearDesc")
+        if actual_year and str(actual_year) != args.academic_year:
+            raise ValueError(f"Source detail academic-year mismatch in {section}")
+        if value.get("yearId") is not None and str(value["yearId"]) != str(args.year_id):
+            raise ValueError(f"Source detail year ID mismatch in {section}")
+    summary_year = get_value(row, "sessionYear", "academicYear", "yearDesc")
+    return {"identity_verified": True, "geography_verified": True,
+            "summary_academic_year": summary_year,
+            "summary_year_matches": summary_year is None or str(summary_year) == args.academic_year}
+
+
+def validate_saved_response(value):
+    """Check response envelopes without interpreting a school's status field."""
+    if not isinstance(value, dict) or any(
+            key in value for key in ("udiseschCode", "udiseSchCode", "udiseCode")):
+        return
+    if value.get("status") is False:
+        check_access(json.dumps(value))
+        raise ValueError("Saved school list is an unsuccessful source response")
+    for key in ("response", "data", "results", "result"):
+        validate_saved_response(value.get(key))
 
 
 def load_lists(paths):
     rows = []
     for path in paths:
         value = read_json(path)
-        if isinstance(value, dict) and value.get("status") is False:
-            check_access(json.dumps(value))
-            raise ValueError(f"Saved school list is an unsuccessful source response: {path}")
+        validate_saved_response(value)
         found = find_school_list(value)
-        data = value.get("data", {}) if isinstance(value, dict) else {}
-        if isinstance(data, dict) and isinstance(data.get("totalElements"), int) and data["totalElements"] > len(found):
+        if any(total > len(found) for total in listing_totals(value)):
             raise ValueError(f"Saved response is paginated/incomplete: {path}; export the complete source listing")
         rows.extend(found)
     return rows
+
+
+def listing_totals(value):
+    """Inspect response wrappers, without mistaking school detail fields for totals."""
+    if not isinstance(value, dict):
+        return []
+    totals = [value[key] for key in ("totalElements", "totalRecords")
+              if isinstance(value.get(key), int) and not isinstance(value[key], bool)]
+    for key in ("data", "response", "results", "result"):
+        totals.extend(listing_totals(value.get(key)))
+    return totals
 
 
 def task_matches(url, task):
@@ -215,10 +300,15 @@ def manual_discovery(tasks, wait_seconds, report):
                 if value.get("status") is not True:
                     raise ManualIntervention("Official search was unsuccessful; complete a new manual search to resume")
                 found = find_school_list(value)
-                data = value.get("data", {})
-                if isinstance(data, dict) and data.get("totalElements", len(found)) > len(found):
+                totals = listing_totals(value)
+                if any(total > len(found) for total in totals):
                     raise RuntimeError("Source returned a partial listing; export complete official pages with --school-list")
                 rows.extend(found)
+                report.setdefault("listing_scopes", []).append({**task, "unique_candidates": len({
+                    str(get_value(row, "udiseschCode", "udiseSchCode", "udiseCode")) for row in found}),
+                    "reported_total": max(totals) if totals else None,
+                    "pagination_complete": bool(totals) and all(total == len(found) for total in totals),
+                    "stop_reason": "official_manual_response"})
                 # Retain exact source body without query/CAPTCHA tokens in a versioned report.
                 write_report(report["report_dir"], "udise_discovery", {"scope": task, "response": value})
             report["pending_discovery"] = []
@@ -244,6 +334,7 @@ def discover(client, args, report):
     if args.pincode:
         # Official PIN search is national/current. State/district scope is checked on records.
         tasks = [{"pincode": value, "academic_year": args.academic_year} for value in args.pincode]
+        report["discovery_limitation"] = "National current PIN search does not establish historical regional completeness"
     else:
         matched_districts = set()
         for state in chosen:
@@ -257,6 +348,9 @@ def discover(client, args, report):
                               "district": name, "districtId": district["districtId"], "yearId": args.year_id})
         if any(normalize(name) not in matched_districts for name in args.district):
             raise ValueError("One or more requested districts are absent from the selected official states")
+    if not tasks:
+        raise RuntimeError("No official discovery scopes resolved; empty catalogs do not establish zero schools")
+    report["discovery_tasks"] = tasks
     return manual_discovery(tasks, args.manual_captcha, report)
 
 
@@ -326,7 +420,31 @@ def run_job(args):
               "states": args.state or "all official states", "districts": args.district,
               "pincodes": args.pincode, "academic_year": args.academic_year,
               "report_dir": str(args.report_dir), "status": "running", "failures": [],
-              "counts": {key: 0 for key in ("discovered", "success", "updated", "unchanged", "skipped", "duplicate", "filtered", "missing_pincode", "failed", "pending")}}
+              "scope": {"states": args.state, "districts": args.district, "pincodes": args.pincode,
+                        "limit": args.limit, "max_duration": getattr(args, "max_duration", None)},
+              "record_outcomes": [], "listing_scopes": [],
+              "counts": {key: 0 for key in ("discovered", "success", "updated", "unchanged", "skipped", "duplicate", "filtered", "missing_pincode", "invalid_pincode", "unverified_pincode_year", "failed", "pending")}}
+    deadline = (time.monotonic() + args.max_duration if getattr(args, "max_duration", None) else None)
+    def outcome(code, row, result, reason, record=None, **extra):
+        evidence = source_pincode(record or {"school_summary": row}, args.academic_year)
+        report["record_outcomes"].append({"udise_code": code, "state": get_value(row, "stateName", "state"),
+            "district": get_value(row, "districtName", "district"), "outcome": result, "reason": reason,
+            **evidence, **extra})
+        if record is not None and result not in ("duplicate", "pending"):
+            report["counts"]["missing_pincode"] += int(evidence["pincode_status"] == "missing")
+            report["counts"]["invalid_pincode"] += int(evidence["pincode_status"] in ("invalid", "conflicting"))
+            report["counts"]["unverified_pincode_year"] += int(evidence["actual_pincode"] is not None
+                                                            and not evidence["scope_year_verified"])
+
+    def pincode_filter_reason(record):
+        if not args.pincode:
+            return None
+        evidence = source_pincode(record, args.academic_year)
+        if evidence["actual_pincode"] and not evidence["scope_year_verified"]:
+            return "pincode_year_mismatch" if evidence["pincode_academic_year"] else "pincode_year_unverified"
+        if evidence["actual_pincode"] not in args.pincode:
+            return "pincode_mismatch" if evidence["actual_pincode"] else evidence["pincode_status"] + "_pincode"
+        return None
     runtime = None
     try:
         saved_rows = load_lists(args.school_list) if args.school_list else None
@@ -371,6 +489,18 @@ def run_job(args):
                     if missing:
                         raise ValueError("Saved lists do not cover selected state(s): " + ", ".join(missing))
                     if args.district:
+                        official_districts = []
+                        for state in chosen:
+                            districts = client.catalog("districts", {"stateId": state["stateId"], "yearId": args.year_id})
+                            official_districts.extend({"state": state["stateName"],
+                                "district": get_value(item, "districtName", "name"),
+                                "district_id": item.get("districtId")} for item in districts
+                                if get_value(item, "districtName", "name"))
+                        official_names = {normalize(item["district"]) for item in official_districts}
+                        if any(normalize(name) not in official_names for name in args.district):
+                            raise ValueError("One or more requested districts are absent from the selected official states")
+                        report["verified_districts"] = [item for item in official_districts
+                            if normalize(item["district"]) in {normalize(name) for name in args.district}]
                         available_districts = {normalize(get_value(row, "districtName", "district"))
                                                for row in selected_rows(saved_rows, args.state, [], [])}
                         if any(normalize(name) not in available_districts for name in args.district):
@@ -386,69 +516,101 @@ def run_job(args):
                 report["invalid_existing_files"] = store.invalid_files
                 seen = set()
                 counts = report["counts"]
-                counts["discovered"] = len(selected)
+                report["listing_data"] = rows
+                report["counts"]["out_of_scope"] = len(rows) - len(selected)
+                report["candidate_manifest"] = selected
+                counts["discovered"] = len({str(get_value(row, "udiseschCode", "udiseSchCode", "udiseCode") or "") for row in selected})
+                # Register all candidates before details; a bounded or interrupted
+                # run must leave every unprocessed source ID resumable.
+                for row in selected:
+                    code = str(get_value(row, "udiseschCode", "udiseSchCode", "udiseCode") or "")
+                    runtime.discovered(code, row, get_value(row, "stateName", "state"), get_value(row, "districtName", "district"))
                 attempted = 0
                 for index, row in enumerate(selected):
                     code = str(get_value(row, "udiseschCode", "udiseSchCode", "udiseCode") or "")
                     if code in seen:
                         counts["duplicate"] += 1
+                        outcome(code, row, "duplicate", "duplicate_source_identifier")
                         runtime.event("duplicate_detected", identifier=code)
                         continue
                     seen.add(code)
-                    if args.limit is not None and attempted >= args.limit:
+                    budget_reached = deadline is not None and time.monotonic() >= deadline
+                    if budget_reached or (args.limit is not None and attempted >= args.limit):
                         counts["pending"] += 1
+                        report["time_budget_reached"] = bool(budget_reached)
+                        report["candidate_limit_reached"] = bool(args.limit is not None and attempted >= args.limit)
+                        outcome(code, row, "pending", "time_budget_reached" if budget_reached else "candidate_limit_reached")
                         continue
                     attempted += 1
                     try:
                         if not re.fullmatch(r"\d{11}", code):
                             raise ValueError("Missing or invalid source UDISE code")
                         state, district = row.get("stateName"), row.get("districtName")
-                        runtime.discovered(code, row, state, district)
                         cached = runtime.filtered_record(code) if args.pincode else None
                         if cached:
-                            cached_pin = pin(get_value(cached.get("report_card", {}), "pincode", "pinCode")) or pin(get_value(cached.get("school_summary", {}), "pincode", "pinCode"))
-                            if cached_pin not in args.pincode:
-                                counts["missing_pincode" if cached_pin is None else "filtered"] += 1
+                            context = validate_record_context(cached, row, args)
+                            reason = pincode_filter_reason(cached)
+                            if reason:
+                                counts["filtered"] += 1
+                                outcome(code, row, "filtered", reason, cached, **context)
                                 runtime.completed(code, "filtered")
                                 continue
                         existing = store.existing(code)
                         if not runtime.detail_due(code, existing, store.find(code)):
                             if not existing:
                                 counts["deferred"] = counts.get("deferred", 0) + 1
+                                counts["pending"] += 1
+                                outcome(code, row, "pending", "retry_backoff_or_attempt_limit")
                                 continue
-                            verified_pin = pin(get_value(existing.get("report_card", {}), "pincode", "pinCode")) or pin(row.get("pincode"))
-                            if args.pincode and verified_pin not in args.pincode:
-                                counts["missing_pincode" if verified_pin is None else "filtered"] += 1
+                            context = validate_record_context(existing, row, args)
+                            reason = pincode_filter_reason(existing)
+                            if reason:
+                                counts["filtered"] += 1
+                                outcome(code, row, "filtered", reason, existing, **context)
+                                runtime.completed(code, "filtered")
                             else:
                                 runtime.persist(code, existing, store.find(code), fetched=False)
                                 counts["skipped"] += 1
+                                outcome(code, row, "skipped", "detail_refresh_not_due", existing, **context)
                                 runtime.event("detail_not_due", identifier=code)
                             continue
                         runtime.attempting(code, row, state, district)
                         record = build_record(client, row, args)
-                        verified_pin = pin(get_value(record["report_card"], "pincode", "pinCode")) or pin(get_value(row, "pincode", "pinCode"))
-                        if args.pincode and verified_pin not in args.pincode:
-                            counts["missing_pincode" if verified_pin is None else "filtered"] += 1
-                            runtime.filtered(code, record, verified_pin)
+                        context = validate_record_context(record, row, args)
+                        evidence = source_pincode(record, args.academic_year)
+                        reason = pincode_filter_reason(record)
+                        if reason:
+                            counts["filtered"] += 1
+                            outcome(code, row, "filtered", reason, record, **context)
+                            runtime.filtered(code, record, evidence["actual_pincode"])
                             continue
                         location = record["metadata"]["location"]
                         path = args.data_dir / safe_filename(location) / args.academic_year / f"{safe_filename(record['metadata']['school_name'])}_{code}.json"
-                        outcome = store.save(code, record, path)
-                        counts[outcome] += 1
+                        result_name = store.save(code, record, path)
+                        counts[result_name] += 1
+                        outcome(code, row, result_name, "raw_record_" + result_name, record, **context)
                         runtime.persist(code, record, store.find(code))
-                        runtime.event("record_" + outcome, identifier=code)
+                        runtime.event("record_" + result_name, identifier=code)
                     except ManualIntervention as error:
                         counts["failed"] += 1
                         counts["pending"] += len(selected) - index - 1
                         report["failures"].append({"udise_code": code, "status": "manual_intervention"})
+                        outcome(code, row, "failed", "manual_intervention")
+                        for pending in selected[index + 1:]:
+                            pending_code = str(get_value(pending, "udiseschCode", "udiseSchCode", "udiseCode") or "")
+                            if pending_code not in seen:
+                                seen.add(pending_code)
+                                outcome(pending_code, pending, "pending", "manual_intervention")
+                        counts["pending"] = len({item["udise_code"] for item in report["record_outcomes"] if item["outcome"] == "pending"})
                         runtime.failed(code, error, row)
                         raise
                     except (OSError, ValueError, RuntimeError, requests.RequestException) as error:
                         counts["failed"] += 1
                         from school_scraping.memory import safe_error
                         report["failures"].append({"udise_code": code, "error": safe_error(error)})
+                        outcome(code, row, "failed", "detail_or_validation_failure", error=safe_error(error))
                         runtime.failed(code, error, row)
-                report["status"] = "failed" if counts["failed"] else "completed"
+                report["status"] = "time_budget_reached" if report.get("time_budget_reached") else "failed" if counts["failed"] else "completed"
             finally:
                 client.close()
     except ManualIntervention as error:
@@ -464,10 +626,39 @@ def run_job(args):
             runtime.failed("", error, phase="discovery")
     finally:
         if not args.dry_run:
+            terminal = {item["udise_code"] for item in report["record_outcomes"]
+                        if item["outcome"] not in ("duplicate", "pending")}
+            known_pending = {item["udise_code"] for item in report["record_outcomes"] if item["outcome"] == "pending"}
+            for row in report.get("candidate_manifest", []):
+                code = str(get_value(row, "udiseschCode", "udiseSchCode", "udiseCode") or "")
+                if code not in terminal and code not in known_pending:
+                    known_pending.add(code)
+                    outcome(code, row, "pending", report["status"])
+            report["counts"]["pending"] = len(known_pending - terminal)
+            source_scope_verified = (bool(report["listing_scopes"]) and not args.school_list
+                                     and not args.pincode and not report.get("partial_recovery")
+                                     and not report.get("pending_discovery")
+                                     and all(scope.get("pagination_complete") for scope in report["listing_scopes"]))
+            details_complete = (report["status"] == "completed" and not report["counts"].get("failed")
+                                and not report["counts"].get("pending"))
+            limitations = ["A complete authoritative postal denominator is required for verified PIN coverage"]
+            if args.school_list:
+                limitations.append("Saved official responses establish only their supplied scope; full geography is not certified")
+            if args.limit is not None:
+                limitations.append("Candidate-limited validation does not establish full scope coverage")
+            if any(item.get("summary_year_matches") is False for item in report["record_outcomes"]):
+                limitations.append("Current listing academic year differs from selected detail year; original source values preserved")
+            if report["counts"].get("unverified_pincode_year"):
+                limitations.append("Observed PIN fields lack verified selected-year provenance; current summary PINs do not establish historical PIN coverage")
+            report["coverage"] = {"listing_complete": source_scope_verified,
+                                  "details_complete": details_complete,
+                                  "candidate_limit_reached": bool(report.get("candidate_limit_reached")),
+                                  "scope_complete": source_scope_verified and details_complete and args.limit is None,
+                                  "limitations": limitations}
+            report["pending_identifiers"] = sorted({item["udise_code"] for item in report["record_outcomes"] if item["outcome"] == "pending"})
             if runtime:
-                runtime.finish(report, scope_complete=(report["status"] == "completed"
-                               and not report["counts"].get("pending") and args.limit is None
-                               and not report.get("partial_recovery") and not getattr(args, "retry_failed", False)))
+                runtime.finish(report, scope_complete=report["coverage"]["scope_complete"]
+                               and not getattr(args, "retry_failed", False))
             report["ended_at"] = datetime.now(timezone.utc).isoformat()
             report["duration_seconds"] = (datetime.fromisoformat(report["ended_at"]) - datetime.fromisoformat(report["started_at"])).total_seconds()
             report_path = write_report(args.report_dir, "udise", report)

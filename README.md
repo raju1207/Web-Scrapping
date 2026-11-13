@@ -106,7 +106,7 @@ The summary builder and historical audits retain their original dataset/report s
 
 ### Configure locations once
 
-Edit `config/states_pincodes.json`. Both scrapers and the scheduler read it by default. The supplied Punjab/Haryana examples are disabled, and `database.enabled` is false, so an unconfigured command cannot start a nationwide scrape or write to your database.
+Edit `config/states_pincodes.json`. Both scrapers and the scheduler read it by default. Scheduling and PostgreSQL writes are disabled. The existing Punjab/Haryana settings are retained, including the enabled Haryana SARAS location. Chandigarh, Delhi and Mumbai are configured for both sources and remain disabled. A bare scraper uses enabled locations with a bounded candidate limit.
 
 ```json
 {
@@ -126,6 +126,7 @@ Put each location object in the appropriate `sources.udise.locations` or `source
 - `defaults` provides shared settings; source and location settings override them.
 - `refresh_days` controls periodic detail rechecks when no reliable source change indicator exists.
 - `check_interval_hours` controls geographic discovery checks.
+- `limit` is a positive candidate bound. Omitted/null limits resolve to 25; only the explicit CLI option `--unlimited` selects every candidate.
 - `retry_delay_minutes` and `recovery.max_task_attempts` bound automatic failed-task retries.
 - `sources.<source>.all_states: true` explicitly selects the source's available states and cannot be combined with enabled location scopes.
 - UDISE `academic_year` is `YYYY-YY`; `year_id` is optional and must match the official catalog.
@@ -151,7 +152,7 @@ python daily_scheduler.py --config config/states_pincodes.json --dry-run
 python saras_dynamic_scraper.py --all-states --dry-run
 ```
 
-Dry runs make no source/database requests, open no browser, and write no files. With no enabled locations, a bare command prints an explanatory idle result. `--limit` limits unique candidates, including filtered or skipped candidates; it does not prove geographic completeness. Limited or interrupted discovery does not create a successful full-scope checkpoint.
+Dry runs make no source/database requests, open no browser, and write no files. With no enabled locations, a bare command prints an explanatory idle result. `--limit` limits unique candidates, including filtered or skipped candidates; it does not prove geographic completeness. Scheduler previews always show either `--limit N` or `--unlimited`. Limited or interrupted discovery does not create a successful full-scope checkpoint. `--max-duration SECONDS` stops at a safe boundary and preserves pending inputs; rerun the same command to resume.
 
 ```powershell
 # Explicit small source runs, with database integration disabled by default.
@@ -172,7 +173,23 @@ python udise_dynamic_scraper.py --state Punjab --school-list .\exports\punjab.js
 | [UDISE+](https://kys.udiseplus.gov.in/) | Official year/state/district catalogs are discovered dynamically. Advanced Search requires state/district/year and CAPTCHA. The official direct PIN Code search exists; it is a current national lookup, so historical-year coverage cannot be inferred from it. |
 | [CBSE SARAS](https://saras.cbse.gov.in/SARAS/AffiliatedList/ListOfSchdirReport) | State and dependent district choices come from the live directory. Pagination is followed. There is no dedicated PIN search on the inspected form; PIN filtering compares the detail page's explicit `Pin Code` field after geographic discovery. |
 
-Unknown or conflicting PIN data is excluded. Addresses and school names are not used to guess PINs. SARAS accepts `--district "Punjab:Ludhiana"` for disambiguation; that qualification is SARAS-specific.
+When a PIN filter is requested, missing, invalid or conflicting dedicated PIN values cannot match it. Whole geographic collection preserves those schools and reports their PIN problems separately. Source PIN fields accept six digits separated by whitespace or one ordinary hyphen; labels, decimals and multiple PINs are rejected. Addresses and school names are not used to guess PINs. SARAS accepts `--district "Punjab:Ludhiana"` for disambiguation; that qualification is SARAS-specific.
+
+### Chandigarh, Delhi and Mumbai coverage
+
+`config/location_geography_reference.json` records government postal references and the official source catalogs verified on 2026-11-10. Chandigarh and Delhi use every district exposed by each source. Mumbai is restricted to SARAS `MUMBAI` plus `MUMBAI SUBURBAN`, or UDISE `MUMBAI II` plus `MUMBAI (SUBURBAN)`. These are source names, resolved to live identifiers rather than assumed numeric IDs.
+
+The geographic configurations intentionally leave `pincodes` empty. One complete geographic listing discovers school PINs without excluding schools omitted from an incomplete postal reference. Verified reference PINs and observed school PINs remain separate. The available government postal tables are not certified exhaustive, so reports leave the complete denominator and percentage unknown.
+
+SARAS reports contain `listing_scopes`, source totals, pagination exhaustion evidence, a durable `candidate_manifest`, `record_outcomes` with PIN fields/reasons, and `pending_identifiers`. Listing completion and detail completion are separate. A completed process or a zero-failure smoke test never establishes complete coverage. UDISE saved responses establish only their exported scope; historical summary years remain unchanged and differences from the selected detail year are reported.
+
+Unusable source listing identities are quarantined with their original public row fields. Valid candidates can continue, while the invalid row prevents a verified school-coverage claim. Reported source rows, numeric school identifiers and pending detail tasks remain separate counts. UDISE PIN evidence also retains its academic year: a current search-summary PIN cannot satisfy an older annual PIN filter without matching year context.
+
+The read-only `school_scraping.coverage.generate_location_reports()` helper combines explicit historical audits and isolated current runs into `reports/location_coverage/*_coverage.csv` and `summary.json`. `_MISSING`, `_INVALID` and `_UNKNOWN` rows retain unresolved counts. Historical inventory, current source listings, current details and newly discovered identifiers are reported separately. `COMPLETE_VERIFIED` additionally requires an exhaustive validated postal denominator.
+
+CSV source-check timestamps come from recorded source observations, separately from report generation time. Saved official exports retain their supplied-list provenance and do not become current live school totals merely because their details were checked again.
+
+The current validation results, limitations and exact isolated resume commands are in `reports/location_coverage/full_validation_report.md`. Review those results before enabling locations, scheduling or database writes.
 
 Verified nonmatching PIN details are cached privately for their detail refresh interval. Repeated geographic searches can therefore filter those IDs without another detail request. This cache is not imported as a matching school, and altered cache content is rejected.
 
