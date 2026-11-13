@@ -92,6 +92,11 @@ class UdiseClient:
             time.sleep(self.delay * (2 ** attempt))
             try:
                 response = self.session.get(url, params=params, timeout=self.timeout)
+                if response.status_code == 429:
+                    event("rate_limit_encountered", http_status=429)
+                    raise ManualIntervention(
+                        "UDISE+ returned HTTP 429 (rate limited). Collection stopped; "
+                        "resume only after permitted access is restored. No automatic retry.")
                 try:
                     check_access(response.text, response.status_code)
                 except ManualIntervention:

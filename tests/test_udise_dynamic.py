@@ -29,6 +29,21 @@ def response(value=None, status=200, text=None):
 
 
 class ClientTests(unittest.TestCase):
+    def test_rate_limit_stops_without_retry(self):
+        on_event = Mock()
+        answer = response(status=429, text="Too many requests")
+        client = udise.UdiseClient(delay=0, retries=3, on_event=on_event)
+        try:
+            with patch.object(client.session, "get", return_value=answer) as get:
+                with self.assertRaises(ManualIntervention):
+                    client.get_json("school/profile", {"udiseSchCode": "03000000001", "yearId": 12})
+            get.assert_called_once()
+            answer.json.assert_not_called()
+            answer.raise_for_status.assert_not_called()
+            on_event.assert_called_once_with("rate_limit_encountered", identifier="03000000001", http_status=429)
+        finally:
+            client.close()
+
     def test_captcha_never_retries(self):
         for answer in [response({"status": False, "error": "Invalid Captcha"}),
                        response(status=403, text="Access denied"),
@@ -387,6 +402,30 @@ class ScopeTests(unittest.TestCase):
             code = udise.main(arguments)
         report_path = sorted((root / "reports/udise").glob("*.json"))[-1]
         return code, json.loads(report_path.read_text()), client
+
+    def test_rate_limit_on_first_detail_stops_and_preserves_pending_candidates(self):
+        with tempfile.TemporaryDirectory() as folder:
+            rows = [school("03000000001"), school("03000000002"), school("03000000003")]
+            actual_client = udise.UdiseClient(delay=0, retries=3)
+            client = Mock()
+            client.get_json.side_effect = actual_client.get_json
+            try:
+                with patch.object(actual_client.session, "get", return_value=response(status=429, text="Too many requests")) as get:
+                    code, report, client = self.run_saved(folder, rows, "--limit", "3", client=client)
+                self.assertEqual(code, 2)
+                self.assertEqual(report["status"], "manual_intervention")
+                self.assertEqual(report["counts"]["success"], 0)
+                self.assertEqual(report["counts"]["failed"], 1)
+                self.assertEqual(report["pending_identifiers"], ["03000000002", "03000000003"])
+                self.assertEqual(report["candidate_manifest"], rows)
+                self.assertEqual(client.get_json.call_count, 1)
+                get.assert_called_once()
+                self.assertEqual(list((Path(folder) / "data").glob("*/2025-26/*.json")), [])
+                events = [json.loads(line) for line in (Path(folder) / "state/events.jsonl").read_text().splitlines()]
+                discovered = {event["payload"]["school_identifier"] for event in events if event["kind"] == "task_discovered"}
+                self.assertEqual(discovered, {"03000000001", "03000000002", "03000000003"})
+            finally:
+                actual_client.close()
 
     def test_listing_pin_mismatch_still_fetches_matching_selected_year_details(self):
         with tempfile.TemporaryDirectory() as folder:
