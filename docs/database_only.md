@@ -8,6 +8,8 @@ The default storage mode is `files`. Database storage is an explicit choice shar
 
 Use `--dry-run` to review a bounded command before executing it. The implementation does not enable locations, scheduling or database integration in the original configuration. Existing source authorization, manual CAPTCHA handling, retry bounds and HTTP 429 stops still apply.
 
+Database-only **scheduler** jobs now additionally require an operator-approved production safety profile, positive hard timeout, and successful admission of every planned job. See [PRODUCTION_READINESS.md](PRODUCTION_READINESS.md). The inactive example profile fails closed and no deployment has been approved. Direct scraper CLIs retain their existing explicit opt-in behavior. Read-only ACK reconciliation and readiness checks neither replay imports nor repair checkpoints.
+
 ## Collection policy
 
 Identifiers come from source listings and are validated before parameterized batch lookups. SARAS uses affiliation identity; UDISE requires a committed snapshot for the selected school/year. A pending task or event alone is insufficient. One connection is reused for a collection run; lookup batches contain at most 500 identifiers.

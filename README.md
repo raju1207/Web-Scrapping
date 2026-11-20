@@ -211,6 +211,8 @@ Existing `data/<Location>/<year>/...` and `data/CBSE_SARAS/<location>/schools/..
 
 ### Opt-in database-first collection
 
+Production safety foundations and the current operating/rollback reference are in [docs/PRODUCTION_READINESS.md](docs/PRODUCTION_READINESS.md). Database-only scheduler execution now requires an approved `--production-profile` and a hard child timeout. `--preflight-only` reports admission without launching jobs; the inactive [example profile](config/production_safety.example.json) deliberately blocks startup. Dry-run remains offline. No production monitoring, backup destination, credentials or scheduler is activated by these additions.
+
 Both scrapers support `--storage-mode database --database`. Add `--new-only` to check validated listing identifiers in bounded PostgreSQL batches and skip committed identities before requesting details. SARAS checks affiliation numbers; UDISE checks UDISE codes **and the requested academic year**. Existing candidates still consume `--limit`; skipped identities do not establish fresh PIN or geographic coverage.
 
 ```powershell
@@ -278,6 +280,8 @@ python udise_dynamic_scraper.py --sync-pending --database
 Explicit synchronization drains up to 100 batches of 1,000 events per invocation and reports any remainder. Historical input rejected by validation remains queued for review/retry; corrected content for that school can still progress. Operational errors and rejected raw input are retained rather than silently discarded.
 
 ### One daily scheduler
+
+For database-only operation, follow the production runbook above; the legacy file-mode examples below do not substitute for production admission. A configured hard timeout contains and stops the owned process tree, with a bounded shutdown grace. Production admission is mandatory before database-only scheduled jobs can open recovery state or launch a child. Direct scraper maintenance and legacy file-mode commands remain separately write-capable.
 
 The scheduler reads enabled configured locations and defaults to `02:00` in `Asia/Kolkata`. It waits until the scheduled time; `--once` explicitly runs a cycle immediately. Source/scheduler locks prevent overlapping jobs using the same data root. One failed source does not prevent the other source from running. Each cycle records a summary and appends structured events to the existing scheduler log.
 

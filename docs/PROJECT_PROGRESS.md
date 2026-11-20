@@ -1,6 +1,6 @@
 # Web-Scrapping — Project Progress Report
 
-Updated: 17 November 2026
+Updated: 20 November 2026
 
 ## Project Objective
 
@@ -39,7 +39,7 @@ incremental collection, recovery and scheduled automation.
 - Scoped database/filesystem recovery consistency: PASSED
 - Duplicate prevention: PASSED
 
-## Automated Testing
+## Historical Section 11 Automated Testing
 
 - Full offline regression suite: 213 tests passed
 - Subtests: 172 passed
@@ -87,6 +87,20 @@ Legacy file storage/recovery remains available. See `database_only.md` for
 refresh, failure handling, prerequisites and isolated test routing.
 
 ## Safety
+
+Section 13B adds production admission, configured child supervision, read-only
+ACK reconciliation and prototype readiness checks. The production profile
+template remains unapproved with deployment-specific values unset. No source
+scraping, scheduler activation, production connection, credential/ACL change,
+backup upload or historical queue replay is performed by this foundation.
+The current operating and release rollback reference is `PRODUCTION_READINESS.md`;
+older recovery runbooks are retained unchanged. Infrastructure decisions and
+deployed monitoring/backup verification remain blockers.
+
+Section 13B isolated verification: focused 168 passed, 0 failed, 0 skipped,
+237 subtests; full regression 338 passed, 0 failed, 25 legacy PostgreSQL cases
+skipped, 378 subtests. All four new PostgreSQL safety/reconciliation cases and
+the 14 existing database-only PostgreSQL cases ran in new disposable databases.
 
 Production scheduler and default database integration remain
 disabled. Historical data, recovery artifacts and existing

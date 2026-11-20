@@ -52,9 +52,30 @@ def _environment_connection():
         raise DatabaseOnlyError("Database-only mode requires a valid explicit DB_PORT") from error
     if not 1 <= port <= 65535:
         raise DatabaseOnlyError("Database-only mode requires a valid explicit DB_PORT")
-    return psycopg.connect(host=os.environ["DB_HOST"], port=port, dbname=os.environ["DB_NAME"],
+    settings = dict(host=os.environ["DB_HOST"], port=port, dbname=os.environ["DB_NAME"],
         user=os.environ["DB_USER"], password=os.environ["DB_PASSWORD"], connect_timeout=5,
         autocommit=True, application_name="school_scraping_database_only")
+    configured = {}
+    for environment, setting in (("DB_CONNECT_TIMEOUT_SECONDS", "connect_timeout"),
+            ("DB_STATEMENT_TIMEOUT_MS", "statement_timeout"), ("DB_LOCK_TIMEOUT_MS", "lock_timeout")):
+        if environment in os.environ:
+            try:
+                value = int(os.environ[environment])
+                if value <= 0:
+                    raise ValueError()
+            except ValueError:
+                raise DatabaseOnlyError("Database timeout settings must be positive integers") from None
+            configured[setting] = value
+    settings["connect_timeout"] = configured.pop("connect_timeout", 5)
+    if configured:
+        settings["options"] = " ".join("-c " + name + "=" + str(value) for name, value in configured.items())
+    if "DB_SSLMODE" in os.environ:
+        if os.environ["DB_SSLMODE"] not in {"disable", "allow", "prefer", "require", "verify-ca", "verify-full"}:
+            raise DatabaseOnlyError("Invalid database TLS mode")
+        settings["sslmode"] = os.environ["DB_SSLMODE"]
+    if os.getenv("DB_SSLROOTCERT"):
+        settings["sslrootcert"] = os.environ["DB_SSLROOTCERT"]
+    return psycopg.connect(**settings)
 
 
 class DatabaseOnlyStore:

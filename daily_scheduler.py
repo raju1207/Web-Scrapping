@@ -6,6 +6,7 @@ Importing this module performs no I/O and never launches a job.
 import argparse
 import copy
 import json
+import math
 import signal
 import subprocess
 import sys
@@ -17,6 +18,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 
 from school_scraping.common import SourceLock
+from school_scraping.supervision import supervise
 from school_scraping.config import (
     ConfigurationError, SAFE_CANDIDATE_LIMIT, add_arguments, explicit_options, load_config, resolve_source_args,
 )
@@ -40,6 +42,13 @@ def positive_int(value):
     number = int(value)
     if number <= 0:
         raise argparse.ArgumentTypeError("Must be greater than zero.")
+    return number
+
+
+def positive_seconds(value):
+    number = float(value)
+    if not math.isfinite(number) or number <= 0:
+        raise argparse.ArgumentTypeError("Must be a finite positive number of seconds.")
     return number
 
 
@@ -71,6 +80,12 @@ def build_parser():
     parser.add_argument("--refresh", action="store_true", help="Check for intentional source updates.")
     parser.add_argument("--delay", type=float, default=0.5, help="Minimum delay between source requests.")
     parser.add_argument("--retries", type=int, default=3, help="Bounded transient source retries.")
+    parser.add_argument("--child-timeout", type=positive_seconds, default=None, metavar="SECONDS",
+                        help="Hard child execution budget with owned process-tree cleanup; shutdown has a bounded additional grace. Required by production preflight, opt-in for legacy runs.")
+    parser.add_argument("--production-profile", type=Path,
+                        help="Operator-approved production safety JSON; mandatory for database-only scheduled jobs.")
+    parser.add_argument("--preflight-only", action="store_true",
+                        help="Report production admission checks without launching jobs or changing data.")
     parser.add_argument("--data-dir", type=Path, default=PROJECT_DIR / "data")
     parser.add_argument("--report-dir", type=Path, default=PROJECT_DIR / "reports" / "scraping")
     parser.add_argument("--log-file", type=Path, default=PROJECT_DIR / "logs" / "daily_scheduler.log")
@@ -337,6 +352,16 @@ def run_daily_job(args, stop_event, log):
     run_id = str(uuid.uuid4())
     run_started = datetime.now(timezone.utc).isoformat()
     run_clock = time.monotonic()
+    from school_scraping.scheduler_safety import evaluate
+    admission, child_environment = evaluate(args)
+    if admission["status"] == "BLOCKED":
+        log("production_preflight_blocked", report=admission)
+        sources = [source for source, _ in getattr(args, "resolved_jobs", [])] or [args.source]
+        results = [{"source": source, "status": "failed", "exit_code": None,
+                    "error": "Production preflight blocked; no child or recovery journal was opened."}
+                   for source in sources]
+        log("cycle_finished", run_id=run_id, status="failed", counts={"failed": len(results), "success": 0})
+        return results
     memory_by_path = {}
     scheduler_memory = None
     if hasattr(args, "resolved_jobs") and args.resolved_jobs:
@@ -376,25 +401,43 @@ def run_daily_job(args, stop_event, log):
         process = None
         error = None
         returncode = None
+        supervised = None
         try:
-            options = {"cwd": str(PROJECT_DIR)}
-            if sys.platform == "win32":
-                options["creationflags"] = subprocess.CREATE_NEW_PROCESS_GROUP
-            process = subprocess.Popen(command, **options)
-            while process.poll() is None:
-                if stop_event.wait(0.25):
-                    stop_process(process)
-                    break
-            returncode = process.returncode
+            if getattr(args, "child_timeout", None) is not None:
+                supervised = supervise(command, cwd=PROJECT_DIR, timeout=args.child_timeout,
+                                       stop_event=stop_event, env=child_environment)
+                returncode = supervised.returncode
+            else:
+                options = {"cwd": str(PROJECT_DIR)}
+                if sys.platform == "win32":
+                    options["creationflags"] = subprocess.CREATE_NEW_PROCESS_GROUP
+                process = subprocess.Popen(command, **options)
+                while process.poll() is None:
+                    if stop_event.wait(0.25):
+                        stop_process(process)
+                        break
+                returncode = process.returncode
         except Exception as exception:
-            error = f"{type(exception).__name__}: {exception}"
+            from school_scraping.memory import safe_error
+            error = safe_error(exception)
             if process is not None:
                 stop_process(process)
         status = "cancelled" if stop_event.is_set() else "success" if returncode == 0 else "failed"
+        if supervised is not None:
+            if supervised.cancelled:
+                status = "cancelled"
+            elif supervised.timed_out:
+                status, error = "failed", "Child execution timeout; owned process tree stopped."
+            elif not supervised.cleanup_verified or supervised.forced_cleanup:
+                status, error = "failed", "Child required forced descendant cleanup; inspect its run report."
         result = {"source": source, "status": status, "started_at": started,
                   "ended_at": datetime.now(ZoneInfo(args.timezone)).isoformat(),
                   "duration_seconds": round(time.monotonic() - clock_start, 3),
                   "exit_code": returncode, "error": error}
+        if supervised is not None:
+            result.update(child_timeout_seconds=args.child_timeout, timed_out=supervised.timed_out,
+                          cleanup_verified=supervised.cleanup_verified,
+                          forced_cleanup=supervised.forced_cleanup)
         if job is not None:
             result["location"] = job.location_name
         if status == "failed" and not error:
@@ -433,6 +476,8 @@ def main(argv=None):
                 parser.error("Pincodes must contain six digits and cannot begin with zero.")
     if args.dry_run:
         print(json.dumps({"dry_run": True, "source": args.source, "time": args.time,
+                          "production_preflight": "NOT_RUN_OFFLINE_DRY_RUN",
+                          "child_timeout_seconds": args.child_timeout,
                           "timezone": args.timezone,
                           "next_run": get_next_run(args.time, args.timezone).isoformat(),
                           "scope_configured": bool(args.resolved_jobs),
@@ -454,6 +499,12 @@ def main(argv=None):
                           "commands": [{"source": source, "argv": command}
                                        for source, command in build_commands(args)]}, indent=2))
         return 0
+    from school_scraping.scheduler_safety import evaluate, required
+    if args.preflight_only or required(args):
+        admission, _ = evaluate(args)
+        if args.preflight_only or admission["status"] != "PASS":
+            print(json.dumps({"production_preflight": admission, "children_launched": 0}, indent=2))
+            return 0 if admission["status"] == "PASS" else 2
     if not args.scheduler_enabled or not args.resolved_jobs:
         print("Scheduler is idle: enable a configured location or choose --state NAME. No jobs were launched.")
         return 0

@@ -10,9 +10,76 @@ from unittest.mock import Mock, patch
 from zoneinfo import ZoneInfo
 
 import daily_scheduler as scheduler
+from school_scraping.supervision import SupervisionResult
 
 
 class SchedulerTests(unittest.TestCase):
+    def test_hard_child_timeout_rejects_nonpositive_or_nonfinite_values(self):
+        for value in ("0", "-1", "nan", "inf"):
+            with self.subTest(value=value), contextlib.redirect_stderr(io.StringIO()):
+                with self.assertRaises(SystemExit):
+                    scheduler.build_parser().parse_args(["--child-timeout", value])
+
+    def test_hard_child_timeout_preview_has_no_launch_or_storage_side_effects(self):
+        output = io.StringIO()
+        with patch.object(scheduler, "supervise") as supervise, \
+                patch.object(scheduler.subprocess, "Popen") as popen, \
+                patch.object(scheduler, "_memory") as memory, contextlib.redirect_stdout(output):
+            code = scheduler.main(["--dry-run", "--state", "CHANDIGARH", "--child-timeout", "7.5"])
+        report = json.loads(output.getvalue())
+        self.assertEqual(code, 0)
+        self.assertEqual(report["child_timeout_seconds"], 7.5)
+        self.assertTrue(all("--child-timeout" not in value["argv"] for value in report["commands"]))
+        supervise.assert_not_called()
+        popen.assert_not_called()
+        memory.assert_not_called()
+
+    def test_hard_timeout_is_failure_even_if_shutdown_returns_zero_and_peer_continues(self):
+        args = scheduler.build_parser().parse_args(["--state", "Punjab", "--child-timeout", "1"])
+        events = []
+        with patch.object(scheduler, "supervise", side_effect=[
+                SupervisionResult(0, True, False, 1.2, True, True),
+                SupervisionResult(0, False, False, 0.1, True, False)]) as supervise, \
+                patch.object(scheduler.subprocess, "Popen") as popen:
+            results = scheduler.run_daily_job(args, threading.Event(),
+                lambda event, **fields: events.append((event, fields)))
+        self.assertEqual([value["status"] for value in results], ["failed", "success"])
+        self.assertTrue(results[0]["timed_out"])
+        self.assertIn("timeout", results[0]["error"])
+        self.assertEqual(supervise.call_count, 2)
+        self.assertEqual(events[-1][1]["status"], "failed")
+        self.assertEqual(events[-1][1]["counts"]["failed"], 1)
+        popen.assert_not_called()
+
+    def test_failed_containment_never_marks_job_success_and_peer_continues(self):
+        from school_scraping.supervision import SupervisionError
+        args = scheduler.build_parser().parse_args(["--state", "Punjab", "--child-timeout", "1"])
+        with patch.object(scheduler, "supervise", side_effect=[
+                SupervisionError("Cannot contain gated child"),
+                SupervisionResult(0, False, False, 0.1, True, False)]):
+            results = scheduler.run_daily_job(args, threading.Event(), lambda *args, **fields: None)
+        self.assertEqual([value["status"] for value in results], ["failed", "success"])
+
+    def test_timeout_once_returns_failure_and_only_scheduler_history(self):
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            config = json.loads(Path(scheduler.load_config()["_path"]).read_text())
+            config["scheduler"]["enabled"] = True
+            config_path = root / "approved-test-config.json"
+            config_path.write_text(json.dumps(config))
+            with patch.object(scheduler, "supervise", return_value=
+                    SupervisionResult(0, True, False, 1.2, True, True)), \
+                    contextlib.redirect_stdout(io.StringIO()):
+                code = scheduler.main(["--config", str(config_path), "--once", "--source", "saras",
+                    "--state", "CHANDIGARH", "--child-timeout", "1", "--data-dir", str(root / "data"),
+                    "--log-file", str(root / "scheduler.log")])
+            self.assertEqual(code, 1)
+            events = [json.loads(line) for line in
+                (root / "data/.scraping_state/events.jsonl").read_text().splitlines()]
+            self.assertTrue(all(value["payload"]["source"] == "scheduler" for value in events))
+            self.assertEqual(events[-1]["payload"]["status"], "failed")
+            self.assertFalse(any(value["kind"] in {"detail_completed", "scope_checked"} for value in events))
+
     def test_timezone_rollover(self):
         zone = ZoneInfo("Asia/Kolkata")
         before = datetime(2026, 11, 9, 1, 59, tzinfo=zone)
@@ -239,6 +306,7 @@ class SchedulerTests(unittest.TestCase):
             process.poll.return_value = 0
             with patch.object(scheduler, "_memory", side_effect=AssertionError("Legacy queue opened")), \
                     patch.object(scheduler, "location_due", side_effect=AssertionError("Legacy due check used")), \
+                    patch("school_scraping.scheduler_safety.evaluate", return_value=({"status": "PASS"}, None)), \
                     patch.object(scheduler.subprocess, "Popen", return_value=process) as popen:
                 results = scheduler.run_daily_job(args, threading.Event(), lambda *args, **kwargs: None)
             self.assertEqual(results[0]["status"], "success")
