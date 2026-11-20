@@ -7,7 +7,7 @@ This project collects, processes, standardizes, and manages school information f
 - **UDISE+** – Unified District Information System for Education.
 - **CBSE SARAS** – Central Board of Secondary Education affiliation records.
 
-The project stores the original scraped JSON files, loads them into PostgreSQL, creates a unified school master database, identifies possible matches between sources, and provides a searchable REST API using FastAPI.
+The project collects school records into PostgreSQL, creates a unified school master database, identifies possible matches between sources, and provides a searchable REST API using FastAPI. The default file workflow preserves original scraped JSON; an explicit database-only mode stores school payloads directly in PostgreSQL.
 
 ## Dynamic collection and recovery
 
@@ -209,7 +209,26 @@ Changed raw files are backed up and verified byte-for-byte before atomic replace
 
 Existing `data/<Location>/<year>/...` and `data/CBSE_SARAS/<location>/schools/...` paths and field names are retained. Historical `_all_schools.json`/`_summary.json` files are not rewritten; use new run reports for new collection results. Derived standardized/canonical views retain per-location paths, so intentionally running the batch mappers for another year regenerates that derived view while retaining raw yearly snapshots.
 
-### PostgreSQL memory and automatic saving
+### Opt-in database-first collection
+
+Both scrapers support `--storage-mode database --database`. Add `--new-only` to check validated listing identifiers in bounded PostgreSQL batches and skip committed identities before requesting details. SARAS checks affiliation numbers; UDISE checks UDISE codes **and the requested academic year**. Existing candidates still consume `--limit`; skipped identities do not establish fresh PIN or geographic coverage.
+
+```powershell
+# Safe command previews only: no source requests, database connections or files.
+python saras_dynamic_scraper.py --state Delhi --limit 2 --database --storage-mode database --new-only --dry-run
+python udise_dynamic_scraper.py --state Delhi --academic-year 2025-26 --limit 2 --database --storage-mode database --new-only --dry-run
+python daily_scheduler.py --source both --state Delhi --limit 2 --database --storage-mode database --new-only --dry-run
+```
+
+Database mode runs the existing canonical v4 mappers, validators and transactional loader in memory. Raw/canonical JSONB, immutable archive history, source/master relationships, UDISE snapshots and match review use the existing schema. It creates no school raw/canonical JSON or import payload files. Logical `data/...` paths inside archive/provenance records are archive keys, not newly created files. Operational run reports and process locks can still be local.
+
+School data, import completion and the detail checkpoint commit together. A separate acknowledgement is persisted only after that commit returns. Lookup or commit failures stop collection without a filesystem fallback. A failed acknowledgement reports confirmed committed data separately from acknowledged imports; an uncertain commit is reported as uncertain. On rerun, committed identities are found in PostgreSQL, while uncommitted identities remain eligible for reprocessing. There is no offline payload spool in this mode.
+
+Omit `--new-only` for the existing incremental refresh policy backed by database checkpoints. `--refresh` requests an intentional refresh and cannot be combined with `--new-only`. Database mode requires explicit `DB_HOST`, `DB_PORT`, `DB_NAME`, `DB_USER` and `DB_PASSWORD`, the existing archive/school/tracking tables and a reviewed writer role. It never applies DDL automatically. `--no-database` conflicts with database storage. `--sync-pending` remains a file-mode operation: database mode neither reads nor replays old local queues.
+
+Scheduler command previews forward the new flags. The original `scheduler.enabled=false` and `database.enabled=false` defaults remain unchanged. See [database-only operation](docs/database_only.md) for failure semantics and test routing.
+
+### Legacy file storage and database memory
 
 The new versioned migration is `database/migrations/001_scraping_memory.sql`. It adds tracking tables in the existing `school_scraping` schema:
 
@@ -240,7 +259,7 @@ Each valid saved record goes through existing standardization, canonical mapping
 
 ### Outages, replay and failed-task recovery
 
-Recovery state is stored under `.scraping_state/` by default (or the isolated data directory when `--data-dir` is supplied). Keep and back up this directory. It contains an append-only `events.jsonl` journal, commit acknowledgements, retry metadata and immutable import payload snapshots. It is ignored by Git, not disposable temporary data.
+In default file mode, recovery state is stored under `.scraping_state/` (or the isolated data directory when `--data-dir` is supplied). Keep and back up this directory. It contains an append-only `events.jsonl` journal, commit acknowledgements, retry metadata and immutable import payload snapshots. It is ignored by Git, not disposable temporary data.
 
 Events are flushed and fsynced before database work. PostgreSQL event IDs prevent duplicate replay if a process dies after commit but before local acknowledgement. Acknowledgements advance only after commit. Truncated/corrupt journal data is preserved and flagged; subsequent valid events remain recoverable. A database outage keeps records on disk and queues logs/imports without claiming they were imported. Bounded reconnect backoff prevents a tight failure loop.
 
@@ -268,7 +287,7 @@ python daily_scheduler.py --source saras --state Punjab --time 02:00 --limit 2
 python daily_scheduler.py --source both --config config/states_pincodes.json
 ```
 
-Pending database events are replayed before due checks when enabled. Locations with future checkpoints are skipped; eligible failed tasks can make a scope due sooner. CAPTCHA/manual tasks wait for an explicit retry. Press Ctrl+C for graceful shutdown. Scheduling cannot remove a source's manual access requirement.
+File-mode pending database events are replayed before due checks when enabled. Database-only jobs let the child runtime read PostgreSQL tasks/checkpoints and never replay local queues. Locations with future checkpoints are skipped; eligible failed tasks can make a scope due sooner. CAPTCHA/manual tasks wait for an explicit retry. Press Ctrl+C for graceful shutdown. Scheduling cannot remove a source's manual access requirement.
 
 ### Inspect runs and unresolved errors
 
@@ -300,6 +319,8 @@ python -m unittest discover -s tests -v
 ```
 
 The default suite runs offline and skips tests requiring a separately provisioned PostgreSQL instance. Database tests opt in using `SCHOOL_SCRAPING_TEST_DSN` and refuse ordinary database connections: the test code requires the isolated loopback port `55439`. `tests/support/postgres_cluster.py` is an import-only test helper for a cluster under `.refactor_validation/memory_pg17`; it is not another scraper/scheduler entry point.
+
+New database-only transaction/source tests use a separate `SCHOOL_SCRAPING_DATABASE_ONLY_TEST_DSN`. Their guard requires a disposable `database_only_test_*` database on `127.0.0.1:55449` in the retained restore cluster. Keep the legacy DSN unset when testing this route; all source responses are mocked. Neither test path should target an original database.
 
 See `docs/cleanup_inventory.md` for the actual moves, backed-up duplicate-file removals, retained directories and command migration. Recoverable originals are in `archive/cleanup_backups/` with SHA-256 manifests. Existing raw data, reports, logs, migrations and local edits are retained. Live nationwide scraping, production database changes and a continuously running scheduler require a separate deliberate run.
 

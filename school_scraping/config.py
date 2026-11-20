@@ -18,7 +18,7 @@ SAFE_CANDIDATE_LIMIT = 25
 DEFAULTS = {
     "refresh_days": 30, "check_interval_hours": 24, "retry_delay_minutes": 60,
     "retries": 3, "delay": 0.5, "limit": SAFE_CANDIDATE_LIMIT, "academic_year": "2025-26",
-    "year_id": None,
+    "year_id": None, "storage_mode": "files", "new_only": False,
 }
 NUMBERS = {"refresh_days", "check_interval_hours", "retry_delay_minutes", "delay"}
 INTEGERS = {"retries", "year_id", "limit", "max_task_attempts"}
@@ -78,6 +78,10 @@ def _settings(value, label):
                 raise ConfigurationError(f"{label}.{key} is outside the permitted range")
         if key == "academic_year" and (not isinstance(item, str) or not re.fullmatch(r"\d{4}-\d{2}", item)):
             raise ConfigurationError(f"{label}.academic_year must be YYYY-YY")
+        if key == "storage_mode" and (not isinstance(item, str) or item not in {"files", "database"}):
+            raise ConfigurationError(f"{label}.storage_mode must be files or database")
+        if key == "new_only":
+            _boolean(item, f"{label}.new_only")
 
 
 def _strings(value, label):
@@ -233,6 +237,10 @@ def add_arguments(parser):
     parser.add_argument("--sync-pending", action="store_true", help="Replay pending local events/imports before collection.")
     parser.add_argument("--database", action=argparse.BooleanOptionalAction, default=None,
                         help="Enable PostgreSQL integration after applying the reviewed migration; disabled by default.")
+    parser.add_argument("--storage-mode", choices=["files", "database"], default="files",
+                        help="School storage: legacy files (default), or in-memory records committed directly to PostgreSQL (requires --database).")
+    parser.add_argument("--new-only", action="store_true",
+                        help="With database storage, skip committed source/year identities before requesting school details.")
     parser.add_argument("--state-dir", type=Path, default=None, help="Local crash-safe recovery state directory.")
     parser.add_argument("--unlimited", action="store_true",
                         help="Explicitly evaluate every source candidate; omitted/null limits otherwise use a safe bounded default.")
@@ -276,6 +284,26 @@ def _collection_limits(selected, args, explicit):
                                  or not 0 < duration < float("inf")):
         raise ConfigurationError("--max-duration must be a finite positive number of seconds")
     selected.max_duration = duration
+    _storage_settings(selected)
+    return selected
+
+
+def _storage_settings(selected):
+    """Reject ambiguous storage intent before any source or database access."""
+    mode = getattr(selected, "storage_mode", "files")
+    new_only = getattr(selected, "new_only", False)
+    if mode not in {"files", "database"}:
+        raise ConfigurationError("--storage-mode must be files or database")
+    if new_only and mode != "database":
+        raise ConfigurationError("--new-only requires --storage-mode database")
+    if new_only and getattr(selected, "refresh", False):
+        raise ConfigurationError("--new-only and --refresh cannot be combined")
+    if mode == "database":
+        if not getattr(selected, "database", False):
+            raise ConfigurationError("--storage-mode database requires --database; --no-database is not allowed")
+        if getattr(selected, "sync_pending", False):
+            raise ConfigurationError("--sync-pending is legacy file-queue recovery and cannot use database storage")
+    selected.storage_mode, selected.new_only = mode, new_only
     return selected
 
 
@@ -297,6 +325,13 @@ def resolve_source_args(args, source, argv=None):
     if "no_database" in explicit:
         overrides["database"] = False
     _settings(overrides, "CLI")
+    # Validate explicit/global storage intent even when no location is enabled.
+    preliminary = copy.copy(args)
+    for key, value in {**config["defaults"], **{key: value for key, value in config["sources"][source].items()
+                      if key in SETTINGS}, **overrides}.items():
+        setattr(preliminary, key, value)
+    preliminary.database = overrides.get("database", config["database"]["enabled"])
+    _storage_settings(preliminary)
     if cli_scope:
         settings = {**config["defaults"], "max_task_attempts": config["recovery"]["max_task_attempts"],
                     **{key: value for key, value in config["sources"][source].items() if key in SETTINGS}, **overrides}

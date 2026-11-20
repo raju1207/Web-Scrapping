@@ -1,8 +1,9 @@
 """Per-school integration with the project's existing archive and school tables.
 
 The caller owns the PostgreSQL transaction. This module never connects, commits,
-merges entities, or rewrites source files. Immutable snapshot bytes are the event
-authority; archive paths use the original logical data/ layout even in a sandbox.
+merges entities, or rewrites source files. Saved or in-memory source bytes are the
+event authority; archive paths retain logical data/ provenance without requiring
+physical school JSON in database-only mode.
 """
 
 import hashlib
@@ -108,6 +109,57 @@ def logical_raw_path(payload, raw_path):
         return f"data/CBSE_SARAS/{region.lower()}/schools/{raw_path.name}"
 
 
+def database_raw_path(source, identifier, region, year=None):
+    """A stable archive/provenance key, never a physical output filename."""
+    region = standardizer.safe_name(region or "Unknown")
+    if region in {".", ".."}:
+        raise PipelineValidationError("Invalid source region")
+    if source == "udise":
+        academic_year(year)
+        return f"data/{region}/{year}/{identifier}.json"
+    return f"data/CBSE_SARAS/{region.lower()}/schools/{identifier}.json"
+
+
+def prepared_input(payload):
+    """Read legacy immutable bytes or serialize an explicitly in-memory record."""
+    if "raw_record" in payload:
+        raw = payload["raw_record"]
+        if not isinstance(raw, dict):
+            raise PipelineValidationError("School JSON must be an object")
+        content = json_bytes(raw)
+        checksum = hashlib.sha256(content).hexdigest()
+        if payload.get("raw_sha256") is not None and payload["raw_sha256"] != checksum:
+            raise PipelineValidationError("In-memory snapshot checksum mismatch")
+        relative = payload.get("logical_raw_path") or database_raw_path(
+            payload["source"], str(payload["school_identifier"]), payload.get("region"),
+            str(payload.get("academic_year") or "") or None)
+        parts = str(relative).split("/")
+        if (not parts or parts[0] != "data" or any(part in {"", ".", ".."} or ":" in part
+                or "\\" in part for part in parts)):
+            raise PipelineValidationError("Invalid logical archive path")
+        if ((payload["source"] == "udise" and (len(parts) != 4 or parts[2] != str(payload.get("academic_year"))))
+                or (payload["source"] == "saras" and (len(parts) != 5 or parts[1] != "CBSE_SARAS" or parts[3] != "schools"))
+                or parts[-1] != str(payload["school_identifier"]) + ".json"):
+            raise PipelineValidationError("Logical archive path disagrees with source identity")
+        observed_at = (datetime.fromisoformat(str(payload["last_detail_check"]).replace("Z", "+00:00"))
+                       if payload.get("last_detail_check") else datetime.now(timezone.utc))
+        return raw, content, checksum, str(relative), observed_at
+    raw_path, snapshot_path = Path(payload["raw_path"]).resolve(), Path(payload["snapshot_path"]).resolve()
+    if not raw_path.is_file():
+        raise PipelineValidationError("Latest raw file is missing; immutable event remains retryable")
+    content = snapshot_path.read_bytes()
+    checksum = hashlib.sha256(content).hexdigest()
+    if checksum != payload["raw_sha256"]:
+        raise PipelineValidationError("Immutable snapshot checksum mismatch")
+    raw = json.loads(content.decode("utf-8-sig"))
+    if not isinstance(raw, dict):
+        raise PipelineValidationError("School JSON must be an object")
+    checked_at = payload.get("last_detail_check")
+    observed_at = (datetime.fromisoformat(str(checked_at).replace("Z", "+00:00")) if checked_at
+                   else datetime.fromtimestamp(snapshot_path.stat().st_mtime, tz=timezone.utc))
+    return raw, content, checksum, logical_raw_path(payload, raw_path), observed_at
+
+
 def map_and_validate(source, raw, raw_relative, region, identifier, observed_at):
     virtual_raw = ROOT / raw_relative
     if source == "udise":
@@ -149,10 +201,10 @@ def normalized_snapshot(snapshot, source_key, archive_id):
 def import_scraped_record(connection, payload):
     """Validate/archive/upsert one saved event inside the caller's transaction.
 
-    Required payload: source, school_identifier, academic_year (UDISE), region,
-    raw_path, snapshot_path, raw_sha256. data_root optionally defines the physical
-    raw root. Old-year events retain their yearly snapshot without replacing a
-    newer master record. Ambiguous existing source identities require review.
+    Legacy input uses raw_path/snapshot_path/raw_sha256. Database storage supplies
+    raw_record in memory instead, with an optional verified raw_sha256 and stable
+    logical_raw_path. Neither mapping nor archive persistence writes school files.
+    Old-year events retain their yearly snapshot without replacing a newer master.
     """
     source = payload["source"]
     if source not in {"udise", "saras"}:
@@ -160,19 +212,7 @@ def import_scraped_record(connection, payload):
     identifier = str(payload["school_identifier"])
     if not identifier.isdigit() or (source == "udise" and len(identifier) != 11):
         raise PipelineValidationError("Invalid source identifier")
-    raw_path, snapshot_path = Path(payload["raw_path"]).resolve(), Path(payload["snapshot_path"]).resolve()
-    if not raw_path.is_file():
-        raise PipelineValidationError("Latest raw file is missing; immutable event remains retryable")
-    content = snapshot_path.read_bytes()
-    checksum = hashlib.sha256(content).hexdigest()
-    if checksum != payload["raw_sha256"]:
-        raise PipelineValidationError("Immutable snapshot checksum mismatch")
-    raw = json.loads(content.decode("utf-8-sig"))
-    if not isinstance(raw, dict):
-        raise PipelineValidationError("School JSON must be an object")
-    checked_at = payload.get("last_detail_check")
-    observed_at = (datetime.fromisoformat(str(checked_at).replace("Z", "+00:00")) if checked_at
-                   else datetime.fromtimestamp(snapshot_path.stat().st_mtime, tz=timezone.utc))
+    raw, content, checksum, raw_relative, observed_at = prepared_input(payload)
     observed_at = observed_at.replace(tzinfo=observed_at.tzinfo or timezone.utc).astimezone(timezone.utc)
     year = str(payload.get("academic_year") or "") or None
     if source == "udise":
@@ -180,7 +220,6 @@ def import_scraped_record(connection, payload):
         metadata = raw.get("metadata")
         if not isinstance(metadata, dict) or metadata.get("academic_year") != year:
             raise PipelineValidationError("Saved academic year disagrees with the event")
-    raw_relative = logical_raw_path(payload, raw_path)
     column = "udise_code" if source == "udise" else "cbse_affiliation_number"
     mapper_id = (udise_mapper.make_record_id(identifier) if source == "udise"
                  else saras_mapper.make_record_id(identifier))
@@ -234,7 +273,7 @@ def import_scraped_record(connection, payload):
         return archive_record(connection, record, source, keep_newer=keep_newer and not immutable)
 
     # Archive immutable event data before advancing any logical latest views.
-    archive(raw_relative, content, "history", immutable=True)
+    event_raw_archive_id = archive(raw_relative, content, "history", immutable=True)
     raw_archive_id = archive(raw_relative, content, "raw")
     archive(normalized_path, standardized, "history", immutable=True)
     event_canonical_id = archive(canonical_path, canonical, "history", immutable=True)
@@ -302,6 +341,7 @@ def import_scraped_record(connection, payload):
             "school_identifier": identifier, "region": region, "academic_year": year,
             "source_record_pk": source_map[source_key], "entity_id": entity_id,
             "raw_archive_file_id": raw_archive_id, "canonical_archive_file_id": canonical_id,
+            "event_raw_archive_file_id": event_raw_archive_id,
             "event_canonical_archive_file_id": event_canonical_id,
             "snapshot_updated": snapshot_updated, "match_candidates": len(candidates),
             "preserved_newer_master": preserve_master, "archive_paths": archive_paths}

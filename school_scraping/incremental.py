@@ -336,6 +336,188 @@ class IncrementalRuntime:
         report["database_enabled"] = self.database
 
 
+class _DatabaseMemoryView:
+    """Adapt the existing lifecycle projector without opening a file journal."""
+    def __init__(self, store, source, year):
+        self.store, self.source, self.year = store, source, year
+
+    def emit(self, kind, payload, event_id=None):
+        from school_scraping.database_only import DatabaseOnlyError
+        result = self.store.event(kind, payload)
+        if result.get("stopped"):
+            raise DatabaseOnlyError("Database-only collection stopped after a storage failure")
+        return result
+
+    def tasks(self, source=None, scope_key=None, academic_year=""):
+        if source not in (None, self.source):
+            raise ValueError("Database runtime source mismatch")
+        return [row for row in self.store.tasks(scope_key=scope_key)
+                if row.get("storage_mode") == "database"]
+
+    def checkpoint(self, source, school_identifier="", academic_year="", scope_key=""):
+        if source != self.source:
+            raise ValueError("Database runtime source mismatch")
+        return self.store.checkpoint(school_identifier, scope_key=scope_key)
+
+    def task(self, identifier, source=None, academic_year=""):
+        return next((row for row in self.tasks(source) if row.get("task_id") == identifier), None)
+
+    def replay(self, *args, **kwargs):
+        raise RuntimeError("Database-only mode never replays filesystem journals")
+
+
+class DatabaseOnlyRuntime(IncrementalRuntime):
+    """Shared collection policy backed exclusively by committed PostgreSQL state."""
+    database_only = True
+
+    def __init__(self, args, source, store=None, clock=utcnow):
+        from school_scraping.database_only import DatabaseOnlyStore
+        year = getattr(args, "academic_year", "") if source == "udise" else ""
+        self.store = store or DatabaseOnlyStore(source, year)
+        self.new_only = bool(getattr(args, "new_only", False))
+        self._checked, self._existing, self._checkpoints = set(), set(), {}
+        self._database_failure = None
+        self.metrics = {"listing_candidates_examined": 0, "existing_records_skipped": 0,
+                        "new_details_fetched": 0, "detail_fetches_avoided": 0}
+        super().__init__(args, source, memory=_DatabaseMemoryView(self.store, source, year), clock=clock)
+
+    def start(self):
+        if self.started_at is not None:
+            return
+        self.started_at = self.clock()
+        self.memory.emit("run_started", {"run_id": self.run_id, "source": self.source,
+            "started_at": self.started_at.isoformat(), "scope_key": self.scope,
+            "scope": {"states": getattr(self.args, "state", []),
+                      "districts": getattr(self.args, "district", []),
+                      "pincodes": getattr(self.args, "pincode", []),
+                      "all_states": getattr(self.args, "all_states", False), "academic_year": self.year}})
+        self._refresh_tasks()
+
+    def checkpoint(self, identifier=""):
+        # New-only listing discovery remains authoritative even after a previous
+        # complete geographic check. Manual pauses/backoff still use DB tasks.
+        if not identifier and self.new_only:
+            return {}
+        if identifier not in self._checkpoints:
+            self._checkpoints[identifier] = self.store.checkpoint(str(identifier), scope_key=self.scope if not identifier else "") or {}
+        return self._checkpoints[identifier]
+
+    def prefetch(self, identifiers):
+        from school_scraping.database_only import DatabaseOnlyError, validate_identifier
+        if self.store.failed:
+            raise DatabaseOnlyError("Database-only lookup stopped after a storage failure")
+        values = list(dict.fromkeys(validate_identifier(self.source, value) for value in identifiers))
+        missing = [value for value in values if value not in self._checked]
+        if missing:
+            self._existing.update(self.store.lookup_committed(missing))
+            self._checked.update(missing)
+
+    def skip_existing(self, identifier):
+        self.prefetch([identifier])
+        if identifier not in self._existing:
+            return False
+        if not self.new_only:
+            if getattr(self.args, "refresh", False):
+                return False
+            checkpoint = self.checkpoint(identifier)
+            if not checkpoint.get("imported") or checkpoint.get("checkpoint_status") != "completed":
+                return False
+            checked = timestamp(checkpoint.get("last_detail_check"))
+            if checked is None or checked + timedelta(days=self.refresh_days) <= self.clock():
+                return False
+        self.metrics["existing_records_skipped"] += 1
+        self.metrics["detail_fetches_avoided"] += 1
+        self.completed(identifier, "skipped")
+        return True
+
+    def note_detail_fetch(self):
+        self.metrics["new_details_fetched"] += 1
+
+    def note_candidate(self):
+        self.metrics["listing_candidates_examined"] += 1
+
+    def filtered_record(self, identifier):
+        return None  # Never consult a legacy filtered_payloads path.
+
+    def filtered(self, identifier, record, verified_pin=None):
+        self.emit("detail_filtered", identifier=identifier, task_status="filtered",
+                  verified_pincode=verified_pin, content_hash=content_hash(self.source, record),
+                  last_detail_check=self.clock().isoformat(),
+                  next_check_at=(self.clock() + timedelta(days=self.refresh_days)).isoformat())
+        self.completed(identifier, "filtered")
+
+    def persist(self, identifier, record, raw_path=None, *, fetched=True):
+        from school_scraping.database_only import DatabaseOnlyError
+        metadata = record.get("metadata") or {}
+        region = metadata.get("location") or metadata.get("state") or (getattr(self.args, "state", []) or ["Unknown"])[0]
+        result = self.store.import_record(identifier, record, region, scope_key=self.scope,
+            run_id=self.run_id, observed_at=self.clock(), new_only=self.new_only)
+        self._checkpoints.pop(identifier, None)
+        self._existing.add(identifier)
+        if result.get("status") == "already_committed":
+            self.metrics["existing_records_skipped"] += 1
+            self.completed(identifier, "unchanged")
+            return "already_imported"
+        if not result.get("acknowledged"):
+            raise DatabaseOnlyError("Database import did not acknowledge a successful commit")
+        self.imported += 1
+        return "imported"
+
+    def failed(self, identifier, error, row=None, state=None, district=None, phase="detail"):
+        from school_scraping.database_only import DatabaseOnlyError
+        if isinstance(error, DatabaseOnlyError):
+            self._database_failure = {"message": str(error),
+                "data_commit_confirmed": error.data_committed, "commit_outcome_unknown": error.commit_outcome_unknown}
+        if self.store.failed:
+            return  # Do not retry a broken DB to log a DB failure.
+        super().failed(identifier, error, row, state, district, phase)
+
+    def finish(self, report, *, scope_complete=False):
+        from school_scraping.database_only import DatabaseOnlyError
+        if self.metrics["existing_records_skipped"]:
+            coverage = report.setdefault("coverage", {})
+            coverage.update(details_complete=False, scope_complete=False)
+            scope_complete = False
+        self._report_counts(report)
+        try:
+            if not self.store.failed:
+                super().finish(report, scope_complete=scope_complete)
+            else:
+                self.finished = True
+        except DatabaseOnlyError as error:
+            self._database_failure = {"message": str(error), "data_commit_confirmed": error.data_committed,
+                                      "commit_outcome_unknown": error.commit_outcome_unknown}
+            report["status"] = "failed"
+        self._report_counts(report)
+        if self._database_failure:
+            report["database_failure"] = self._database_failure
+        if self.metrics["existing_records_skipped"]:
+            report.get("coverage", {}).setdefault("limitations", []).append(
+                "Committed identities skipped without fresh detail/PIN/geography verification")
+
+    def _report_counts(self, report):
+        counts = report.setdefault("counts", {})
+        counts.update(self.metrics)
+        stats = self.store.stats
+        counts.update(identifiers_checked=stats.get("identifiers_checked", 0),
+            canonical_validation_passed=stats.get("canonical_validated", 0),
+            new_imports_committed=stats.get("imports_committed", 0),
+            import_acknowledgements=stats.get("import_acknowledgements", 0),
+            imported=max(self.imported, stats.get("imports_committed", 0)), pending_import=0,
+            pending_acknowledgements=max(0, stats.get("imports_committed", 0) - stats.get("import_acknowledgements", 0)),
+            local_school_json_files_generated=0,
+            database_lookup_duration_seconds=stats.get("database_lookup_duration_seconds", 0.0))
+        report.update(storage_mode="database", new_only=self.new_only, offline_durability=False,
+                      run_id=self.run_id, database_enabled=True)
+
+    def close(self):
+        self.store.close()
+
+
+def make_runtime(args, source):
+    return DatabaseOnlyRuntime(args, source) if getattr(args, "storage_mode", "files") == "database" else IncrementalRuntime(args, source)
+
+
 def sync_pending(args):
     """Explicit maintenance mode never opens a source browser or requests data."""
     from school_scraping.memory import MemoryStore

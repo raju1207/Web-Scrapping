@@ -19,7 +19,8 @@ from school_scraping.common import (
     parse_values, pin, read_json, safe_filename, source_pin, write_report,
 )
 from school_scraping.config import add_arguments, resolve_source_args, ConfigurationError
-from school_scraping.incremental import IncrementalRuntime, sync_pending
+from school_scraping.incremental import IncrementalRuntime, make_runtime, sync_pending
+from school_scraping.database_only import DatabaseOnlyError, validate_identifier
 
 ROOT = Path(__file__).resolve().parent
 BASE_URL = "https://kys.udiseplus.gov.in/web-app/api"
@@ -460,7 +461,8 @@ def run_job(args):
         if not isinstance(headers, dict) or not all(isinstance(k, str) and isinstance(v, str) for k, v in headers.items()):
             raise ValueError("Authorized headers must be a JSON object of strings")
         with SourceLock(args.data_dir, "udise"):
-            runtime = IncrementalRuntime(args, "udise")
+            runtime = make_runtime(args, "udise")
+            database_only = bool(getattr(runtime, "database_only", False))
             runtime.start()
             if not runtime.scope_due():
                 report["status"] = "not_due"
@@ -512,8 +514,8 @@ def run_job(args):
                 selected = list(selected_rows(rows, args.state, args.district, args.pincode))
                 # The incremental policy decides when a refresh is due; RawStore
                 # then preserves the old bytes before accepting changed details.
-                store = RawStore("udise", args.data_dir, args.academic_year, refresh=True)
-                report["invalid_existing_files"] = store.invalid_files
+                store = None if database_only else RawStore("udise", args.data_dir, args.academic_year, refresh=True)
+                report["invalid_existing_files"] = store.invalid_files if store else []
                 seen = set()
                 counts = report["counts"]
                 report["listing_data"] = rows
@@ -522,9 +524,24 @@ def run_job(args):
                 counts["discovered"] = len({str(get_value(row, "udiseschCode", "udiseSchCode", "udiseCode") or "") for row in selected})
                 # Register all candidates before details; a bounded or interrupted
                 # run must leave every unprocessed source ID resumable.
-                for row in selected:
-                    code = str(get_value(row, "udiseschCode", "udiseSchCode", "udiseCode") or "")
-                    runtime.discovered(code, row, get_value(row, "stateName", "state"), get_value(row, "districtName", "district"))
+                if database_only:
+                    bounded, unique = [], set()
+                    for row in selected:
+                        code = str(get_value(row, "udiseschCode", "udiseSchCode", "udiseCode") or "")
+                        if code in unique:
+                            continue
+                        if args.limit is not None and len(unique) >= args.limit:
+                            break
+                        unique.add(code)
+                        try:
+                            bounded.append(validate_identifier("udise", code))
+                        except ValueError:
+                            pass  # Invalid identifiers still consume their normal candidate budget.
+                    runtime.prefetch(bounded)
+                else:
+                    for row in selected:
+                        code = str(get_value(row, "udiseschCode", "udiseSchCode", "udiseCode") or "")
+                        runtime.discovered(code, row, get_value(row, "stateName", "state"), get_value(row, "districtName", "district"))
                 attempted = 0
                 for index, row in enumerate(selected):
                     code = str(get_value(row, "udiseschCode", "udiseSchCode", "udiseCode") or "")
@@ -542,10 +559,24 @@ def run_job(args):
                         outcome(code, row, "pending", "time_budget_reached" if budget_reached else "candidate_limit_reached")
                         continue
                     attempted += 1
+                    if database_only:
+                        runtime.note_candidate()
                     try:
-                        if not re.fullmatch(r"\d{11}", code):
+                        if database_only:
+                            validate_identifier("udise", code)
+                        elif not re.fullmatch(r"\d{11}", code):
                             raise ValueError("Missing or invalid source UDISE code")
                         state, district = row.get("stateName"), row.get("districtName")
+                        if database_only:
+                            runtime.discovered(code, row, state, district)
+                            if runtime.skip_existing(code):
+                                counts["skipped"] += 1
+                                outcome(code, row, "skipped", "committed_database_school_year", committed_identity_verified=True)
+                                continue
+                            if not runtime.detail_due(code, None):
+                                counts["deferred"] = counts.get("deferred", 0) + 1
+                                outcome(code, row, "pending", "retry_backoff_or_attempt_limit")
+                                continue
                         cached = runtime.filtered_record(code) if args.pincode else None
                         if cached:
                             context = validate_record_context(cached, row, args)
@@ -555,8 +586,8 @@ def run_job(args):
                                 outcome(code, row, "filtered", reason, cached, **context)
                                 runtime.completed(code, "filtered")
                                 continue
-                        existing = store.existing(code)
-                        if not runtime.detail_due(code, existing, store.find(code)):
+                        existing = store.existing(code) if store else None
+                        if store is not None and not runtime.detail_due(code, existing, store.find(code)):
                             if not existing:
                                 counts["deferred"] = counts.get("deferred", 0) + 1
                                 counts["pending"] += 1
@@ -576,6 +607,8 @@ def run_job(args):
                             continue
                         runtime.attempting(code, row, state, district)
                         record = build_record(client, row, args)
+                        if database_only:
+                            runtime.note_detail_fetch()
                         context = validate_record_context(record, row, args)
                         evidence = source_pincode(record, args.academic_year)
                         reason = pincode_filter_reason(record)
@@ -585,12 +618,18 @@ def run_job(args):
                             runtime.filtered(code, record, evidence["actual_pincode"])
                             continue
                         location = record["metadata"]["location"]
-                        path = args.data_dir / safe_filename(location) / args.academic_year / f"{safe_filename(record['metadata']['school_name'])}_{code}.json"
-                        result_name = store.save(code, record, path)
+                        if database_only:
+                            result_name = "skipped" if runtime.persist(code, record) == "already_imported" else "success"
+                        else:
+                            path = args.data_dir / safe_filename(location) / args.academic_year / f"{safe_filename(record['metadata']['school_name'])}_{code}.json"
+                            result_name = store.save(code, record, path)
                         counts[result_name] += 1
                         outcome(code, row, result_name, "raw_record_" + result_name, record, **context)
-                        runtime.persist(code, record, store.find(code))
+                        if store is not None:
+                            runtime.persist(code, record, store.find(code))
                         runtime.event("record_" + result_name, identifier=code)
+                    except DatabaseOnlyError:
+                        raise
                     except ManualIntervention as error:
                         counts["failed"] += 1
                         counts["pending"] += len(selected) - index - 1
@@ -657,8 +696,12 @@ def run_job(args):
                                   "limitations": limitations}
             report["pending_identifiers"] = sorted({item["udise_code"] for item in report["record_outcomes"] if item["outcome"] == "pending"})
             if runtime:
-                runtime.finish(report, scope_complete=report["coverage"]["scope_complete"]
-                               and not getattr(args, "retry_failed", False))
+                try:
+                    runtime.finish(report, scope_complete=report["coverage"]["scope_complete"]
+                                   and not getattr(args, "retry_failed", False))
+                finally:
+                    if getattr(runtime, "database_only", False):
+                        runtime.close()
             report["ended_at"] = datetime.now(timezone.utc).isoformat()
             report["duration_seconds"] = (datetime.fromisoformat(report["ended_at"]) - datetime.fromisoformat(report["started_at"])).total_seconds()
             report_path = write_report(args.report_dir, "udise", report)

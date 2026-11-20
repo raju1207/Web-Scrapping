@@ -66,7 +66,7 @@ Continuous scheduler: DISABLED
 - Fresh UDISE listing discovery and full geographic coverage
   remain unverified
 
-## Next Planned Development
+## Database-only Development
 
 Database-first and database-only architecture:
 
@@ -77,7 +77,14 @@ Website listing
 -> Canonical v4 validation
 -> Direct PostgreSQL storage
 
-This optimization is PLANNED and NOT YET IMPLEMENTED.
+Implemented as an opt-in mode for both sources and scheduler command generation:
+`--storage-mode database --database --new-only`.
+
+The existing Canonical v4 pipeline now accepts in-memory records and stores
+school payloads in PostgreSQL JSONB without local school payload files. Data
+and completion evidence commit together; acknowledgements follow commit.
+Legacy file storage/recovery remains available. See `database_only.md` for
+refresh, failure handling, prerequisites and isolated test routing.
 
 ## Safety
 

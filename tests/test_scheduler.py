@@ -204,6 +204,68 @@ class SchedulerTests(unittest.TestCase):
         self.assertFalse(location["database_enabled"])
         self.assertEqual(command[command.index("--limit") + 1], "3")
 
+    def test_database_only_dry_run_forwards_flags_without_storage_initialization(self):
+        for source in ("saras", "udise"):
+            with self.subTest(source=source), tempfile.TemporaryDirectory() as folder:
+                target = Path(folder) / "absent"
+                output = io.StringIO()
+                with patch.object(scheduler, "_memory") as memory, \
+                        patch.object(scheduler.subprocess, "Popen") as popen, \
+                        patch.object(scheduler, "SourceLock") as lock, contextlib.redirect_stdout(output):
+                    code = scheduler.main(["--dry-run", "--source", source, "--state", "CHANDIGARH",
+                        "--database", "--storage-mode", "database", "--new-only", "--limit", "1", "--data-dir", str(target)])
+                report = json.loads(output.getvalue())
+                command = report["commands"][0]["argv"]
+                self.assertEqual(code, 0)
+                self.assertEqual(command[command.index("--storage-mode") + 1], "database")
+                self.assertEqual(command.count("--database"), 1)
+                self.assertIn("--new-only", command)
+                self.assertEqual(report["locations"][0]["storage_mode"], "database")
+                self.assertTrue(report["locations"][0]["new_only"])
+                self.assertFalse(target.exists())
+                memory.assert_not_called()
+                popen.assert_not_called()
+                lock.assert_not_called()
+
+    def test_database_only_cycle_never_opens_or_replays_legacy_queue(self):
+        with tempfile.TemporaryDirectory() as root:
+            args = self.prepared(root, "--database", "--storage-mode", "database", "--new-only")
+            state = Path(args.resolved_jobs[0][1].state_dir)
+            state.mkdir(parents=True)
+            journal = state / "events.jsonl"
+            historical = b'{"historical":"must remain dormant"}\n'
+            journal.write_bytes(historical)
+            process = Mock(returncode=0)
+            process.poll.return_value = 0
+            with patch.object(scheduler, "_memory", side_effect=AssertionError("Legacy queue opened")), \
+                    patch.object(scheduler, "location_due", side_effect=AssertionError("Legacy due check used")), \
+                    patch.object(scheduler.subprocess, "Popen", return_value=process) as popen:
+                results = scheduler.run_daily_job(args, threading.Event(), lambda *args, **kwargs: None)
+            self.assertEqual(results[0]["status"], "success")
+            self.assertEqual(popen.call_count, 1)
+            self.assertEqual(journal.read_bytes(), historical)
+            self.assertEqual(list(state.iterdir()), [journal])
+
+    def test_database_only_scheduler_rejects_disabled_database(self):
+        with patch.object(scheduler, "_memory") as memory, patch.object(scheduler.subprocess, "Popen") as popen, \
+                contextlib.redirect_stderr(io.StringIO()):
+            with self.assertRaises(SystemExit):
+                scheduler.main(["--dry-run", "--source", "saras", "--state", "CHANDIGARH",
+                                "--storage-mode", "database", "--no-database"])
+        memory.assert_not_called()
+        popen.assert_not_called()
+
+    def test_unresolved_database_only_commands_also_require_explicit_database(self):
+        argv = ["--state", "CHANDIGARH", "--storage-mode", "database", "--new-only"]
+        with self.assertRaises(scheduler.ConfigurationError):
+            scheduler.build_commands(scheduler.build_parser().parse_args(argv))
+        commands = scheduler.build_commands(scheduler.build_parser().parse_args([*argv, "--database"]))
+        self.assertEqual({source for source, _ in commands}, {"udise", "saras"})
+        for _, command in commands:
+            self.assertEqual(command[command.index("--storage-mode") + 1], "database")
+            self.assertEqual(command.count("--database"), 1)
+            self.assertIn("--new-only", command)
+
     def test_future_checkpoint_skips_child_and_records_scheduler_summary(self):
         with tempfile.TemporaryDirectory() as root:
             args = self.prepared(root)

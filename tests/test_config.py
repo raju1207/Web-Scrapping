@@ -41,6 +41,7 @@ def source_parser():
     parser.add_argument("--retries", type=int, default=3)
     parser.add_argument("--delay", type=float, default=.5)
     parser.add_argument("--limit", type=int)
+    parser.add_argument("--refresh", action="store_true")
     parser.add_argument("--data-dir", type=Path, default=PROJECT_DIR / "data")
     parser.add_argument("--school-list", action="append", type=Path, default=[])
     parser.add_argument("--headers-file", type=Path)
@@ -64,6 +65,39 @@ class ConfigurationTests(unittest.TestCase):
                              {"chandigarh", "delhi", "mumbai"})
             self.assertTrue(all(not location["enabled"] for location in config["sources"][source]["locations"]
                                 if location["name"] in {"chandigarh", "delhi", "mumbai"}))
+
+    def test_database_storage_is_explicit_and_does_not_change_legacy_defaults(self):
+        legacy = ["--state", "CHANDIGARH"]
+        selected = resolve_source_args(source_parser().parse_args(legacy), "saras", legacy)[0]
+        self.assertEqual(selected.storage_mode, "files")
+        self.assertFalse(selected.new_only)
+        argv = [*legacy, "--database", "--storage-mode", "database", "--new-only"]
+        selected = resolve_source_args(source_parser().parse_args(argv), "saras", argv)[0]
+        self.assertEqual(selected.storage_mode, "database")
+        self.assertTrue(selected.database)
+        self.assertTrue(selected.new_only)
+
+    def test_database_storage_rejects_conflicts_before_scope_execution(self):
+        for extra in (["--storage-mode", "database"],
+                      ["--storage-mode", "database", "--no-database"],
+                      ["--new-only"],
+                      ["--database", "--storage-mode", "database", "--new-only", "--refresh"],
+                      ["--database", "--storage-mode", "database", "--sync-pending"]):
+            for scope in ([], ["--state", "CHANDIGARH"]):
+                argv = [*scope, *extra]
+                with self.subTest(extra=extra, scope=scope), self.assertRaises(ConfigurationError):
+                    resolve_source_args(source_parser().parse_args(argv), "udise", argv)
+
+    def test_database_storage_can_be_configured_without_enabling_shipped_config(self):
+        with tempfile.TemporaryDirectory() as root:
+            config = example()
+            config["database"]["enabled"] = True
+            config["defaults"].update(storage_mode="database", new_only=True)
+            argv = ["--config", str(self.write(root, config)), "--location", "punjab"]
+            selected = resolve_source_args(source_parser().parse_args(argv), "udise", argv)[0]
+        self.assertEqual(selected.storage_mode, "database")
+        self.assertTrue(selected.new_only)
+        self.assertTrue(selected.database)
 
     def test_requested_targets_use_verified_source_specific_geographic_scopes(self):
         config = load_config(DEFAULT_CONFIG)
@@ -193,6 +227,9 @@ class ConfigurationTests(unittest.TestCase):
             lambda c: c["defaults"].update({"delay": float("nan")}),
             lambda c: c["defaults"].update({"year_id": True}),
             lambda c: c["defaults"].update({"unlimited": True}),
+            lambda c: c["defaults"].update({"storage_mode": []}),
+            lambda c: c["defaults"].update({"storage_mode": "hybrid"}),
+            lambda c: c["defaults"].update({"new_only": "yes"}),
             lambda c: c["defaults"].update({"academic_year": "Real Time"}),
             lambda c: c["recovery"].update({"max_task_attempts": 0}),
             lambda c: c["scheduler"].update({"time": "25:00"}),

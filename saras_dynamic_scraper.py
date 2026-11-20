@@ -22,7 +22,8 @@ from school_scraping.common import (
     pin, source_pin, safe_filename, write_report,
 )
 from school_scraping.config import add_arguments, resolve_source_args, ConfigurationError
-from school_scraping.incremental import IncrementalRuntime, sync_pending
+from school_scraping.incremental import IncrementalRuntime, make_runtime, sync_pending
+from school_scraping.database_only import DatabaseOnlyError
 
 PROJECT_DIR = Path(__file__).resolve().parent
 BASE_URL = "https://saras.cbse.gov.in"
@@ -272,6 +273,8 @@ class SarasBrowser:
             try:
                 return operation()
             except ManualIntervention:
+                raise
+            except DatabaseOnlyError:
                 raise
             except Exception as error:
                 runtime = getattr(self.args, "_runtime", None)
@@ -586,10 +589,17 @@ def run(args: argparse.Namespace, browser: SarasBrowser, runtime=None) -> dict[s
     run_clock = time.monotonic()
     args._collection_deadline = (run_clock + args.max_duration
                                  if getattr(args, "max_duration", None) is not None else None)
-    runtime = runtime or IncrementalRuntime(args, "saras")
-    runtime.start()
+    owns_runtime = runtime is None
+    runtime = runtime or make_runtime(args, "saras")
+    database_only = bool(getattr(runtime, "database_only", False))
+    try:
+        runtime.start()
+    except Exception:
+        if owns_runtime and database_only:
+            runtime.close()
+        raise
     args._runtime = runtime
-    store = RawStore("saras", args.data_dir, refresh=True)
+    store = None if database_only else RawStore("saras", args.data_dir, refresh=True)
 
     def listing_scope_key(scope):
         return (geography_key(scope["state"]), geography_key(scope.get("district") or ""))
@@ -646,6 +656,11 @@ def run(args: argparse.Namespace, browser: SarasBrowser, runtime=None) -> dict[s
 
     def collect_details(schools, state, district_name=None):
         report["listing_data"].extend(schools)
+        if database_only:
+            candidates = list(dict.fromkeys(s["affiliation_number"] for s in schools if s["affiliation_number"] not in seen))
+            if args.limit is not None:
+                candidates = candidates[:max(0, args.limit - len(seen))]
+            runtime.prefetch(candidates)
         # Persist every known candidate before the first detail request so that
         # interruption, a manual challenge, or a time bound loses no inputs.
         for school in schools:
@@ -661,10 +676,21 @@ def run(args: argparse.Namespace, browser: SarasBrowser, runtime=None) -> dict[s
             if args.limit and len(seen) >= args.limit:
                 break
             seen.add(identifier)
+            if database_only:
+                runtime.note_candidate()
             report["active_task"] = {"state": state, "district": district_name,
                                      "affiliation_number": identifier,
                                      "detail_url": school["detail_url"], "phase": "detail"}
             try:
+                if database_only:
+                    if runtime.skip_existing(identifier):
+                        counts["skipped"] += 1
+                        outcome(school, state, district_name, "skipped", "committed_database_identity",
+                                detail_source="database", geography_verified=False, committed_identity_verified=True)
+                        continue
+                    if not runtime.detail_due(identifier, None):
+                        counts["deferred"] = counts.get("deferred", 0) + 1
+                        continue
                 cached = runtime.filtered_record(identifier) if args.pincode else None
                 if cached:
                     fields = cached.get("school_details", {})
@@ -672,8 +698,8 @@ def run(args: argparse.Namespace, browser: SarasBrowser, runtime=None) -> dict[s
                     validate_geography(fields, school, state, district_name)
                     if filter_detail(school, fields, state, district_name, "filtered_cache"):
                         continue
-                existing = store.existing(identifier)
-                if not runtime.detail_due(identifier, existing, store.find(identifier)):
+                existing = store.existing(identifier) if store else None
+                if store is not None and not runtime.detail_due(identifier, existing, store.find(identifier)):
                     if not existing:
                         counts["deferred"] = counts.get("deferred", 0) + 1
                         continue
@@ -690,6 +716,8 @@ def run(args: argparse.Namespace, browser: SarasBrowser, runtime=None) -> dict[s
                     continue
                 runtime.attempting(identifier, school, state, district_name)
                 detail = browser.detail(school)
+                if database_only:
+                    runtime.note_detail_fetch()
                 validate_detail(detail["fields"], identifier)
                 geography = validate_geography(detail["fields"], school, state, district_name)
                 if filter_detail(school, detail["fields"], state, district_name, "live_detail",
@@ -698,14 +726,21 @@ def run(args: argparse.Namespace, browser: SarasBrowser, runtime=None) -> dict[s
                 if district_name:
                     school["saras_selected_district"] = district_name
                 record = build_record(school, detail, state, district_name)
-                result = store.save(identifier, record, output_path(args.data_dir, state, identifier, detail["fields"]))
-                counts[result] += 1
-                runtime.persist(identifier, record, store.find(identifier))
+                if database_only:
+                    result = "skipped" if runtime.persist(identifier, record) == "already_imported" else "success"
+                else:
+                    result = store.save(identifier, record, output_path(args.data_dir, state, identifier, detail["fields"]))
+                    counts[result] += 1
+                    runtime.persist(identifier, record, store.find(identifier))
+                if database_only:
+                    counts[result] += 1
                 runtime.event("record_" + result, identifier=identifier)
                 outcome(school, state, district_name, result,
                         {"success": "new_school", "updated": "changed_detail", "unchanged": "unchanged_detail",
                          "skipped": "existing_school"}[result], detail["fields"], "live_detail",
-                        **geography, raw_path=str(store.find(identifier)))
+                        **geography, **({"raw_path": str(store.find(identifier))} if store else {}))
+            except DatabaseOnlyError:
+                raise
             except ManualIntervention as error:
                 runtime.failed(identifier, error, school, state, district_name)
                 outcome(school, state, district_name, "failed", "manual_intervention")
@@ -797,6 +832,8 @@ def run(args: argparse.Namespace, browser: SarasBrowser, runtime=None) -> dict[s
                         raise
                     except ManualIntervention:
                         raise
+                    except DatabaseOnlyError:
+                        raise
                     except Exception as error:
                         from school_scraping.memory import safe_error
                         counts["failed"] += 1
@@ -814,6 +851,8 @@ def run(args: argparse.Namespace, browser: SarasBrowser, runtime=None) -> dict[s
             except CollectionBudgetReached:
                 raise
             except ManualIntervention:
+                raise
+            except DatabaseOnlyError:
                 raise
             except Exception as error:
                 from school_scraping.memory import safe_error
@@ -878,7 +917,11 @@ def run(args: argparse.Namespace, browser: SarasBrowser, runtime=None) -> dict[s
             "listing_complete": listing_complete, "details_complete": bool(details_complete),
             "candidate_limit_reached": args.limit is not None and len(seen) >= args.limit,
             "scope_complete": bool(listing_complete and details_complete), "limitations": limitations}
-        runtime.finish(report, scope_complete=report["coverage"]["scope_complete"])
+        try:
+            runtime.finish(report, scope_complete=report["coverage"]["scope_complete"])
+        finally:
+            if owns_runtime and database_only:
+                runtime.close()
     return report
 
 
@@ -919,13 +962,15 @@ def run_job(args: argparse.Namespace) -> int:
         print(json.dumps({"source": "CBSE SARAS", "states": args.state, "all_states": args.all_states,
                           "districts": args.district, "pincodes": args.pincode, "limit": args.limit,
                           "pincode_mode": "Exact dedicated Pin Code detail-field postfilter; no direct pincode search",
+                          "storage_mode": getattr(args, "storage_mode", "files"),
+                          "new_only": getattr(args, "new_only", False),
                           "validation": "Offline scope only; state/district availability is checked against live dropdowns during collection"}, indent=2))
         return 0
     runtime = None
     try:
         from playwright.sync_api import sync_playwright
         with SourceLock(args.data_dir, "saras"):
-            runtime = IncrementalRuntime(args, "saras")
+            runtime = make_runtime(args, "saras")
             runtime.start()
             if not runtime.scope_due():
                 report = {"source": "CBSE SARAS", "status": "not_due", "counts": {},
@@ -957,10 +1002,14 @@ def run_job(args: argparse.Namespace) -> int:
                    "scope": {"states": args.state, "all_states": args.all_states,
                              "districts": args.district, "pincodes": args.pincode},
                    "failures": [{"error_type": type(error).__name__,
-                                 "error": "Browser/session initialization or source lock failed; inspect local installation and configuration"}]}
+                                 "error": "Database-only storage failed; collection stopped" if isinstance(error, DatabaseOnlyError)
+                                 else "Browser/session initialization or source lock failed; inspect local installation and configuration"}]}
         try:
             if runtime:
-                runtime.failed("", RuntimeError("Source startup failed; inspect browser/session configuration"), phase="discovery")
+                try:
+                    runtime.failed("", error if isinstance(error, DatabaseOnlyError) else RuntimeError("Source startup failed; inspect browser/session configuration"), phase="discovery")
+                except DatabaseOnlyError:
+                    pass  # Preserve the startup failure report when storage logging also fails.
                 runtime.finish(failure)
             path = write_report(args.report_dir, "saras", failure)
             print(f"SARAS could not start: {type(error).__name__}. Failure report: {path}")
@@ -968,6 +1017,9 @@ def run_job(args: argparse.Namespace) -> int:
             print(f"SARAS could not start: {type(error).__name__}; the failure report directory is also unavailable.")
         print("Check browser/session configuration. Install the browser if needed with: python -m playwright install chromium")
         return 1
+    finally:
+        if runtime is not None and getattr(runtime, "database_only", False):
+            runtime.close()
 
 
 def main(argv: list[str] | None = None) -> int:

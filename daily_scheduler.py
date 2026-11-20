@@ -126,6 +126,7 @@ def build_commands(args):
             if value is not None:
                 command.extend(["--" + option.replace("_", "-"), str(value)])
         _append_collection_mode(command, args)
+        _append_storage_mode(command, args)
         if args.refresh:
             command.append("--refresh")
         if args.manual_captcha is not None:
@@ -176,6 +177,17 @@ def _append_collection_mode(command, job):
         command.extend(["--limit", str(getattr(job, "limit", None) or SAFE_CANDIDATE_LIMIT)])
 
 
+def _append_storage_mode(command, job):
+    if getattr(job, "storage_mode", "files") == "database":
+        if not getattr(job, "database", False):
+            raise ConfigurationError("--storage-mode database requires --database")
+        command.extend(["--storage-mode", "database"])
+        if "--database" not in command:
+            command.append("--database")
+    if getattr(job, "new_only", False):
+        command.append("--new-only")
+
+
 def _job_command(args, source, job):
     command = [sys.executable, str(PROJECT_DIR / SCRIPTS[source]), "--config", str(job.config)]
     if args.explicit_scope:
@@ -196,6 +208,7 @@ def _job_command(args, source, job):
             command.extend(["--" + option.replace("_", "-"), str(value)])
     _append_collection_mode(command, job)
     command.append("--database" if job.database else "--no-database")
+    _append_storage_mode(command, job)
     for option in ("refresh", "retry_failed", "sync_pending"):
         if getattr(job, option, False):
             command.append("--" + option.replace("_", "-"))
@@ -328,20 +341,25 @@ def run_daily_job(args, stop_event, log):
     scheduler_memory = None
     if hasattr(args, "resolved_jobs") and args.resolved_jobs:
         for source, job in args.resolved_jobs:
+            if getattr(job, "storage_mode", "files") == "database":
+                # The child owns PostgreSQL run/checkpoint decisions. Never open
+                # a filesystem journal merely because database-only is enabled.
+                continue
             key = (str(job.state_dir), job.database)
             if key not in memory_by_path:
                 memory_by_path[key] = _memory(job)
                 if job.database:
                     memory_by_path[key].replay(respect_backoff=True)
             scheduler_memory = scheduler_memory or memory_by_path[key]
-        scheduler_memory.emit("run_started", {"run_id": run_id, "source": "scheduler",
+        if scheduler_memory is not None:
+            scheduler_memory.emit("run_started", {"run_id": run_id, "source": "scheduler",
                                                "started_at": run_started, "status": "running",
                                                "scope": {"locations": [job.location_name for _, job in args.resolved_jobs]}})
     for index, (source, command) in enumerate(build_commands(args)):
         if stop_event.is_set():
             break
         job = args.resolved_jobs[index][1] if hasattr(args, "resolved_jobs") else None
-        if job is not None:
+        if job is not None and getattr(job, "storage_mode", "files") != "database":
             memory = memory_by_path[(str(job.state_dir), job.database)]
             due, reason = location_due(source, job, memory)
             if not due:
@@ -423,6 +441,8 @@ def main(argv=None):
                                          "scope_key": job.scope_key, "state": job.state,
                                          "districts": job.district, "pincodes": job.pincode,
                                          "database_enabled": job.database,
+                                         "storage_mode": getattr(job, "storage_mode", "files"),
+                                         "new_only": getattr(job, "new_only", False),
                                          "collection_mode": job.collection_mode,
                                          "candidate_limit": job.limit,
                                          "max_duration_seconds": job.max_duration,
