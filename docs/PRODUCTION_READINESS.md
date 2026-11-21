@@ -2,6 +2,8 @@
 
 Section 13B implements admission checks, bounded supervision and read-only reports. **Production remains blocked.** No runtime host, production database, backup destination, key custodian or alert recipient has been selected by this work. The original scheduler and database flags remain false. The existing Haryana SARAS example remains enabled inside the original configuration; do not enable that configuration wholesale.
 
+The configured daily application schedule is `23:00` (11 PM) in `Asia/Kolkata`, equivalent to `17:30` UTC. The shared configuration supplies the schedule unless an explicit CLI override is provided. This time change does not enable scheduling, register a Windows task or change missed-run handling. `--once` still requests an immediate cycle and requires the existing approval and admission checks.
+
 This is the current operating reference for database-only scheduling. It supersedes the older file-mode command examples in retained Section 11 runbooks. Those recovery artifacts remain unchanged. Legacy file-mode recovery is still available and deliberately separate.
 
 ## Approval and commands

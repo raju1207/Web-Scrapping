@@ -20,12 +20,12 @@ from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 from school_scraping.common import SourceLock
 from school_scraping.supervision import supervise
 from school_scraping.config import (
-    ConfigurationError, SAFE_CANDIDATE_LIMIT, add_arguments, explicit_options, load_config, resolve_source_args,
+    ConfigurationError, DEFAULT_SCHEDULE_TIME, SAFE_CANDIDATE_LIMIT, add_arguments, explicit_options, load_config, resolve_source_args,
 )
 
 
 PROJECT_DIR = Path(__file__).resolve().parent
-SCHEDULE_TIME = "02:00"
+SCHEDULE_TIME = DEFAULT_SCHEDULE_TIME
 SCRIPTS = {"udise": "udise_dynamic_scraper.py", "saras": "saras_dynamic_scraper.py"}
 
 
@@ -34,7 +34,7 @@ def schedule_time(value):
     try:
         parsed = datetime.strptime(value, "%H:%M")
     except ValueError as error:
-        raise argparse.ArgumentTypeError("Use a valid 24-hour time, such as 02:00.") from error
+        raise argparse.ArgumentTypeError(f"Use a valid 24-hour time, such as {SCHEDULE_TIME}.") from error
     return parsed.strftime("%H:%M")
 
 
@@ -56,7 +56,7 @@ def build_parser():
     parser = argparse.ArgumentParser(description=__doc__)
     add_arguments(parser)
     parser.add_argument("--time", type=schedule_time, default=SCHEDULE_TIME,
-                        help="Daily local time in HH:MM format (default: 02:00).")
+                        help=f"Daily local time in HH:MM format (default: {SCHEDULE_TIME}).")
     parser.add_argument("--timezone", default="Asia/Kolkata",
                         help="IANA timezone (default: Asia/Kolkata).")
     parser.add_argument("--source", choices=["udise", "saras", "both"], default="both")

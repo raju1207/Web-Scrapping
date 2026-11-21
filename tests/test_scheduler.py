@@ -13,6 +13,138 @@ import daily_scheduler as scheduler
 from school_scraping.supervision import SupervisionResult
 
 
+class DailyScheduleTests(unittest.TestCase):
+    def test_shared_defaults_are_2300_and_activation_stays_disabled(self):
+        from school_scraping.config import DEFAULT_SCHEDULE_TIME
+        config = scheduler.load_config()
+        self.assertEqual(DEFAULT_SCHEDULE_TIME, "23:00")
+        self.assertEqual(scheduler.SCHEDULE_TIME, DEFAULT_SCHEDULE_TIME)
+        self.assertEqual(scheduler.build_parser().parse_args([]).time, DEFAULT_SCHEDULE_TIME)
+        self.assertEqual(config["scheduler"]["time"], DEFAULT_SCHEDULE_TIME)
+        self.assertEqual(config["scheduler"]["timezone"], "Asia/Kolkata")
+        self.assertFalse(config["scheduler"]["enabled"])
+        self.assertFalse(config["database"]["enabled"])
+        with tempfile.TemporaryDirectory() as folder:
+            config.pop("_path")
+            del config["scheduler"]["time"]
+            path = Path(folder) / "settings.json"
+            path.write_text(json.dumps(config), encoding="utf-8")
+            self.assertEqual(scheduler.load_config(path)["scheduler"]["time"], "23:00")
+
+    def test_configured_and_explicit_custom_times_still_override_default(self):
+        with tempfile.TemporaryDirectory() as folder:
+            config = scheduler.load_config()
+            config.pop("_path")
+            config["scheduler"]["time"] = "21:15"
+            path = Path(folder) / "settings.json"
+            path.write_text(json.dumps(config), encoding="utf-8")
+            for extra, expected in (([], "21:15"), (["--time", "20:30"], "20:30")):
+                with self.subTest(extra=extra):
+                    argv = ["--config", str(path), *extra]
+                    args = scheduler.prepare_args(scheduler.build_parser().parse_args(argv), argv)
+                    self.assertEqual(args.time, expected)
+
+    def test_2300_occurrence_boundaries_utc_and_calendar_rollover(self):
+        zone = ZoneInfo("Asia/Kolkata")
+        target = datetime(2026, 11, 30, 23, tzinfo=zone)
+        self.assertEqual(target.astimezone(timezone.utc).isoformat(), "2026-11-30T17:30:00+00:00")
+        for now, expected in (
+            (target - timedelta(minutes=1), target),
+            (datetime(2026, 11, 30, 17, 29, tzinfo=timezone.utc), target),
+            (target + timedelta(minutes=1), target + timedelta(days=1)),
+            (datetime(2026, 12, 1, 0, tzinfo=zone), target + timedelta(days=1)),
+            (datetime(2026, 12, 1, 22, 59, tzinfo=zone), target + timedelta(days=1)),
+            (datetime(2026, 12, 31, 23, 1, tzinfo=zone), datetime(2027, 1, 1, 23, tzinfo=zone)),
+        ):
+            with self.subTest(now=now):
+                self.assertEqual(scheduler.get_next_run(now=now), expected)
+
+    def test_completed_daily_cycle_is_not_repeated_after_clock_moves_back(self):
+        zone = ZoneInfo("Asia/Kolkata")
+        completed = datetime(2026, 11, 30, 23, tzinfo=zone)
+        for now in (completed - timedelta(minutes=1), completed, completed + timedelta(seconds=30),
+                    completed + timedelta(minutes=1)):
+            with self.subTest(now=now):
+                self.assertEqual(scheduler.get_next_run(now=now, last_run_date=completed.date()),
+                                 completed + timedelta(days=1))
+
+    def test_restart_preserves_existing_future_only_no_catch_up_behavior(self):
+        zone = ZoneInfo("Asia/Kolkata")
+        target = datetime(2026, 11, 30, 23, tzinfo=zone)
+        self.assertEqual(scheduler.get_next_run(now=target - timedelta(seconds=1)), target)
+        # A running loop already armed before 23:00 fires at the deadline. A
+        # restart at/after it selects tomorrow; there is no persisted daily latch.
+        for elapsed in (timedelta(), timedelta(seconds=30), timedelta(minutes=1)):
+            with self.subTest(elapsed=elapsed):
+                self.assertEqual(scheduler.get_next_run(now=target + elapsed), target + timedelta(days=1))
+
+    def test_real_scheduler_loop_fires_once_at_2300_on_two_simulated_days(self):
+        zone = ZoneInfo("Asia/Kolkata")
+        clock = {"now": datetime(2026, 11, 30, 22, 59, tzinfo=zone)}
+        runs, waits = [], []
+
+        class FakeDateTime(datetime):
+            @classmethod
+            def now(cls, tz=None):
+                return clock["now"].astimezone(tz) if tz else clock["now"].replace(tzinfo=None)
+
+        class FakeEvent:
+            stopped = False
+
+            def is_set(self):
+                return self.stopped
+
+            def set(self):
+                self.stopped = True
+
+            def wait(self, seconds):
+                waits.append(clock["now"])
+                clock["now"] += timedelta(seconds=seconds)
+                return self.stopped
+
+        event = FakeEvent()
+
+        def fake_job(args, stop, log):
+            runs.append(clock["now"])
+            self.assertEqual(args.time, "23:00")
+            self.assertIs(stop, event)
+            clock["now"] += timedelta(minutes=1)
+            if len(runs) == 2:
+                stop.set()
+            return [{"status": "success"}]
+
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            config = scheduler.load_config()
+            config.pop("_path")
+            config["scheduler"]["enabled"] = True  # Disposable fixture; jobs mocked below.
+            path = root / "settings.json"
+            path.write_text(json.dumps(config), encoding="utf-8")
+            argv = ["--config", str(path), "--source", "saras", "--state", "CHANDIGARH",
+                    "--data-dir", str(root / "absent-data")]
+            with patch.object(scheduler, "datetime", FakeDateTime), \
+                    patch.object(scheduler.time, "time", side_effect=lambda: clock["now"].timestamp()), \
+                    patch.object(scheduler.threading, "Event", return_value=event), \
+                    patch.object(scheduler, "run_daily_job", side_effect=fake_job) as job, \
+                    patch.object(scheduler, "SourceLock"), patch.object(scheduler, "RunLog"), \
+                    patch.object(scheduler.signal, "signal"), \
+                    patch.object(scheduler, "supervise") as supervise, \
+                    patch.object(scheduler.subprocess, "Popen") as popen, \
+                    patch.object(scheduler, "_memory") as memory:
+                self.assertEqual(scheduler.main(argv), 0)
+            self.assertFalse((root / "absent-data").exists())
+        self.assertEqual(job.call_count, 2)
+        self.assertEqual(runs, [datetime(2026, 11, 30, 23, tzinfo=zone),
+                                datetime(2026, 12, 1, 23, tzinfo=zone)])
+        for stamp in (datetime(2026, 11, 30, 22, 59, tzinfo=zone),
+                      datetime(2026, 11, 30, 23, 1, tzinfo=zone),
+                      datetime(2026, 12, 1, 22, 59, tzinfo=zone)):
+            self.assertIn(stamp, waits)
+        supervise.assert_not_called()
+        popen.assert_not_called()
+        memory.assert_not_called()
+
+
 class SchedulerTests(unittest.TestCase):
     def test_hard_child_timeout_rejects_nonpositive_or_nonfinite_values(self):
         for value in ("0", "-1", "nan", "inf"):
@@ -82,8 +214,8 @@ class SchedulerTests(unittest.TestCase):
 
     def test_timezone_rollover(self):
         zone = ZoneInfo("Asia/Kolkata")
-        before = datetime(2026, 11, 9, 1, 59, tzinfo=zone)
-        after = datetime(2026, 11, 9, 2, 0, tzinfo=zone)
+        before = datetime(2026, 11, 9, 22, 59, tzinfo=zone)
+        after = datetime(2026, 11, 9, 23, 0, tzinfo=zone)
         self.assertEqual(scheduler.get_next_run(now=before).day, 9)
         self.assertEqual(scheduler.get_next_run(now=after).day, 10)
         self.assertEqual(scheduler.get_next_run(now=before).utcoffset().total_seconds(), 19800)

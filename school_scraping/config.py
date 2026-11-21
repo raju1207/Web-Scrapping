@@ -15,6 +15,7 @@ from school_scraping.common import parse_values, pin, read_json
 PROJECT_DIR = Path(__file__).resolve().parents[1]
 DEFAULT_CONFIG = PROJECT_DIR / "config" / "states_pincodes.json"
 SAFE_CANDIDATE_LIMIT = 25
+DEFAULT_SCHEDULE_TIME = "23:00"
 DEFAULTS = {
     "refresh_days": 30, "check_interval_hours": 24, "retry_delay_minutes": 60,
     "retries": 3, "delay": 0.5, "limit": SAFE_CANDIDATE_LIMIT, "academic_year": "2025-26",
@@ -129,7 +130,7 @@ def load_config(path=DEFAULT_CONFIG):
     _object(scheduler, "scheduler")
     _unknown(scheduler, {"enabled", "time", "timezone", "sources"}, "scheduler")
     scheduler.setdefault("enabled", False)
-    scheduler.setdefault("time", "02:00")
+    scheduler.setdefault("time", DEFAULT_SCHEDULE_TIME)
     scheduler.setdefault("timezone", "Asia/Kolkata")
     scheduler.setdefault("sources", ["udise", "saras"])
     _boolean(scheduler["enabled"], "scheduler.enabled")

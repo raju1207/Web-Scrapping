@@ -10,6 +10,8 @@ Use `--dry-run` to review a bounded command before executing it. The implementat
 
 Database-only **scheduler** jobs now additionally require an operator-approved production safety profile, positive hard timeout, and successful admission of every planned job. See [PRODUCTION_READINESS.md](PRODUCTION_READINESS.md). The inactive example profile fails closed and no deployment has been approved. Direct scraper CLIs retain their existing explicit opt-in behavior. Read-only ACK reconciliation and readiness checks neither replay imports nor repair checkpoints.
 
+The configured daily scheduler time is `23:00` (11 PM) in `Asia/Kolkata`, equivalent to `17:30` UTC. Scheduler and default database integration remain disabled. This timing update preserves candidate limits, database-only admission, hard process supervision and immediate `--once` behavior; it does not create or activate an external scheduled task.
+
 ## Collection policy
 
 Identifiers come from source listings and are validated before parameterized batch lookups. SARAS uses affiliation identity; UDISE requires a committed snapshot for the selected school/year. A pending task or event alone is insufficient. One connection is reused for a collection run; lookup batches contain at most 500 identifiers.

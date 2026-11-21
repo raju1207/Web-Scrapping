@@ -14,7 +14,7 @@
   "recovery": {"state_dir": ".scraping_state", "max_task_attempts": 5},
   "scheduler": {
     "enabled": false,
-    "time": "02:00",
+    "time": "23:00",
     "timezone": "Asia/Kolkata",
     "sources": ["udise", "saras"]
   },

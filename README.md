@@ -283,11 +283,13 @@ Explicit synchronization drains up to 100 batches of 1,000 events per invocation
 
 For database-only operation, follow the production runbook above; the legacy file-mode examples below do not substitute for production admission. A configured hard timeout contains and stops the owned process tree, with a bounded shutdown grace. Production admission is mandatory before database-only scheduled jobs can open recovery state or launch a child. Direct scraper maintenance and legacy file-mode commands remain separately write-capable.
 
-The scheduler reads enabled configured locations and defaults to `02:00` in `Asia/Kolkata`. It waits until the scheduled time; `--once` explicitly runs a cycle immediately. Source/scheduler locks prevent overlapping jobs using the same data root. One failed source does not prevent the other source from running. Each cycle records a summary and appends structured events to the existing scheduler log.
+The scheduler reads enabled configured locations and defaults to daily `23:00` (11 PM) in `Asia/Kolkata`, equivalent to `17:30` UTC. Scheduling and default database writes remain disabled. It waits until the scheduled time; `--once` explicitly runs a cycle immediately. Source/scheduler locks prevent overlapping jobs using the same data root. One failed source does not prevent the other source from running. Each cycle records a summary and appends structured events to the existing scheduler log.
+
+The daily loop arms the next future occurrence. Its in-process `last_run_date` prevents duplicate daily cycles while that process runs; restarting at or after `23:00` waits until the next day, with no catch-up. A first `get_next_run()` call exactly at `23:00` also selects the next day, so the exact-time trigger test uses a scheduler already armed at `22:59`. This preserves existing behavior; no persistent daily-run deduplication checkpoint was added. Source completion checkpoints continue to govern repeat detail work.
 
 ```powershell
 python daily_scheduler.py --config config/states_pincodes.json --dry-run
-python daily_scheduler.py --source saras --state Punjab --time 02:00 --limit 2
+python daily_scheduler.py --source saras --state Punjab --time 23:00 --limit 2
 python daily_scheduler.py --source both --config config/states_pincodes.json
 ```
 
