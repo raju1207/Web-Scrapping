@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "approved": false,
+  "approval_reference": null,
+  "runtime_identity": null,
+  "database_service": null,
+  "candidate_limit": null,
+  "approvals": {
+    "power": false,
+    "firewall": false,
+    "ntfs": false,
+    "task_design": false,
+    "source_access": false,
+    "backup_retention": false,
+    "recovery_objectives": false,
+    "key_custody": false,
+    "off_machine_destination": false,
+    "log_rotation": false,
+    "alert_delivery": false
+  }
+}

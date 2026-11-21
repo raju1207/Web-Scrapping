@@ -1,6 +1,6 @@
 # Production safety foundation
 
-Section 13B implements admission checks, bounded supervision and read-only reports. **Production remains blocked.** No runtime host, production database, backup destination, key custodian or alert recipient has been selected by this work. The original scheduler and database flags remain false. The existing Haryana SARAS example remains enabled inside the original configuration; do not enable that configuration wholesale.
+Section 13B implements admission checks, bounded supervision and read-only reports. **Production remains blocked.** The local Windows PC is now the selected deployment target; [Section 13C's Windows runbook](WINDOWS_LOCAL_DEPLOYMENT.md) records its audit and remaining approvals. A production database, backup destination, key custodian and alert recipient remain unapproved. The original scheduler and database flags remain false. The existing Haryana SARAS example remains enabled inside the original configuration; do not enable that configuration wholesale.
 
 The configured daily application schedule is `23:00` (11 PM) in `Asia/Kolkata`, equivalent to `17:30` UTC. The shared configuration supplies the schedule unless an explicit CLI override is provided. This time change does not enable scheduling, register a Windows task or change missed-run handling. `--once` still requests an immediate cycle and requires the existing approval and admission checks.
 
@@ -119,7 +119,7 @@ The expanded `.gitignore` protects environment variants, keys/certificates, auth
 
 ## Deployment decisions and rollback
 
-Choose local PC versus cloud, operator and service model before installation. A PC needs reliable power/network, wake/catch-up policy and a legitimate attended access path. Cloud needs tested Python/browser/OS provisioning, network/database controls and deployment-specific descendant containment; it does not eliminate CAPTCHA/manual authorization requirements. Approve sources, years, coverage and refresh cadence independently of infrastructure.
+The local Windows PC has been selected; approve the operator and service model before installation. It needs reliable power/network, wake/catch-up policy and a legitimate attended access path. Any later cloud move needs its own tested Python/browser/OS provisioning, network/database controls and deployment-specific descendant containment; it does not eliminate CAPTCHA/manual authorization requirements. Approve sources, years, coverage and refresh cadence independently of infrastructure.
 
 Before release, pin the reviewed commit and reproducible dependencies/browser runtime; verify a new compatible recovery set and admission in the chosen environment. Start only with an approved bounded one-shot plan and supervised shutdown. To roll back, stop the trigger and all owned writers, preserve failure evidence and committed receipts, select a reviewed compatible prior release, and re-run admission before any restart. Do not restore over an existing database, delete successful new records, reset checkpoints or replay historical queues to force a clean result. If data recovery is necessary, restore a new destination and perform an approved reconciled cutover. No schema change is introduced by this foundation.
 

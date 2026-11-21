@@ -213,6 +213,8 @@ Existing `data/<Location>/<year>/...` and `data/CBSE_SARAS/<location>/schools/..
 
 Production safety foundations and the current operating/rollback reference are in [docs/PRODUCTION_READINESS.md](docs/PRODUCTION_READINESS.md). Database-only scheduler execution now requires an approved `--production-profile` and a hard child timeout. `--preflight-only` reports admission without launching jobs; the inactive [example profile](config/production_safety.example.json) deliberately blocks startup. Dry-run remains offline. No production monitoring, backup destination, credentials or scheduler is activated by these additions.
 
+The selected deployment target is the local Windows PC. [Windows deployment preparation](docs/WINDOWS_LOCAL_DEPLOYMENT.md) documents its read-only audit, remaining approvals and the daily 23:00 Asia/Kolkata task design. `python -B -m school_scraping.windows_readiness` inventories local prerequisites without connecting to a database or changing Windows. It reports preparation separately from activation, exits with code 2, and leaves live database verification to the existing production gate. Keep the original scheduler and database settings disabled.
+
 Both scrapers support `--storage-mode database --database`. Add `--new-only` to check validated listing identifiers in bounded PostgreSQL batches and skip committed identities before requesting details. SARAS checks affiliation numbers; UDISE checks UDISE codes **and the requested academic year**. Existing candidates still consume `--limit`; skipped identities do not establish fresh PIN or geographic coverage.
 
 ```powershell
