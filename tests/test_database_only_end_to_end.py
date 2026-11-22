@@ -7,6 +7,7 @@ import os
 import tempfile
 import unittest
 import uuid
+from tests.support.postgres_target import section14a_target
 from pathlib import Path
 from unittest.mock import Mock, patch
 
@@ -38,17 +39,18 @@ class DatabaseOnlySourcePostgresTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.dsn = os.environ['SCHOOL_SCRAPING_DATABASE_ONLY_TEST_DSN']
-        settings = conninfo_to_dict(cls.dsn)
-        if (settings.get('host') != '127.0.0.1' or settings.get('port') != '55449'
-                or not settings.get('dbname', '').startswith('database_only_test_')):
-            raise unittest.SkipTest('Not an explicitly named disposable database-only test DB')
-        with psycopg.connect(cls.dsn, autocommit=True) as connection:
-            identity = connection.execute("SELECT current_database(),host(inet_server_addr()),"
-                "inet_server_port(),current_setting('data_directory'),current_setting('server_version')").fetchone()
-            expected = ROOT / '.refactor_validation/section10a_backup_restore_test/restore_cluster/pgdata'
-            if (identity[0] != settings['dbname'] or identity[1] != '127.0.0.1' or identity[2] != 55449
-                    or Path(identity[3]).resolve() != expected or not identity[4].startswith('17.')):
-                raise unittest.SkipTest('Disposable cluster identity is not the approved test environment')
+        if section14a_target(cls.dsn) is None:
+            settings = conninfo_to_dict(cls.dsn)
+            if (settings.get('host') != '127.0.0.1' or settings.get('port') != '55449'
+                    or not settings.get('dbname', '').startswith('database_only_test_')):
+                raise unittest.SkipTest('Not an explicitly named disposable database-only test DB')
+            with psycopg.connect(cls.dsn, autocommit=True) as connection:
+                identity = connection.execute("SELECT current_database(),host(inet_server_addr()),"
+                    "inet_server_port(),current_setting('data_directory'),current_setting('server_version')").fetchone()
+                expected = ROOT / '.refactor_validation/section10a_backup_restore_test/restore_cluster/pgdata'
+                if (identity[0] != settings['dbname'] or identity[1] != '127.0.0.1' or identity[2] != 55449
+                        or Path(identity[3]).resolve() != expected or not identity[4].startswith('17.')):
+                    raise unittest.SkipTest('Disposable cluster identity is not the approved test environment')
 
     def setUp(self):
         self.observer = psycopg.connect(self.dsn, autocommit=True)

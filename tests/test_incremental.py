@@ -7,6 +7,7 @@ import json
 import os
 import tempfile
 import unittest
+from tests.support.postgres_target import section14a_target
 import uuid
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -259,9 +260,10 @@ class RuntimeOfflineTests(unittest.TestCase):
 class RuntimePostgresTests(unittest.TestCase):
     def setUp(self):
         self.dsn = os.environ["SCHOOL_SCRAPING_TEST_DSN"]
-        settings = conninfo_to_dict(self.dsn)
-        if settings.get("host") != "127.0.0.1" or settings.get("port") != "55439":
-            self.skipTest("Not the explicitly provisioned isolated PostgreSQL test cluster")
+        if section14a_target(self.dsn) is None:
+            settings = conninfo_to_dict(self.dsn)
+            if settings.get("host") != "127.0.0.1" or settings.get("port") != "55439":
+                self.skipTest("Not the explicitly provisioned isolated PostgreSQL test cluster")
         self.temporary = tempfile.TemporaryDirectory()
         self.addCleanup(self.temporary.cleanup)
         self.args = options(self.temporary.name, database=True)

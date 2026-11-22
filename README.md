@@ -215,6 +215,8 @@ Production safety foundations and the current operating/rollback reference are i
 
 The selected deployment target is the local Windows PC. [Windows deployment preparation](docs/WINDOWS_LOCAL_DEPLOYMENT.md) documents its read-only audit, remaining approvals and the daily 23:00 Asia/Kolkata task design. `python -B -m school_scraping.windows_readiness` inventories local prerequisites without connecting to a database or changing Windows. It reports preparation separately from activation, exits with code 2, and leaves live database verification to the existing production gate. Keep the original scheduler and database settings disabled.
 
+[Local PostgreSQL setup](docs/POSTGRESQL_LOCAL_SETUP.md) records the separate SCRAM-authenticated disposable rehearsal, restricted-role integration results and the production provisioning approval plan. The rehearsal does not authorize production database creation or scheduler activation.
+
 Both scrapers support `--storage-mode database --database`. Add `--new-only` to check validated listing identifiers in bounded PostgreSQL batches and skip committed identities before requesting details. SARAS checks affiliation numbers; UDISE checks UDISE codes **and the requested academic year**. Existing candidates still consume `--limit`; skipped identities do not establish fresh PIN or geographic coverage.
 
 ```powershell

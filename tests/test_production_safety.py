@@ -3,6 +3,7 @@ import copy
 import json
 import os
 import unittest
+from tests.support.postgres_target import section14a_target
 from pathlib import Path
 from types import SimpleNamespace
 from unittest.mock import Mock, patch
@@ -302,24 +303,32 @@ class ProductionPreflightPostgresTests(unittest.TestCase):
         import psycopg
         from psycopg.conninfo import conninfo_to_dict
         dsn=os.environ['SCHOOL_SCRAPING_PRODUCTION_SAFETY_TEST_DSN']
-        settings=conninfo_to_dict(dsn)
-        if (settings.get('host')!='127.0.0.1' or settings.get('port')!='55449'
-                or not settings.get('dbname','').startswith('section13b_test_')):
-            self.skipTest('Not an explicitly approved disposable Section13B database')
-        with psycopg.connect(dsn,options='-c default_transaction_read_only=on') as observer:
-            identity=observer.execute("SELECT current_database(),current_user,inet_server_port(),"
-                "current_setting('data_directory'),current_setting('server_version_num')::int/10000,"
-                "(SELECT oid FROM pg_database WHERE datname=current_database())").fetchone()
-            expected=Path(__file__).resolve().parents[1]/'.refactor_validation/section10a_backup_restore_test/restore_cluster/pgdata'
-            if identity[0]!=settings['dbname'] or identity[2]!=55449 or Path(identity[3]).resolve()!=expected or identity[4]!=17:
-                self.skipTest('Disposable restore-cluster identity differs')
-        value=profile();value['database'].update(name=identity[0],user=identity[1],database_oid=identity[5])
+        rehearsal=section14a_target(dsn)
+        if rehearsal is None:
+            settings=conninfo_to_dict(dsn)
+            if (settings.get('host')!='127.0.0.1' or settings.get('port')!='55449'
+                    or not settings.get('dbname','').startswith('section13b_test_')):
+                self.skipTest('Not an explicitly approved disposable Section13B database')
+            with psycopg.connect(dsn,options='-c default_transaction_read_only=on') as observer:
+                identity=observer.execute("SELECT current_database(),current_user,inet_server_port(),"
+                    "current_setting('data_directory'),current_setting('server_version_num')::int/10000,"
+                    "(SELECT oid FROM pg_database WHERE datname=current_database())").fetchone()
+                expected=Path(__file__).resolve().parents[1]/'.refactor_validation/section10a_backup_restore_test/restore_cluster/pgdata'
+                if identity[0]!=settings['dbname'] or identity[2]!=55449 or Path(identity[3]).resolve()!=expected or identity[4]!=17:
+                    self.skipTest('Disposable restore-cluster identity differs')
+        else:
+            identity=(rehearsal['database'],rehearsal['user'],rehearsal['port'],
+                rehearsal['data_directory'],rehearsal['major_version'],rehearsal['database_oid'])
+        value=profile();value['database'].update(name=identity[0],user=identity[1],database_oid=identity[5],port=identity[2])
         value['testing']={'allow_prototype_readiness':True}
         def factory(**kwargs):
             return psycopg.connect(dsn,options=kwargs['options'],sslmode=kwargs['sslmode'],row_factory=kwargs['row_factory'])
         with patch.dict(os.environ,environment(value),clear=False):
             result=safety.production_preflight(options(),'saras',value,connect=factory,
-                readiness_checker=lambda _: {'status':'PASS','mode':'prototype','deployed_monitoring':False})
+                # Readiness is synthetic in this administrator-rejection test;
+                # Section14A never broadens the production prototype exception.
+                readiness_checker=lambda _: {'status':'PASS','mode':'synthetic' if rehearsal else 'prototype',
+                    'deployed_monitoring':rehearsal is not None})
         self.assertEqual(result['status'],'BLOCKED',result)
         self.assertIn('DATABASE_ROLE_NOT_LEAST_PRIVILEGED',result['errors'])
         self.assertNotIn('DATABASE_PREFLIGHT_FAILED',result['errors'])

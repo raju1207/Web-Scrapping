@@ -6,6 +6,7 @@ import os
 import tempfile
 import time
 import unittest
+from tests.support.postgres_target import section14a_target
 import uuid
 from pathlib import Path
 from unittest.mock import patch
@@ -78,10 +79,11 @@ class PipelinePureTests(unittest.TestCase):
 class PipelinePostgresTests(unittest.TestCase):
     def setUp(self):
         dsn = os.environ["SCHOOL_SCRAPING_TEST_DSN"]
-        settings = conninfo_to_dict(dsn)
-        # Refuse ordinary database configuration before making a connection.
-        if settings.get("host") != "127.0.0.1" or settings.get("port") != "55439":
-            self.skipTest("DSN is not the explicitly provisioned isolated test cluster")
+        if section14a_target(dsn) is None:
+            settings = conninfo_to_dict(dsn)
+            # Refuse ordinary database configuration before making a connection.
+            if settings.get("host") != "127.0.0.1" or settings.get("port") != "55439":
+                self.skipTest("DSN is not the explicitly provisioned isolated test cluster")
         self.connection = psycopg.connect(dsn)
         self.addCleanup(self.connection.close)
         self.addCleanup(self.connection.rollback)

@@ -4,6 +4,7 @@ import json
 import os
 import tempfile
 import unittest
+from tests.support.postgres_target import section14a_target
 import uuid
 from pathlib import Path
 from unittest.mock import Mock, patch
@@ -132,9 +133,10 @@ class MemoryPostgresTests(unittest.TestCase):
         import psycopg
         from psycopg.conninfo import conninfo_to_dict
         cls.dsn = os.environ["SCHOOL_SCRAPING_TEST_DSN"]
-        settings = conninfo_to_dict(cls.dsn)
-        if settings.get("host") != "127.0.0.1" or settings.get("port") != "55439" or settings.get("user") != "memory_test_admin":
-            raise RuntimeError("Memory integration tests require the explicitly isolated workspace cluster")
+        if section14a_target(cls.dsn) is None:
+            settings = conninfo_to_dict(cls.dsn)
+            if settings.get("host") != "127.0.0.1" or settings.get("port") != "55439" or settings.get("user") != "memory_test_admin":
+                raise RuntimeError("Memory integration tests require the explicitly isolated workspace cluster")
         cls.connect = staticmethod(lambda: psycopg.connect(cls.dsn))
         with cls.connect() as connection:
             migration = (Path(__file__).resolve().parents[1] / "database/migrations/001_scraping_memory.sql").read_text()

@@ -6,6 +6,7 @@ import json
 import os
 from pathlib import Path
 import unittest
+from tests.support.postgres_target import section14a_target
 import uuid
 from unittest.mock import Mock
 
@@ -131,20 +132,21 @@ class AckReconciliationPostgresTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.dsn = os.environ['SCHOOL_SCRAPING_SECTION13B_TEST_DSN']
-        settings = conninfo_to_dict(cls.dsn)
-        if (settings.get('host') != '127.0.0.1' or settings.get('port') != '55449'
-                or not settings.get('dbname', '').startswith('section13b_test_')):
-            raise unittest.SkipTest('Only explicitly named Section13B disposable targets are permitted')
-        with psycopg.connect(cls.dsn, autocommit=True, options='-c default_transaction_read_only=on') as connection:
-            row = connection.execute("SELECT current_database(),host(inet_server_addr()),inet_server_port(),"
-                "current_setting('data_directory'),current_setting('server_version_num')::integer,"
-                "(SELECT system_identifier::text FROM pg_control_system())").fetchone()
-            root = Path(__file__).resolve().parents[1]
-            expected = root / '.refactor_validation/section10a_backup_restore_test/restore_cluster/pgdata'
-            if (row[0] != settings['dbname'] or row[1] != '127.0.0.1' or row[2] != 55449
-                    or Path(row[3]).resolve() != expected or not 170000 <= row[4] < 180000
-                    or row[5] != '7708345824376186472'):
-                raise unittest.SkipTest('Section13B cluster identity failed')
+        if section14a_target(cls.dsn) is None:
+            settings = conninfo_to_dict(cls.dsn)
+            if (settings.get('host') != '127.0.0.1' or settings.get('port') != '55449'
+                    or not settings.get('dbname', '').startswith('section13b_test_')):
+                raise unittest.SkipTest('Only explicitly named Section13B disposable targets are permitted')
+            with psycopg.connect(cls.dsn, autocommit=True, options='-c default_transaction_read_only=on') as connection:
+                row = connection.execute("SELECT current_database(),host(inet_server_addr()),inet_server_port(),"
+                    "current_setting('data_directory'),current_setting('server_version_num')::integer,"
+                    "(SELECT system_identifier::text FROM pg_control_system())").fetchone()
+                root = Path(__file__).resolve().parents[1]
+                expected = root / '.refactor_validation/section10a_backup_restore_test/restore_cluster/pgdata'
+                if (row[0] != settings['dbname'] or row[1] != '127.0.0.1' or row[2] != 55449
+                        or Path(row[3]).resolve() != expected or not 170000 <= row[4] < 180000
+                        or row[5] != '7708345824376186472'):
+                    raise unittest.SkipTest('Section13B cluster identity failed')
 
     def builders(self):
         import importlib.util
