@@ -217,6 +217,8 @@ The selected deployment target is the local Windows PC. [Windows deployment prep
 
 [Local PostgreSQL setup](docs/POSTGRESQL_LOCAL_SETUP.md) records the separate SCRAM-authenticated disposable rehearsal, restricted-role integration results and the production provisioning approval plan. The rehearsal does not authorize production database creation or scheduler activation.
 
+[Production PostgreSQL approval and configuration](docs/POSTGRESQL_PRODUCTION_SETUP.md) provides the inactive production profile, TLS/SCRAM server proposals and guarded future SQL templates. Target identities and approval values remain unresolved; preparation does not authorize provisioning or activation.
+
 Both scrapers support `--storage-mode database --database`. Add `--new-only` to check validated listing identifiers in bounded PostgreSQL batches and skip committed identities before requesting details. SARAS checks affiliation numbers; UDISE checks UDISE codes **and the requested academic year**. Existing candidates still consume `--limit`; skipped identities do not establish fresh PIN or geographic coverage.
 
 ```powershell

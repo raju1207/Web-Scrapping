@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "approved": false,
+  "approval_reference": null,
+  "scheduler": {
+    "approved": false,
+    "hard_timeout_seconds": null
+  },
+  "allowed_jobs": [],
+  "database": {
+    "host": "127.0.0.1",
+    "port": null,
+    "name": null,
+    "user": null,
+    "major_version": 17,
+    "database_oid": null,
+    "schema_version": 1,
+    "canonical_schema_version": "4.0",
+    "data_directory": null,
+    "system_identifier": null,
+    "tls": {
+      "mode": null,
+      "root_certificate": null,
+      "approved_local_exception": false,
+      "reason": null
+    },
+    "timeouts": {
+      "connect_seconds": null,
+      "statement_ms": null,
+      "lock_ms": null
+    }
+  },
+  "protected_targets": [
+    {"host": "*", "port": 5432},
+    {"host": "*", "port": 55439},
+    {"host": "*", "port": 55449},
+    {"host": "*", "port": 59487}
+  ],
+  "readiness": {
+    "enabled": false,
+    "approval_reference": null,
+    "evidence_root": null,
+    "evidence_path": null,
+    "evidence_sha256": null,
+    "max_evidence_age_seconds": null,
+    "max_heartbeat_age_seconds": null,
+    "max_success_age_seconds": null,
+    "max_database_age_seconds": null,
+    "max_backup_age_seconds": null,
+    "max_recovery_test_age_seconds": null,
+    "max_alert_test_age_seconds": null,
+    "min_disk_free_bytes": null,
+    "min_disk_free_ratio": null,
+    "max_failed_imports": 0,
+    "max_missing_acknowledgements": 0,
+    "max_alert_delivery_failures": 0,
+    "require_encrypted_backup": true,
+    "require_off_machine_verified": true,
+    "require_alert_delivery_tested": true
+  }
+}

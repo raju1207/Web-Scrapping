@@ -1,0 +1,37 @@
+# SECTION 14B: PROPOSAL ONLY. Not an installed PostgreSQL configuration.
+# Every __APPROVED_*__ token must be resolved in a separately reviewed copy.
+# Never append this to an existing cluster or copy rehearsal identities into it.
+# See docs/POSTGRESQL_PRODUCTION_SETUP.md for approvals and verification order.
+
+# Dedicated new target; no default/historical port is selected here.
+listen_addresses = '127.0.0.1'
+port = __APPROVED_PORT__
+password_encryption = 'scram-sha-256'
+
+# TLS-first candidate, requiring explicit approval and provisioned certificates.
+# The profile's TLS mode remains null. No local plaintext exception is approved.
+ssl = on
+ssl_cert_file = '__APPROVED_SERVER_CERTIFICATE__'
+ssl_key_file = '__APPROVED_SERVER_PRIVATE_KEY__'
+
+# Keep durable commit settings; source scheduling uses Asia/Kolkata independently.
+fsync = on
+full_page_writes = on
+synchronous_commit = on
+timezone = 'UTC'
+
+# Integer milliseconds, with positive lock timeout <= statement timeout.
+statement_timeout = __APPROVED_STATEMENT_TIMEOUT_MS__
+lock_timeout = __APPROVED_LOCK_TIMEOUT_MS__
+
+# Private structured server logs; rotation/retention require operator decisions.
+logging_collector = on
+log_directory = '__APPROVED_SERVER_LOG_DIRECTORY__'
+log_filename = 'postgresql-%Y-%m-%d_%H%M%S.log'
+log_rotation_age = '__APPROVED_LOG_ROTATION_AGE__'
+log_rotation_size = '__APPROVED_LOG_ROTATION_SIZE__'
+log_statement = 'none'
+log_min_error_statement = 'panic'
+log_parameter_max_length_on_error = 0
+
+# No unreviewed include/override files. Verify effective settings after startup.

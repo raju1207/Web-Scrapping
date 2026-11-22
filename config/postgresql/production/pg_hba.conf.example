@@ -1,0 +1,17 @@
+# SECTION 14B: PROPOSAL ONLY. Review/render for a NEW approved cluster only.
+# Tokens identify future approved objects, never existing/rehearsal targets.
+# Ordering matters: only the specific TLS/SCRAM loopback records below allow.
+# Require certificate validation in clients (verify-full + approved CA).
+# Report/backup are NOLOGIN groups; future login membership needs separate review.
+
+hostssl __APPROVED_MAINTENANCE_DATABASE__ __APPROVED_BOOTSTRAP_ADMIN__ 127.0.0.1/32 scram-sha-256
+hostssl __APPROVED_DATABASE__ __APPROVED_BOOTSTRAP_ADMIN__ 127.0.0.1/32 scram-sha-256
+hostssl __APPROVED_DATABASE__ __APPROVED_MIGRATION_LOGIN__ 127.0.0.1/32 scram-sha-256
+hostssl __APPROVED_DATABASE__ __APPROVED_SCRAPER_LOGIN__ 127.0.0.1/32 scram-sha-256
+hostssl __APPROVED_DATABASE__ +__APPROVED_REPORTING_ROLE__ 127.0.0.1/32 scram-sha-256
+hostssl __APPROVED_DATABASE__ +__APPROVED_BACKUP_ROLE__ 127.0.0.1/32 scram-sha-256
+
+# No implicit fallback to unencrypted, remote or otherwise unmatched access.
+hostnossl all all 127.0.0.1/32 reject
+host all all 0.0.0.0/0 reject
+host all all ::/0 reject
