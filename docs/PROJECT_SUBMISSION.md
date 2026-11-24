@@ -1,6 +1,6 @@
 # School Data Scraping and Unified PostgreSQL Platform
 
-**Intended submission:** 23 November 2026. **Verification date:** 22 November 2026. The intended date is a submission date, not a claim that tests ran in the future.
+**Requested submission:** 23 November 2026. **Final verification:** 24 November 2026.
 
 **Development:** implemented and tested within the documented scope. **Production deployment:** not ready for activation. The local Windows PC is the selected deployment target; the production database, credentials, services, monitoring and backup arrangements remain unapproved.
 
@@ -92,7 +92,7 @@ The current archive/school/tracking contract contains ten required tables:
 | `scrape_events`, `scrape_errors` | Event identity, receipts and sanitized failure/resolution evidence |
 | `scrape_checkpoints` | Detail/import state, hashes and subsequent-check policy |
 
-DDL order is `database/schema.sql`, `database/schema_school_tables.sql`, then `database/migrations/001_scraping_memory.sql`. Source SQL uniqueness includes `(source_system, region, source_record_id)`; annual uniqueness is `(source_record_pk, academic_year)`. The model does not claim a new global affiliation constraint. The API's existing `school_master_search` view and its access policy need separate deployment verification.
+DDL order is `database/schema.sql`, `database/schema_school_tables.sql`, then `database/migrations/001_scraping_memory.sql`. Source SQL uniqueness includes `(source_system, region, source_record_id)`; annual uniqueness is `(source_record_pk, academic_year)`. The model does not claim a new global affiliation constraint. The three pipeline DDL files do not create the API's separately provided `school_master_search` view. The API is an optional local interface; its view, access policy and deployment need separate verification, and application authentication/public deployment are not implemented or approved.
 
 ## 8. Database-first school lookup logic
 
@@ -132,12 +132,18 @@ Verification separates pure unit tests, mocked source/transaction tests, harmles
 |---|---:|---:|---:|---:|---|
 | Section 14A PostgreSQL rehearsal, historical | 414 | 0 | 0 | 506 | New disposable SCRAM cluster; all 43 previously skipped PostgreSQL cases ran |
 | Section 14B offline regression, historical | 392 | 0 | 43 | 618 | No database provisioning/connections; SQL/configuration preparation only |
+| Submission focused audit, 24 November 2026 | 291 | 0 | 0 | 468 | Current offline selection; zero unmocked database/network attempts |
+| Submission full audit, 24 November 2026 | 392 | 0 | 43 | 618 | Current complete suite; explicit database DSNs absent, so 43 guarded PostgreSQL cases skipped |
 
-Section 14A included real restricted-login imports, denied privileges, commit-before-ACK observation, rollback, new-target dump/restore and historical file-preservation checks. Its local unencrypted restore does not certify production/off-machine disaster recovery. Historical results are not mislabeled as the final submission run; the final audit records its actual test result separately.
+The separate submission audit on 22 November 2026 is historical; its recorded focused/full pass, failure, skip and subtest totals matched the current rows. The current results above come from a fresh 24 November rerun, with zero unmocked database/network attempts in either selection. Compilation completed successfully with bytecode redirected outside source, and `pip check` reported no broken requirements.
+
+The 24 November audit also verified unchanged SHA-256 hashes for 94 protected source/configuration/schema/test, `.env`, operational log/report and user-review-copy files. No runtime, production, database, source, task or service changes were made. Retained local evidence is `.refactor_validation/final_submission_audit_20261124_4c53ef5ff9/verification.json`, excluded from Git; private outputs are not reproduced here.
+
+Section 14A included real restricted-login imports, denied privileges, commit-before-ACK observation, rollback, new-target dump/restore and historical file-preservation checks. Its local unencrypted restore does not certify production/off-machine disaster recovery. Historical integration passes do not turn the 43 currently skipped cases into current passes or authorize another database connection.
 
 ## 14. Controlled live acceptance evidence
 
-The retained public operational `acceptance_summary.json` records a successful Section 12A verification on 20 November 2026. Actual scope was one listing candidate per run in Chandigarh, delay 1.5 seconds and a 180-second supervised child bound. Each source had a new-record run and a repeat run against the same isolated database.
+The retained local operational `acceptance_summary.json` records a successful Section 12A verification on 20 November 2026. Actual scope was one listing candidate per run in Chandigarh, delay 1.5 seconds and a 180-second supervised child bound. Each source had a new-record run and a repeat run against the same isolated database.
 
 The local evidence is `.refactor_validation/database_only_live_acceptance/acceptance_summary.json` and its referenced `verified_execution/final_report.json`. Those retained operational artifacts are not a public deployment or a required data upload. This document reproduces only verified identifiers, counts and outcomes, without raw school payloads or access credentials.
 
@@ -158,11 +164,11 @@ The daily application schedule is 23:00 Asia/Kolkata, equivalent to 17:30 UTC. T
 
 The internal loop arms a strictly future occurrence. A process armed at 22:59 can trigger at 23:00; a first start/restart at or after 23:00 waits until the next day. `last_run_date` prevents duplicates only within that process; no persistent daily-run deduplication or automatic catch-up was added. `--once` runs immediately and still requires applicable approval/admission.
 
-Windows supervision assigns an isolated base-Python gate to a kill-on-close Job Object before launching the real venv/source/browser tree. Timeout/cancellation uses bounded cleanup and does not target all Python processes. A future Task Scheduler design uses an approved one-shot action with exact scope/year, bounds, no-overlap and separately approved missed-run/power policy. No scheduled task is installed or enabled. Current sleep/ACL and runtime-account conditions still require remediation approval and testing.
+Windows supervision assigns an isolated base-Python gate to a kill-on-close Job Object before launching the real venv/source/browser tree. Timeout/cancellation uses bounded cleanup and does not target all Python processes. A future Task Scheduler design uses an approved one-shot action with exact scope/year, bounds, no-overlap and separately approved missed-run/power policy. This audit does not install or enable a scheduled task. Current sleep/ACL and runtime-account conditions still require remediation approval and testing.
 
 ## 16. Security safeguards
 
-The final audit reviewed current tracked/index content for credential/private-key/token/cookie/connection-secret patterns and classified credential-shaped test literals as synthetic fixtures; no finding remained in that reviewed scope. This is not a claim that every historical commit or private untracked artifact is safe to publish. No commit, push or additional data upload is performed by this submission preparation.
+The full tracked/index security review on 22 November and incremental changed-file review on 24 November checked credential/private-key/token/cookie/connection-secret patterns and classified credential-shaped test literals as synthetic fixtures; no finding remained in that reviewed scope. This is not a claim that every historical commit or private untracked artifact is safe to publish. No commit, push or additional data upload is performed by this submission preparation.
 
 Ignore rules cover environment variants, private keys/certificates, authentication state, dumps and runtime backups. Production templates keep identity-dependent values unresolved and approvals false, protect historical ports/targets, and require reviewed routing, SCRAM/TLS, role/timeouts, backup/monitoring and scope. SQL guard checks cannot prevent the initial connection: future client routing must be validated before starting a database client.
 
@@ -197,17 +203,10 @@ $reviewPython = Join-Path (Get-Location) 'venv\Scripts\python.exe'
 if (-not (Test-Path -LiteralPath $reviewPython -PathType Leaf)) {
   throw 'Prepare the reviewed test environment before continuing.'
 }
-$reviewSettings = @(
-  'SCHOOL_SCRAPING_TEST_DSN', 'SCHOOL_SCRAPING_DATABASE_ONLY_TEST_DSN',
-  'SCHOOL_SCRAPING_SECTION13B_TEST_DSN', 'SCHOOL_SCRAPING_PRODUCTION_SAFETY_TEST_DSN',
-  'SCHOOL_SCRAPING_SECTION14A_GUARD', 'SCHOOL_SCRAPING_SECTION14A_ADMIN_DSN',
-  'DB_HOST', 'DB_PORT', 'DB_NAME', 'DB_USER', 'DB_PASSWORD',
-  'PGHOST', 'PGHOSTADDR', 'PGPORT', 'PGDATABASE', 'PGUSER', 'PGPASSWORD',
-  'PGPASSFILE', 'PGSERVICE', 'PGSERVICEFILE', 'PGOPTIONS', 'UDISE_HEADERS_JSON',
-  'PYTEST_ADDOPTS', 'PYTEST_PLUGINS'
-)
-foreach ($reviewSetting in $reviewSettings) {
-  [Environment]::SetEnvironmentVariable($reviewSetting, $null, 'Process')
+Get-ChildItem Env: | Where-Object {
+  $_.Name -match '^(PG|DB_|SCHOOL_SCRAPING_)|^(UDISE_HEADERS_JSON|PYTEST_ADDOPTS|PYTEST_PLUGINS)$'
+} | ForEach-Object {
+  [Environment]::SetEnvironmentVariable($_.Name, $null, 'Process')
 }
 $env:PYTHON_DOTENV_DISABLED = '1'
 $env:PYTHONDONTWRITEBYTECODE = '1'
@@ -224,7 +223,7 @@ if ($LASTEXITCODE -ne 0) { throw 'Offline tests failed; retain and review the re
 
 Database cases should skip without their explicit DSNs; do not fill them with historical targets to eliminate skips. Removing the Section 14A guard variable matters: an empty-but-present guard key is not the same as no opt-in. Results can vary with platform/tool availability; report actual pass/fail/skip/subtest counts and reasons.
 
-For focused review, use the same cleared environment and select the source/database-only, canonical/pipeline, scheduler/admission, supervision, production safety, ACK and Windows readiness tests:
+For focused review, use the same cleared environment and select the source/database-only, canonical/pipeline, scheduler/admission, supervision, production safety, ACK and Windows readiness tests. This illustrative file selection includes guarded database cases that can be skipped; it is not a promise of the exact case count in the recorded offline-only focused selection:
 
 ```powershell
 & $reviewPython -B -m pytest -q -rs -p no:cacheprovider `

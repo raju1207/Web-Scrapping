@@ -102,16 +102,20 @@ $env:PYTHONDONTWRITEBYTECODE = '1'
 $env:PYTEST_DISABLE_PLUGIN_AUTOLOAD = '1'
 
 Get-ChildItem Env: | Where-Object {
-    $_.Name -match '^(PG|DB_)|^SCHOOL_SCRAPING_.*(DSN|GUARD)$'
+    $_.Name -match '^(PG|DB_|SCHOOL_SCRAPING_)|^(UDISE_HEADERS_JSON|PYTEST_ADDOPTS|PYTEST_PLUGINS)$'
 } | ForEach-Object {
     [Environment]::SetEnvironmentVariable($_.Name, $null, 'Process')
 }
 
-& $Python -B -m compileall -q school_scraping database
+$reviewCache = Join-Path ([IO.Path]::GetTempPath()) ('school-submission-' + [Guid]::NewGuid().ToString('N'))
+$env:PYTHONPYCACHEPREFIX = $reviewCache
+& $Python -m compileall -q school_scraping database
+if ($LASTEXITCODE -ne 0) { throw 'Compilation failed; review the reported source location.' }
 & $Python -B -m pytest -q -rs -p no:cacheprovider
+if ($LASTEXITCODE -ne 0) { throw 'Offline tests failed; retain and review the result.' }
 ~~~
 
-Compilation can create ignored bytecode caches; it does not execute the modules. With integration DSNs absent, PostgreSQL cases are **skipped**, not treated as passed. Never redirect them to a historical database to remove skips. Test guards require explicitly approved isolated targets; the additional Section 14A route also verifies a pinned rehearsal manifest and server identity.
+Compilation creates bytecode under the unique temporary cache directory; it does not execute the modules. With integration DSNs absent, PostgreSQL cases are **skipped**, not treated as passed. Never redirect them to a historical database to remove skips. Test guards require explicitly approved isolated targets; the additional Section 14A route also verifies a pinned rehearsal manifest and server identity.
 
 A focused offline review can use:
 
